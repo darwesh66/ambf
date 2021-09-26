@@ -39,5 +39,5 @@ lalu pencet enter dan pilih nomer <b>3. Daftar Api Key</b> dan isi formulir pemb
 gunakanlah dengan bijak, atas apapun yang terjadi admin tidak bertanggung jawab.
 
 #### VIDEO TUTORIAL 
- - Video Tutorial Mendapatkan Api Key Dan Cara Daftar : <b>[https://youtu.be/qy3KrvBp3Mk](https://youtu.be/qy3KrvBp3Mk)</b>
- - Video Tutorial Install Script nya : <b>[https://youtu.be/goFT6jvwMBs](https://youtu.be/goFT6jvwMBs)</b>
+ - video tutorial mendapatkan api key Dan Cara Daftar : <b>[https://youtu.be/qy3KrvBp3Mk](https://youtu.be/qy3KrvBp3Mk)</b>
+ - video tutorial install script nya : <b>[https://youtu.be/goFT6jvwMBs](https://youtu.be/goFT6jvwMBs)</b>
