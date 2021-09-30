@@ -1964,6 +1964,7 @@ static const char __pyx_k_apakah_anda_ingin_menggunakan_s[] = " [?] apakah anda 
 static const char __pyx_k_contoh_id_post_12035328668258xx[] = "\n [*] contoh id post : 12035328668258xx";
 static const char __pyx_k_credentials_type_device_based_l[] = "&credentials_type=device_based_login_password&generate_session_cookies=1&error_detail_type=button_with_disabled&source=device_based_login&meta_inf_fbmeta=%20&currently_logged_in_userid=0&method=GET&locale=en_US&client_country_code=US&fb_api_caller_class=com.facebook.fos.headersv2.fb4aorca.HeadersV2ConfigFetchRequestHandler&access_token=350685531728|62f8ce9f74b12f84c123cc23437a4a32&fb_api_req_friendly_name=authenticate&cpl=true";
 static const char __pyx_k_gunakan_koma_untuk_pemisah_cont[] = "\n [!] gunakan , (koma) untuk pemisah contoh : sayang,indonesia";
+static const char __pyx_k_https_ambf_anggakurniawan_my_id[] = "https://ambf.anggakurniawan.my.id/chek.php?project=ambf&apikey=";
 static const char __pyx_k_https_b_api_facebook_com_method[] = "https://b-api.facebook.com/method/auth.login?format=json&email=";
 static const char __pyx_k_id_ID_id_q_0_9_en_US_q_0_8_en_q[] = "id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7";
 static const char __pyx_k_ingin_munculkan_opsi_checkpoint[] = " [?] ingin munculkan opsi checkpoint? [Y/t]: ";
@@ -1996,7 +1997,6 @@ static const char __pyx_k_https_graph_facebook_com_s_acces[] = "https://graph.fa
 static const char __pyx_k_https_graph_facebook_com_s_frien[] = "https://graph.facebook.com/%s/friends?limit=%s&access_token=%s";
 static const char __pyx_k_https_graph_facebook_com_s_likes[] = "https://graph.facebook.com/%s/likes?limit=%s&access_token=%s";
 static const char __pyx_k_https_graph_facebook_com_s_subsc[] = "https://graph.facebook.com/%s/subscribers?limit=%s&access_token=%s";
-static const char __pyx_k_https_ngepetonline_000webhostapp[] = "https://ngepetonline.000webhostapp.com/chek.php?project=anggakurniawan&apikey=";
 static const char __pyx_k_xdg_open_https_youtu_be_IdxphPBM[] = "xdg-open https://youtu.be/IdxphPBMMTU";
 static const char __pyx_k_akun_tidak_tersedia_atau_list_t_2[] = " [!] akun tidak tersedia atau list teman private";
 static const char __pyx_k_isi_me_jika_ingin_dari_daftar_t_2[] = "\n [*] isi 'me' jika ingin dari daftar teman";
@@ -2290,6 +2290,7 @@ static PyObject *__pyx_n_s_host;
 static PyObject *__pyx_n_s_hr;
 static PyObject *__pyx_kp_s_html_parser;
 static PyObject *__pyx_kp_s_http_ip_api_com_json;
+static PyObject *__pyx_kp_s_https_ambf_anggakurniawan_my_id;
 static PyObject *__pyx_kp_s_https_api_whatsapp_com_send_phon;
 static PyObject *__pyx_kp_s_https_b_api_facebook_com_method;
 static PyObject *__pyx_kp_s_https_graph_facebook_com_me_acce;
@@ -2301,7 +2302,6 @@ static PyObject *__pyx_kp_s_https_graph_facebook_com_s_likes;
 static PyObject *__pyx_kp_s_https_graph_facebook_com_s_subsc;
 static PyObject *__pyx_kp_s_https_m_facebook_com;
 static PyObject *__pyx_kp_s_https_mbasic_facebook_com;
-static PyObject *__pyx_kp_s_https_ngepetonline_000webhostapp;
 static PyObject *__pyx_n_s_i;
 static PyObject *__pyx_n_s_id;
 static PyObject *__pyx_n_s_id1;
@@ -2795,7 +2795,7 @@ static PyObject *__pyx_pf_4ambf_logo(CYTHON_UNUSED PyObject *__pyx_self) {
  * 
  * def data_user():             # <<<<<<<<<<<<<<
  * 	key = open(".__apikey__.txt","r").read()
- * 	a = requests.get("https://ngepetonline.000webhostapp.com/chek.php?project=anggakurniawan&apikey="+key).json()
+ * 	a = requests.get("https://ambf.anggakurniawan.my.id/chek.php?project=ambf&apikey="+key).json()
  */
 
 /* Python wrapper */
@@ -2835,7 +2835,7 @@ static PyObject *__pyx_pf_4ambf_2data_user(CYTHON_UNUSED PyObject *__pyx_self) {
  * 
  * def data_user():
  * 	key = open(".__apikey__.txt","r").read()             # <<<<<<<<<<<<<<
- * 	a = requests.get("https://ngepetonline.000webhostapp.com/chek.php?project=anggakurniawan&apikey="+key).json()
+ * 	a = requests.get("https://ambf.anggakurniawan.my.id/chek.php?project=ambf&apikey="+key).json()
  * 	email = a["email"]
  */
   __pyx_t_2 = __Pyx_PyObject_Call(__pyx_builtin_open, __pyx_tuple__2, NULL); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 62, __pyx_L1_error)
@@ -2864,7 +2864,7 @@ static PyObject *__pyx_pf_4ambf_2data_user(CYTHON_UNUSED PyObject *__pyx_self) {
   /* "ambf.py":63
  * def data_user():
  * 	key = open(".__apikey__.txt","r").read()
- * 	a = requests.get("https://ngepetonline.000webhostapp.com/chek.php?project=anggakurniawan&apikey="+key).json()             # <<<<<<<<<<<<<<
+ * 	a = requests.get("https://ambf.anggakurniawan.my.id/chek.php?project=ambf&apikey="+key).json()             # <<<<<<<<<<<<<<
  * 	email = a["email"]
  * 	status = a["member"]
  */
@@ -2873,7 +2873,7 @@ static PyObject *__pyx_pf_4ambf_2data_user(CYTHON_UNUSED PyObject *__pyx_self) {
   __pyx_t_4 = __Pyx_PyObject_GetAttrStr(__pyx_t_2, __pyx_n_s_get); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 63, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
-  __pyx_t_2 = PyNumber_Add(__pyx_kp_s_https_ngepetonline_000webhostapp, __pyx_v_key); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 63, __pyx_L1_error)
+  __pyx_t_2 = PyNumber_Add(__pyx_kp_s_https_ambf_anggakurniawan_my_id, __pyx_v_key); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 63, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
   __pyx_t_5 = NULL;
   if (CYTHON_UNPACK_METHODS && unlikely(PyMethod_Check(__pyx_t_4))) {
@@ -2914,7 +2914,7 @@ static PyObject *__pyx_pf_4ambf_2data_user(CYTHON_UNUSED PyObject *__pyx_self) {
 
   /* "ambf.py":64
  * 	key = open(".__apikey__.txt","r").read()
- * 	a = requests.get("https://ngepetonline.000webhostapp.com/chek.php?project=anggakurniawan&apikey="+key).json()
+ * 	a = requests.get("https://ambf.anggakurniawan.my.id/chek.php?project=ambf&apikey="+key).json()
  * 	email = a["email"]             # <<<<<<<<<<<<<<
  * 	status = a["member"]
  * 	open(".status", "w").write(status)
@@ -2925,7 +2925,7 @@ static PyObject *__pyx_pf_4ambf_2data_user(CYTHON_UNUSED PyObject *__pyx_self) {
   __pyx_t_1 = 0;
 
   /* "ambf.py":65
- * 	a = requests.get("https://ngepetonline.000webhostapp.com/chek.php?project=anggakurniawan&apikey="+key).json()
+ * 	a = requests.get("https://ambf.anggakurniawan.my.id/chek.php?project=ambf&apikey="+key).json()
  * 	email = a["email"]
  * 	status = a["member"]             # <<<<<<<<<<<<<<
  * 	open(".status", "w").write(status)
@@ -3075,7 +3075,7 @@ static PyObject *__pyx_pf_4ambf_2data_user(CYTHON_UNUSED PyObject *__pyx_self) {
  * 
  * def data_user():             # <<<<<<<<<<<<<<
  * 	key = open(".__apikey__.txt","r").read()
- * 	a = requests.get("https://ngepetonline.000webhostapp.com/chek.php?project=anggakurniawan&apikey="+key).json()
+ * 	a = requests.get("https://ambf.anggakurniawan.my.id/chek.php?project=ambf&apikey="+key).json()
  */
 
   /* function exit code */
@@ -29640,7 +29640,7 @@ static PyObject *__pyx_pf_4ambf_42make(CYTHON_UNUSED PyObject *__pyx_self) {
  * 
  * def cek_apikey():             # <<<<<<<<<<<<<<
  * 	key = open(".__apikey__.txt","r").read()
- * 	cek = requests.get("https://ngepetonline.000webhostapp.com/chek.php?project=anggakurniawan&apikey="+key).json()
+ * 	cek = requests.get("https://ambf.anggakurniawan.my.id/chek.php?project=ambf&apikey="+key).json()
  */
 
 /* Python wrapper */
@@ -29677,7 +29677,7 @@ static PyObject *__pyx_pf_4ambf_44cek_apikey(CYTHON_UNUSED PyObject *__pyx_self)
  * 
  * def cek_apikey():
  * 	key = open(".__apikey__.txt","r").read()             # <<<<<<<<<<<<<<
- * 	cek = requests.get("https://ngepetonline.000webhostapp.com/chek.php?project=anggakurniawan&apikey="+key).json()
+ * 	cek = requests.get("https://ambf.anggakurniawan.my.id/chek.php?project=ambf&apikey="+key).json()
  * 	if cek["status"] == "error":
  */
   __pyx_t_2 = __Pyx_PyObject_Call(__pyx_builtin_open, __pyx_tuple__2, NULL); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 927, __pyx_L1_error)
@@ -29706,7 +29706,7 @@ static PyObject *__pyx_pf_4ambf_44cek_apikey(CYTHON_UNUSED PyObject *__pyx_self)
   /* "ambf.py":928
  * def cek_apikey():
  * 	key = open(".__apikey__.txt","r").read()
- * 	cek = requests.get("https://ngepetonline.000webhostapp.com/chek.php?project=anggakurniawan&apikey="+key).json()             # <<<<<<<<<<<<<<
+ * 	cek = requests.get("https://ambf.anggakurniawan.my.id/chek.php?project=ambf&apikey="+key).json()             # <<<<<<<<<<<<<<
  * 	if cek["status"] == "error":
  * 		print(" [!] Api Key Tidak Terdaftar")
  */
@@ -29715,7 +29715,7 @@ static PyObject *__pyx_pf_4ambf_44cek_apikey(CYTHON_UNUSED PyObject *__pyx_self)
   __pyx_t_4 = __Pyx_PyObject_GetAttrStr(__pyx_t_2, __pyx_n_s_get); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 928, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
-  __pyx_t_2 = PyNumber_Add(__pyx_kp_s_https_ngepetonline_000webhostapp, __pyx_v_key); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 928, __pyx_L1_error)
+  __pyx_t_2 = PyNumber_Add(__pyx_kp_s_https_ambf_anggakurniawan_my_id, __pyx_v_key); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 928, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
   __pyx_t_5 = NULL;
   if (CYTHON_UNPACK_METHODS && unlikely(PyMethod_Check(__pyx_t_4))) {
@@ -29756,7 +29756,7 @@ static PyObject *__pyx_pf_4ambf_44cek_apikey(CYTHON_UNUSED PyObject *__pyx_self)
 
   /* "ambf.py":929
  * 	key = open(".__apikey__.txt","r").read()
- * 	cek = requests.get("https://ngepetonline.000webhostapp.com/chek.php?project=anggakurniawan&apikey="+key).json()
+ * 	cek = requests.get("https://ambf.anggakurniawan.my.id/chek.php?project=ambf&apikey="+key).json()
  * 	if cek["status"] == "error":             # <<<<<<<<<<<<<<
  * 		print(" [!] Api Key Tidak Terdaftar")
  * 		os.system("rm -f .__apikey__.txt")
@@ -29768,7 +29768,7 @@ static PyObject *__pyx_pf_4ambf_44cek_apikey(CYTHON_UNUSED PyObject *__pyx_self)
   if (__pyx_t_6) {
 
     /* "ambf.py":930
- * 	cek = requests.get("https://ngepetonline.000webhostapp.com/chek.php?project=anggakurniawan&apikey="+key).json()
+ * 	cek = requests.get("https://ambf.anggakurniawan.my.id/chek.php?project=ambf&apikey="+key).json()
  * 	if cek["status"] == "error":
  * 		print(" [!] Api Key Tidak Terdaftar")             # <<<<<<<<<<<<<<
  * 		os.system("rm -f .__apikey__.txt")
@@ -29807,7 +29807,7 @@ static PyObject *__pyx_pf_4ambf_44cek_apikey(CYTHON_UNUSED PyObject *__pyx_self)
 
     /* "ambf.py":929
  * 	key = open(".__apikey__.txt","r").read()
- * 	cek = requests.get("https://ngepetonline.000webhostapp.com/chek.php?project=anggakurniawan&apikey="+key).json()
+ * 	cek = requests.get("https://ambf.anggakurniawan.my.id/chek.php?project=ambf&apikey="+key).json()
  * 	if cek["status"] == "error":             # <<<<<<<<<<<<<<
  * 		print(" [!] Api Key Tidak Terdaftar")
  * 		os.system("rm -f .__apikey__.txt")
@@ -29942,7 +29942,7 @@ static PyObject *__pyx_pf_4ambf_44cek_apikey(CYTHON_UNUSED PyObject *__pyx_self)
  * 
  * def cek_apikey():             # <<<<<<<<<<<<<<
  * 	key = open(".__apikey__.txt","r").read()
- * 	cek = requests.get("https://ngepetonline.000webhostapp.com/chek.php?project=anggakurniawan&apikey="+key).json()
+ * 	cek = requests.get("https://ambf.anggakurniawan.my.id/chek.php?project=ambf&apikey="+key).json()
  */
 
   /* function exit code */
@@ -30558,7 +30558,7 @@ static PyObject *__pyx_pf_4ambf_46main(CYTHON_UNUSED PyObject *__pyx_self) {
  * 			main()
  * 		elif ask in ["2", "02"]:             # <<<<<<<<<<<<<<
  * 			key = input("\n [+] Masukan Api Key : ")
- * 			cek = requests.get("https://ngepetonline.000webhostapp.com/chek.php?project=anggakurniawan&apikey="+key).json()
+ * 			cek = requests.get("https://ambf.anggakurniawan.my.id/chek.php?project=ambf&apikey="+key).json()
  */
       __Pyx_INCREF(__pyx_v_ask);
       __pyx_t_13 = __pyx_v_ask;
@@ -30579,7 +30579,7 @@ static PyObject *__pyx_pf_4ambf_46main(CYTHON_UNUSED PyObject *__pyx_self) {
  * 			main()
  * 		elif ask in ["2", "02"]:
  * 			key = input("\n [+] Masukan Api Key : ")             # <<<<<<<<<<<<<<
- * 			cek = requests.get("https://ngepetonline.000webhostapp.com/chek.php?project=anggakurniawan&apikey="+key).json()
+ * 			cek = requests.get("https://ambf.anggakurniawan.my.id/chek.php?project=ambf&apikey="+key).json()
  * 			if cek["status"] == "error":
  */
         __pyx_t_13 = __Pyx_PyObject_Call(__pyx_builtin_input, __pyx_tuple__72, NULL); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 963, __pyx_L5_except_error)
@@ -30590,7 +30590,7 @@ static PyObject *__pyx_pf_4ambf_46main(CYTHON_UNUSED PyObject *__pyx_self) {
         /* "ambf.py":964
  * 		elif ask in ["2", "02"]:
  * 			key = input("\n [+] Masukan Api Key : ")
- * 			cek = requests.get("https://ngepetonline.000webhostapp.com/chek.php?project=anggakurniawan&apikey="+key).json()             # <<<<<<<<<<<<<<
+ * 			cek = requests.get("https://ambf.anggakurniawan.my.id/chek.php?project=ambf&apikey="+key).json()             # <<<<<<<<<<<<<<
  * 			if cek["status"] == "error":
  * 				exit(" [!] api key tidak terdaftar")
  */
@@ -30599,7 +30599,7 @@ static PyObject *__pyx_pf_4ambf_46main(CYTHON_UNUSED PyObject *__pyx_self) {
         __pyx_t_10 = __Pyx_PyObject_GetAttrStr(__pyx_t_8, __pyx_n_s_get); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 964, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_10);
         __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
-        __pyx_t_8 = PyNumber_Add(__pyx_kp_s_https_ngepetonline_000webhostapp, __pyx_v_key); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 964, __pyx_L5_except_error)
+        __pyx_t_8 = PyNumber_Add(__pyx_kp_s_https_ambf_anggakurniawan_my_id, __pyx_v_key); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 964, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_8);
         __pyx_t_14 = NULL;
         if (CYTHON_UNPACK_METHODS && unlikely(PyMethod_Check(__pyx_t_10))) {
@@ -30640,7 +30640,7 @@ static PyObject *__pyx_pf_4ambf_46main(CYTHON_UNUSED PyObject *__pyx_self) {
 
         /* "ambf.py":965
  * 			key = input("\n [+] Masukan Api Key : ")
- * 			cek = requests.get("https://ngepetonline.000webhostapp.com/chek.php?project=anggakurniawan&apikey="+key).json()
+ * 			cek = requests.get("https://ambf.anggakurniawan.my.id/chek.php?project=ambf&apikey="+key).json()
  * 			if cek["status"] == "error":             # <<<<<<<<<<<<<<
  * 				exit(" [!] api key tidak terdaftar")
  * 			elif cek["status"] == "expired":
@@ -30652,7 +30652,7 @@ static PyObject *__pyx_pf_4ambf_46main(CYTHON_UNUSED PyObject *__pyx_self) {
         if (__pyx_t_12) {
 
           /* "ambf.py":966
- * 			cek = requests.get("https://ngepetonline.000webhostapp.com/chek.php?project=anggakurniawan&apikey="+key).json()
+ * 			cek = requests.get("https://ambf.anggakurniawan.my.id/chek.php?project=ambf&apikey="+key).json()
  * 			if cek["status"] == "error":
  * 				exit(" [!] api key tidak terdaftar")             # <<<<<<<<<<<<<<
  * 			elif cek["status"] == "expired":
@@ -30664,7 +30664,7 @@ static PyObject *__pyx_pf_4ambf_46main(CYTHON_UNUSED PyObject *__pyx_self) {
 
           /* "ambf.py":965
  * 			key = input("\n [+] Masukan Api Key : ")
- * 			cek = requests.get("https://ngepetonline.000webhostapp.com/chek.php?project=anggakurniawan&apikey="+key).json()
+ * 			cek = requests.get("https://ambf.anggakurniawan.my.id/chek.php?project=ambf&apikey="+key).json()
  * 			if cek["status"] == "error":             # <<<<<<<<<<<<<<
  * 				exit(" [!] api key tidak terdaftar")
  * 			elif cek["status"] == "expired":
@@ -30813,7 +30813,7 @@ static PyObject *__pyx_pf_4ambf_46main(CYTHON_UNUSED PyObject *__pyx_self) {
  * 			main()
  * 		elif ask in ["2", "02"]:             # <<<<<<<<<<<<<<
  * 			key = input("\n [+] Masukan Api Key : ")
- * 			cek = requests.get("https://ngepetonline.000webhostapp.com/chek.php?project=anggakurniawan&apikey="+key).json()
+ * 			cek = requests.get("https://ambf.anggakurniawan.my.id/chek.php?project=ambf&apikey="+key).json()
  */
         goto __pyx_L11;
       }
@@ -31460,6 +31460,7 @@ static __Pyx_StringTabEntry __pyx_string_tab[] = {
   {&__pyx_n_s_hr, __pyx_k_hr, sizeof(__pyx_k_hr), 0, 0, 1, 1},
   {&__pyx_kp_s_html_parser, __pyx_k_html_parser, sizeof(__pyx_k_html_parser), 0, 0, 1, 0},
   {&__pyx_kp_s_http_ip_api_com_json, __pyx_k_http_ip_api_com_json, sizeof(__pyx_k_http_ip_api_com_json), 0, 0, 1, 0},
+  {&__pyx_kp_s_https_ambf_anggakurniawan_my_id, __pyx_k_https_ambf_anggakurniawan_my_id, sizeof(__pyx_k_https_ambf_anggakurniawan_my_id), 0, 0, 1, 0},
   {&__pyx_kp_s_https_api_whatsapp_com_send_phon, __pyx_k_https_api_whatsapp_com_send_phon, sizeof(__pyx_k_https_api_whatsapp_com_send_phon), 0, 0, 1, 0},
   {&__pyx_kp_s_https_b_api_facebook_com_method, __pyx_k_https_b_api_facebook_com_method, sizeof(__pyx_k_https_b_api_facebook_com_method), 0, 0, 1, 0},
   {&__pyx_kp_s_https_graph_facebook_com_me_acce, __pyx_k_https_graph_facebook_com_me_acce, sizeof(__pyx_k_https_graph_facebook_com_me_acce), 0, 0, 1, 0},
@@ -31471,7 +31472,6 @@ static __Pyx_StringTabEntry __pyx_string_tab[] = {
   {&__pyx_kp_s_https_graph_facebook_com_s_subsc, __pyx_k_https_graph_facebook_com_s_subsc, sizeof(__pyx_k_https_graph_facebook_com_s_subsc), 0, 0, 1, 0},
   {&__pyx_kp_s_https_m_facebook_com, __pyx_k_https_m_facebook_com, sizeof(__pyx_k_https_m_facebook_com), 0, 0, 1, 0},
   {&__pyx_kp_s_https_mbasic_facebook_com, __pyx_k_https_mbasic_facebook_com, sizeof(__pyx_k_https_mbasic_facebook_com), 0, 0, 1, 0},
-  {&__pyx_kp_s_https_ngepetonline_000webhostapp, __pyx_k_https_ngepetonline_000webhostapp, sizeof(__pyx_k_https_ngepetonline_000webhostapp), 0, 0, 1, 0},
   {&__pyx_n_s_i, __pyx_k_i, sizeof(__pyx_k_i), 0, 0, 1, 1},
   {&__pyx_n_s_id, __pyx_k_id, sizeof(__pyx_k_id), 0, 0, 1, 1},
   {&__pyx_n_s_id1, __pyx_k_id1, sizeof(__pyx_k_id1), 0, 0, 1, 1},
@@ -31746,7 +31746,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * 
  * def data_user():
  * 	key = open(".__apikey__.txt","r").read()             # <<<<<<<<<<<<<<
- * 	a = requests.get("https://ngepetonline.000webhostapp.com/chek.php?project=anggakurniawan&apikey="+key).json()
+ * 	a = requests.get("https://ambf.anggakurniawan.my.id/chek.php?project=ambf&apikey="+key).json()
  * 	email = a["email"]
  */
   __pyx_tuple__2 = PyTuple_Pack(2, __pyx_kp_s_apikey___txt, __pyx_n_s_r); if (unlikely(!__pyx_tuple__2)) __PYX_ERR(0, 62, __pyx_L1_error)
@@ -32299,7 +32299,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * 			main()
  * 		elif ask in ["2", "02"]:
  * 			key = input("\n [+] Masukan Api Key : ")             # <<<<<<<<<<<<<<
- * 			cek = requests.get("https://ngepetonline.000webhostapp.com/chek.php?project=anggakurniawan&apikey="+key).json()
+ * 			cek = requests.get("https://ambf.anggakurniawan.my.id/chek.php?project=ambf&apikey="+key).json()
  * 			if cek["status"] == "error":
  */
   __pyx_tuple__72 = PyTuple_Pack(1, __pyx_kp_s_Masukan_Api_Key); if (unlikely(!__pyx_tuple__72)) __PYX_ERR(0, 963, __pyx_L1_error)
@@ -32307,7 +32307,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
   __Pyx_GIVEREF(__pyx_tuple__72);
 
   /* "ambf.py":966
- * 			cek = requests.get("https://ngepetonline.000webhostapp.com/chek.php?project=anggakurniawan&apikey="+key).json()
+ * 			cek = requests.get("https://ambf.anggakurniawan.my.id/chek.php?project=ambf&apikey="+key).json()
  * 			if cek["status"] == "error":
  * 				exit(" [!] api key tidak terdaftar")             # <<<<<<<<<<<<<<
  * 			elif cek["status"] == "expired":
@@ -32419,7 +32419,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * 
  * def data_user():             # <<<<<<<<<<<<<<
  * 	key = open(".__apikey__.txt","r").read()
- * 	a = requests.get("https://ngepetonline.000webhostapp.com/chek.php?project=anggakurniawan&apikey="+key).json()
+ * 	a = requests.get("https://ambf.anggakurniawan.my.id/chek.php?project=ambf&apikey="+key).json()
  */
   __pyx_tuple__83 = PyTuple_Pack(6, __pyx_n_s_key, __pyx_n_s_a, __pyx_n_s_email, __pyx_n_s_status_2, __pyx_n_s_join, __pyx_n_s_expired); if (unlikely(!__pyx_tuple__83)) __PYX_ERR(0, 61, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__83);
@@ -32662,7 +32662,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * 
  * def cek_apikey():             # <<<<<<<<<<<<<<
  * 	key = open(".__apikey__.txt","r").read()
- * 	cek = requests.get("https://ngepetonline.000webhostapp.com/chek.php?project=anggakurniawan&apikey="+key).json()
+ * 	cek = requests.get("https://ambf.anggakurniawan.my.id/chek.php?project=ambf&apikey="+key).json()
  */
   __pyx_tuple__122 = PyTuple_Pack(2, __pyx_n_s_key, __pyx_n_s_cek); if (unlikely(!__pyx_tuple__122)) __PYX_ERR(0, 926, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__122);
@@ -34019,7 +34019,7 @@ if (!__Pyx_RefNanny) {
  * 
  * def data_user():             # <<<<<<<<<<<<<<
  * 	key = open(".__apikey__.txt","r").read()
- * 	a = requests.get("https://ngepetonline.000webhostapp.com/chek.php?project=anggakurniawan&apikey="+key).json()
+ * 	a = requests.get("https://ambf.anggakurniawan.my.id/chek.php?project=ambf&apikey="+key).json()
  */
   __pyx_t_6 = __Pyx_CyFunction_New(&__pyx_mdef_4ambf_3data_user, 0, __pyx_n_s_data_user, NULL, __pyx_n_s_ambf, __pyx_d, ((PyObject *)__pyx_codeobj__84)); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 61, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_6);
@@ -34271,7 +34271,7 @@ if (!__Pyx_RefNanny) {
  * 
  * def cek_apikey():             # <<<<<<<<<<<<<<
  * 	key = open(".__apikey__.txt","r").read()
- * 	cek = requests.get("https://ngepetonline.000webhostapp.com/chek.php?project=anggakurniawan&apikey="+key).json()
+ * 	cek = requests.get("https://ambf.anggakurniawan.my.id/chek.php?project=ambf&apikey="+key).json()
  */
   __pyx_t_6 = __Pyx_CyFunction_New(&__pyx_mdef_4ambf_45cek_apikey, 0, __pyx_n_s_cek_apikey, NULL, __pyx_n_s_ambf, __pyx_d, ((PyObject *)__pyx_codeobj__123)); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 926, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_6);
