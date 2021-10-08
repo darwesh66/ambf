@@ -1,7 +1,7 @@
 Hallo user, untuk cara mendapatkan api key nya kalian harus run tools terlebih dahulu
 jika sudah mendapatkan api key kamu perlu konfirmasi api key nya ke <b>admin</b>
 
-untuk konfirmasi api key anda perlu membayar ke : ``OVO, DANA, PULSA``
+untuk konfirmasi api key anda perlu membayar ke : ``OVO dan DANA``
 lalu sertakan bukti transfer ke admin dan admin akan mengkonfirmasi api key anda
 
 #### CARA UPGRADE KE PREMIUM
