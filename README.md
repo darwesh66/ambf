@@ -1,7 +1,6 @@
-Hallo user, untuk cara mendapatkan api key nya kalian harus run tools terlebih dahulu
-jika sudah mendapatkan api key kamu perlu konfirmasi api key nya ke <b>admin</b>
+Anda bisa mendapatkan api key disini: https://apikey.anggakurniawan.my.id/
 
-untuk konfirmasi api key anda perlu membayar ke : ``OVO dan DANA``
+untuk upgrade ke premium anda perlu membayar 20k ke : ``OVO dan DANA``
 lalu sertakan bukti transfer ke admin dan admin akan mengkonfirmasi api key anda
 
 #### CARA UPGRADE KE PREMIUM
@@ -30,10 +29,8 @@ perintah untuk update tools ketik :
  cythonize -i ambf.c
  python run.py
 ````
-
-![template_s](https://i.ibb.co/whGT7kd/IMG-20210907-073808.jpg)
-jika sudah berhasil install script kamu pilih nomer <b>1. Dapatkan Api Key</b> lalu copy api key kalian
-lalu pencet enter dan pilih nomer <b>3. Daftar Api Key</b> dan isi formulir pembelian script
+#### DISCLAIMER 
+admin tidak bertanggung jawab dalam hal apapun!! 
 
 #### CATATAN
 gunakanlah dengan bijak, atas apapun yang terjadi admin tidak bertanggung jawab.
