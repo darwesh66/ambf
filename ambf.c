@@ -7322,7 +7322,7 @@ static PyObject *__pyx_pf_4ambf_8c_id(CYTHON_UNUSED PyObject *__pyx_self) {
  * 	print("\n [01] crack dari random id fb baru")
  * 	print(" [02] crack dari random id fb lama")             # <<<<<<<<<<<<<<
  * 	ask = input("\n [?] choose : ")
- * 	if ask in ["1", "02"]:
+ * 	if ask in ["1", "01"]:
  */
   if (__Pyx_PrintOne(0, __pyx_kp_s_02_crack_dari_random_id_fb_lama) < 0) __PYX_ERR(0, 240, __pyx_L1_error)
 
@@ -7330,7 +7330,7 @@ static PyObject *__pyx_pf_4ambf_8c_id(CYTHON_UNUSED PyObject *__pyx_self) {
  * 	print("\n [01] crack dari random id fb baru")
  * 	print(" [02] crack dari random id fb lama")
  * 	ask = input("\n [?] choose : ")             # <<<<<<<<<<<<<<
- * 	if ask in ["1", "02"]:
+ * 	if ask in ["1", "01"]:
  * 		nom1 = 11111111111
  */
   __pyx_t_1 = __Pyx_PyObject_Call(__pyx_builtin_input, __pyx_tuple__6, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 241, __pyx_L1_error)
@@ -7341,7 +7341,7 @@ static PyObject *__pyx_pf_4ambf_8c_id(CYTHON_UNUSED PyObject *__pyx_self) {
   /* "ambf.pyx":242
  * 	print(" [02] crack dari random id fb lama")
  * 	ask = input("\n [?] choose : ")
- * 	if ask in ["1", "02"]:             # <<<<<<<<<<<<<<
+ * 	if ask in ["1", "01"]:             # <<<<<<<<<<<<<<
  * 		nom1 = 11111111111
  * 		nom2 = 99999999999
  */
@@ -7353,7 +7353,7 @@ static PyObject *__pyx_pf_4ambf_8c_id(CYTHON_UNUSED PyObject *__pyx_self) {
     __pyx_t_2 = __pyx_t_3;
     goto __pyx_L4_bool_binop_done;
   }
-  __pyx_t_3 = (__Pyx_PyString_Equals(__pyx_t_1, __pyx_kp_s_02, Py_EQ)); if (unlikely(__pyx_t_3 < 0)) __PYX_ERR(0, 242, __pyx_L1_error)
+  __pyx_t_3 = (__Pyx_PyString_Equals(__pyx_t_1, __pyx_kp_s_01, Py_EQ)); if (unlikely(__pyx_t_3 < 0)) __PYX_ERR(0, 242, __pyx_L1_error)
   __pyx_t_2 = __pyx_t_3;
   __pyx_L4_bool_binop_done:;
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
@@ -7362,7 +7362,7 @@ static PyObject *__pyx_pf_4ambf_8c_id(CYTHON_UNUSED PyObject *__pyx_self) {
 
     /* "ambf.pyx":243
  * 	ask = input("\n [?] choose : ")
- * 	if ask in ["1", "02"]:
+ * 	if ask in ["1", "01"]:
  * 		nom1 = 11111111111             # <<<<<<<<<<<<<<
  * 		nom2 = 99999999999
  * 		idx = "1000"
@@ -7371,7 +7371,7 @@ static PyObject *__pyx_pf_4ambf_8c_id(CYTHON_UNUSED PyObject *__pyx_self) {
     __pyx_v_nom1 = __pyx_int_11111111111;
 
     /* "ambf.pyx":244
- * 	if ask in ["1", "02"]:
+ * 	if ask in ["1", "01"]:
  * 		nom1 = 11111111111
  * 		nom2 = 99999999999             # <<<<<<<<<<<<<<
  * 		idx = "1000"
@@ -7393,7 +7393,7 @@ static PyObject *__pyx_pf_4ambf_8c_id(CYTHON_UNUSED PyObject *__pyx_self) {
     /* "ambf.pyx":242
  * 	print(" [02] crack dari random id fb lama")
  * 	ask = input("\n [?] choose : ")
- * 	if ask in ["1", "02"]:             # <<<<<<<<<<<<<<
+ * 	if ask in ["1", "01"]:             # <<<<<<<<<<<<<<
  * 		nom1 = 11111111111
  * 		nom2 = 99999999999
  */
