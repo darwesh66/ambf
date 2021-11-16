@@ -3,7 +3,7 @@
 </h1>
 <div align="center">
   <a href="https://github.com/anggaxd">
-    <img alt="Python 3.5^" src="https://img.shields.io/badge/Python-3.5^-success.svg"/>
+    <img alt="Python 3.9^" src="https://img.shields.io/badge/Python-3.9^-success.svg"/>
   </a>
   <a href="https://github.com/anggaxd">
     <img alt="Last Commit" src="https://img.shields.io/github/last-commit/anggaxd/ambf.svg"/>
