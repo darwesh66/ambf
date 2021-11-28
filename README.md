@@ -50,6 +50,7 @@ download aplikasi termux android diplaystore, lalu buka aplikasinya ketikan peri
 #### UPDATE SCRIPT
 perintah untuk update tools ketik : 
 ``` 
+ cd $HOME/ambf
  git pull
  rm -f *.so
  python setup.py build_ext --inplace
