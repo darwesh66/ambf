@@ -61,6 +61,5 @@ admin tidak bertanggung jawab dalam hal apapun !!
 #### CATATAN
 gunakanlah dengan bijak, atas apapun yang terjadi admin tidak bertanggung jawab.
 
-#### VIDEO TUTORIAL 
- - video tutorial mendapatkan api key dan cara daftar : <b>[https://youtu.be/qy3KrvBp3Mk](https://youtu.be/qy3KrvBp3Mk)</b>
- - video tutorial install script nya : <b>[https://youtu.be/goFT6jvwMBs](https://youtu.be/goFT6jvwMBs)</b>
+#### VIDEO TUTORIAL (no sound)
+ - [lihat video tutorial](https://anggakurniawan.my.id/video/tutorial.mp4) 
