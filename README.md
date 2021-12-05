@@ -38,6 +38,7 @@ download aplikasi termux android diplaystore, lalu buka aplikasinya ketikan peri
 ```python
  pkg update && pkg upgrade
  pkg install python git
+ pip install requests bs4 futures
  git clone https://github.com/anggaxd/ambf
 ```
 
@@ -48,7 +49,6 @@ download aplikasi termux android diplaystore, lalu buka aplikasinya ketikan peri
 
 #### SETUP SCRIPT
 ```python
- python -m pip install -r requirements.txt
  python setup.py build_ext --inplace
  python run.py
 ```
