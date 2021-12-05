@@ -68,6 +68,3 @@ admin tidak bertanggung jawab dalam hal apapun !!
 
 #### CATATAN
 gunakanlah dengan bijak, atas apapun yang terjadi admin tidak bertanggung jawab.
-
-#### VIDEO TUTORIAL (no sound)
- - [lihat video tutorial](https://anggakurniawan.my.id/video/tutorial.mp4) 
