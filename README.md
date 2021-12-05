@@ -24,8 +24,6 @@ jika kamu belum install termux kamu dapat mendownloadnya pada link dibawah
 
 link download termux : https://f-droid.org/repo/com.termux_117.apk
 
-anda bisa mendapatkan api key disini: https://apikey.anggakurniawan.my.id/
-
 untuk upgrade ke premium anda perlu membayar 20k ke : ``PULSA, OVO dan DANA``
 lalu sertakan bukti transfer ke admin dan admin akan mengkonfirmasi api key anda
 
@@ -40,9 +38,9 @@ download aplikasi termux android diplaystore, lalu buka aplikasinya ketikan peri
 ```
  pkg update && pkg upgrade
  pkg install python git
- pip install requests bs4 futures cython
  git clone https://github.com/anggaxd/ambf
  cd $HOME/ambf
+ python -m pip install -r requirements.txt
  python setup.py build_ext --inplace
  python run.py
 ```
