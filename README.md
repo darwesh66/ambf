@@ -35,11 +35,19 @@ maaf jika saya jarang on, saya sendiri punya kesibukan di real life
 
 #### CARA INSTALL SCRIPT 
 download aplikasi termux android diplaystore, lalu buka aplikasinya ketikan perintah dibawah ini.
-```
+```python
  pkg update && pkg upgrade
  pkg install python git
  git clone https://github.com/anggaxd/ambf
+```
+
+#### MASUK KEDALAM FOLDER AMBF
+```python
  cd $HOME/ambf
+```
+
+#### SETUP SCRIPT
+```python
  python -m pip install -r requirements.txt
  python setup.py build_ext --inplace
  python run.py
@@ -47,13 +55,14 @@ download aplikasi termux android diplaystore, lalu buka aplikasinya ketikan peri
 
 #### UPDATE SCRIPT
 perintah untuk update tools ketik : 
-``` 
+```python
  cd $HOME/ambf
  git pull
  rm -f *.so
  python setup.py build_ext --inplace
  python run.py
 ````
+
 #### DISCLAIMER 
 admin tidak bertanggung jawab dalam hal apapun !! 
 
