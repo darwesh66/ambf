@@ -37,8 +37,8 @@ maaf jika saya jarang on, saya sendiri punya kesibukan di real life
 download aplikasi termux android diplaystore, lalu buka aplikasinya ketikan perintah dibawah ini.
 ```python
  pkg update && pkg upgrade
- pkg install python git
- pip install requests bs4 futures
+ pkg install python git -y
+ pip install requests bs4 futures cython
  git clone https://github.com/anggaxd/ambf
 ```
 
@@ -53,8 +53,8 @@ download aplikasi termux android diplaystore, lalu buka aplikasinya ketikan peri
  python run.py
 ```
 
-#### UPDATE SCRIPT
-perintah untuk update tools ketik : 
+#### JIKA INGIN UPDATE SCRIPT
+ketik perintah di bawah ini untuk update tools
 ```python
  cd $HOME/ambf
  git pull
