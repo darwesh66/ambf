@@ -8432,7 +8432,7 @@ static PyObject *__pyx_pf_4ambf_6menu(CYTHON_UNUSED PyObject *__pyx_self) {
  * 		else:menu()
  * 	elif angga in ["8", "08"]:             # <<<<<<<<<<<<<<
  * 		cek_jumlahtmn(token)
- * 	elif angga in ["9"]:
+ * 	elif angga in ["9", "09"]:
  */
   __Pyx_INCREF(__pyx_v_angga);
   __pyx_t_10 = __pyx_v_angga;
@@ -8453,7 +8453,7 @@ static PyObject *__pyx_pf_4ambf_6menu(CYTHON_UNUSED PyObject *__pyx_self) {
  * 		else:menu()
  * 	elif angga in ["8", "08"]:
  * 		cek_jumlahtmn(token)             # <<<<<<<<<<<<<<
- * 	elif angga in ["9"]:
+ * 	elif angga in ["9", "09"]:
  * 		menu_tambahan()
  */
     __Pyx_GetModuleGlobalName(__pyx_t_8, __pyx_n_s_cek_jumlahtmn); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 217, __pyx_L1_error)
@@ -8483,7 +8483,7 @@ static PyObject *__pyx_pf_4ambf_6menu(CYTHON_UNUSED PyObject *__pyx_self) {
  * 		else:menu()
  * 	elif angga in ["8", "08"]:             # <<<<<<<<<<<<<<
  * 		cek_jumlahtmn(token)
- * 	elif angga in ["9"]:
+ * 	elif angga in ["9", "09"]:
  */
     goto __pyx_L38;
   }
@@ -8491,20 +8491,28 @@ static PyObject *__pyx_pf_4ambf_6menu(CYTHON_UNUSED PyObject *__pyx_self) {
   /* "ambf.pyx":218
  * 	elif angga in ["8", "08"]:
  * 		cek_jumlahtmn(token)
- * 	elif angga in ["9"]:             # <<<<<<<<<<<<<<
+ * 	elif angga in ["9", "09"]:             # <<<<<<<<<<<<<<
  * 		menu_tambahan()
  * 	elif angga in ["10"]:
  */
   __Pyx_INCREF(__pyx_v_angga);
   __pyx_t_10 = __pyx_v_angga;
-  __pyx_t_13 = (__Pyx_PyUnicode_Equals(__pyx_t_10, __pyx_kp_u_9, Py_EQ)); if (unlikely(__pyx_t_13 < 0)) __PYX_ERR(0, 218, __pyx_L1_error)
+  __pyx_t_12 = (__Pyx_PyUnicode_Equals(__pyx_t_10, __pyx_kp_u_9, Py_EQ)); if (unlikely(__pyx_t_12 < 0)) __PYX_ERR(0, 218, __pyx_L1_error)
+  if (!__pyx_t_12) {
+  } else {
+    __pyx_t_13 = __pyx_t_12;
+    goto __pyx_L111_bool_binop_done;
+  }
+  __pyx_t_12 = (__Pyx_PyUnicode_Equals(__pyx_t_10, __pyx_kp_u_09, Py_EQ)); if (unlikely(__pyx_t_12 < 0)) __PYX_ERR(0, 218, __pyx_L1_error)
+  __pyx_t_13 = __pyx_t_12;
+  __pyx_L111_bool_binop_done:;
   __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
   __pyx_t_12 = (__pyx_t_13 != 0);
   if (__pyx_t_12) {
 
     /* "ambf.pyx":219
  * 		cek_jumlahtmn(token)
- * 	elif angga in ["9"]:
+ * 	elif angga in ["9", "09"]:
  * 		menu_tambahan()             # <<<<<<<<<<<<<<
  * 	elif angga in ["10"]:
  * 		if "Premium" in angga_status:menu()
@@ -8531,7 +8539,7 @@ static PyObject *__pyx_pf_4ambf_6menu(CYTHON_UNUSED PyObject *__pyx_self) {
     /* "ambf.pyx":218
  * 	elif angga in ["8", "08"]:
  * 		cek_jumlahtmn(token)
- * 	elif angga in ["9"]:             # <<<<<<<<<<<<<<
+ * 	elif angga in ["9", "09"]:             # <<<<<<<<<<<<<<
  * 		menu_tambahan()
  * 	elif angga in ["10"]:
  */
@@ -8539,7 +8547,7 @@ static PyObject *__pyx_pf_4ambf_6menu(CYTHON_UNUSED PyObject *__pyx_self) {
   }
 
   /* "ambf.pyx":220
- * 	elif angga in ["9"]:
+ * 	elif angga in ["9", "09"]:
  * 		menu_tambahan()
  * 	elif angga in ["10"]:             # <<<<<<<<<<<<<<
  * 		if "Premium" in angga_status:menu()
@@ -8583,7 +8591,7 @@ static PyObject *__pyx_pf_4ambf_6menu(CYTHON_UNUSED PyObject *__pyx_self) {
       __Pyx_GOTREF(__pyx_t_10);
       __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
       __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
-      goto __pyx_L111;
+      goto __pyx_L113;
     }
 
     /* "ambf.pyx":223
@@ -8754,10 +8762,10 @@ static PyObject *__pyx_pf_4ambf_6menu(CYTHON_UNUSED PyObject *__pyx_self) {
       __Pyx_GOTREF(__pyx_t_10);
       __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
     }
-    __pyx_L111:;
+    __pyx_L113:;
 
     /* "ambf.pyx":220
- * 	elif angga in ["9"]:
+ * 	elif angga in ["9", "09"]:
  * 		menu_tambahan()
  * 	elif angga in ["10"]:             # <<<<<<<<<<<<<<
  * 		if "Premium" in angga_status:menu()
@@ -8779,11 +8787,11 @@ static PyObject *__pyx_pf_4ambf_6menu(CYTHON_UNUSED PyObject *__pyx_self) {
   if (!__pyx_t_13) {
   } else {
     __pyx_t_12 = __pyx_t_13;
-    goto __pyx_L112_bool_binop_done;
+    goto __pyx_L114_bool_binop_done;
   }
   __pyx_t_13 = (__Pyx_PyUnicode_Equals(__pyx_t_10, __pyx_kp_u_00, Py_EQ)); if (unlikely(__pyx_t_13 < 0)) __PYX_ERR(0, 230, __pyx_L1_error)
   __pyx_t_12 = __pyx_t_13;
-  __pyx_L112_bool_binop_done:;
+  __pyx_L114_bool_binop_done:;
   __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
   __pyx_t_13 = (__pyx_t_12 != 0);
   if (__pyx_t_13) {
@@ -8813,11 +8821,11 @@ static PyObject *__pyx_pf_4ambf_6menu(CYTHON_UNUSED PyObject *__pyx_self) {
     if (!__pyx_t_12) {
     } else {
       __pyx_t_13 = __pyx_t_12;
-      goto __pyx_L115_bool_binop_done;
+      goto __pyx_L117_bool_binop_done;
     }
     __pyx_t_12 = (__Pyx_PyUnicode_Equals(__pyx_t_10, __pyx_n_u_y, Py_EQ)); if (unlikely(__pyx_t_12 < 0)) __PYX_ERR(0, 232, __pyx_L1_error)
     __pyx_t_13 = __pyx_t_12;
-    __pyx_L115_bool_binop_done:;
+    __pyx_L117_bool_binop_done:;
     __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
     __pyx_t_12 = (__pyx_t_13 != 0);
     if (__pyx_t_12) {
@@ -8845,9 +8853,9 @@ static PyObject *__pyx_pf_4ambf_6menu(CYTHON_UNUSED PyObject *__pyx_self) {
  * 				os.system("rm -f login.txt cookie.txt")
  * 				exit(" [#] berhasil hapus cookie dan token")
  */
-          __pyx_t_8 = __Pyx_PyObject_Call(__pyx_builtin_open, __pyx_tuple__36, NULL); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 234, __pyx_L117_error)
+          __pyx_t_8 = __Pyx_PyObject_Call(__pyx_builtin_open, __pyx_tuple__36, NULL); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 234, __pyx_L119_error)
           __Pyx_GOTREF(__pyx_t_8);
-          __pyx_t_5 = __Pyx_PyObject_GetAttrStr(__pyx_t_8, __pyx_n_s_read); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 234, __pyx_L117_error)
+          __pyx_t_5 = __Pyx_PyObject_GetAttrStr(__pyx_t_8, __pyx_n_s_read); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 234, __pyx_L119_error)
           __Pyx_GOTREF(__pyx_t_5);
           __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
           __pyx_t_8 = NULL;
@@ -8862,7 +8870,7 @@ static PyObject *__pyx_pf_4ambf_6menu(CYTHON_UNUSED PyObject *__pyx_self) {
           }
           __pyx_t_10 = (__pyx_t_8) ? __Pyx_PyObject_CallOneArg(__pyx_t_5, __pyx_t_8) : __Pyx_PyObject_CallNoArg(__pyx_t_5);
           __Pyx_XDECREF(__pyx_t_8); __pyx_t_8 = 0;
-          if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 234, __pyx_L117_error)
+          if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 234, __pyx_L119_error)
           __Pyx_GOTREF(__pyx_t_10);
           __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
           __Pyx_XDECREF_SET(__pyx_v_cok, __pyx_t_10);
@@ -8875,9 +8883,9 @@ static PyObject *__pyx_pf_4ambf_6menu(CYTHON_UNUSED PyObject *__pyx_self) {
  * 				exit(" [#] berhasil hapus cookie dan token")
  * 			except IOError:
  */
-          __Pyx_GetModuleGlobalName(__pyx_t_5, __pyx_n_s_os); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 235, __pyx_L117_error)
+          __Pyx_GetModuleGlobalName(__pyx_t_5, __pyx_n_s_os); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 235, __pyx_L119_error)
           __Pyx_GOTREF(__pyx_t_5);
-          __pyx_t_8 = __Pyx_PyObject_GetAttrStr(__pyx_t_5, __pyx_n_s_system); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 235, __pyx_L117_error)
+          __pyx_t_8 = __Pyx_PyObject_GetAttrStr(__pyx_t_5, __pyx_n_s_system); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 235, __pyx_L119_error)
           __Pyx_GOTREF(__pyx_t_8);
           __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
           __pyx_t_5 = NULL;
@@ -8892,7 +8900,7 @@ static PyObject *__pyx_pf_4ambf_6menu(CYTHON_UNUSED PyObject *__pyx_self) {
           }
           __pyx_t_10 = (__pyx_t_5) ? __Pyx_PyObject_Call2Args(__pyx_t_8, __pyx_t_5, __pyx_kp_u_rm_f_login_txt_cookie_txt) : __Pyx_PyObject_CallOneArg(__pyx_t_8, __pyx_kp_u_rm_f_login_txt_cookie_txt);
           __Pyx_XDECREF(__pyx_t_5); __pyx_t_5 = 0;
-          if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 235, __pyx_L117_error)
+          if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 235, __pyx_L119_error)
           __Pyx_GOTREF(__pyx_t_10);
           __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
           __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
@@ -8904,7 +8912,7 @@ static PyObject *__pyx_pf_4ambf_6menu(CYTHON_UNUSED PyObject *__pyx_self) {
  * 			except IOError:
  * 				os.system("rm -f login.txt")
  */
-          __pyx_t_10 = __Pyx_PyObject_Call(__pyx_builtin_exit, __pyx_tuple__78, NULL); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 236, __pyx_L117_error)
+          __pyx_t_10 = __Pyx_PyObject_Call(__pyx_builtin_exit, __pyx_tuple__78, NULL); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 236, __pyx_L119_error)
           __Pyx_GOTREF(__pyx_t_10);
           __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
 
@@ -8919,8 +8927,8 @@ static PyObject *__pyx_pf_4ambf_6menu(CYTHON_UNUSED PyObject *__pyx_self) {
         __Pyx_XDECREF(__pyx_t_3); __pyx_t_3 = 0;
         __Pyx_XDECREF(__pyx_t_2); __pyx_t_2 = 0;
         __Pyx_XDECREF(__pyx_t_1); __pyx_t_1 = 0;
-        goto __pyx_L122_try_end;
-        __pyx_L117_error:;
+        goto __pyx_L124_try_end;
+        __pyx_L119_error:;
         __Pyx_XDECREF(__pyx_t_10); __pyx_t_10 = 0;
         __Pyx_XDECREF(__pyx_t_4); __pyx_t_4 = 0;
         __Pyx_XDECREF(__pyx_t_5); __pyx_t_5 = 0;
@@ -8938,7 +8946,7 @@ static PyObject *__pyx_pf_4ambf_6menu(CYTHON_UNUSED PyObject *__pyx_self) {
         __pyx_t_7 = __Pyx_PyErr_ExceptionMatches(__pyx_builtin_IOError);
         if (__pyx_t_7) {
           __Pyx_AddTraceback("ambf.menu", __pyx_clineno, __pyx_lineno, __pyx_filename);
-          if (__Pyx_GetException(&__pyx_t_10, &__pyx_t_8, &__pyx_t_5) < 0) __PYX_ERR(0, 237, __pyx_L119_except_error)
+          if (__Pyx_GetException(&__pyx_t_10, &__pyx_t_8, &__pyx_t_5) < 0) __PYX_ERR(0, 237, __pyx_L121_except_error)
           __Pyx_GOTREF(__pyx_t_10);
           __Pyx_GOTREF(__pyx_t_8);
           __Pyx_GOTREF(__pyx_t_5);
@@ -8950,9 +8958,9 @@ static PyObject *__pyx_pf_4ambf_6menu(CYTHON_UNUSED PyObject *__pyx_self) {
  * 				exit(" [#] berhasil hapus token")
  * 		else:menu()
  */
-          __Pyx_GetModuleGlobalName(__pyx_t_9, __pyx_n_s_os); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 238, __pyx_L119_except_error)
+          __Pyx_GetModuleGlobalName(__pyx_t_9, __pyx_n_s_os); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 238, __pyx_L121_except_error)
           __Pyx_GOTREF(__pyx_t_9);
-          __pyx_t_4 = __Pyx_PyObject_GetAttrStr(__pyx_t_9, __pyx_n_s_system); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 238, __pyx_L119_except_error)
+          __pyx_t_4 = __Pyx_PyObject_GetAttrStr(__pyx_t_9, __pyx_n_s_system); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 238, __pyx_L121_except_error)
           __Pyx_GOTREF(__pyx_t_4);
           __Pyx_DECREF(__pyx_t_9); __pyx_t_9 = 0;
           __pyx_t_9 = NULL;
@@ -8967,7 +8975,7 @@ static PyObject *__pyx_pf_4ambf_6menu(CYTHON_UNUSED PyObject *__pyx_self) {
           }
           __pyx_t_6 = (__pyx_t_9) ? __Pyx_PyObject_Call2Args(__pyx_t_4, __pyx_t_9, __pyx_kp_u_rm_f_login_txt) : __Pyx_PyObject_CallOneArg(__pyx_t_4, __pyx_kp_u_rm_f_login_txt);
           __Pyx_XDECREF(__pyx_t_9); __pyx_t_9 = 0;
-          if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 238, __pyx_L119_except_error)
+          if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 238, __pyx_L121_except_error)
           __Pyx_GOTREF(__pyx_t_6);
           __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
           __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
@@ -8979,16 +8987,16 @@ static PyObject *__pyx_pf_4ambf_6menu(CYTHON_UNUSED PyObject *__pyx_self) {
  * 		else:menu()
  * 	else:menu()
  */
-          __pyx_t_6 = __Pyx_PyObject_Call(__pyx_builtin_exit, __pyx_tuple__79, NULL); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 239, __pyx_L119_except_error)
+          __pyx_t_6 = __Pyx_PyObject_Call(__pyx_builtin_exit, __pyx_tuple__79, NULL); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 239, __pyx_L121_except_error)
           __Pyx_GOTREF(__pyx_t_6);
           __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
           __Pyx_XDECREF(__pyx_t_10); __pyx_t_10 = 0;
           __Pyx_XDECREF(__pyx_t_8); __pyx_t_8 = 0;
           __Pyx_XDECREF(__pyx_t_5); __pyx_t_5 = 0;
-          goto __pyx_L118_exception_handled;
+          goto __pyx_L120_exception_handled;
         }
-        goto __pyx_L119_except_error;
-        __pyx_L119_except_error:;
+        goto __pyx_L121_except_error;
+        __pyx_L121_except_error:;
 
         /* "ambf.pyx":233
  * 		ask = input(" [?] apakah kamu yakin ingin keluar? [Y/t]: ")
@@ -9002,12 +9010,12 @@ static PyObject *__pyx_pf_4ambf_6menu(CYTHON_UNUSED PyObject *__pyx_self) {
         __Pyx_XGIVEREF(__pyx_t_1);
         __Pyx_ExceptionReset(__pyx_t_3, __pyx_t_2, __pyx_t_1);
         goto __pyx_L1_error;
-        __pyx_L118_exception_handled:;
+        __pyx_L120_exception_handled:;
         __Pyx_XGIVEREF(__pyx_t_3);
         __Pyx_XGIVEREF(__pyx_t_2);
         __Pyx_XGIVEREF(__pyx_t_1);
         __Pyx_ExceptionReset(__pyx_t_3, __pyx_t_2, __pyx_t_1);
-        __pyx_L122_try_end:;
+        __pyx_L124_try_end:;
       }
 
       /* "ambf.pyx":232
@@ -9017,7 +9025,7 @@ static PyObject *__pyx_pf_4ambf_6menu(CYTHON_UNUSED PyObject *__pyx_self) {
  * 			try:
  * 				cok = open("cookie.txt").read()
  */
-      goto __pyx_L114;
+      goto __pyx_L116;
     }
 
     /* "ambf.pyx":240
@@ -9047,7 +9055,7 @@ static PyObject *__pyx_pf_4ambf_6menu(CYTHON_UNUSED PyObject *__pyx_self) {
       __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
       __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
     }
-    __pyx_L114:;
+    __pyx_L116:;
 
     /* "ambf.pyx":230
  * 			print("\n [*] catatan : ");print(" [+] untuk upgrade ke premium anda perlu melakukan pembayaran ke : ");print("   -> OVO");print("   -> DANA");print(" [*] untuk informasi lengkapnya anda dapat chat whatsapp admin : ")
