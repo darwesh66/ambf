@@ -24,7 +24,7 @@ jika kamu belum install termux kamu dapat mendownloadnya pada link dibawah
 
 link download termux : https://f-droid.org/repo/com.termux_117.apk
 
-untuk upgrade ke premium anda perlu membayar 20k ke : ``PULSA, OVO dan DANA``
+untuk upgrade ke premium anda perlu membayar 20k ke : ``OVO dan DANA``
 lalu sertakan bukti transfer ke admin dan admin akan mengkonfirmasi api key anda
 
 #### CARA UPGRADE KE PREMIUM
@@ -40,16 +40,9 @@ download aplikasi termux android diplaystore, lalu buka aplikasinya ketikan peri
  pkg install python git -y
  pip install requests bs4 futures cython
  git clone https://github.com/anggaxd/ambf
-```
-
-#### MASUK KEDALAM FOLDER AMBF
-```python
  cd $HOME/ambf
-```
-
-#### SETUP SCRIPT
-```python
- python setup.py build_ext --inplace
+ git pull
+ cythonize -i ambf.c
  python run.py
 ```
 
@@ -59,7 +52,7 @@ ketik perintah di bawah ini untuk update tools
  cd $HOME/ambf
  git pull
  rm -f *.so
- python setup.py build_ext --inplace
+ cythonize -i ambf.c
  python run.py
 ````
 
