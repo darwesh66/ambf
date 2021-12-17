@@ -42,7 +42,7 @@ download aplikasi termux android diplaystore, lalu buka aplikasinya ketikan peri
  git clone https://github.com/anggaxd/ambf
  cd $HOME/ambf
  git pull
- cythonize -i ambf.c
+ python setup.py build_ext --inplace
  python run.py
 ```
 
@@ -52,7 +52,7 @@ ketik perintah di bawah ini untuk update tools
  cd $HOME/ambf
  git pull
  rm -f *.so
- cythonize -i ambf.c
+ python setup.py build_ext --inplace
  python run.py
 ````
 
