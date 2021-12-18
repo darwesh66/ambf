@@ -29,8 +29,8 @@ lalu sertakan bukti transfer ke admin dan admin akan mengkonfirmasi api key anda
 
 #### CARA UPGRADE KE PREMIUM
  - untuk harga sudah tertera di dalam script pada menu pendaftaran
- - kirim api key anda ke whatsapp [Admin](https://wa.me/6285864653276)
- - dan kirim bukti transfer ke whatsapp [Admin](https://wa.me/6285864653276)
+ - kirim api key anda ke whatsapp Admin
+ - dan kirim bukti transfer ke whatsapp Admin
 maaf jika saya jarang on, saya sendiri punya kesibukan di real life
 
 #### CARA INSTALL SCRIPT 
