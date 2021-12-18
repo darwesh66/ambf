@@ -31703,8 +31703,6 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * 		exit(" [!] berhasil menghapus api key")
  * 	else:
  * 		exit(" [!] cara menggunakan : python run.py remove")             # <<<<<<<<<<<<<<
- * 
- * main()
  */
   __pyx_tuple__147 = PyTuple_Pack(1, __pyx_kp_s_cara_menggunakan_python_run_py); if (unlikely(!__pyx_tuple__147)) __PYX_ERR(0, 821, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__147);
@@ -33426,8 +33424,6 @@ if (!__Pyx_RefNanny) {
  * 		exit(" [!] berhasil menghapus api key")
  * 	else:
  * 		exit(" [!] cara menggunakan : python run.py remove")             # <<<<<<<<<<<<<<
- * 
- * main()
  */
     /*else*/ {
       __pyx_t_1 = __Pyx_PyObject_Call(__pyx_builtin_exit, __pyx_tuple__147, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 821, __pyx_L1_error)
@@ -33445,27 +33441,15 @@ if (!__Pyx_RefNanny) {
  */
   }
 
-  /* "ambf.py":823
- * 		exit(" [!] cara menggunakan : python run.py remove")
- * 
- * main()             # <<<<<<<<<<<<<<
- */
-  __Pyx_GetModuleGlobalName(__pyx_t_1, __pyx_n_s_main_2); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 823, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_t_1);
-  __pyx_t_6 = __Pyx_PyObject_CallNoArg(__pyx_t_1); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 823, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_t_6);
-  __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-  __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
-
   /* "ambf.py":1
  * # -*- coding: utf-8             # <<<<<<<<<<<<<<
  * import os
  * try:import requests
  */
-  __pyx_t_6 = __Pyx_PyDict_NewPresized(0); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 1, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_t_6);
-  if (PyDict_SetItem(__pyx_d, __pyx_n_s_test, __pyx_t_6) < 0) __PYX_ERR(0, 1, __pyx_L1_error)
-  __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
+  __pyx_t_1 = __Pyx_PyDict_NewPresized(0); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 1, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_t_1);
+  if (PyDict_SetItem(__pyx_d, __pyx_n_s_test, __pyx_t_1) < 0) __PYX_ERR(0, 1, __pyx_L1_error)
+  __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
   /*--- Wrapped vars code ---*/
 
