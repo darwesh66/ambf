@@ -2,19 +2,19 @@
   AMBF
 </h1>
 <div align="center">
-  <a href="https://github.com/anggaxd">
+  <a href="#">
     <img alt="Python 3.9^" src="https://img.shields.io/badge/Python-3.9^-success.svg"/>
   </a>
-  <a href="https://github.com/anggaxd">
+  <a href="#">
     <img alt="Last Commit" src="https://img.shields.io/github/last-commit/anggaxd/ambf.svg"/>
   </a>
-   <a href="https://github.com/anggaxd">
+   <a href="#">
     <img alt="Repo Size" src="https://img.shields.io/github/repo-size/anggaxd/ambf.svg"/>
   </a>
-  <a href="https://github.com/anggaxd">
+  <a href="#">
     <img alt="Starts" src="https://img.shields.io/github/stars/anggaxd/ambf.svg"/>
   </a>
-  <a href="https://github.com/anggaxd">
+  <a href="#">
     <img alt="Forks" src="https://img.shields.io/github/forks/anggaxd/ambf.svg"/>
   </a>
 </div>
@@ -56,8 +56,8 @@ ketik perintah di bawah ini untuk update tools
  python run.py
 ````
 
-#### DISCLAIMER 
-admin tidak bertanggung jawab dalam hal apapun !! 
-
-#### CATATAN
-gunakanlah dengan bijak, atas apapun yang terjadi admin tidak bertanggung jawab.
+#### DISCLAIMER, READ THIS
+<p>S&K : admin tidak bertanggung jawab dalam hal apapun.</p>
+<div>
+<p>jika anda menggunakan script ini berarti anda setuju dengan syarat dan ketentuan diatas</p>
+</div>
